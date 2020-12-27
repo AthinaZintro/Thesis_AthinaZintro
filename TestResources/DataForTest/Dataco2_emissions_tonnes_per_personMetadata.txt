@@ -1,0 +1,6 @@
+Dataco2_emissions_tonnes_per_person.csv
+,
+3
+year
+country
+rate

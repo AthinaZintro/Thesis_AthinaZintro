@@ -2,6 +2,6 @@ package register;
 
 public interface IFileManager {
 
-	String register(String inFilePath, String XXXLimit, String[] XXXLabels, String XXXnum);
+	String register(String inFilePath, String columnsDelimiter, String[] columnsNames, String columnsCount);
 
 }

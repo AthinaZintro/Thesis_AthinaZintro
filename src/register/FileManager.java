@@ -4,6 +4,7 @@ import java.io.File;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Path;
 import java.util.HashMap;
 
 import metadata.Info;
@@ -20,15 +21,17 @@ public class FileManager implements IFileManager {
 	}
 	
 	
-	public String register(String inFilePath, String XXXdelimiterOflabels, String[] XXXLabels, String XXXnumberOflabels) {
+	public String register(String inFilePath, String columnsDelimiter, String[] columnsNames, String columnsCount) {
 		
 		String inputfilePath = inFilePath;
 		File inputfile = new File(inputfilePath);
 		String filename=inputfile.getName();
-		String filenameWithoutExtension=filename.substring(0, filename.lastIndexOf(".")); //The filename with out extension because i want the info file to has the file name in it
-		String outputFilePath = ".\\TestResources\\info-"+filenameWithoutExtension+".txt";   	
+		String output =inputfilePath.substring(0, inputfilePath.lastIndexOf("."));
+		String outputFilePath = output+"Metadata.txt";  
 		
-		Info info = new Info(filename, XXXdelimiterOflabels, XXXLabels, XXXnumberOflabels);
+		
+		Info info = new Info(filename, columnsDelimiter, columnsNames, columnsCount);
+		System.out.println(filename);
 		
 		FileWriter writer=null;
 		try {
@@ -45,6 +48,7 @@ public class FileManager implements IFileManager {
 				String localArray[] = info.getLabels();
 				for(int i=0;i<info.getnumberOflabels();i++) {				
 					writer.write(localArray[i]+"\n");
+					//System.out.println(columnsNames.length);
 				}
 			} catch (IOException e1) {
 				// TODO Auto-generated catch block
