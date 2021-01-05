@@ -1,7 +1,6 @@
 package test;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThat;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -11,10 +10,13 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.FilenameUtils;
 import org.junit.Test;
 
 import register.FileManager;
+import query.ExecuteQuery;
+import query.QueryParsing;
+
+
 
 
 public class FileManagerTest {
@@ -23,9 +25,10 @@ public class FileManagerTest {
 		
 		FileManager tester = new FileManager(); 
 		
+		
 		/*In every test give paths, create DataFiles in the right format, make an metadataFile and a tester 
 		 * for that and checks if the tester and the metadataFile are equals */
-	
+		
 		File file1= new File(".\\TestResources\\DownloadedData\\population_aged_20_39_years_male_percent.csv");
 		String outputPath1=".\\TestResources\\DataForTest\\Datapopulation_aged_20_39_years_male_percent.csv";
 		File datafile1=createDataFile(file1,outputPath1);
@@ -36,6 +39,17 @@ public class FileManagerTest {
 		String metadataFilePath1 = tester.register(outputPath1, ",", columns1, numberOfcolumns1);
 		File metadataFile1=new File(metadataFilePath1);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile1, test1)));
+		
+		
+		/*Calling the QueryParsing to split the query with parser method
+		 * and the  execute query to execute it with execute method
+		 */
+		QueryParsing quer1=new QueryParsing();
+		quer1.parser("Select year from Datapopulation_aged_20_39_years_male_percent where rate>0.4 ");
+		ExecuteQuery a1 = new ExecuteQuery();
+		a1.execute(tester, columns1,quer1);
+		
+		
 		
 
 
@@ -49,6 +63,11 @@ public class FileManagerTest {
 		String metadataFilePath2 = tester.register(outputPath2, ",", columns2, numberOfcolumns2);
 		File metadataFile2=new File(metadataFilePath2);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile2, test2)));
+		
+		QueryParsing quer2=new QueryParsing();
+		quer2.parser("Select year from Datacell_phones_total where country=Grenada ");
+		ExecuteQuery a2 = new ExecuteQuery();
+		a2.execute(tester, columns2,quer2);
 		
 		
 	
@@ -161,7 +180,6 @@ public class FileManagerTest {
 		   	int j=0;
 			Scanner newReader = new Scanner(file);
 			String[] columns = null;
-			String numberOfcolumns = null;
 			while (newReader.hasNextLine()) {
 				String line=newReader.nextLine();
 				if(j==3) {

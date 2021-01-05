@@ -14,18 +14,59 @@ import metadata.Info;
 public class FileManager implements IFileManager {
 	private HashMap<String, Info> fileMetadataInfoCollection;
 	private HashMap<String, String> fileMetadataFileCollection;
+	private HashMap<String, String> fileAndPathCollection;
+
 	
 	public FileManager() {
 		fileMetadataInfoCollection = new HashMap<String, Info>();
 		fileMetadataFileCollection = new HashMap<String, String>();
+		fileAndPathCollection= new HashMap<String, String>();
 	}
 	
+
 	
+	public HashMap<String, Info> getFileMetadataInfoCollection() {
+		return fileMetadataInfoCollection;
+	}
+
+
+
+	public void setFileMetadataInfoCollection(HashMap<String, Info> fileMetadataInfoCollection) {
+		this.fileMetadataInfoCollection = fileMetadataInfoCollection;
+	}
+
+
+
+	public HashMap<String, String> getFileMetadataFileCollection() {
+		return fileMetadataFileCollection;
+	}
+
+
+
+	public void setFileMetadataFileCollection(HashMap<String, String> fileMetadataFileCollection) {
+		this.fileMetadataFileCollection = fileMetadataFileCollection;
+	}
+
+
+
+	public HashMap<String, String> getFileAndPathCollection() {
+		return fileAndPathCollection;
+	}
+
+
+
+	public void setFileAndPathCollection(HashMap<String, String> fileAndPathCollection) {
+		this.fileAndPathCollection = fileAndPathCollection;
+	}
+
+
+
 	public String register(String inFilePath, String columnsDelimiter, String[] columnsNames, String columnsCount) {
 		
 		String inputfilePath = inFilePath;
 		File inputfile = new File(inputfilePath);
 		String filename=inputfile.getName();
+		String filenameWithoutExtension=filename.substring(0, filename.lastIndexOf("."));
 		String output =inputfilePath.substring(0, inputfilePath.lastIndexOf("."));
 		String outputFilePath = output+"Metadata.txt";  
 		
@@ -67,6 +108,7 @@ public class FileManager implements IFileManager {
 
 		fileMetadataInfoCollection.put(inputfilePath, info);		
 		fileMetadataFileCollection.put(inputfilePath, outputFilePath);
+		fileAndPathCollection.put(filenameWithoutExtension, inputfilePath);
 		return outputFilePath;
 	}
 
