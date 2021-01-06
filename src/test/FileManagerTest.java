@@ -15,6 +15,7 @@ import org.junit.Test;
 import register.FileManager;
 import query.ExecuteQuery;
 import query.QueryParsing;
+import query.StatementsCode;
 
 
 
@@ -39,11 +40,15 @@ public class FileManagerTest {
 		String metadataFilePath1 = tester.register(outputPath1, ",", columns1, numberOfcolumns1);
 		File metadataFile1=new File(metadataFilePath1);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile1, test1)));
+		QueryParsing quer=new QueryParsing();
+		ExecuteQuery executeQuer=new ExecuteQuery();
+		quer.parser("Select year from Datapopulation_aged_20_39_years_male_percent where rate=0.295 OR country=Afghanistan AND year=1971 ");
+		executeQuer.execute(tester, columns1,quer);
 		
 		
 		/*Calling the QueryParsing to split the query with parser method
 		 * and the  execute query to execute it with execute method
-		 */
+		 
 		QueryParsing quer1=new QueryParsing();
 		quer1.parser("Select year from Datapopulation_aged_20_39_years_male_percent where rate>0.4 ");
 		ExecuteQuery a1 = new ExecuteQuery();
@@ -171,9 +176,9 @@ public class FileManagerTest {
 		String metadataFilePath10 = tester.register(outputPath10, ",", columns10, numberOfcolumns10);
 		File metadataFile10=new File(metadataFilePath10);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile10, test10)));
-		
+		*/
         	
-	}
+	} 
 	private String[] readingTest(File file) throws FileNotFoundException{
         /* Readind the Datatestfile and return name of columns*/
 
@@ -196,6 +201,7 @@ public class FileManagerTest {
 
 		
 	}
+	
 	private File makeTesters(File test,String outputtestpath) throws IOException {
 		/*Creating a testerfile for the DataFileMetadata*/
 		

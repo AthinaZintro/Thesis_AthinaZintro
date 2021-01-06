@@ -1,9 +1,9 @@
 package query;
 
 
+
 import java.util.ArrayList;
-
-
+import java.util.HashMap;
 import register.FileManager;
 
 
@@ -14,37 +14,22 @@ public class StatementsCode {
 	/**
 	* @param comparisonOperators  	     	 The comparison operators that we have to the conditions of where
 	* @param parametersOfConditions   		 The parametersOfConditions that we have to the conditions of where
-	*
+	* @param countOperators   		 		 The countOperators that we have to the conditions of where
 	*/
 
-	private String comparisonOperators; 
-	private String [] parametersOfConditions;
-	//private ArrayList <String> countOperators;
+	private ArrayList <String>  comparisonOperators; 
+	private  ArrayList <String> parametersOfConditions;
+	private ArrayList <String> countOperators;
 	
-	/**
-	 * @return the parametersOfConditions
-	 */
-	public String[] getparametersOfConditions() {
-		return parametersOfConditions;
-	}
-	/**
-	 * @param parametersOfConditions the parametersOfConditions to set
-	*/
-	public void setparametersOfConditions(String[] parametersOfConditions) {
-		this.parametersOfConditions = parametersOfConditions;
-	}
-	/**
-	 * @return the comparisonOperators
-	 */
-	public String getcomparisonOperators() {
-		return comparisonOperators;
-	}
-	/**
-	 * @param comparisonOperators the comparisonOperators to set
-	*/
-	public void setcomparisonOperators(String comparisonOperators) {
-		this.comparisonOperators = comparisonOperators;
-	}
+
+	 public StatementsCode() {
+		 
+		 	this.comparisonOperators = new ArrayList<String>() ;
+			this.parametersOfConditions=new ArrayList<String>();
+			this.countOperators= new ArrayList<String>();
+			
+	 }
+	
 	public String from(FileManager manager, String[] from) {		/**Chooses the file that has the from comparisonOperatorss and returns the path */
 		 
 		   
@@ -59,7 +44,7 @@ public class StatementsCode {
 	 }
 	 public int select(String [] columns, String[] select) {			/**Takes the column that has the select comparisonOperatorss and returns the position */
 		 
-		   
+		    
 		    String w = select[0];
 			int positionS=0;
 			for(int i=0;i<columns.length;i++) {
@@ -70,59 +55,106 @@ public class StatementsCode {
 			return positionS;
 	 }
 
-	public int where(String [] columns,String conditions) {			/**Takes the condition that has the wherecomparisonOperatorss comparisonOperatorss and returns the position */
+	public ArrayList<Integer> where(String [] columns,String conditions) {			/**Takes the condition that has the wherecomparisonOperatorss comparisonOperatorss and returns the position */
 		ArrayList <String> cond=new ArrayList<String>();
-		 ArrayList<String> operators=new ArrayList<String>();
-		
 		cond.add("=");
 		cond.add(">");
 		cond.add("<");
 		cond.add(">=");
 		cond.add("<=");
 		cond.add("<>");
-		operators.add("AND");
-		operators.add("OR");
+	
+		String[] condSplit = conditions.split(" ");
+	
+		ArrayList<String> countConditions=new ArrayList<String> ();
 		
-		for (int i = 0; i < operators.size(); i++) {
-		    if(conditions.contains(operators.get(i))) {
-		    	System.out.println( operators.get(i));
-		    	//String oper=operators.get(i);
-		    	//countOperators.add(oper);
-		    	
-		    	
-		  }
+		for(int i=1;i<condSplit.length;i++) {
+			if((condSplit[i].equals("AND"))||(condSplit[i].equals("OR"))) {
+					countOperators.add(condSplit[i]);
+			}else {
+					countConditions.add(condSplit[i]);
+			}
 		}
-		//String[] abc = conditions[0].split("AND|OR");
-		//for (int i = 0; i < abc.length; i++) {
-		//	System.out.println(abc[i]);
-		//}
+		ArrayList<Integer> fistPartCondition = comparisonOperatorDirection(countConditions,cond,columns);
 		
 		
-		for (int i = 0; i < cond.size(); i++) {
-		    if(conditions.contains(cond.get(i))) {
-		    	System.out.println( cond.get(i));
-		    	comparisonOperators= cond.get(i);
-		    	setcomparisonOperators(comparisonOperators);
-		    	
-		    	
-		  }
+
+		return fistPartCondition;
+		
+	}	
+	/**
+	 * @return the comparisonOperators
+	 */
+	public ArrayList<String> getComparisonOperators() {
+		return comparisonOperators;
+	}
+	/**
+	 * @param comparisonOperators the comparisonOperators to set
+	*/
+	public void setComparisonOperators(ArrayList<String> comparisonOperators) {
+		this.comparisonOperators = comparisonOperators;
+	}
+
+	/**
+	 * @return the parametersOfConditions
+	 */
+	public ArrayList<String> getParametersOfConditions() {
+		return parametersOfConditions;
+	}
+	/**
+	 * @param parametersOfConditions the parametersOfConditions to set
+	*/
+	public void setParametersOfConditions(ArrayList<String> parametersOfConditions) {
+		this.parametersOfConditions = parametersOfConditions;
+	}
+	/**
+	 * @return the countOperators
+	 */
+	public ArrayList<String> getCountOperators() {
+		return countOperators;
+	}
+	/**
+	 * @param countOperators the countOperators to set
+	*/
+	public void setCountOperators(ArrayList<String> countOperators) {
+		this.countOperators = countOperators;
+	}
+	/**
+	 * Takes the countConditions and split to the cond(comparison Operators)
+	 * takes the firsts parts conditions words and returns every position of them by the column 
+	 * and saves the comparison Operators (comparisonOperators) and every second Word of conditions (parametersOfConditions)
+	 */
+	public ArrayList<Integer> comparisonOperatorDirection(ArrayList<String> countConditions,ArrayList <String> cond,String [] columns){
+		HashMap<String,Integer> columnsHashmap =new HashMap<String,Integer>(); 
+		/**The columnsHashmap has the <columns,position on the file> 
+		*use to know which column is the firsrPartCondition word
+		*/
+		for(int i=0;i<columns.length;i++) {
+			columnsHashmap.put(columns[i], i);
+				 
+			
 		}
-		int positionW=0;
-		  
-		String[] parametersOfConditions = conditions.split(comparisonOperators);
-		setparametersOfConditions(parametersOfConditions);
-    	for(int i=0;i<columns.length;i++) {
-    		if (columns[i].equals(parametersOfConditions[0])){
-    				 positionW= i;
-    				 
-    		}
-    	}
-		return positionW;
+		ArrayList<Integer> fistPartCondition=new ArrayList<Integer>() ;
+		for(int j=0;j<countConditions.size();j++) {
+			for (int i = 0; i < cond.size(); i++) {
+			    if(countConditions.get(j).contains(cond.get(i))) {
+			    	String[] con = countConditions.get(j).split(cond.get(i));
+					fistPartCondition.add(columnsHashmap.get(con[0]));
+			    	comparisonOperators.add(cond.get(i));
+			    	parametersOfConditions.add(con[1]);
+			    	setParametersOfConditions(parametersOfConditions);
+			  }
+			}
+		}
+	
+		return fistPartCondition;
 		
 		
-	}		
-		
+	}
+	
 }
+
+		
 	
 
 	

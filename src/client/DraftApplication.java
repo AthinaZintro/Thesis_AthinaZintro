@@ -3,7 +3,6 @@ package client;
 import java.awt.FileDialog;
 import java.awt.Frame;
 import java.io.FileNotFoundException;
-import java.rmi.RemoteException;
 import java.io.File;
 import java.util.Scanner;
 

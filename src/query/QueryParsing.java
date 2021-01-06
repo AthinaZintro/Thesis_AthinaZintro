@@ -16,30 +16,30 @@ public class QueryParsing {
 	private String [] fromWords;    
 	private String[] selectWords;   
 	private String whereWords; 
-
+	
 
 	/**
 	 * @return the fromWords
 	 */
-	public String[] getfromWords() {
+	public String[] getFromWords() {
 		return fromWords;
 	}
 	/**
 	 * @param fromWords the fromWords to set
 	*/
-	public void setfromWords(String[] fromWords) {
+	public void setFromWords(String[] fromWords) {
 		this.fromWords = fromWords;
 	}
 	/**
 	 * @return the selectWords
 	 */
-	public String[] getselectWords() {
+	public String[] getSelectWords() {
 		return selectWords;
 	}
 	/**
 	 * @param selectWords the selectWords to set
 	*/
-	public void setselectWords(String[] selectWords) {
+	public void setSelectWords(String[] selectWords) {
 		this.selectWords = selectWords;
 	}
 
@@ -65,17 +65,17 @@ public class QueryParsing {
 		String selectWordsWords = par[0].replaceAll("\\s","");
 		String [] selectWords=selectWordsWords.split(",");
 		System.out.print(" "+selectWords[0]+" "+"\n");
-		setselectWords(selectWords);
+		setSelectWords(selectWords);
 
 		String[] where=par[1].split("where");				/**Split the query in the right places to take the fromWords words*/
 		String fromWordsWords= where[0].replaceAll("\\s","");
 		String [] fromWords=fromWordsWords.split(",");
-		setfromWords(fromWords);
+		setFromWords(fromWords);
 		
 		System.out.print(" "+fromWords[0]+" "+"\n");
 
 		
-		String whereWords= where[1].replaceAll("\\s","");	/**Split the query in the right places to take the whereWords words*/
+		String whereWords= where[1];	/**Split the query in the right places to take the whereWords words*/
 		setWhereWords(whereWords);
 		System.out.print(" "+whereWords+"\n");	
 		
