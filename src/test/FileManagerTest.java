@@ -15,7 +15,6 @@ import org.junit.Test;
 import register.FileManager;
 import query.ExecuteQuery;
 import query.QueryParsing;
-import query.StatementsCode;
 
 
 
@@ -42,18 +41,18 @@ public class FileManagerTest {
 		assertEquals(true, (FileUtils.contentEquals(metadataFile1, test1)));
 		QueryParsing quer=new QueryParsing();
 		ExecuteQuery executeQuer=new ExecuteQuery();
-		quer.parser("Select year from Datapopulation_aged_20_39_years_male_percent where rate=0.295 OR country=Afghanistan AND year=1971 ");
-		executeQuer.execute(tester, columns1,quer);
 		
+		
+		
+
+	
 		
 		/*Calling the QueryParsing to split the query with parser method
-		 * and the  execute query to execute it with execute method
-		 
-		QueryParsing quer1=new QueryParsing();
-		quer1.parser("Select year from Datapopulation_aged_20_39_years_male_percent where rate>0.4 ");
-		ExecuteQuery a1 = new ExecuteQuery();
-		a1.execute(tester, columns1,quer1);
-		
+		 * and the  execute query to execute it with execute method */
+		System.out.println(" ");
+		System.out.println("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate=0.295 OR country=Afghanistan AND year=1971 ");
+		quer.parser("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate=0.295 OR country=Afghanistan AND year=1971 ");
+		executeQuer.execute(tester, columns1,quer);
 		
 		
 
@@ -69,10 +68,11 @@ public class FileManagerTest {
 		File metadataFile2=new File(metadataFilePath2);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile2, test2)));
 		
-		QueryParsing quer2=new QueryParsing();
-		quer2.parser("Select year from Datacell_phones_total where country=Grenada ");
-		ExecuteQuery a2 = new ExecuteQuery();
-		a2.execute(tester, columns2,quer2);
+
+		System.out.println(" ");
+		System.out.println("Select country,rate from Datacell_phones_total where country=Grenada ");
+		quer.parser("Select country,rate from Datacell_phones_total where country=Grenada ");
+		executeQuer.execute(tester, columns2,quer);
 		
 		
 	
@@ -86,6 +86,11 @@ public class FileManagerTest {
 		String metadataFilePath3 = tester.register(outputPath3, ",", columns3, numberOfcolumns3);
 		File metadataFile3=new File(metadataFilePath3);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile3, test3)));
+		
+		System.out.println(" ");
+		System.out.println("Select country from Datacell_phones_total where year=1970 ");
+		quer.parser("Select country from Datacell_phones_total where year=1970 ");
+		executeQuer.execute(tester, columns3,quer);
 		
 		
 		
@@ -101,6 +106,11 @@ public class FileManagerTest {
 		File metadataFile4=new File(metadataFilePath4);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile4, test4)));
 		
+		System.out.println(" ");
+		System.out.println("Select rate from Datadata_quality_life_expectancy where year<2000 AND country=Niger ");
+		quer.parser("Select rate from Datadata_quality_life_expectancy where year<2000 AND country=Niger ");
+		executeQuer.execute(tester, columns4,quer);
+		
 		
 		
 		File file5= new File(".\\TestResources\\DownloadedData\\energy_production_total.csv");
@@ -114,6 +124,11 @@ public class FileManagerTest {
 		File metadataFile5=new File(metadataFilePath5);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile5, test5)));
 		
+		System.out.println(" ");
+		System.out.println("Select rate from Dataenergy_production_total where year=2000 AND country=Greece ");
+		quer.parser("Select rate from Dataenergy_production_total where year=2000 AND country=Greece ");
+		executeQuer.execute(tester, columns5,quer);
+		
 		
 		File file6= new File(".\\TestResources\\DownloadedData\\females_aged_15_24_employment_rate_percent.csv");
 		String outputPath6=".\\TestResources\\DataForTest\\Datafemales_aged_15_24_employment_rate_percent.csv";
@@ -125,6 +140,11 @@ public class FileManagerTest {
 		String metadataFilePath6 = tester.register(outputPath6, ",", columns6, numberOfcolumns6);
 		File metadataFile6=new File(metadataFilePath6);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile6, test6)));
+		
+		System.out.println(" ");
+		System.out.println("Select rate from Datafemales_aged_15_24_employment_rate_percent where year>=2000 AND country=Greece ");
+		quer.parser("Select rate from Datafemales_aged_15_24_employment_rate_percent where year>=2000 AND country=Greece ");
+		executeQuer.execute(tester, columns6,quer);
 		
 		
 		
@@ -139,6 +159,11 @@ public class FileManagerTest {
 		File metadataFile7=new File(metadataFilePath7);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile7, test7)));
 		
+		System.out.println(" ");
+		System.out.println("Select year,rate,country from Datafreedix_fh where year=1990 OR city=Guatemala");
+		quer.parser("Select year,rate,country from Datafreedix_fh where year=1990 OR city=Guatemala ");
+		executeQuer.execute(tester, columns1,quer);
+	
 		
 		
 		File file8= new File(".\\TestResources\\DownloadedData\\personal_computers_total.csv");
@@ -151,6 +176,11 @@ public class FileManagerTest {
 		String metadataFilePath8 = tester.register(outputPath8, ",", columns8, numberOfcolumns8);
 		File metadataFile8=new File(metadataFilePath8);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile8, test8)));
+		
+		System.out.println(" ");
+		System.out.println("Select country,year from Datapersonal_computers_total where year=1990 OR country=Myanmar ");
+		quer.parser("Select country,year from Datapersonal_computers_total where year=1990 OR country=Myanmar ");
+		executeQuer.execute(tester, columns8,quer);
 		
 		
 		
@@ -165,6 +195,11 @@ public class FileManagerTest {
 		File metadataFile9=new File(metadataFilePath9);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile9, test9)));
 		
+		System.out.println(" ");
+		System.out.println("Select rate from Datasurface_area_sq_km where rate<0");
+		quer.parser("Select rate from Datasurface_area_sq_km where rate<0 ");
+		executeQuer.execute(tester, columns9,quer);
+		
 		
 		File file10= new File(".\\TestResources\\DownloadedData\\children_per_woman_total_fertility.csv");
 		String outputPath10=".\\TestResources\\DataForTest\\Datachildren_per_woman_total_fertility.csv";
@@ -176,7 +211,12 @@ public class FileManagerTest {
 		String metadataFilePath10 = tester.register(outputPath10, ",", columns10, numberOfcolumns10);
 		File metadataFile10=new File(metadataFilePath10);
 		assertEquals(true, (FileUtils.contentEquals(metadataFile10, test10)));
-		*/
+		
+		System.out.println(" ");
+		System.out.println("Select year from Datachildren_per_woman_total_fertility where country=Zimbabwe");
+		quer.parser("Select year from Datachildren_per_woman_total_fertility where country=Zimbabwe ");
+		executeQuer.execute(tester, columns10,quer);
+		
         	
 	} 
 	private String[] readingTest(File file) throws FileNotFoundException{

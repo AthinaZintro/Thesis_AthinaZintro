@@ -21,6 +21,7 @@ public class StatementsCode {
 	private  ArrayList <String> parametersOfConditions;
 	private ArrayList <String> countOperators;
 	
+	
 
 	 public StatementsCode() {
 		 
@@ -28,12 +29,13 @@ public class StatementsCode {
 			this.parametersOfConditions=new ArrayList<String>();
 			this.countOperators= new ArrayList<String>();
 			
+			
 	 }
 	
 	public String from(FileManager manager, String[] from) {		/**Chooses the file that has the from comparisonOperatorss and returns the path */
 		 
 		   
-		 	System.out.print(" "+from[0]+" "+"\n");
+		 	//System.out.print(" "+from[0]+" "+"\n");
 
 			String x = from[0];
 			String path = manager.getFileAndPathCollection().get(x);         
@@ -42,27 +44,31 @@ public class StatementsCode {
 			return path;
 		 
 	 }
-	 public int select(String [] columns, String[] select) {			/**Takes the column that has the select comparisonOperatorss and returns the position */
+	 public ArrayList<Integer> select(String [] columns, String[] select) {			/**Takes the column that has the select comparisonOperatorss and returns the position */
 		 
-		    
-		    String w = select[0];
-			int positionS=0;
-			for(int i=0;i<columns.length;i++) {
-				if (columns[i].equals(w)){
-					 positionS = i;
+		 	ArrayList<Integer> selectPositions=new  ArrayList<Integer>();
+			for(int j=0;j<select.length;j++)
+				for(int i=0;i<columns.length;i++) {
+					if (columns[i].equals(select[j])){
+						 selectPositions.add(i);
+					}
 				}
-			}
-			return positionS;
+			return selectPositions;
 	 }
 
 	public ArrayList<Integer> where(String [] columns,String conditions) {			/**Takes the condition that has the wherecomparisonOperatorss comparisonOperatorss and returns the position */
 		ArrayList <String> cond=new ArrayList<String>();
+		ArrayList <String> cond1=new ArrayList<String>();
+
 		cond.add("=");
 		cond.add(">");
 		cond.add("<");
 		cond.add(">=");
 		cond.add("<=");
-		cond.add("<>");
+		cond.add("!=");
+		cond1.add(">=");
+		cond1.add("<=");
+		cond1.add("!=");
 	
 		String[] condSplit = conditions.split(" ");
 	
@@ -75,7 +81,7 @@ public class StatementsCode {
 					countConditions.add(condSplit[i]);
 			}
 		}
-		ArrayList<Integer> fistPartCondition = comparisonOperatorDirection(countConditions,cond,columns);
+		ArrayList<Integer> fistPartCondition = comparisonOperatorDirection(countConditions,cond,cond1,columns);
 		
 		
 
@@ -123,8 +129,9 @@ public class StatementsCode {
 	 * Takes the countConditions and split to the cond(comparison Operators)
 	 * takes the firsts parts conditions words and returns every position of them by the column 
 	 * and saves the comparison Operators (comparisonOperators) and every second Word of conditions (parametersOfConditions)
+	 * @param cond1 
 	 */
-	public ArrayList<Integer> comparisonOperatorDirection(ArrayList<String> countConditions,ArrayList <String> cond,String [] columns){
+	public ArrayList<Integer> comparisonOperatorDirection(ArrayList<String> countConditions,ArrayList <String> cond,ArrayList<String> cond1, String [] columns){
 		HashMap<String,Integer> columnsHashmap =new HashMap<String,Integer>(); 
 		/**The columnsHashmap has the <columns,position on the file> 
 		*use to know which column is the firsrPartCondition word
@@ -136,23 +143,59 @@ public class StatementsCode {
 		}
 		ArrayList<Integer> fistPartCondition=new ArrayList<Integer>() ;
 		for(int j=0;j<countConditions.size();j++) {
+			int countTimes =0;
+
 			for (int i = 0; i < cond.size(); i++) {
 			    if(countConditions.get(j).contains(cond.get(i))) {
-			    	String[] con = countConditions.get(j).split(cond.get(i));
-					fistPartCondition.add(columnsHashmap.get(con[0]));
-			    	comparisonOperators.add(cond.get(i));
-			    	parametersOfConditions.add(con[1]);
-			    	setParametersOfConditions(parametersOfConditions);
-			  }
+
+			    	countTimes++;
+			    }
+			    	
+			}
+
+			if(countTimes>1) {
+				
+				for (int i = 0; i < cond1.size(); i++) {
+					if(countConditions.get(j).contains(cond1.get(i))) {
+						String[] con1 = countConditions.get(j).split(cond1.get(i));
+						if(columnsHashmap.get(con1[0])==null){
+							fistPartCondition.add(-1);
+
+						}else {
+							fistPartCondition.add(columnsHashmap.get(con1[0]));
+						}
+				    	comparisonOperators.add(cond1.get(i));
+				    	parametersOfConditions.add(con1[1]);
+				    	setParametersOfConditions(parametersOfConditions);
+					}
+				}
+					
+			}else {
+				for (int i = 0; i < cond.size(); i++) {
+					if(countConditions.get(j).contains(cond.get(i))) {
+						String[] con = countConditions.get(j).split(cond.get(i));
+						if(columnsHashmap.get(con[0])==null){
+							fistPartCondition.add(-1);
+						}else {
+							fistPartCondition.add(columnsHashmap.get(con[0]));
+						}
+				    	comparisonOperators.add(cond.get(i));
+				    	parametersOfConditions.add(con[1]);
+				    	setParametersOfConditions(parametersOfConditions);
+					}
+				}
+				
 			}
 		}
+		
 	
 		return fistPartCondition;
 		
 		
 	}
-	
 }
+	
+
 
 		
 	

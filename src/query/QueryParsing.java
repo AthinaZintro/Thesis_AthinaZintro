@@ -64,7 +64,9 @@ public class QueryParsing {
 		String[] par=parameters[1].split("from");
 		String selectWordsWords = par[0].replaceAll("\\s","");
 		String [] selectWords=selectWordsWords.split(",");
-		System.out.print(" "+selectWords[0]+" "+"\n");
+		for(int i=0;i<selectWords.length;i++) {
+			//System.out.print(" "+selectWords[i]+" "+"\n");
+		}
 		setSelectWords(selectWords);
 
 		String[] where=par[1].split("where");				/**Split the query in the right places to take the fromWords words*/
@@ -72,12 +74,12 @@ public class QueryParsing {
 		String [] fromWords=fromWordsWords.split(",");
 		setFromWords(fromWords);
 		
-		System.out.print(" "+fromWords[0]+" "+"\n");
+		//System.out.print(" "+fromWords[0]+" "+"\n");
 
 		
 		String whereWords= where[1];	/**Split the query in the right places to take the whereWords words*/
 		setWhereWords(whereWords);
-		System.out.print(" "+whereWords+"\n");	
+		//System.out.print(" "+whereWords+"\n");	
 		
 		
 	}

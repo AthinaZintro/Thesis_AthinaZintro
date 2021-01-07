@@ -71,7 +71,7 @@ public class FileManager implements IFileManager {
 		
 		
 		Info info = new Info(filename, columnsDelimiter, columnsNames, columnsCount);
-		System.out.println(filename);
+		//System.out.println(filename);
 		
 		FileWriter writer=null;
 		try {
