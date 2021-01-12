@@ -2,7 +2,7 @@ package register;
 
 public class FileManagerFactory {
 
-		public IFileManager generateFileManager() {
-			return new FileManager();
-		}
+	public IFileManager generateFileManager() {
+		return new FileManager();
+	}
 }

@@ -1,0 +1,268 @@
+country rate year 
+Afghanistan 0.295 1950 
+Afghanistan 0.295 1951 
+Afghanistan 0.295 1953 
+Afghanistan 0.295 1954 
+Afghanistan 0.295 1956 
+Afghanistan 0.275 1971 
+Afghanistan 0.295 2071 
+Angola 0.295 1950 
+Angola 0.295 1957 
+Angola 0.295 2035 
+Antigua and Barbuda 0.295 2023 
+Argentina 0.295 1967 
+Argentina 0.295 1968 
+Argentina 0.295 1969 
+Argentina 0.295 1976 
+Argentina 0.295 2001 
+Argentina 0.295 2030 
+Australia 0.295 1955 
+Australia 0.295 2001 
+Austria 0.295 1977 
+Bahamas 0.295 1979 
+Bangladesh 0.295 2042 
+Benin 0.295 2025 
+Benin 0.295 2095 
+Benin 0.295 2096 
+Bhutan 0.295 1955 
+Bolivia 0.295 2004 
+Bolivia 0.295 2047 
+Bosnia and Herzegovina 0.295 1956 
+Bosnia and Herzegovina 0.295 2012 
+Botswana 0.295 2062 
+Brazil 0.295 1978 
+Bulgaria 0.295 1970 
+Bulgaria 0.295 2002 
+Burkina Faso 0.295 2027 
+Burkina Faso 0.295 2093 
+Burundi 0.295 2094 
+Cambodia 0.295 2004 
+Cambodia 0.295 2052 
+Cameroon 0.295 2095 
+Cameroon 0.295 2096 
+Canada 0.295 1953 
+Cape Verde 0.295 2033 
+Central African Republic 0.295 2023 
+Central African Republic 0.295 2095 
+Chile 0.295 1964 
+Comoros 0.295 2088 
+Congo .Dem.Rep. 0.295 2096 
+Congo .Rep. 0.295 2097 
+Congo .Rep. 0.295 2098 
+Cote d'Ivoire 0.295 1954 
+Cote d'Ivoire 0.295 2021 
+Cuba 0.295 1982 
+Czech Republic 0.295 2015 
+Denmark 0.295 1973 
+Dominican Republic 0.295 2039 
+Ecuador 0.295 1985 
+Ecuador 0.295 2037 
+Egypt 0.295 1955 
+Egypt 0.295 2026 
+Egypt 0.295 2033 
+Egypt 0.295 2059 
+El Salvador 0.295 2042 
+Eritrea 0.295 2006 
+Eswatini 0.295 2089 
+Fiji 0.295 2035 
+Finland 0.295 1951 
+France 0.295 1977 
+Gabon 0.295 1953 
+Gabon 0.295 2082 
+Gambia 0.295 2023 
+Gambia 0.295 2091 
+Georgia 0.295 2004 
+Georgia 0.295 2006 
+Ghana 0.295 2080 
+Greece 0.295 1988 
+Grenada 0.295 2027 
+Guinea 0.295 2090 
+Guinea 0.295 2091 
+Guinea-Bissau 0.295 2013 
+Guinea-Bissau 0.295 2095 
+Guyana 0.295 2005 
+Guyana 0.295 2040 
+Haiti 0.295 2057 
+Hungary 0.295 1951 
+Hungary 0.295 1959 
+Hungary 0.295 1960 
+Hungary 0.295 1990 
+Hungary 0.295 2015 
+Iceland 0.295 1953 
+Iceland 0.295 1977 
+India 0.295 1958 
+India 0.295 1982 
+India 0.295 2043 
+Indonesia 0.295 2040 
+Iran 0.295 1952 
+Iran 0.295 1953 
+Iran 0.295 1954 
+Iraq 0.295 2001 
+Iraq 0.295 2073 
+Ireland 0.295 1985 
+Israel 0.295 1953 
+Israel 0.295 2001 
+Israel 0.295 2010 
+Italy 0.295 1953 
+Italy 0.295 1956 
+Italy 0.295 2004 
+Jamaica 0.295 1952 
+Jamaica 0.295 2032 
+Japan 0.295 1954 
+Jordan 0.295 2049 
+Kazakhstan 0.295 1972 
+Kazakhstan 0.295 2038 
+Kiribati 0.295 1985 
+Kiribati 0.295 1994 
+Kiribati 0.295 2007 
+Kyrgyz Republic 0.295 1983 
+Kyrgyz Republic 0.295 2028 
+Kyrgyz Republic 0.295 2034 
+Lao 0.295 1954 
+Lao 0.295 2054 
+Latvia 0.295 2016 
+Lebanon 0.295 2027 
+Lesotho 0.295 2075 
+Liberia 0.295 1953 
+Liberia 0.295 1954 
+Liberia 0.295 2023 
+Liberia 0.295 2087 
+Liberia 0.295 2088 
+Libya 0.295 2046 
+Lithuania 0.295 2008 
+Lithuania 0.295 2009 
+Luxembourg 0.295 1957 
+Luxembourg 0.295 1958 
+Luxembourg 0.295 1959 
+Luxembourg 0.295 1966 
+Luxembourg 0.295 2003 
+Luxembourg 0.295 2019 
+Luxembourg 0.295 2020 
+Madagascar 0.295 2018 
+Madagascar 0.295 2080 
+Madagascar 0.295 2081 
+Malawi 0.295 2020 
+Malawi 0.295 2085 
+Mali 0.295 2033 
+Mali 0.295 2099 
+Malta 0.295 2017 
+Mauritania 0.295 2090 
+Mauritania 0.295 2091 
+Mexico 0.295 2042 
+Mongolia 0.295 2025 
+Montenegro 0.295 1970 
+Morocco 0.295 1952 
+Morocco 0.295 1958 
+Morocco 0.295 2028 
+Mozambique 0.295 2024 
+Mozambique 0.295 2096 
+Myanmar 0.295 1960 
+Namibia 0.295 1950 
+Namibia 0.295 2081 
+Nepal 0.295 2051 
+Netherlands 0.295 1950 
+New Zealand 0.295 1978 
+Niger 0.295 2043 
+Nigeria 0.295 2032 
+Norway 0.295 2000 
+Pakistan 0.295 1954 
+Pakistan 0.295 1961 
+Pakistan 0.295 1962 
+Pakistan 0.295 1963 
+Panama 0.295 2026 
+Papua New Guinea 0.295 1958 
+Papua New Guinea 0.295 1959 
+Papua New Guinea 0.295 1992 
+Papua New Guinea 0.295 2082 
+Papua New Guinea 0.295 2083 
+Paraguay 0.295 1989 
+Paraguay 0.295 1990 
+Paraguay 0.295 2045 
+Philippines 0.295 2052 
+Portugal 0.295 1990 
+Romania 0.295 1971 
+Romania 0.295 1972 
+Romania 0.295 1988 
+Rwanda 0.295 2075 
+Samoa 0.295 1992 
+Samoa 0.295 2031 
+Samoa 0.295 2054 
+Sao Tome and Principe 0.295 2010 
+Sao Tome and Principe 0.295 2077 
+Saudi Arabia 0.295 2036 
+Saudi Arabia 0.295 2040 
+Senegal 0.295 2025 
+Senegal 0.295 2083 
+Sierra Leone 0.295 1951 
+Sierra Leone 0.295 1952 
+Sierra Leone 0.295 1953 
+Sierra Leone 0.295 1957 
+Sierra Leone 0.295 1958 
+Sierra Leone 0.295 1959 
+Sierra Leone 0.295 1960 
+Sierra Leone 0.295 2011 
+Sierra Leone 0.295 2085 
+Slovenia 0.295 1957 
+Solomon Islands 0.295 1998 
+Solomon Islands 0.295 2005 
+Solomon Islands 0.295 2076 
+Solomon Islands 0.295 2077 
+Somalia 0.295 2032 
+South Africa 0.295 1954 
+South Africa 0.295 2063 
+South Sudan 0.295 1960 
+South Sudan 0.295 1963 
+South Sudan 0.295 1964 
+South Sudan 0.295 1966 
+South Sudan 0.295 2020 
+South Sudan 0.295 2099 
+South Sudan 0.295 2100 
+Sri Lanka 0.295 1976 
+St. Vincent and the Grenadines 0.295 2018 
+St. Vincent and the Grenadines 0.295 2034 
+Sudan 0.295 2021 
+Sudan 0.295 2082 
+Sweden 0.295 1977 
+Sweden 0.295 1985 
+Syria 0.295 1997 
+Syria 0.295 2028 
+Tajikistan 0.295 1957 
+Tajikistan 0.295 2037 
+Tajikistan 0.295 2077 
+Tanzania 0.295 2030 
+Tanzania 0.295 2093 
+Thailand 0.295 1981 
+Timor-Leste 0.295 1960 
+Timor-Leste 0.295 1961 
+Timor-Leste 0.295 1979 
+Timor-Leste 0.295 2066 
+Togo 0.295 2005 
+Togo 0.295 2095 
+Tonga 0.295 2058 
+Tonga 0.295 2059 
+Tonga 0.295 2060 
+Tonga 0.295 2061 
+Tonga 0.295 2062 
+Tonga 0.295 2063 
+Turkey 0.295 1963 
+Turkmenistan 0.295 2056 
+Uganda 0.295 2025 
+Ukraine 0.295 1954 
+United Kingdom 0.295 1999 
+Uruguay 0.295 2011 
+Uruguay 0.295 2015 
+Uruguay 0.295 2016 
+Uzbekistan 0.295 1985 
+Uzbekistan 0.295 2052 
+Vanuatu 0.295 2006 
+Vanuatu 0.295 2026 
+Vanuatu 0.295 2073 
+Vanuatu 0.295 2074 
+Venezuela 0.295 2019 
+Venezuela 0.295 2041 
+Vietnam 0.295 1956 
+Yemen 0.295 2010 
+Yemen 0.295 2073 
+Zambia 0.295 2023 
+Zambia 0.295 2097 
+Zambia 0.295 2098 
