@@ -69,9 +69,9 @@ public class ExecuteQuery {
 					if (cols[w.get(m)].isEmpty() != true) {
 						result.add(operatorsChoosing(relationalsOperator.get(m), cols[w.get(m)],
 								conditionsParameters.get(m)));
-						// System.out.println(cols[w.get(m)]+" "+relationalsOperator.get(m)+""+conditionsParameters.get(m));
+						 //System.out.println(cols[w.get(m)]+" "+relationalsOperator.get(m)+""+conditionsParameters.get(m));
 
-						// System.out.println(result.get(m));
+						 //System.out.println(result.get(m));
 					} else {
 						 //System.out.println("oooooooooo"+cols[w.get(m)]);
 						// "+relationalsOperator.get(m)+" "+conditionsParameters.get(m));
@@ -86,8 +86,12 @@ public class ExecuteQuery {
 					HashMap<Integer, Boolean> resultB = new HashMap<Integer, Boolean>();
 					for (int j = 0; j < operators.size(); j++) {
 						if (operators.get(j).equals("AND")) {
-							if (resultB.containsKey(j) == true) {
+							/*if((resultB.containsKey(j+1) == true)&&(j-1<0)) {
 								resultl = resultB.get(j) && result.get(j + 1);
+								resultB.put(j+1, resultl);
+								setResultl(resultl);
+							}else */if (resultB.containsKey(j-1) == true) {
+								resultl = resultB.get(j-1) && result.get(j + 1);
 								resultB.put(j, resultl);
 								setResultl(resultl);
 	
@@ -99,22 +103,38 @@ public class ExecuteQuery {
 	
 						}
 					}
-					for (int j = 0; j < operators.size(); j++) {
-	
+					int f=0;
+					for (int j = 0; j < operators.size(); j++) {						
 						if (operators.get(j).equals("OR")) {
-							if((resultB.containsKey(j+1) == true)&&(j-1<0)) {
-								resultl = result.get(j) || resultB.get(j + 1);
+							if(f==0) {
+								if(resultB.containsKey(j-1)==true) {
+									resultl=resultB.get(j-1);	
+								}else {
+									resultl=result.get(j);
+								}
+								f++;
+							}
+							if(((resultB.containsKey(j-1) == true))&&(resultB.containsKey(j+1) == true)) {
+								resultl=resultB.get(j-1)|| resultB.get(j+1);
 								resultB.put(j, resultl);
 								setResultl(resultl);
-								
-							}else if (resultB.containsKey(j - 1) == true) {
-								resultl = resultB.get(j - 1) || result.get(j + 1);
+							}else if(((resultB.containsKey(resultB.size()-j) == true))&&(resultB.size()>j)) {
+								//System.out.print(resultB.get(j+1));
+								resultl = resultl || resultB.get(resultB.size()-j);
+								//System.out.println(resultl);
 								resultB.put(j, resultl);
 								setResultl(resultl);
-	
+							}else if(((resultB.containsKey(j+1) == true))&&(resultB.size()<=j)) {
+								//System.out.print(resultB.get(j+1));
+								resultl = resultl || resultB.get(j+1);
+								//System.out.println(resultl);
+								resultB.put(j, resultl);
+								setResultl(resultl);
+							
 							} else {
-								resultl = result.get(j) || result.get(j + 1);
-								resultB.put(j, resultl);
+								resultl =resultl || result.get(j + 1);
+								//System.out.println("1 "+resultl);
+								//resultB.put(j, resultl);
 								setResultl(resultl);
 	
 							}
@@ -124,6 +144,7 @@ public class ExecuteQuery {
 				}else {
 					resultl=result.get(0);
 				}
+				//System.out.println("fin "+resultl);
 
 				if (resultl == true) {
 					String printString = "";
@@ -142,7 +163,9 @@ public class ExecuteQuery {
 
 			
 
-			
+			if(k==180) {
+				//break;
+			}
 
 			k++;
 			
