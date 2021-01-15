@@ -65,12 +65,12 @@ public class FileManagerTest {
 		File out11File=new File(".\\TestResources\\QueryResults\\Datapopulation_aged_20_39_years_male_percentSQL.txt");
 		PrintStream out1 = new PrintStream(out1File);
 		System.setOut(out1);
-		quer.parser("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>=0.295 OR country=Afghanistan OR year<=1971 AND year>1960 AND rate<0.400");
+		quer.parser("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>0.295  OR country=Afghanistan OR year<=1971 AND year>1960 OR rate<0.400 OR year=2000");
 		executeQuer.execute(tester, columns1, quer);
-		//out1.close();
+		out1.close();
 		PrintStream out11 = new PrintStream(out11File);
 		System.setOut(out11);
-		selectAll("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>='0.295' OR country='Afghanistan' OR year<='1971' AND year>'1960' AND rate<'0.400' ");
+		selectAll("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>0.295 OR country='Afghanistan' OR year<=1971 AND year>1960 OR rate<0.400 OR year=2000");
 		out11.close();
 	
 
@@ -159,7 +159,7 @@ public class FileManagerTest {
 		
 		PrintStream out44 = new PrintStream(out44File);
 		System.setOut(out44);
-		selectAll("Select rate,country from Datadata_quality_life_expectancy where country='Niger' AND rate<'80'");
+		selectAll("Select rate,country from Datadata_quality_life_expectancy where country='Niger' AND rate<80");
 		out44.close(); 
 		
 		assertEquals(true,(FileUtils.contentEquals(out4File, out44File)));
@@ -244,7 +244,7 @@ public class FileManagerTest {
 		
 		PrintStream out77 = new PrintStream(out77File);
 		System.setOut(out77);
-		selectAll("Select year,rate,country from Datafreedix_fh where year='1990' OR country='Guatemala' ");
+		selectAll("Select year,rate,country from Datafreedix_fh where year=1990 OR country='Guatemala' ");
 		out77.close();
 		
 		assertEquals(true,(FileUtils.contentEquals(out7File, out77File)));
@@ -335,7 +335,6 @@ public class FileManagerTest {
 		assertEquals(true,(FileUtils.contentEquals(out10File, out1010File)));
 
 	
-
 	}
 
 	private String[] readingTest(File file) throws FileNotFoundException {

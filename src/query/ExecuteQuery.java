@@ -77,70 +77,69 @@ public class ExecuteQuery {
 						// "+relationalsOperator.get(m)+" "+conditionsParameters.get(m));
 
 						/// System.out.println(result.get(m));
-						result.add(true);
+						result.add(false);
 					}
 				}
 				//System.out.println(w.size());
-
+				int i=0;
 				if(w.size()>1) {
 					HashMap<Integer, Boolean> resultB = new HashMap<Integer, Boolean>();
 					for (int j = 0; j < operators.size(); j++) {
 						if (operators.get(j).equals("AND")) {
-							/*if((resultB.containsKey(j+1) == true)&&(j-1<0)) {
-								resultl = resultB.get(j) && result.get(j + 1);
-								resultB.put(j+1, resultl);
-								setResultl(resultl);
-							}else */if (resultB.containsKey(j-1) == true) {
-								resultl = resultB.get(j-1) && result.get(j + 1);
-								resultB.put(j, resultl);
+							if( (resultB.containsKey(i-1) == true)&&(operators.get(j-1).equals("AND"))) {
+								resultl = resultB.get(i-1) && result.get(j + 1);
+								resultB.put(i-1, resultl);
 								setResultl(resultl);
 	
 							} else {
 								resultl = result.get(j) && result.get(j + 1);
-								resultB.put(j, resultl);
+								resultB.put(i, resultl);
+								i++;
 								setResultl(resultl);
 							}
 	
-						}
-					}
-					int f=0;
-					for (int j = 0; j < operators.size(); j++) {						
-						if (operators.get(j).equals("OR")) {
-							if(f==0) {
-								if(resultB.containsKey(j-1)==true) {
-									resultl=resultB.get(j-1);	
-								}else {
-									resultl=result.get(j);
+						}else if ((operators.get(j).equals("OR")==true)) {
+								/*if((j-1)>0) {
+									if((operators.get(j-1).equals("OR")==true)) {
+										resultB.put(i, result.get(j));
+
+									}
+								}*/
+								if(j==0) {
+									resultB.put(i, result.get(j));
+									i++;
 								}
-								f++;
-							}
-							if(((resultB.containsKey(j-1) == true))&&(resultB.containsKey(j+1) == true)) {
-								resultl=resultB.get(j-1)|| resultB.get(j+1);
-								resultB.put(j, resultl);
-								setResultl(resultl);
-							}else if(((resultB.containsKey(resultB.size()-j) == true))&&(resultB.size()>j)) {
-								//System.out.print(resultB.get(j+1));
-								resultl = resultl || resultB.get(resultB.size()-j);
-								//System.out.println(resultl);
-								resultB.put(j, resultl);
-								setResultl(resultl);
-							}else if(((resultB.containsKey(j+1) == true))&&(resultB.size()<=j)) {
-								//System.out.print(resultB.get(j+1));
-								resultl = resultl || resultB.get(j+1);
-								//System.out.println(resultl);
-								resultB.put(j, resultl);
-								setResultl(resultl);
-							
-							} else {
-								resultl =resultl || result.get(j + 1);
-								//System.out.println("1 "+resultl);
-								//resultB.put(j, resultl);
-								setResultl(resultl);
-	
-							}
+								if(j+1<result.size()-1) {
+									if(operators.get(j+1).equals("OR")==true) {
+										resultB.put(i, result.get(j+1));
+										i++;
+
+									}
+								}else {
+									resultB.put(i, result.get(j+1));
+
+								}
+								 
+							//resultB.put(i, result.get(j+1));
+							//System.out.println("iiiiiiiii"+i+"jjjjjjj"+(j+1));
+							//i++;
 						}
-	
 					}
+					//System.out.println("oooo"+i+"iii"+operators.size());
+					//resultB.put(i, result.get(operators.size()));		
+
+				
+					for (int j = 0; j < resultB.size()-1; j++) {						
+							if(j==0) {
+								resultl=resultB.get(j);
+							
+							}			
+							resultl=resultl|| resultB.get(j+1);
+							//resultB.put(j-1, resultl);
+							setResultl(resultl);
+					}
+	
+					
 				}else {
 					resultl=result.get(0);
 				}
@@ -163,7 +162,7 @@ public class ExecuteQuery {
 
 			
 
-			if(k==180) {
+			if(k==20850) {
 				//break;
 			}
 
