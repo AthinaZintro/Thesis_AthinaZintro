@@ -129,7 +129,7 @@ public class FileManagerTest {
 		
 		PrintStream out33 = new PrintStream(out33File);
 		System.setOut(out33);
-		selectAll("Select country from Dataco2_emissions_tonnes_per_person where year='1970' ");
+		selectAll("Select country from Dataco2_emissions_tonnes_per_person where year=1970 ");
 		out33.close();
 		
 		
@@ -217,7 +217,7 @@ public class FileManagerTest {
 		
 		PrintStream out66 = new PrintStream(out66File);
 		System.setOut(out66);
-		selectAll("Select rate from Datafemales_aged_15_24_employment_rate_percent where year>='2000' AND country='Greece' ");
+		selectAll("Select rate from Datafemales_aged_15_24_employment_rate_percent where year>=2000 AND country='Greece' ");
 		out66.close();
 		assertEquals(true,(FileUtils.contentEquals(out6File, out66File)));
 
@@ -272,7 +272,7 @@ public class FileManagerTest {
 		
 		PrintStream out88 = new PrintStream(out88File);
 		System.setOut(out88);
-		selectAll("Select country,year from Datapersonal_computers_total where year='1990' OR country='Myanmar' ");
+		selectAll("Select country,year from Datapersonal_computers_total where year=1990 OR country='Myanmar' ");
 		out88.close();
 		
 		
@@ -300,7 +300,7 @@ public class FileManagerTest {
 		out9.close();
 		PrintStream out99 = new PrintStream(out99File);
 		System.setOut(out99);
-		selectAll("Select rate from Datasurface_area_sq_km where rate<'0' ");
+		selectAll("Select rate from Datasurface_area_sq_km where rate<0 ");
 		out99.close();
 		
 		assertEquals(true,(FileUtils.contentEquals(out9File, out99File)));
