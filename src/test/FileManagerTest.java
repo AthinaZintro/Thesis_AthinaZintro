@@ -4,10 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStream;
 import java.io.PrintStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -25,7 +23,7 @@ import register.FileManager;
 import query.ExecuteQuery;
 import query.QueryParsing;
 
-public class FileManagerTest {
+public  class FileManagerTest {
 	@Test
 	public void testRegistration() throws IOException {
 
@@ -65,16 +63,19 @@ public class FileManagerTest {
 		File out11File=new File(".\\TestResources\\QueryResults\\Datapopulation_aged_20_39_years_male_percentSQL.txt");
 		PrintStream out1 = new PrintStream(out1File);
 		System.setOut(out1);
-		quer.parser("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>0.295  OR country=Afghanistan OR year<=1971 AND year>1960 OR rate<0.400 OR year=2000");
-		executeQuer.execute(tester, columns1, quer);
+		quer.parser("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where 	rate>0.295 AND 	country=Afghanistan OR year<=1971 AND year>1960 OR			 rate<0.400 AND rate>0.100 OR country='Afghanistan' AND year<=2000 OR year>1990 AND rate<0.200 ");
+		int check1 =executeQuer.execute(tester, columns1, quer);
 		out1.close();
-		PrintStream out11 = new PrintStream(out11File);
-		System.setOut(out11);
-		selectAll("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>0.295 OR country='Afghanistan' OR year<=1971 AND year>1960 OR rate<0.400 OR year=2000");
-		out11.close();
-	
+		if(check1==0) {
+			PrintStream out11 = new PrintStream(out11File);
+			System.setOut(out11);
+			selectAll("Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>0.295 AND		 country='Afghanistan'   OR year<=1971 AND year>1960 OR 			rate<0.400 AND rate>0.100 OR country='Greece' AND year<=2000 OR year>1990 AND rate<0.200 ");
+			out11.close();
+		
 
-		assertEquals(true,(FileUtils.contentEquals(out1File, out11File)));
+			assertEquals(true,(FileUtils.contentEquals(out1File, out11File)));
+		}
+		
 		
 		
 		File file2 = new File(".\\TestResources\\DownloadedData\\cell_phones_total.csv");
@@ -94,14 +95,17 @@ public class FileManagerTest {
 		PrintStream out2 = new PrintStream(out2File);
 		System.setOut(out2);
 		quer.parser("Select country,rate from Datacell_phones_total where country=Grenada");
-		executeQuer.execute(tester, columns2, quer);
+		int check2 =executeQuer.execute(tester, columns2, quer);
 		out2.close();
-		PrintStream out22 = new PrintStream(out22File);
-		System.setOut(out22);
-		selectAll("Select country,rate from Datacell_phones_total where country='Grenada'");
-		out22.close();
+		if(check2==0) {
+			PrintStream out22 = new PrintStream(out22File);
+			System.setOut(out22);
+			selectAll("Select country,rate from Datacell_phones_total where country='Grenada'");
+			out22.close();
+			
+			assertEquals(true,(FileUtils.contentEquals(out2File, out22File)));
+		}
 		
-		assertEquals(true,(FileUtils.contentEquals(out2File, out22File)));
 		
 		
 		
@@ -124,16 +128,17 @@ public class FileManagerTest {
 		PrintStream out3 = new PrintStream(out3File);
 		System.setOut(out3);
 		quer.parser("Select country from Dataco2_emissions_tonnes_per_person where year=1970 ");
-		executeQuer.execute(tester, columns3, quer);
+		int check3 =executeQuer.execute(tester, columns3, quer);
 		out3.close();
-		
-		PrintStream out33 = new PrintStream(out33File);
-		System.setOut(out33);
-		selectAll("Select country from Dataco2_emissions_tonnes_per_person where year=1970 ");
-		out33.close();
-		
-		
-		assertEquals(true,(FileUtils.contentEquals(out3File, out33File)));
+		if(check3==0) {
+			PrintStream out33 = new PrintStream(out33File);
+			System.setOut(out33);
+			selectAll("Select country from Dataco2_emissions_tonnes_per_person where year=1970 ");
+			out33.close();
+			
+			
+			assertEquals(true,(FileUtils.contentEquals(out3File, out33File)));
+		}
 		
 
 
@@ -154,15 +159,16 @@ public class FileManagerTest {
 		PrintStream out4 = new PrintStream(out4File);
 		System.setOut(out4);
 		quer.parser("Select rate,country from Datadata_quality_life_expectancy where country=Niger AND rate<80");
-		executeQuer.execute(tester, columns4, quer);
+		int check4=executeQuer.execute(tester, columns4, quer);
 		out4.close();
-		
-		PrintStream out44 = new PrintStream(out44File);
-		System.setOut(out44);
-		selectAll("Select rate,country from Datadata_quality_life_expectancy where country='Niger' AND rate<80");
-		out44.close(); 
-		
-		assertEquals(true,(FileUtils.contentEquals(out4File, out44File)));
+		if(check4==0) {
+			PrintStream out44 = new PrintStream(out44File);
+			System.setOut(out44);
+			selectAll("Select rate,country from Datadata_quality_life_expectancy where country='Niger' AND rate<80");
+			out44.close(); 
+			
+			assertEquals(true,(FileUtils.contentEquals(out4File, out44File)));
+		}
 
 
 		File file5 = new File(".\\TestResources\\DownloadedData\\energy_production_total.csv");
@@ -182,14 +188,16 @@ public class FileManagerTest {
 		PrintStream out5 = new PrintStream(out5File);
 		System.setOut(out5);
 		quer.parser("Select rate from Dataenergy_production_total where year=2000 AND country=Greece ");
-		executeQuer.execute(tester, columns5, quer);
+		int check5=executeQuer.execute(tester, columns5, quer);
 		out5.close();
-		PrintStream out55 = new PrintStream(out55File);
-		System.setOut(out55);
-		selectAll("Select rate from Dataenergy_production_total where year='2000' AND country='Greece'");
-		out55.close();
-
-		assertEquals(true,(FileUtils.contentEquals(out5File, out55File)));
+		if(check5==0) {
+			PrintStream out55 = new PrintStream(out55File);
+			System.setOut(out55);
+			selectAll("Select rate from Dataenergy_production_total where year='2000' AND country='Greece'");
+			out55.close();
+	
+			assertEquals(true,(FileUtils.contentEquals(out5File, out55File)));
+		}
 
 		
 		
@@ -212,14 +220,15 @@ public class FileManagerTest {
 		System.setOut(out6);
 		quer.parser(
 				"Select rate from Datafemales_aged_15_24_employment_rate_percent where year>=2000 AND country=Greece ");
-		executeQuer.execute(tester, columns6, quer);
+		int check6=executeQuer.execute(tester, columns6, quer);
 		out6.close();
-		
-		PrintStream out66 = new PrintStream(out66File);
-		System.setOut(out66);
-		selectAll("Select rate from Datafemales_aged_15_24_employment_rate_percent where year>=2000 AND country='Greece' ");
-		out66.close();
-		assertEquals(true,(FileUtils.contentEquals(out6File, out66File)));
+		if(check6==0) {
+			PrintStream out66 = new PrintStream(out66File);
+			System.setOut(out66);
+			selectAll("Select rate from Datafemales_aged_15_24_employment_rate_percent where year>=2000 AND country='Greece' ");
+			out66.close();
+			assertEquals(true,(FileUtils.contentEquals(out6File, out66File)));
+		}
 
 		
 		File file7 = new File(".\\TestResources\\DownloadedData\\freedix_fh.csv");
@@ -239,15 +248,16 @@ public class FileManagerTest {
 		PrintStream out7 = new PrintStream(out7File);
 		System.setOut(out7);
 		quer.parser("Select year,rate,country from Datafreedix_fh where year=1990 OR country=Guatemala ");
-		executeQuer.execute(tester, columns7, quer);
+		int check7=executeQuer.execute(tester, columns7, quer);
 		out7.close();
-		
-		PrintStream out77 = new PrintStream(out77File);
-		System.setOut(out77);
-		selectAll("Select year,rate,country from Datafreedix_fh where year=1990 OR country='Guatemala' ");
-		out77.close();
-		
-		assertEquals(true,(FileUtils.contentEquals(out7File, out77File)));
+		if(check7==0) {
+			PrintStream out77 = new PrintStream(out77File);
+			System.setOut(out77);
+			selectAll("Select year,rate,country from Datafreedix_fh where year=1990 OR country='Guatemala' ");
+			out77.close();
+			
+			assertEquals(true,(FileUtils.contentEquals(out7File, out77File)));
+		}
 
 		
 		File file8 = new File(".\\TestResources\\DownloadedData\\personal_computers_total.csv");
@@ -267,16 +277,17 @@ public class FileManagerTest {
 		PrintStream out8 = new PrintStream(out8File);
 		System.setOut(out8);
 		quer.parser("Select country,year from Datapersonal_computers_total where year=1990 OR country=Myanmar ");
-		executeQuer.execute(tester, columns8, quer);
+		int check8=executeQuer.execute(tester, columns8, quer);
 		out8.close();
-		
-		PrintStream out88 = new PrintStream(out88File);
-		System.setOut(out88);
-		selectAll("Select country,year from Datapersonal_computers_total where year=1990 OR country='Myanmar' ");
-		out88.close();
-		
-		
-		assertEquals(true,(FileUtils.contentEquals(out8File, out88File)));
+		if(check8==0) {
+			PrintStream out88 = new PrintStream(out88File);
+			System.setOut(out88);
+			selectAll("Select country,year from Datapersonal_computers_total where year=1990 OR country='Myanmar' ");
+			out88.close();
+			
+			
+			assertEquals(true,(FileUtils.contentEquals(out8File, out88File)));
+		}
 
 	
 		File file9 = new File(".\\TestResources\\DownloadedData\\surface_area_sq_km.csv");
@@ -296,14 +307,16 @@ public class FileManagerTest {
 		PrintStream out9 = new PrintStream(out9File);
 		System.setOut(out9);
 		quer.parser("Select rate from Datasurface_area_sq_km where rate<0 ");
-		executeQuer.execute(tester, columns9, quer);
+		int check9=executeQuer.execute(tester, columns9, quer);
 		out9.close();
-		PrintStream out99 = new PrintStream(out99File);
-		System.setOut(out99);
-		selectAll("Select rate from Datasurface_area_sq_km where rate<0 ");
-		out99.close();
-		
-		assertEquals(true,(FileUtils.contentEquals(out9File, out99File)));
+		if (check9==0) {
+			PrintStream out99 = new PrintStream(out99File);
+			System.setOut(out99);
+			selectAll("Select rate from Datasurface_area_sq_km where rate<0 ");
+			out99.close();
+			
+			assertEquals(true,(FileUtils.contentEquals(out9File, out99File)));
+		}
 
 		
 		
@@ -325,16 +338,17 @@ public class FileManagerTest {
 		PrintStream out10 = new PrintStream(out10File);
 		System.setOut(out10);
 		quer.parser("Select year from Datachildren_per_woman_total_fertility where country=Zimbabwe ");
-		executeQuer.execute(tester, columns10, quer);
+		int check10=executeQuer.execute(tester, columns10, quer);
 		out10.close();
-		PrintStream out1010 = new PrintStream(out1010File);
-		System.setOut(out1010);
-		selectAll("Select year from Datachildren_per_woman_total_fertility where country='Zimbabwe' ");
-		out1010.close();
-		
-		assertEquals(true,(FileUtils.contentEquals(out10File, out1010File)));
+		if(check10==0) {
+			PrintStream out1010 = new PrintStream(out1010File);
+			System.setOut(out1010);
+			selectAll("Select year from Datachildren_per_woman_total_fertility where country='Zimbabwe' ");
+			out1010.close();
+			
+			assertEquals(true,(FileUtils.contentEquals(out10File, out1010File)));
+		}
 
-	
 	}
 
 	private String[] readingTest(File file) throws FileNotFoundException {

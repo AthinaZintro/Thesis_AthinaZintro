@@ -9,15 +9,16 @@ import java.util.HashMap;
 
 import register.FileManager;
 
-public class ExecuteQuery {
+public  class ExecuteQuery {
 	private boolean resultl;
 
 	/**
 	 * @param manager FileManager class
 	 * @param columns The columns of the file
 	 * @param quer    QueryParsing class
+	 * @return 
 	 */
-	public void execute(FileManager manager, String[] columns, QueryParsing quer) throws IOException {
+	public int execute(FileManager manager, String[] columns, QueryParsing quer) throws IOException {
 
 		StatementsCode code = new StatementsCode();
 
@@ -46,7 +47,6 @@ public class ExecuteQuery {
 		int k = 1;
 
 		BufferedReader br = new BufferedReader(new FileReader(path));
-		int n = 1;
 		while ((line = br.readLine()) != null) {
 			ArrayList<Boolean> result = new ArrayList<Boolean>();
 			String[] cols = null;
@@ -60,7 +60,7 @@ public class ExecuteQuery {
 				System.out.println(printString);
 				if (w.contains(-1)) {
 					System.out.println("The column information that you gave is wrong\n");
-					return;
+					return -1;
 				}
 			}
 			if (k > 4) {
@@ -154,25 +154,24 @@ public class ExecuteQuery {
 
 					System.out.println(printString);
 
-				} else {
-					n++;
+				
 
 				}
 			}
 
 			
 
-			if(k==20850) {
-				//break;
-			}
+			
 
 			k++;
 			
 			
+		
+		
 		}
-		
-		
 		br.close();
+		return 0;
+		
 
 	}
 

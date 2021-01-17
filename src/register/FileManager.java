@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 import metadata.Info;
 
-public class FileManager implements IFileManager {
+public  class FileManager implements IFileManager {
 	private HashMap<String, Info> fileMetadataInfoCollection;
 	private HashMap<String, String> fileMetadataFileCollection;
 	private HashMap<String, String> fileAndPathCollection;

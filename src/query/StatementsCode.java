@@ -76,7 +76,7 @@ public class StatementsCode {
 		cond1.add("<=");
 		cond1.add("!=");
 
-		String[] condSplit = conditions.split(" ");
+		String[] condSplit = conditions.split("\\s+");
 
 		ArrayList<String> countConditions = new ArrayList<String>();
 

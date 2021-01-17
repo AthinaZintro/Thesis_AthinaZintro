@@ -2,7 +2,7 @@ package query;
 
 import java.io.IOException;
 
-public class QueryParsing {
+public  class QueryParsing {
 
 	/**
 	 * @param fromWords   The words fromWords the fromWords query word
