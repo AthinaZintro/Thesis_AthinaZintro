@@ -83,7 +83,7 @@ public  class FileManager implements IFileManager {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("File is created at " + outputFilePath);
+		//System.out.println("File is created at " + outputFilePath);
 
 		fileMetadataInfoCollection.put(inputfilePath, info);
 		fileMetadataFileCollection.put(inputfilePath, outputFilePath);

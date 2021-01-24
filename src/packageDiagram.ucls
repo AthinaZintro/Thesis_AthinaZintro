@@ -11,8 +11,8 @@
     <position height="50" width="101" x="156" y="142"/>    
     <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
   </package>  
-  <package id="3" language="java" name="client" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/client" 
-    binary="false" corner="BOTTOM_RIGHT">    
+  <package id="3" language="java" name="clientGui" project="Thesis_AthinaZintro" 
+    file="/Thesis_AthinaZintro/src/clientGui" binary="false" corner="BOTTOM_RIGHT">    
     <position height="50" width="101" x="297" y="142"/>    
     <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
   </package>  

@@ -1,4 +1,4 @@
-package client;
+package clientGui;
 
 import java.awt.FileDialog;
 import java.awt.Frame;
@@ -18,10 +18,10 @@ import register.IFileManager;
  * @param labels            The columns of the file
  */
 public class DraftApplication {
-
-	public static void main(String[] args) {
-
-		String filename = "";
+	
+	public  void draft() {
+		@SuppressWarnings("unused")
+		String filename ="";
 		String delimiterOflabels = "";
 		String numberOflabels = "";
 		String labels[] = null;
@@ -66,7 +66,7 @@ public class DraftApplication {
 		String out = fileManager.register(ma.getAbsolutePath(), delimiterOflabels, labels, numberOflabels);
 		System.out.println(out);
 		System.exit(-100);
-
 	}
 
+	
 }

@@ -1,5 +1,6 @@
 package query;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import register.FileManager;
@@ -35,7 +36,13 @@ public class StatementsCode {
 		// System.out.print(" "+from[0]+" "+"\n");
 
 		String x = from[0];
+		
 		String path = manager.getFileAndPathCollection().get(x);
+		if(path==null) {
+			File file = new File(".//TestResources//DataForTest//"+x+".Metadata.txt");
+			file.exists();
+			path=".//TestResources//DataForTest//"+x+".csv";
+		}
 
 		// System.out.println("path "+path);
 		return path;
