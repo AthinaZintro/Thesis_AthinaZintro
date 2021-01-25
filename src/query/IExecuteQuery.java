@@ -6,6 +6,6 @@ import register.FileManager;
 
 public interface IExecuteQuery {
 
-	Integer execute(FileManager manager, QueryParsing quer) throws IOException;
+	Integer execute(FileManager manager, ParseQuery quer) throws IOException;
 
 }

@@ -9,6 +9,7 @@ import javax.swing.border.EmptyBorder;
 import clientQuering.ClientQuering;
 
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.SwingConstants;
 import java.awt.Font;
 
@@ -88,7 +89,18 @@ public class Query extends JFrame {
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String[] queryString =textPane.getText().split("//s+");
-				ClientQuering.executeFromArgs(queryString);
+				int result=ClientQuering.executeFromArgs(queryString);
+				if(result==-1) {
+					JOptionPane.showMessageDialog(contentPane,"The column information that you gave is wrong!");	
+				}else if(result==-2) {
+					JOptionPane.showMessageDialog(contentPane,"The file is not registered!");
+				}else if(result==-3) {
+					JOptionPane.showMessageDialog(contentPane,"The The query that you have typed is wrong");
+				}else {
+					JOptionPane.showMessageDialog(contentPane,"Query Execution succesfully done!!");
+				}
+				textPane.setText("");
+				 
 				
 			}
 		});

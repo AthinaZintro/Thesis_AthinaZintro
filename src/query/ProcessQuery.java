@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import register.FileManager;
 
-public class StatementsCode {
+public class ProcessQuery {
 
 	/**
 	 * @param comparisonOperators    The comparison operators that we have to the
@@ -20,7 +20,7 @@ public class StatementsCode {
 	private ArrayList<String> parametersOfConditions;
 	private ArrayList<String> countOperators;
 
-	public StatementsCode() {
+	public ProcessQuery() {
 
 		this.comparisonOperators = new ArrayList<String>();
 		this.parametersOfConditions = new ArrayList<String>();
@@ -39,9 +39,10 @@ public class StatementsCode {
 		
 		String path = manager.getFileAndPathCollection().get(x);
 		if(path==null) {
-			File file = new File(".//TestResources//DataForTest//"+x+".Metadata.txt");
-			file.exists();
-			path=".//TestResources//DataForTest//"+x+".csv";
+			File file = new File(".//TestResources//DataForTest//"+x+"Metadata.txt");
+			if(file.exists()) {
+				path=".//TestResources//DataForTest//"+x+".csv";
+			}
 		}
 
 		// System.out.println("path "+path);
@@ -150,7 +151,7 @@ public class StatementsCode {
 	 * 
 	 * @param cond1
 	 */
-	public ArrayList<Integer> comparisonOperatorDirection(ArrayList<String> countConditions, ArrayList<String> cond,
+	private ArrayList<Integer> comparisonOperatorDirection(ArrayList<String> countConditions, ArrayList<String> cond,
 			ArrayList<String> cond1, String[] columns) {
 		HashMap<String, Integer> columnsHashmap = new HashMap<String, Integer>();
 		/**

@@ -3,35 +3,78 @@
   realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
   <package id="1" language="java" name="metadata" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/metadata" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="50" width="101" x="227" y="322"/>    
+    <position height="-1" width="-1" x="354" y="366"/>    
     <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
   </package>  
-  <package id="2" language="java" name="query" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/query" 
-    binary="false" corner="BOTTOM_RIGHT">    
-    <position height="50" width="101" x="156" y="142"/>    
-    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
-  </package>  
-  <package id="3" language="java" name="clientGui" project="Thesis_AthinaZintro" 
+  <package id="2" language="java" name="clientGui" project="Thesis_AthinaZintro" 
     file="/Thesis_AthinaZintro/src/clientGui" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="50" width="101" x="297" y="142"/>    
+    <position height="-1" width="-1" x="594" y="233"/>    
     <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
   </package>  
-  <package id="4" language="java" name="register" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/register" 
+  <package id="3" language="java" name="register" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/register" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="50" width="101" x="227" y="232"/>    
     <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
   </package>  
-  <dependency id="5">    
+  <package id="4" language="java" name="query" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/query" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="62" width="146" x="95" y="110"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="clientQuering" project="Thesis_AthinaZintro" 
+    file="/Thesis_AthinaZintro/src/clientQuering" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="370" y="49"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="6" language="java" name="clientRegister" project="Thesis_AthinaZintro" 
+    file="/Thesis_AthinaZintro/src/clientRegister" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="795" y="97"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="7" language="java" name="test" project="Thesis_AthinaZintro" file="/Thesis_AthinaZintro/src/test" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="114" y="403"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <dependency id="8">    
     <end type="SOURCE" refId="4"/>    
-    <end type="TARGET" refId="1"/>  
+    <end type="TARGET" refId="3"/>  
   </dependency>  
-  <dependency id="6">    
+  <dependency id="9">    
     <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="10">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="11">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="12">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="13">    
+    <end type="SOURCE" refId="7"/>    
     <end type="TARGET" refId="4"/>  
   </dependency>  
-  <dependency id="7">    
-    <end type="SOURCE" refId="3"/>    
+  <dependency id="14">    
+    <end type="SOURCE" refId="5"/>    
     <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
   </dependency>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    

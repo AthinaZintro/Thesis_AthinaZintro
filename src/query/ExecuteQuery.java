@@ -22,9 +22,9 @@ public  class ExecuteQuery implements IExecuteQuery {
 	 * @return 
 	 * @throws IOException 
 	 */
-	public Integer execute(FileManager manager, QueryParsing quer) throws IOException {
+	public Integer execute(FileManager manager, ParseQuery quer) throws IOException {
 
-		StatementsCode code = new StatementsCode();
+		ProcessQuery code = new ProcessQuery();
 
 		/**
 		 * Take the query that we split open the file from fromParameters words, choose
@@ -36,9 +36,16 @@ public  class ExecuteQuery implements IExecuteQuery {
 		String[] selectParameters = quer.getSelectWords();
 		String whereConditions = quer.getWhereWords();
 		String path = code.from(manager, fromParameters);
-		String[] columns=columnsReturn(path);
+		if(path==null) {
+			System.out.println("The file is not registered!!!");
+			return -2;
+		}
+		String[] columns=takeColumns(path);
 		ArrayList<Integer> selectValues = code.select(columns, selectParameters);
-		ArrayList<Integer> w = code.where(columns, whereConditions);
+		ArrayList<Integer> w = new ArrayList<Integer>();
+		if(whereConditions!="") {
+			w = code.where(columns, whereConditions);
+		}
 		ArrayList<String> relationalsOperator = code.getComparisonOperators();
 		ArrayList<String> conditionsParameters = code.getParametersOfConditions();
 		ArrayList<String> operators = code.getCountOperators();
@@ -71,20 +78,13 @@ public  class ExecuteQuery implements IExecuteQuery {
 						return -1;
 					}
 				}
-				if (k > 4) {
+				if ((k > 4)&&(w.isEmpty()==false)) {
 					cols = line.split(",", columns.length);
 					for (int m = 0; m < w.size(); m++) {
 						if (cols[w.get(m)].isEmpty() != true) {
-							result.add(operatorsChoosing(relationalsOperator.get(m), cols[w.get(m)],
+							result.add(chooseOperator(relationalsOperator.get(m), cols[w.get(m)],
 									conditionsParameters.get(m)));
-							 //System.out.println(cols[w.get(m)]+" "+relationalsOperator.get(m)+""+conditionsParameters.get(m));
-
-							 //System.out.println(result.get(m));
 						} else {
-							 //System.out.println("oooooooooo"+cols[w.get(m)]);
-							// "+relationalsOperator.get(m)+" "+conditionsParameters.get(m));
-
-							/// System.out.println(result.get(m));
 							result.add(false);
 						}
 					}
@@ -107,12 +107,6 @@ public  class ExecuteQuery implements IExecuteQuery {
 								}
 
 							}else if ((operators.get(j).equals("OR")==true)) {
-									/*if((j-1)>0) {
-										if((operators.get(j-1).equals("OR")==true)) {
-											resultB.put(i, result.get(j));
-
-										}
-									}*/
 									if(j==0) {
 										resultB.put(i, result.get(j));
 										i++;
@@ -127,23 +121,14 @@ public  class ExecuteQuery implements IExecuteQuery {
 										resultB.put(i, result.get(j+1));
 
 									}
-									 
-								//resultB.put(i, result.get(j+1));
-								//System.out.println("iiiiiiiii"+i+"jjjjjjj"+(j+1));
-								//i++;
 							}
 						}
-						//System.out.println("oooo"+i+"iii"+operators.size());
-						//resultB.put(i, result.get(operators.size()));		
-
-					
 						for (int j = 0; j < resultB.size()-1; j++) {						
 								if(j==0) {
 									resultl=resultB.get(j);
 								
 								}			
 								resultl=resultl|| resultB.get(j+1);
-								//resultB.put(j-1, resultl);
 								setResultl(resultl);
 						}
 
@@ -151,8 +136,6 @@ public  class ExecuteQuery implements IExecuteQuery {
 					}else {
 						resultl=result.get(0);
 					}
-					//System.out.println("fin "+resultl);
-
 					if (resultl == true) {
 						String printString = "";
 						for (int y = 0; y < selectValues.size(); y++) {
@@ -161,37 +144,28 @@ public  class ExecuteQuery implements IExecuteQuery {
 						}
 					
 						System.out.println(printString);
-						
-						
-
-					
+					}
+				}else if((k > 4)&&w.isEmpty()) {
+					cols = line.split(",", columns.length);
+					String printString = "";
+					for (int y = 0; y < selectValues.size(); y++) {
+						printString = printString + cols[selectValues.get(y)] + " ";
 
 					}
+				
+					System.out.println(printString);
 				}
-
-				
-
-				
-
 				k++;
-				
-				
-			
 			
 			}
 			br.close();
 		}
 		out1.close();
 		return 0;
-		
-
 	}
 
-	public boolean isResultl() {
-		return resultl;
-	}
 
-	public void setResultl(boolean resultl) {
+	private void setResultl(boolean resultl) {
 		this.resultl = resultl;
 	}
 
@@ -202,8 +176,8 @@ public  class ExecuteQuery implements IExecuteQuery {
 	 * @param y The second parameter before the comparison operator of condition
 	 * @return The result of a condition
 	 */
-	public boolean operatorsChoosing(String a, String x,
-			String y) { /** Checks which comparison operator the condition has */
+	private boolean chooseOperator(String a, String x,String y) { 
+		/** Checks which comparison operator the condition has */
 		// System.out.println("a: "+a+" x: "+x+" y: "+y+"\n"); /* makes the comparison
 		// and returns true or false for that */
 
@@ -250,7 +224,7 @@ public  class ExecuteQuery implements IExecuteQuery {
 
 	}
 	/* Reading the Datatestfile and return name of columns */
-	private static String[] columnsReturn(String path) throws FileNotFoundException {
+	private static String[] takeColumns(String path) throws FileNotFoundException {
 		int j = 0;
 		File file=new File(path);
 		Scanner newReader = new Scanner(file);

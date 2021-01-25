@@ -69,7 +69,6 @@ public class Application {
 		JButton btnNewButton = new JButton("Register File");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-
 				RegisterFile regFile=new RegisterFile();
 				regFile.setVisible(true);
 				
