@@ -17,9 +17,9 @@ import register.IFileManager;
  * @param numberOflabels    The number of columns of the file
  * @param labels            The columns of the file
  */
-public class DraftApplication {
+public class ChooseFileRegister {
 	
-	public  void draft() {
+	public  ChooseFileRegister() {
 		@SuppressWarnings("unused")
 		String filename ="";
 		String delimiterOflabels = "";

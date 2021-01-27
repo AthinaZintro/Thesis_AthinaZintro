@@ -1,6 +1,6 @@
 package clientGui;
 
-import java.awt.EventQueue;
+
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -17,21 +17,7 @@ public class RegisterFile extends JFrame {
 
 	private JPanel contentPane;
 
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					RegisterFile frame = new RegisterFile();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+	
 
 	/**
 	 * Create the frame.
@@ -59,9 +45,7 @@ public class RegisterFile extends JFrame {
 		btnNewButton.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				DraftApplication register =new DraftApplication();
-				register.draft();
-				
+				ChooseFileRegister register =new ChooseFileRegister();
 			}
 		});
 		btnNewButton.setBounds(70, 255, 295, 71);
