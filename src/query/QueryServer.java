@@ -10,9 +10,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-import register.FileManager;
+import register.IFileManager;
 
-public  class ExecuteQuery implements IExecuteQuery {
+public  class QueryServer implements IQueryServer {
 	private boolean resultl;
 
 	/**
@@ -22,9 +22,10 @@ public  class ExecuteQuery implements IExecuteQuery {
 	 * @return 
 	 * @throws IOException 
 	 */
-	public Integer execute(FileManager manager, ParseQuery quer) throws IOException {
-
-		ProcessQuery code = new ProcessQuery();
+	public Integer execute(IFileManager manager,String query ) throws IOException {
+		QueryParser quer=new QueryParser();
+		quer.createParser(query);
+		QueryProcessor code = new QueryProcessor();
 
 		/**
 		 * Take the query that we split open the file from fromParameters words, choose
@@ -35,16 +36,16 @@ public  class ExecuteQuery implements IExecuteQuery {
 		String[] fromParameters = quer.getFromWords();
 		String[] selectParameters = quer.getSelectWords();
 		String whereConditions = quer.getWhereWords();
-		String path = code.from(manager, fromParameters);
+		String path = code.computeFrom(manager, fromParameters);
 		if(path==null) {
 			System.out.println("The file is not registered!!!");
 			return -2;
 		}
 		String[] columns=takeColumns(path);
-		ArrayList<Integer> selectValues = code.select(columns, selectParameters);
+		ArrayList<Integer> selectValues = code.computeSelect(columns, selectParameters);
 		ArrayList<Integer> w = new ArrayList<Integer>();
 		if(whereConditions!="") {
-			w = code.where(columns, whereConditions);
+			w = code.computeWhere(columns, whereConditions);
 		}
 		ArrayList<String> relationalsOperator = code.getComparisonOperators();
 		ArrayList<String> conditionsParameters = code.getParametersOfConditions();
@@ -74,6 +75,7 @@ public  class ExecuteQuery implements IExecuteQuery {
 
 					System.out.println(printString);
 					if (w.contains(-1)) {
+						out1.close();
 						System.out.println("The column information that you gave is wrong\n");
 						return -1;
 					}
@@ -161,6 +163,8 @@ public  class ExecuteQuery implements IExecuteQuery {
 			br.close();
 		}
 		out1.close();
+		
+
 		return 0;
 	}
 

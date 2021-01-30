@@ -1,4 +1,4 @@
-package clientGui;
+package clientGuiApplication;
 
 import java.awt.FileDialog;
 import java.awt.Frame;
@@ -17,9 +17,10 @@ import register.IFileManager;
  * @param numberOflabels    The number of columns of the file
  * @param labels            The columns of the file
  */
-public class ChooseFileRegister {
+public class FileRegisterChoice {
 	
-	public  ChooseFileRegister() {
+	public  FileRegisterChoice() {
+		
 		@SuppressWarnings("unused")
 		String filename ="";
 		String delimiterOflabels = "";

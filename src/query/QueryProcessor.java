@@ -3,9 +3,9 @@ package query;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
-import register.FileManager;
+import register.IFileManager;
 
-public class ProcessQuery {
+public class QueryProcessor {
 
 	/**
 	 * @param comparisonOperators    The comparison operators that we have to the
@@ -20,7 +20,7 @@ public class ProcessQuery {
 	private ArrayList<String> parametersOfConditions;
 	private ArrayList<String> countOperators;
 
-	public ProcessQuery() {
+	public QueryProcessor() {
 
 		this.comparisonOperators = new ArrayList<String>();
 		this.parametersOfConditions = new ArrayList<String>();
@@ -28,7 +28,7 @@ public class ProcessQuery {
 
 	}
 
-	public String from(FileManager manager,String[] from) { 
+	public String computeFrom(IFileManager manager,String[] from) { 
 		/**
 		 * Chooses the file that has the from comparisonOperatorss and returns the path
 		 */						
@@ -50,7 +50,7 @@ public class ProcessQuery {
 
 	}
 
-	public ArrayList<Integer> select(String[] columns,String[] select) { 
+	public ArrayList<Integer> computeSelect(String[] columns,String[] select) { 
 		/**
 		 * Takes the column that has the select comparisonOperatorss and returns the
 		 * position
@@ -66,7 +66,7 @@ public class ProcessQuery {
 		return selectPositions;
 	}
 
-	public ArrayList<Integer> where(String[] columns,String conditions) { 
+	public ArrayList<Integer> computeWhere(String[] columns,String conditions) { 
 		/**
 		 * Takes the condition that has the wherecomparisonOperatorss
 		 * comparisonOperatorss and returns the position
@@ -95,7 +95,7 @@ public class ProcessQuery {
 				countConditions.add(condSplit[i]);
 			}
 		}
-		ArrayList<Integer> fistPartCondition = comparisonOperatorDirection(countConditions, cond, cond1, columns);
+		ArrayList<Integer> fistPartCondition = findComparisonOperators(countConditions, cond, cond1, columns);
 
 		return fistPartCondition;
 
@@ -151,7 +151,7 @@ public class ProcessQuery {
 	 * 
 	 * @param cond1
 	 */
-	private ArrayList<Integer> comparisonOperatorDirection(ArrayList<String> countConditions, ArrayList<String> cond,
+	private ArrayList<Integer> findComparisonOperators(ArrayList<String> countConditions, ArrayList<String> cond,
 			ArrayList<String> cond1, String[] columns) {
 		HashMap<String, Integer> columnsHashmap = new HashMap<String, Integer>();
 		/**

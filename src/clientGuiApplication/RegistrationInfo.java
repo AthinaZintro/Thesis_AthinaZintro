@@ -1,11 +1,11 @@
-package clientGui;
+package clientGuiApplication;
 
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import clientRegister.ClientRegisterFile;
+import clientRegisterApplication.ClientRegisterFile;
 
 import javax.swing.JLabel;
 import java.awt.Font;
@@ -16,7 +16,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 @SuppressWarnings("serial")
-public class GiveRegisterInfo extends JFrame {
+public class RegistrationInfo extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField txtFilename;
@@ -33,7 +33,7 @@ public class GiveRegisterInfo extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public GiveRegisterInfo() {
+	public RegistrationInfo() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 1167, 580);
 		contentPane = new JPanel();
@@ -133,6 +133,7 @@ public class GiveRegisterInfo extends JFrame {
 					
 				}
 				ClientRegisterFile.registerInfo(register);
+				dispose();
 				
 			}
 		});

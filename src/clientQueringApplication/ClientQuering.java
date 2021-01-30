@@ -1,11 +1,11 @@
-package clientQuering;
+package clientQueringApplication;
 
 import java.io.IOException;
 
-import query.ExecuteQueryFactory;
-import query.IExecuteQuery;
-import query.ParseQuery;
-import register.FileManager;
+import query.QueryServerFactory;
+import query.IQueryServer;
+import register.FileManagerFactory;
+import register.IFileManager;
 
 public class ClientQuering {
 		
@@ -17,16 +17,18 @@ public class ClientQuering {
 			System.out.println("The file is not registered!\n");
 		}else if(result==-3) {
 			System.out.println("The query that you have typed is wrong\n");
+		}else {
+			System.out.println("The query execution succeeded\n");
 		}
 		
 	}
 	
 	public static int executeFromArgs(String[] args) {
 		int out=0;
-		FileManager manager=new FileManager();
-		ParseQuery quer=new ParseQuery();
-		ExecuteQueryFactory factory = new ExecuteQueryFactory();
-		IExecuteQuery executeQuery = factory.generateExecuteQuery();
+		FileManagerFactory managerfactory = new FileManagerFactory();
+		IFileManager manager = managerfactory.generateFileManager();
+		QueryServerFactory factory = new QueryServerFactory();
+		IQueryServer executeQuery = factory.generateExecuteQuery();
 		String queryString = "";
 		for(int i=0;i<args.length;i++) {
 			queryString += args[i]+" ";
@@ -34,20 +36,13 @@ public class ClientQuering {
 		System.out.println(queryString);
 
 		try {
-			out=quer.createParser(queryString);
+			out = executeQuery.execute(manager, queryString);
 			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		if(out!=-3) {
-			try {
-				out = executeQuery.execute(manager, quer);
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-		}
+		
 		return out;
 		
 	}

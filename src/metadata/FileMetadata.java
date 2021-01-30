@@ -1,6 +1,6 @@
 package metadata;
 
-public class Info {
+public class FileMetadata {
 
 	/**
 	 * @param filename          The name of the file
@@ -9,7 +9,7 @@ public class Info {
 	 * @param labels            The columns of the file
 	 */
 
-	public Info(String filename, String delimiterOflabels, String[] labels, String numberOflabels) {
+	public FileMetadata(String filename, String delimiterOflabels, String[] labels, String numberOflabels) {
 		this.numberOflabels = Integer.parseInt(numberOflabels);
 		this.labels = labels;
 		this.filename = filename;

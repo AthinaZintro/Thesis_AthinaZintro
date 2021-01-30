@@ -1,4 +1,4 @@
-package clientGui;
+package clientGuiApplication;
 
 import java.awt.EventQueue;
 
@@ -69,10 +69,11 @@ public class Application {
 		JButton btnNewButton = new JButton("Register File");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				RegisterFile regFile=new RegisterFile();
+				RegistrationFile regFile=new RegistrationFile();
 				regFile.setVisible(true);
 				
 			}
+			
 		});
 		btnNewButton.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnNewButton.setBounds(80, 271, 293, 82);
@@ -81,7 +82,7 @@ public class Application {
 		JButton btnExecuteQuery = new JButton("Execute Query");
 		btnExecuteQuery.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				Query exquery=new Query();
+				QueryWriter exquery=new QueryWriter();
 				exquery.setVisible(true);
 			}
 		});

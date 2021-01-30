@@ -21,14 +21,12 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import query.ExecuteQuery;
-import query.ParseQuery;
+import query.QueryServer;
 import register.FileManager;
 
 public class QueryFileTest {
 	private static FileManager tester;
-	private static ParseQuery quer;
-	private static ExecuteQuery executeQuer;
+	private static QueryServer executeQuer;
 
 
 
@@ -120,8 +118,7 @@ public class QueryFileTest {
 	 @BeforeEach 
 	 public  void setUp() throws Exception {
 		tester = new FileManager();
-		quer = new ParseQuery();
-		executeQuer = new ExecuteQuery();
+		executeQuer = new QueryServer();
 	 }
 	 
 
@@ -258,45 +255,35 @@ public class QueryFileTest {
 		int check = 0;
 		File outFile=new File(outpath);
 		File outSqlFile=new File(outSqlpath);
+		
 		try {
-			check=quer.createParser(query);
-		} catch (IOException e) {
+			check = executeQuer.execute(tester, query);
+		} catch (IOException e1) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e1.printStackTrace();
 		}
-		if(check!=-3) {
+	
+		if(check==0) {
+	
+			PrintStream out = null;
 			try {
-				check = executeQuer.execute(tester, quer);
-			} catch (IOException e) {
+				out = new PrintStream(outSqlFile);
+			} catch (FileNotFoundException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			if(check==0) {
-			
-				PrintStream out = null;
-				try {
-					out = new PrintStream(outSqlFile);
-				} catch (FileNotFoundException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-				System.setOut(out);
-				selectAll(querySql);
-				out.close();
+			System.setOut(out);
+			selectAll(querySql);
+			out.close();
+		
 	
-	
-				try {
-					assertEquals(true,(FileUtils.contentEquals(outFile, outSqlFile)));
-				} catch (IOException e) {
-					System.err.println("Assertion error: fileUtils.contentEquals crashes. \n\n");
-					e.printStackTrace();
-				}
-			}else if(check==-1) {
-				System.out.println("The column information that you gave is wrong!\n");
-			}else {
-				System.out.println("The file is not registered!\n");
-	
+			try {
+				assertEquals(true,(FileUtils.contentEquals(outFile, outSqlFile)));
+			} catch (IOException e) {
+				System.err.println("Assertion error: fileUtils.contentEquals crashes. \n\n");
+				e.printStackTrace();
 			}
+		
 		}else {
 			System.out.println("The query that you have typed is wrong\n");
 		}

@@ -1,4 +1,4 @@
-package clientGui;
+package clientGuiApplication;
 
 
 
@@ -13,7 +13,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 @SuppressWarnings("serial")
-public class RegisterFile extends JFrame {
+public class RegistrationFile extends JFrame {
 
 	private JPanel contentPane;
 
@@ -22,7 +22,7 @@ public class RegisterFile extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public RegisterFile() {
+	public RegistrationFile() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 851, 461);
 		contentPane = new JPanel();
@@ -45,7 +45,7 @@ public class RegisterFile extends JFrame {
 		btnNewButton.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				ChooseFileRegister register =new ChooseFileRegister();
+				FileRegisterChoice register =new FileRegisterChoice();
 			}
 		});
 		btnNewButton.setBounds(70, 255, 295, 71);
@@ -55,7 +55,7 @@ public class RegisterFile extends JFrame {
 		btnGiveInformation.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				setVisible(false);
-				GiveRegisterInfo information=new GiveRegisterInfo();
+				RegistrationInfo information=new RegistrationInfo();
 				information.setVisible(true);
 				
 				

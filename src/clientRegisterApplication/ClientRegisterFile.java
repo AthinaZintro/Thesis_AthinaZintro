@@ -1,4 +1,4 @@
-package clientRegister;
+package clientRegisterApplication;
 
 import java.io.File;
 
@@ -16,6 +16,7 @@ public class ClientRegisterFile {
 		}
 		
 	}
+	
 	
 	public static int registerInfo(String[] args) {
 		String filename = args[0];

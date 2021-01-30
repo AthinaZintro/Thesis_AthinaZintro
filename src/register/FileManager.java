@@ -6,24 +6,24 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 
-import metadata.Info;
+import metadata.FileMetadata;
 
 public  class FileManager implements IFileManager {
-	private HashMap<String, Info> fileMetadataInfoCollection;
+	private HashMap<String, FileMetadata> fileMetadataInfoCollection;
 	private HashMap<String, String> fileMetadataFileCollection;
 	private HashMap<String, String> fileAndPathCollection;
 
 	public FileManager() {
-		fileMetadataInfoCollection = new HashMap<String, Info>();
+		fileMetadataInfoCollection = new HashMap<String, FileMetadata>();
 		fileMetadataFileCollection = new HashMap<String, String>();
 		fileAndPathCollection = new HashMap<String, String>();
 	}
 
-	public HashMap<String, Info> getFileMetadataInfoCollection() {
+	public HashMap<String, FileMetadata> getFileMetadataInfoCollection() {
 		return fileMetadataInfoCollection;
 	}
 
-	public void setFileMetadataInfoCollection(HashMap<String, Info> fileMetadataInfoCollection) {
+	public void setFileMetadataInfoCollection(HashMap<String, FileMetadata> fileMetadataInfoCollection) {
 		this.fileMetadataInfoCollection = fileMetadataInfoCollection;
 	}
 
@@ -52,7 +52,7 @@ public  class FileManager implements IFileManager {
 		String output = inputfilePath.substring(0, inputfilePath.lastIndexOf("."));
 		String outputFilePath = output + "Metadata.txt";
 
-		Info info = new Info(filename, columnsDelimiter, columnsNames, columnsCount);
+		FileMetadata info = new FileMetadata(filename, columnsDelimiter, columnsNames, columnsCount);
 		// System.out.println(filename);
 
 		FileWriter writer = null;

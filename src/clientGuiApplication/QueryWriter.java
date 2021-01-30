@@ -1,11 +1,11 @@
-package clientGui;
+package clientGuiApplication;
 
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import clientQuering.ClientQuering;
+import clientQueringApplication.ClientQuering;
 
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
@@ -23,7 +23,7 @@ import java.awt.Dimension;
 
 
 @SuppressWarnings("serial")
-public class Query extends JFrame {
+public class QueryWriter extends JFrame {
 
 	private JPanel contentPane;
 
@@ -35,7 +35,7 @@ public class Query extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public Query() {
+	public QueryWriter() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 783, 580);
 		contentPane = new JPanel();
