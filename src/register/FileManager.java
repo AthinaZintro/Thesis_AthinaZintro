@@ -19,7 +19,7 @@ public  class FileManager implements IFileManager {
 		fileAndPathCollection = new HashMap<String, String>();
 	}
 
-	public HashMap<String, FileMetadata> getFileMetadataInfoCollection() {
+	/*public HashMap<String, FileMetadata> getFileMetadataInfoCollection() {
 		return fileMetadataInfoCollection;
 	}
 
@@ -34,7 +34,7 @@ public  class FileManager implements IFileManager {
 	public void setFileMetadataFileCollection(HashMap<String, String> fileMetadataFileCollection) {
 		this.fileMetadataFileCollection = fileMetadataFileCollection;
 	}
-
+	 */
 	public HashMap<String, String> getFileAndPathCollection() {
 		return fileAndPathCollection;
 	}

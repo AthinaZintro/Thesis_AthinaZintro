@@ -19,12 +19,14 @@ public class QueryProcessor {
 	private ArrayList<String> comparisonOperators;
 	private ArrayList<String> parametersOfConditions;
 	private ArrayList<String> countOperators;
+	private HashMap<String, ArrayList<String>> queryProcessor;
 
 	public QueryProcessor() {
 
 		this.comparisonOperators = new ArrayList<String>();
 		this.parametersOfConditions = new ArrayList<String>();
 		this.countOperators = new ArrayList<String>();
+		this.queryProcessor =new HashMap<String, ArrayList<String>>();
 
 	}
 
@@ -66,7 +68,7 @@ public class QueryProcessor {
 		return selectPositions;
 	}
 
-	public ArrayList<Integer> computeWhere(String[] columns,String conditions) { 
+	public HashMap<String, ArrayList<String>> computeWhere(String[] columns,String conditions) { 
 		/**
 		 * Takes the condition that has the wherecomparisonOperatorss
 		 * comparisonOperatorss and returns the position
@@ -95,54 +97,19 @@ public class QueryProcessor {
 				countConditions.add(condSplit[i]);
 			}
 		}
-		ArrayList<Integer> fistPartCondition = findComparisonOperators(countConditions, cond, cond1, columns);
+		ArrayList<String> fistPartCondition = findComparisonOperators(countConditions, cond, cond1, columns);
+		
+		queryProcessor.put("countOperators", countOperators);
+		queryProcessor.put("comparisonOperators", comparisonOperators);
+		queryProcessor.put("parametersOfConditions", parametersOfConditions);
+		queryProcessor.put("fistPartCondition", fistPartCondition);
 
-		return fistPartCondition;
+
+		return queryProcessor;
 
 	}
 
-	/**
-	 * @return the comparisonOperators
-	 */
-	public ArrayList<String> getComparisonOperators() {
-		return comparisonOperators;
-	}
-
-	/**
-	 * @param comparisonOperators the comparisonOperators to set
-	 */
-	public void setComparisonOperators(ArrayList<String> comparisonOperators) {
-		this.comparisonOperators = comparisonOperators;
-	}
-
-	/**
-	 * @return the parametersOfConditions
-	 */
-	public ArrayList<String> getParametersOfConditions() {
-		return parametersOfConditions;
-	}
-
-	/**
-	 * @param parametersOfConditions the parametersOfConditions to set
-	 */
-	public void setParametersOfConditions(ArrayList<String> parametersOfConditions) {
-		this.parametersOfConditions = parametersOfConditions;
-	}
-
-	/**
-	 * @return the countOperators
-	 */
-	public ArrayList<String> getCountOperators() {
-		return countOperators;
-	}
-
-	/**
-	 * @param countOperators the countOperators to set
-	 */
-	public void setCountOperators(ArrayList<String> countOperators) {
-		this.countOperators = countOperators;
-	}
-
+	
 	/**
 	 * Takes the countConditions and split to the cond(comparison Operators) takes
 	 * the firsts parts conditions words and returns every position of them by the
@@ -151,7 +118,7 @@ public class QueryProcessor {
 	 * 
 	 * @param cond1
 	 */
-	private ArrayList<Integer> findComparisonOperators(ArrayList<String> countConditions, ArrayList<String> cond,
+	private ArrayList<String> findComparisonOperators(ArrayList<String> countConditions, ArrayList<String> cond,
 			ArrayList<String> cond1, String[] columns) {
 		HashMap<String, Integer> columnsHashmap = new HashMap<String, Integer>();
 		/**
@@ -162,7 +129,7 @@ public class QueryProcessor {
 			columnsHashmap.put(columns[i], i);
 
 		}
-		ArrayList<Integer> fistPartCondition = new ArrayList<Integer>();
+		ArrayList<String> fistPartCondition = new ArrayList<String>();
 		for (int j = 0; j < countConditions.size(); j++) {
 			int countTimes = 0;
 
@@ -180,14 +147,13 @@ public class QueryProcessor {
 					if (countConditions.get(j).contains(cond1.get(i))) {
 						String[] con1 = countConditions.get(j).split(cond1.get(i));
 						if (columnsHashmap.get(con1[0]) == null) {
-							fistPartCondition.add(-1);
+							fistPartCondition.add(""+-1+"");
 
 						} else {
-							fistPartCondition.add(columnsHashmap.get(con1[0]));
+							fistPartCondition.add(""+columnsHashmap.get(con1[0])+"");
 						}
 						comparisonOperators.add(cond1.get(i));
 						parametersOfConditions.add(con1[1]);
-						setParametersOfConditions(parametersOfConditions);
 					}
 				}
 
@@ -196,20 +162,23 @@ public class QueryProcessor {
 					if (countConditions.get(j).contains(cond.get(i))) {
 						String[] con = countConditions.get(j).split(cond.get(i));
 						if (columnsHashmap.get(con[0]) == null) {
-							fistPartCondition.add(-1);
+							fistPartCondition.add(""+-1+"");
 						} else {
-							fistPartCondition.add(columnsHashmap.get(con[0]));
+							fistPartCondition.add(""+columnsHashmap.get(con[0])+"");
 						}
 						comparisonOperators.add(cond.get(i));
 						parametersOfConditions.add(con[1]);
-						setParametersOfConditions(parametersOfConditions);
 					}
 				}
 
 			}
 		}
+	
+
 
 		return fistPartCondition;
 
 	}
+
+	
 }

@@ -1,8 +1,9 @@
 package clientQueringApplication;
 
-import java.io.IOException;
 
 import query.QueryServerFactory;
+
+
 import query.IQueryServer;
 import register.FileManagerFactory;
 import register.IFileManager;
@@ -10,7 +11,7 @@ import register.IFileManager;
 public class ClientQuering {
 		
 	public static void main(String[] args)  {
-		int result = executeFromArgs(args);
+		Integer result = executeFromArgs(args);
 		if(result==-1) {
 			System.out.println("The column information that you gave is wrong!\n");
 		}else if(result==-2) {
@@ -24,7 +25,7 @@ public class ClientQuering {
 	}
 	
 	public static int executeFromArgs(String[] args) {
-		int out=0;
+		Integer res=0;
 		FileManagerFactory managerfactory = new FileManagerFactory();
 		IFileManager manager = managerfactory.generateFileManager();
 		QueryServerFactory factory = new QueryServerFactory();
@@ -33,17 +34,13 @@ public class ClientQuering {
 		for(int i=0;i<args.length;i++) {
 			queryString += args[i]+" ";
 		}
-		System.out.println(queryString);
 
-		try {
-			out = executeQuery.execute(manager, queryString);
-			
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		res = executeQuery.execute(manager, queryString);
 		
-		return out;
+		System.out.println(queryString);
+	
+
+		return res;
 		
 	}
 

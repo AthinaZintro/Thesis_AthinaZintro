@@ -83,7 +83,7 @@ public class QueryWriter extends JFrame {
 				}else if(result==-2) {
 					JOptionPane.showMessageDialog(contentPane,"The file is not registered!");
 				}else if(result==-3) {
-					JOptionPane.showMessageDialog(contentPane,"The The query that you have typed is wrong");
+					JOptionPane.showMessageDialog(contentPane,"The query that you have typed is wrong");
 				}else {
 					JOptionPane.showMessageDialog(contentPane,"Query Execution succesfully done!!");
 				}

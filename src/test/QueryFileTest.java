@@ -185,8 +185,8 @@ public class QueryFileTest {
 		
 		String outpath2=".\\TestResources\\QueryResults\\Datacell_phones_totalResults.txt";
 		String outSqlpath2=".\\TestResources\\SqliteResults\\Datacell_phones_totalSQL.txt";
-		String query2="Select country,rate from Datacell_phones_total where country=Grenada";
-		String querySQL2="Select country,rate from Datacell_phones_total where country='Grenada'";
+		String query2="Select country,rate from Datacell_phones_total ";
+		String querySQL2="Select country,rate from Datacell_phones_total ";
 		executeTheQuery(outpath2,outSqlpath2,query2,querySQL2);
 		
 		String outpath3=".\\TestResources\\QueryResults\\Dataco2_emissions_tonnes_per_personResults.txt";
@@ -256,12 +256,7 @@ public class QueryFileTest {
 		File outFile=new File(outpath);
 		File outSqlFile=new File(outSqlpath);
 		
-		try {
-			check = executeQuer.execute(tester, query);
-		} catch (IOException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
+		check = executeQuer.execute(tester, query);
 	
 		if(check==0) {
 	

@@ -22,9 +22,20 @@ public  class QueryServer implements IQueryServer {
 	 * @return 
 	 * @throws IOException 
 	 */
-	public Integer execute(IFileManager manager,String query ) throws IOException {
+	public Integer execute(IFileManager manager,String query )  {
 		QueryParser quer=new QueryParser();
-		quer.createParser(query);
+		HashMap<String, String[]> queryHashMap = new HashMap<String, String[]>();
+		try {
+			queryHashMap = quer.createParser(query);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		if(queryHashMap.containsKey("error")) {
+			//System.out.println("The query that you wrote isn't in the right form ");
+			return -3;
+
+		}
 		QueryProcessor code = new QueryProcessor();
 
 		/**
@@ -33,23 +44,42 @@ public  class QueryServer implements IQueryServer {
 		 * whereConditions
 		 */
 		
-		String[] fromParameters = quer.getFromWords();
-		String[] selectParameters = quer.getSelectWords();
-		String whereConditions = quer.getWhereWords();
+		String[] fromParameters =  queryHashMap.get("from");
+
+		String[] selectParameters = queryHashMap.get("Select");
+
+		String[] whereC = queryHashMap.get("where");
+		String whereConditions=whereC[0];
+		
 		String path = code.computeFrom(manager, fromParameters);
 		if(path==null) {
-			System.out.println("The file is not registered!!!");
+			//System.out.println("The file is not registered!!!");
 			return -2;
 		}
-		String[] columns=takeColumns(path);
-		ArrayList<Integer> selectValues = code.computeSelect(columns, selectParameters);
-		ArrayList<Integer> w = new ArrayList<Integer>();
-		if(whereConditions!="") {
-			w = code.computeWhere(columns, whereConditions);
+		String[] columns = null;
+		try {
+			columns = takeColumns(path);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
-		ArrayList<String> relationalsOperator = code.getComparisonOperators();
-		ArrayList<String> conditionsParameters = code.getParametersOfConditions();
-		ArrayList<String> operators = code.getCountOperators();
+		ArrayList<Integer> selectValues = code.computeSelect(columns, selectParameters);
+		HashMap<String, ArrayList<String>> queryProcessor =new HashMap<String, ArrayList<String>>();
+		if(whereConditions!="") {
+			queryProcessor = code.computeWhere(columns, whereConditions);
+		}
+		ArrayList<String> relationalsOperator = queryProcessor.get("comparisonOperators");
+
+		ArrayList<String> conditionsParameters =queryProcessor.get("parametersOfConditions");
+
+		ArrayList<String> operators = queryProcessor.get("countOperators");
+		ArrayList<String> firstpart=queryProcessor.get("fistPartCondition");
+		ArrayList<Integer> w= new ArrayList<Integer>();
+		if(firstpart!=null) {
+			for(int i=0;i<firstpart.size();i++){
+				w.add(Integer.parseInt(firstpart.get(i)));
+			}
+		}
 
 		/**
 		 * Reading the file, calling operatorsChoosing to check if every condition is
@@ -60,7 +90,13 @@ public  class QueryServer implements IQueryServer {
 		String line;
 		int k = 1;
 		String printFilePath=".//TestResources//QueryResults//"+fromParameters[0]+"Results.txt";
-		PrintStream out1 = new PrintStream(printFilePath);
+		PrintStream out1 = null;
+		try {
+			out1 = new PrintStream(printFilePath);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		System.setOut(out1);
 		try (BufferedReader br = new BufferedReader(new FileReader(path))) {
 			while ((line = br.readLine()) != null) {
@@ -75,8 +111,12 @@ public  class QueryServer implements IQueryServer {
 
 					System.out.println(printString);
 					if (w.contains(-1)) {
+						br.close();
+
+						out1.flush();
 						out1.close();
-						System.out.println("The column information that you gave is wrong\n");
+						
+						//System.out.println("The column information that you gave is wrong\n");
 						return -1;
 					}
 				}
@@ -99,13 +139,11 @@ public  class QueryServer implements IQueryServer {
 								if( (resultB.containsKey(i-1) == true)&&(operators.get(j-1).equals("AND"))) {
 									resultl = resultB.get(i-1) && result.get(j + 1);
 									resultB.put(i-1, resultl);
-									setResultl(resultl);
 
 								} else {
 									resultl = result.get(j) && result.get(j + 1);
 									resultB.put(i, resultl);
 									i++;
-									setResultl(resultl);
 								}
 
 							}else if ((operators.get(j).equals("OR")==true)) {
@@ -131,7 +169,6 @@ public  class QueryServer implements IQueryServer {
 								
 								}			
 								resultl=resultl|| resultB.get(j+1);
-								setResultl(resultl);
 						}
 
 						
@@ -146,6 +183,7 @@ public  class QueryServer implements IQueryServer {
 						}
 					
 						System.out.println(printString);
+						
 					}
 				}else if((k > 4)&&w.isEmpty()) {
 					cols = line.split(",", columns.length);
@@ -156,23 +194,30 @@ public  class QueryServer implements IQueryServer {
 					}
 				
 					System.out.println(printString);
+					
+
 				}
 				k++;
 			
 			}
 			br.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+		out1.flush();
 		out1.close();
+
 		
 
 		return 0;
 	}
 
 
-	private void setResultl(boolean resultl) {
-		this.resultl = resultl;
-	}
-
+	
 	/**
 	 * 
 	 * @param a The comparison operator of condition
