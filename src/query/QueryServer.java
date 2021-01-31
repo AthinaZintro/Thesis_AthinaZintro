@@ -20,7 +20,7 @@ public  class QueryServer implements IQueryServer {
 	 * @param columns The columns of the file
 	 * @param quer    QueryParsing class
 	 * @return 
-	 * @throws IOException 
+	 *
 	 */
 	public Integer execute(IFileManager manager,String query )  {
 		QueryParser quer=new QueryParser();
@@ -115,6 +115,7 @@ public  class QueryServer implements IQueryServer {
 
 						out1.flush();
 						out1.close();
+					
 						
 						//System.out.println("The column information that you gave is wrong\n");
 						return -1;
@@ -210,7 +211,6 @@ public  class QueryServer implements IQueryServer {
 		}
 		out1.flush();
 		out1.close();
-
 		
 
 		return 0;

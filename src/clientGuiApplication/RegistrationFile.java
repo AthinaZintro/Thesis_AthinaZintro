@@ -45,6 +45,7 @@ public class RegistrationFile extends JFrame {
 		btnNewButton.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				@SuppressWarnings("unused")
 				FileRegisterChoice register =new FileRegisterChoice();
 			}
 		});

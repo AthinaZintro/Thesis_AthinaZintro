@@ -34,10 +34,11 @@ public class ClientQuering {
 		for(int i=0;i<args.length;i++) {
 			queryString += args[i]+" ";
 		}
+		System.out.println(queryString);
 
 		res = executeQuery.execute(manager, queryString);
 		
-		System.out.println(queryString);
+		System.out.println("Thisss");
 	
 
 		return res;

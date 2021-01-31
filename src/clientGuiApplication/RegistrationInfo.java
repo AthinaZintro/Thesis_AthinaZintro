@@ -8,12 +8,16 @@ import javax.swing.border.EmptyBorder;
 import clientRegisterApplication.ClientRegisterFile;
 
 import javax.swing.JLabel;
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
 import java.awt.Font;
 import javax.swing.SwingConstants;
 import javax.swing.JButton;
 import javax.swing.JTextField;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import javax.swing.JScrollPane;
 
 @SuppressWarnings("serial")
 public class RegistrationInfo extends JFrame {
@@ -38,51 +42,50 @@ public class RegistrationInfo extends JFrame {
 		setBounds(100, 100, 1167, 580);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
-		setContentPane(contentPane);
+		contentPane.setPreferredSize(new Dimension(900,900));
+		JScrollPane scroller = new JScrollPane(contentPane,JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+		this.getContentPane().add(scroller, BorderLayout.CENTER);	
 		contentPane.setLayout(null);
+		setResizable(false);
 		
-		final JPanel panel = new JPanel();
-		panel.setBounds(0, 11, 1143, 532);
-		contentPane.add(panel);
-		panel.setLayout(null);
 		
 		JLabel lblNewLabel = new JLabel("Give informations to register a file");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel.setFont(new Font("Lucida Sans Typewriter", Font.BOLD, 30));
 		lblNewLabel.setBounds(204, 26, 704, 64);
-		panel.add(lblNewLabel);
+		contentPane.add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("Filename :");
 		lblNewLabel_1.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		lblNewLabel_1.setBounds(30, 124, 164, 39);
-		panel.add(lblNewLabel_1);
+		contentPane.add(lblNewLabel_1);
 		
 		JLabel lblNewLabel_1_1 = new JLabel("Delimiter of labels :");
 		lblNewLabel_1_1.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		lblNewLabel_1_1.setBounds(30, 173, 349, 39);
-		panel.add(lblNewLabel_1_1);
+		contentPane.add(lblNewLabel_1_1);
 		
 		JLabel lblNewLabel_1_2 = new JLabel("Number of labels :");
 		lblNewLabel_1_2.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		lblNewLabel_1_2.setBounds(30, 220, 310, 39);
-		panel.add(lblNewLabel_1_2);
+		contentPane.add(lblNewLabel_1_2);
 		txtFilename = new JTextField();
 		txtFilename.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		txtFilename.setBounds(183, 120, 891, 35);
-		panel.add(txtFilename);
+		contentPane.add(txtFilename);
 		txtFilename.setColumns(10);
 		
 		txtNumberOfLabels = new JTextField();
 		txtNumberOfLabels.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		txtNumberOfLabels.setColumns(10);
 		txtNumberOfLabels.setBounds(304, 225, 770, 35);
-		panel.add(txtNumberOfLabels);
+		contentPane.add(txtNumberOfLabels);
 		
 		txtDelimiter = new JTextField();
 		txtDelimiter.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		txtDelimiter.setColumns(10);
 		txtDelimiter.setBounds(355, 171, 719, 35);
-		panel.add(txtDelimiter);
+		contentPane.add(txtDelimiter);
 		JButton btnNewButton = new JButton(" Add Labels ");
 		btnNewButton.addActionListener(new ActionListener() {
 
@@ -96,7 +99,7 @@ public class RegistrationInfo extends JFrame {
 					textField[i].setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 					textField[i].setColumns(10);
 					textField[i].setBounds(30, 345+j, 703, 35);
-					panel.add(textField[i]);
+					contentPane.add(textField[i]);
 					j+=50;
 					
 				}
@@ -116,7 +119,7 @@ public class RegistrationInfo extends JFrame {
 
 		btnNewButton.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnNewButton.setBounds(438, 295, 236, 39);
-		panel.add(btnNewButton);
+		contentPane.add(btnNewButton);
 		
 		JButton btnRegisterFile = new JButton("Register File");
 		btnRegisterFile.addActionListener(new ActionListener() {
@@ -139,7 +142,7 @@ public class RegistrationInfo extends JFrame {
 		});
 		btnRegisterFile.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnRegisterFile.setBounds(884, 465, 236, 39);
-		panel.add(btnRegisterFile);
+		contentPane.add(btnRegisterFile);
 		
 
 		
