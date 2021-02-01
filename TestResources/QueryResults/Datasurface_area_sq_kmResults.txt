@@ -1,1 +1,2113 @@
-rate 
+country rate year 
+Afghanistan 653000 1961 
+Afghanistan 653000 1962 
+Afghanistan 653000 1963 
+Afghanistan 653000 1964 
+Afghanistan 653000 1965 
+Afghanistan 653000 1966 
+Afghanistan 653000 1967 
+Afghanistan 653000 1968 
+Afghanistan 653000 1969 
+Afghanistan 653000 1970 
+Afghanistan 653000 1971 
+Albania 28800 1961 
+Albania 28800 1962 
+Albania 28800 1963 
+Albania 28800 1964 
+Albania 28800 1965 
+Albania 28800 1966 
+Albania 28800 1967 
+Albania 28800 1968 
+Albania 28800 1969 
+Albania 28800 1970 
+Albania 28800 1971 
+Algeria 2380000 1961 
+Algeria 2380000 1962 
+Algeria 2380000 1963 
+Algeria 2380000 1964 
+Algeria 2380000 1965 
+Algeria 2380000 1966 
+Algeria 2380000 1967 
+Algeria 2380000 1968 
+Algeria 2380000 1969 
+Algeria 2380000 1970 
+Algeria 2380000 1971 
+Andorra 470 1961 
+Andorra 470 1962 
+Andorra 470 1963 
+Andorra 470 1964 
+Andorra 470 1965 
+Andorra 470 1966 
+Andorra 470 1967 
+Andorra 470 1968 
+Andorra 470 1969 
+Andorra 470 1970 
+Andorra 470 1971 
+Angola 1250000 1961 
+Angola 1250000 1962 
+Angola 1250000 1963 
+Angola 1250000 1964 
+Angola 1250000 1965 
+Angola 1250000 1966 
+Angola 1250000 1967 
+Angola 1250000 1968 
+Angola 1250000 1969 
+Angola 1250000 1970 
+Angola 1250000 1971 
+Antigua and Barbuda 440 1961 
+Antigua and Barbuda 440 1962 
+Antigua and Barbuda 440 1963 
+Antigua and Barbuda 440 1964 
+Antigua and Barbuda 440 1965 
+Antigua and Barbuda 440 1966 
+Antigua and Barbuda 440 1967 
+Antigua and Barbuda 440 1968 
+Antigua and Barbuda 440 1969 
+Antigua and Barbuda 440 1970 
+Antigua and Barbuda 440 1971 
+Argentina 2780000 1961 
+Argentina 2780000 1962 
+Argentina 2780000 1963 
+Argentina 2780000 1964 
+Argentina 2780000 1965 
+Argentina 2780000 1966 
+Argentina 2780000 1967 
+Argentina 2780000 1968 
+Argentina 2780000 1969 
+Argentina 2780000 1970 
+Argentina 2780000 1971 
+Armenia 29700 1961 
+Armenia 29700 1962 
+Armenia 29700 1963 
+Armenia 29700 1964 
+Armenia 29700 1965 
+Armenia 29700 1966 
+Armenia 29700 1967 
+Armenia 29700 1968 
+Armenia 29700 1969 
+Armenia 29700 1970 
+Armenia 29700 1971 
+Australia 7740000 1961 
+Australia 7740000 1962 
+Australia 7740000 1963 
+Australia 7740000 1964 
+Australia 7740000 1965 
+Australia 7740000 1966 
+Australia 7740000 1967 
+Australia 7740000 1968 
+Australia 7740000 1969 
+Australia 7740000 1970 
+Australia 7740000 1971 
+Austria 83900 1961 
+Austria 83900 1962 
+Austria 83900 1963 
+Austria 83900 1964 
+Austria 83900 1965 
+Austria 83900 1966 
+Austria 83900 1967 
+Austria 83900 1968 
+Austria 83900 1969 
+Austria 83900 1970 
+Austria 83900 1971 
+Azerbaijan 86600 1961 
+Azerbaijan 86600 1962 
+Azerbaijan 86600 1963 
+Azerbaijan 86600 1964 
+Azerbaijan 86600 1965 
+Azerbaijan 86600 1966 
+Azerbaijan 86600 1967 
+Azerbaijan 86600 1968 
+Azerbaijan 86600 1969 
+Azerbaijan 86600 1970 
+Azerbaijan 86600 1971 
+Bahamas 13900 1961 
+Bahamas 13900 1962 
+Bahamas 13900 1963 
+Bahamas 13900 1964 
+Bahamas 13900 1965 
+Bahamas 13900 1966 
+Bahamas 13900 1967 
+Bahamas 13900 1968 
+Bahamas 13900 1969 
+Bahamas 13900 1970 
+Bahamas 13900 1971 
+Bahrain 690 1961 
+Bahrain 690 1962 
+Bahrain 690 1963 
+Bahrain 690 1964 
+Bahrain 690 1965 
+Bahrain 690 1966 
+Bahrain 690 1967 
+Bahrain 690 1968 
+Bahrain 690 1969 
+Bahrain 690 1970 
+Bahrain 690 1971 
+Bangladesh 148000 1961 
+Bangladesh 148000 1962 
+Bangladesh 148000 1963 
+Bangladesh 148000 1964 
+Bangladesh 148000 1965 
+Bangladesh 148000 1966 
+Bangladesh 148000 1967 
+Bangladesh 148000 1968 
+Bangladesh 148000 1969 
+Bangladesh 148000 1970 
+Bangladesh 148000 1971 
+Barbados 430 1961 
+Barbados 430 1962 
+Barbados 430 1963 
+Barbados 430 1964 
+Barbados 430 1965 
+Barbados 430 1966 
+Barbados 430 1967 
+Barbados 430 1968 
+Barbados 430 1969 
+Barbados 430 1970 
+Barbados 430 1971 
+Belarus 208000 1961 
+Belarus 208000 1962 
+Belarus 208000 1963 
+Belarus 208000 1964 
+Belarus 208000 1965 
+Belarus 208000 1966 
+Belarus 208000 1967 
+Belarus 208000 1968 
+Belarus 208000 1969 
+Belarus 208000 1970 
+Belarus 208000 1971 
+Belgium  1961 
+Belgium  1962 
+Belgium  1963 
+Belgium  1964 
+Belgium  1965 
+Belgium  1966 
+Belgium  1967 
+Belgium  1968 
+Belgium  1969 
+Belgium  1970 
+Belgium  1971 
+Belize 23000 1961 
+Belize 23000 1962 
+Belize 23000 1963 
+Belize 23000 1964 
+Belize 23000 1965 
+Belize 23000 1966 
+Belize 23000 1967 
+Belize 23000 1968 
+Belize 23000 1969 
+Belize 23000 1970 
+Belize 23000 1971 
+Benin 115000 1961 
+Benin 115000 1962 
+Benin 115000 1963 
+Benin 115000 1964 
+Benin 115000 1965 
+Benin 115000 1966 
+Benin 115000 1967 
+Benin 115000 1968 
+Benin 115000 1969 
+Benin 115000 1970 
+Benin 115000 1971 
+Bhutan 47000 1961 
+Bhutan 47000 1962 
+Bhutan 47000 1963 
+Bhutan 47000 1964 
+Bhutan 47000 1965 
+Bhutan 47000 1966 
+Bhutan 47000 1967 
+Bhutan 47000 1968 
+Bhutan 47000 1969 
+Bhutan 47000 1970 
+Bhutan 47000 1971 
+Bolivia 1100000 1961 
+Bolivia 1100000 1962 
+Bolivia 1100000 1963 
+Bolivia 1100000 1964 
+Bolivia 1100000 1965 
+Bolivia 1100000 1966 
+Bolivia 1100000 1967 
+Bolivia 1100000 1968 
+Bolivia 1100000 1969 
+Bolivia 1100000 1970 
+Bolivia 1100000 1971 
+Bosnia and Herzegovina 51200 1961 
+Bosnia and Herzegovina 51200 1962 
+Bosnia and Herzegovina 51200 1963 
+Bosnia and Herzegovina 51200 1964 
+Bosnia and Herzegovina 51200 1965 
+Bosnia and Herzegovina 51200 1966 
+Bosnia and Herzegovina 51200 1967 
+Bosnia and Herzegovina 51200 1968 
+Bosnia and Herzegovina 51200 1969 
+Bosnia and Herzegovina 51200 1970 
+Bosnia and Herzegovina 51200 1971 
+Botswana 582000 1961 
+Botswana 582000 1962 
+Botswana 582000 1963 
+Botswana 582000 1964 
+Botswana 582000 1965 
+Botswana 582000 1966 
+Botswana 582000 1967 
+Botswana 582000 1968 
+Botswana 582000 1969 
+Botswana 582000 1970 
+Botswana 582000 1971 
+Brazil 8520000 1961 
+Brazil 8520000 1962 
+Brazil 8520000 1963 
+Brazil 8520000 1964 
+Brazil 8520000 1965 
+Brazil 8520000 1966 
+Brazil 8520000 1967 
+Brazil 8520000 1968 
+Brazil 8520000 1969 
+Brazil 8520000 1970 
+Brazil 8520000 1971 
+Brunei 5770 1961 
+Brunei 5770 1962 
+Brunei 5770 1963 
+Brunei 5770 1964 
+Brunei 5770 1965 
+Brunei 5770 1966 
+Brunei 5770 1967 
+Brunei 5770 1968 
+Brunei 5770 1969 
+Brunei 5770 1970 
+Brunei 5770 1971 
+Bulgaria 111000 1961 
+Bulgaria 111000 1962 
+Bulgaria 111000 1963 
+Bulgaria 111000 1964 
+Bulgaria 111000 1965 
+Bulgaria 111000 1966 
+Bulgaria 111000 1967 
+Bulgaria 111000 1968 
+Bulgaria 111000 1969 
+Bulgaria 111000 1970 
+Bulgaria 111000 1971 
+Burkina Faso 274000 1961 
+Burkina Faso 274000 1962 
+Burkina Faso 274000 1963 
+Burkina Faso 274000 1964 
+Burkina Faso 274000 1965 
+Burkina Faso 274000 1966 
+Burkina Faso 274000 1967 
+Burkina Faso 274000 1968 
+Burkina Faso 274000 1969 
+Burkina Faso 274000 1970 
+Burkina Faso 274000 1971 
+Burundi 27800 1961 
+Burundi 27800 1962 
+Burundi 27800 1963 
+Burundi 27800 1964 
+Burundi 27800 1965 
+Burundi 27800 1966 
+Burundi 27800 1967 
+Burundi 27800 1968 
+Burundi 27800 1969 
+Burundi 27800 1970 
+Burundi 27800 1971 
+Cambodia 181000 1961 
+Cambodia 181000 1962 
+Cambodia 181000 1963 
+Cambodia 181000 1964 
+Cambodia 181000 1965 
+Cambodia 181000 1966 
+Cambodia 181000 1967 
+Cambodia 181000 1968 
+Cambodia 181000 1969 
+Cambodia 181000 1970 
+Cambodia 181000 1971 
+Cameroon 475000 1961 
+Cameroon 475000 1962 
+Cameroon 475000 1963 
+Cameroon 475000 1964 
+Cameroon 475000 1965 
+Cameroon 475000 1966 
+Cameroon 475000 1967 
+Cameroon 475000 1968 
+Cameroon 475000 1969 
+Cameroon 475000 1970 
+Cameroon 475000 1971 
+Canada 9980000 1961 
+Canada 9980000 1962 
+Canada 9980000 1963 
+Canada 9980000 1964 
+Canada 9980000 1965 
+Canada 9980000 1966 
+Canada 9980000 1967 
+Canada 9980000 1968 
+Canada 9980000 1969 
+Canada 9980000 1970 
+Canada 9980000 1971 
+Cape Verde 4030 1961 
+Cape Verde 4030 1962 
+Cape Verde 4030 1963 
+Cape Verde 4030 1964 
+Cape Verde 4030 1965 
+Cape Verde 4030 1966 
+Cape Verde 4030 1967 
+Cape Verde 4030 1968 
+Cape Verde 4030 1969 
+Cape Verde 4030 1970 
+Cape Verde 4030 1971 
+Central African Republic 623000 1961 
+Central African Republic 623000 1962 
+Central African Republic 623000 1963 
+Central African Republic 623000 1964 
+Central African Republic 623000 1965 
+Central African Republic 623000 1966 
+Central African Republic 623000 1967 
+Central African Republic 623000 1968 
+Central African Republic 623000 1969 
+Central African Republic 623000 1970 
+Central African Republic 623000 1971 
+Chad 1280000 1961 
+Chad 1280000 1962 
+Chad 1280000 1963 
+Chad 1280000 1964 
+Chad 1280000 1965 
+Chad 1280000 1966 
+Chad 1280000 1967 
+Chad 1280000 1968 
+Chad 1280000 1969 
+Chad 1280000 1970 
+Chad 1280000 1971 
+Chile 756000 1961 
+Chile 756000 1962 
+Chile 756000 1963 
+Chile 756000 1964 
+Chile 756000 1965 
+Chile 756000 1966 
+Chile 756000 1967 
+Chile 756000 1968 
+Chile 756000 1969 
+Chile 756000 1970 
+Chile 756000 1971 
+China 9560000 1961 
+China 9560000 1962 
+China 9560000 1963 
+China 9560000 1964 
+China 9560000 1965 
+China 9560000 1966 
+China 9560000 1967 
+China 9560000 1968 
+China 9560000 1969 
+China 9560000 1970 
+China 9560000 1971 
+Colombia 1140000 1961 
+Colombia 1140000 1962 
+Colombia 1140000 1963 
+Colombia 1140000 1964 
+Colombia 1140000 1965 
+Colombia 1140000 1966 
+Colombia 1140000 1967 
+Colombia 1140000 1968 
+Colombia 1140000 1969 
+Colombia 1140000 1970 
+Colombia 1140000 1971 
+Comoros 1860 1961 
+Comoros 1860 1962 
+Comoros 1860 1963 
+Comoros 1860 1964 
+Comoros 1860 1965 
+Comoros 1860 1966 
+Comoros 1860 1967 
+Comoros 1860 1968 
+Comoros 1860 1969 
+Comoros 1860 1970 
+Comoros 1860 1971 
+Congo Dem. Rep. 2340000 1961 
+Congo Dem. Rep. 2340000 1962 
+Congo Dem. Rep. 2340000 1963 
+Congo Dem. Rep. 2340000 1964 
+Congo Dem. Rep. 2340000 1965 
+Congo Dem. Rep. 2340000 1966 
+Congo Dem. Rep. 2340000 1967 
+Congo Dem. Rep. 2340000 1968 
+Congo Dem. Rep. 2340000 1969 
+Congo Dem. Rep. 2340000 1970 
+Congo Dem. Rep. 2340000 1971 
+Congo Rep. 342000 1961 
+Congo Rep. 342000 1962 
+Congo Rep. 342000 1963 
+Congo Rep. 342000 1964 
+Congo Rep. 342000 1965 
+Congo Rep. 342000 1966 
+Congo Rep. 342000 1967 
+Congo Rep. 342000 1968 
+Congo Rep. 342000 1969 
+Congo Rep. 342000 1970 
+Congo Rep. 342000 1971 
+Costa Rica 51100 1961 
+Costa Rica 51100 1962 
+Costa Rica 51100 1963 
+Costa Rica 51100 1964 
+Costa Rica 51100 1965 
+Costa Rica 51100 1966 
+Costa Rica 51100 1967 
+Costa Rica 51100 1968 
+Costa Rica 51100 1969 
+Costa Rica 51100 1970 
+Costa Rica 51100 1971 
+Cote d'Ivoire 322000 1961 
+Cote d'Ivoire 322000 1962 
+Cote d'Ivoire 322000 1963 
+Cote d'Ivoire 322000 1964 
+Cote d'Ivoire 322000 1965 
+Cote d'Ivoire 322000 1966 
+Cote d'Ivoire 322000 1967 
+Cote d'Ivoire 322000 1968 
+Cote d'Ivoire 322000 1969 
+Cote d'Ivoire 322000 1970 
+Cote d'Ivoire 322000 1971 
+Croatia 56500 1961 
+Croatia 56500 1962 
+Croatia 56500 1963 
+Croatia 56500 1964 
+Croatia 56500 1965 
+Croatia 56500 1966 
+Croatia 56500 1967 
+Croatia 56500 1968 
+Croatia 56500 1969 
+Croatia 56500 1970 
+Croatia 56500 1971 
+Cuba 110000 1961 
+Cuba 110000 1962 
+Cuba 110000 1963 
+Cuba 110000 1964 
+Cuba 110000 1965 
+Cuba 110000 1966 
+Cuba 110000 1967 
+Cuba 110000 1968 
+Cuba 110000 1969 
+Cuba 110000 1970 
+Cuba 110000 1971 
+Cyprus 9250 1961 
+Cyprus 9250 1962 
+Cyprus 9250 1963 
+Cyprus 9250 1964 
+Cyprus 9250 1965 
+Cyprus 9250 1966 
+Cyprus 9250 1967 
+Cyprus 9250 1968 
+Cyprus 9250 1969 
+Cyprus 9250 1970 
+Cyprus 9250 1971 
+Czech Republic 78900 1961 
+Czech Republic 78900 1962 
+Czech Republic 78900 1963 
+Czech Republic 78900 1964 
+Czech Republic 78900 1965 
+Czech Republic 78900 1966 
+Czech Republic 78900 1967 
+Czech Republic 78900 1968 
+Czech Republic 78900 1969 
+Czech Republic 78900 1970 
+Czech Republic 78900 1971 
+Denmark 43100 1961 
+Denmark 43100 1962 
+Denmark 43100 1963 
+Denmark 43100 1964 
+Denmark 43100 1965 
+Denmark 43100 1966 
+Denmark 43100 1967 
+Denmark 43100 1968 
+Denmark 43100 1969 
+Denmark 43100 1970 
+Denmark 43100 1971 
+Djibouti 23200 1961 
+Djibouti 23200 1962 
+Djibouti 23200 1963 
+Djibouti 23200 1964 
+Djibouti 23200 1965 
+Djibouti 23200 1966 
+Djibouti 23200 1967 
+Djibouti 23200 1968 
+Djibouti 23200 1969 
+Djibouti 23200 1970 
+Djibouti 23200 1971 
+Dominica 750 1961 
+Dominica 750 1962 
+Dominica 750 1963 
+Dominica 750 1964 
+Dominica 750 1965 
+Dominica 750 1966 
+Dominica 750 1967 
+Dominica 750 1968 
+Dominica 750 1969 
+Dominica 750 1970 
+Dominica 750 1971 
+Dominican Republic 48700 1961 
+Dominican Republic 48700 1962 
+Dominican Republic 48700 1963 
+Dominican Republic 48700 1964 
+Dominican Republic 48700 1965 
+Dominican Republic 48700 1966 
+Dominican Republic 48700 1967 
+Dominican Republic 48700 1968 
+Dominican Republic 48700 1969 
+Dominican Republic 48700 1970 
+Dominican Republic 48700 1971 
+Ecuador 284000 1961 
+Ecuador 284000 1962 
+Ecuador 284000 1963 
+Ecuador 284000 1964 
+Ecuador 284000 1965 
+Ecuador 284000 1966 
+Ecuador 284000 1967 
+Ecuador 284000 1968 
+Ecuador 284000 1969 
+Ecuador 284000 1970 
+Ecuador 284000 1971 
+Egypt 1000000 1961 
+Egypt 1000000 1962 
+Egypt 1000000 1963 
+Egypt 1000000 1964 
+Egypt 1000000 1965 
+Egypt 1000000 1966 
+Egypt 1000000 1967 
+Egypt 1000000 1968 
+Egypt 1000000 1969 
+Egypt 1000000 1970 
+Egypt 1000000 1971 
+El Salvador 21000 1961 
+El Salvador 21000 1962 
+El Salvador 21000 1963 
+El Salvador 21000 1964 
+El Salvador 21000 1965 
+El Salvador 21000 1966 
+El Salvador 21000 1967 
+El Salvador 21000 1968 
+El Salvador 21000 1969 
+El Salvador 21000 1970 
+El Salvador 21000 1971 
+Equatorial Guinea 28100 1961 
+Equatorial Guinea 28100 1962 
+Equatorial Guinea 28100 1963 
+Equatorial Guinea 28100 1964 
+Equatorial Guinea 28100 1965 
+Equatorial Guinea 28100 1966 
+Equatorial Guinea 28100 1967 
+Equatorial Guinea 28100 1968 
+Equatorial Guinea 28100 1969 
+Equatorial Guinea 28100 1970 
+Equatorial Guinea 28100 1971 
+Eritrea 118000 1961 
+Eritrea 118000 1962 
+Eritrea 118000 1963 
+Eritrea 118000 1964 
+Eritrea 118000 1965 
+Eritrea 118000 1966 
+Eritrea 118000 1967 
+Eritrea 118000 1968 
+Eritrea 118000 1969 
+Eritrea 118000 1970 
+Eritrea 118000 1971 
+Estonia 45200 1961 
+Estonia 45200 1962 
+Estonia 45200 1963 
+Estonia 45200 1964 
+Estonia 45200 1965 
+Estonia 45200 1966 
+Estonia 45200 1967 
+Estonia 45200 1968 
+Estonia 45200 1969 
+Estonia 45200 1970 
+Estonia 45200 1971 
+Eswatini 17400 1961 
+Eswatini 17400 1962 
+Eswatini 17400 1963 
+Eswatini 17400 1964 
+Eswatini 17400 1965 
+Eswatini 17400 1966 
+Eswatini 17400 1967 
+Eswatini 17400 1968 
+Eswatini 17400 1969 
+Eswatini 17400 1970 
+Eswatini 17400 1971 
+Ethiopia 1100000 1961 
+Ethiopia 1100000 1962 
+Ethiopia 1100000 1963 
+Ethiopia 1100000 1964 
+Ethiopia 1100000 1965 
+Ethiopia 1100000 1966 
+Ethiopia 1100000 1967 
+Ethiopia 1100000 1968 
+Ethiopia 1100000 1969 
+Ethiopia 1100000 1970 
+Ethiopia 1100000 1971 
+Fiji 18300 1961 
+Fiji 18300 1962 
+Fiji 18300 1963 
+Fiji 18300 1964 
+Fiji 18300 1965 
+Fiji 18300 1966 
+Fiji 18300 1967 
+Fiji 18300 1968 
+Fiji 18300 1969 
+Fiji 18300 1970 
+Fiji 18300 1971 
+Finland 338000 1961 
+Finland 338000 1962 
+Finland 338000 1963 
+Finland 338000 1964 
+Finland 338000 1965 
+Finland 338000 1966 
+Finland 338000 1967 
+Finland 338000 1968 
+Finland 338000 1969 
+Finland 338000 1970 
+Finland 338000 1971 
+France 549000 1961 
+France 549000 1962 
+France 549000 1963 
+France 549000 1964 
+France 549000 1965 
+France 549000 1966 
+France 549000 1967 
+France 549000 1968 
+France 549000 1969 
+France 549000 1970 
+France 549000 1971 
+Gabon 268000 1961 
+Gabon 268000 1962 
+Gabon 268000 1963 
+Gabon 268000 1964 
+Gabon 268000 1965 
+Gabon 268000 1966 
+Gabon 268000 1967 
+Gabon 268000 1968 
+Gabon 268000 1969 
+Gabon 268000 1970 
+Gabon 268000 1971 
+Gambia 11300 1961 
+Gambia 11300 1962 
+Gambia 11300 1963 
+Gambia 11300 1964 
+Gambia 11300 1965 
+Gambia 11300 1966 
+Gambia 11300 1967 
+Gambia 11300 1968 
+Gambia 11300 1969 
+Gambia 11300 1970 
+Gambia 11300 1971 
+Georgia 69700 1961 
+Georgia 69700 1962 
+Georgia 69700 1963 
+Georgia 69700 1964 
+Georgia 69700 1965 
+Georgia 69700 1966 
+Georgia 69700 1967 
+Georgia 69700 1968 
+Georgia 69700 1969 
+Georgia 69700 1970 
+Georgia 69700 1971 
+Germany 357000 1961 
+Germany 357000 1962 
+Germany 357000 1963 
+Germany 357000 1964 
+Germany 357000 1965 
+Germany 357000 1966 
+Germany 357000 1967 
+Germany 357000 1968 
+Germany 357000 1969 
+Germany 357000 1970 
+Germany 357000 1971 
+Ghana 239000 1961 
+Ghana 239000 1962 
+Ghana 239000 1963 
+Ghana 239000 1964 
+Ghana 239000 1965 
+Ghana 239000 1966 
+Ghana 239000 1967 
+Ghana 239000 1968 
+Ghana 239000 1969 
+Ghana 239000 1970 
+Ghana 239000 1971 
+Greece 132000 1961 
+Greece 132000 1962 
+Greece 132000 1963 
+Greece 132000 1964 
+Greece 132000 1965 
+Greece 132000 1966 
+Greece 132000 1967 
+Greece 132000 1968 
+Greece 132000 1969 
+Greece 132000 1970 
+Greece 132000 1971 
+Grenada 340 1961 
+Grenada 340 1962 
+Grenada 340 1963 
+Grenada 340 1964 
+Grenada 340 1965 
+Grenada 340 1966 
+Grenada 340 1967 
+Grenada 340 1968 
+Grenada 340 1969 
+Grenada 340 1970 
+Grenada 340 1971 
+Guatemala 109000 1961 
+Guatemala 109000 1962 
+Guatemala 109000 1963 
+Guatemala 109000 1964 
+Guatemala 109000 1965 
+Guatemala 109000 1966 
+Guatemala 109000 1967 
+Guatemala 109000 1968 
+Guatemala 109000 1969 
+Guatemala 109000 1970 
+Guatemala 109000 1971 
+Guinea 246000 1961 
+Guinea 246000 1962 
+Guinea 246000 1963 
+Guinea 246000 1964 
+Guinea 246000 1965 
+Guinea 246000 1966 
+Guinea 246000 1967 
+Guinea 246000 1968 
+Guinea 246000 1969 
+Guinea 246000 1970 
+Guinea 246000 1971 
+Guinea-Bissau 36100 1961 
+Guinea-Bissau 36100 1962 
+Guinea-Bissau 36100 1963 
+Guinea-Bissau 36100 1964 
+Guinea-Bissau 36100 1965 
+Guinea-Bissau 36100 1966 
+Guinea-Bissau 36100 1967 
+Guinea-Bissau 36100 1968 
+Guinea-Bissau 36100 1969 
+Guinea-Bissau 36100 1970 
+Guinea-Bissau 36100 1971 
+Guyana 215000 1961 
+Guyana 215000 1962 
+Guyana 215000 1963 
+Guyana 215000 1964 
+Guyana 215000 1965 
+Guyana 215000 1966 
+Guyana 215000 1967 
+Guyana 215000 1968 
+Guyana 215000 1969 
+Guyana 215000 1970 
+Guyana 215000 1971 
+Haiti 27800 1961 
+Haiti 27800 1962 
+Haiti 27800 1963 
+Haiti 27800 1964 
+Haiti 27800 1965 
+Haiti 27800 1966 
+Haiti 27800 1967 
+Haiti 27800 1968 
+Haiti 27800 1969 
+Haiti 27800 1970 
+Haiti 27800 1971 
+Honduras 112000 1961 
+Honduras 112000 1962 
+Honduras 112000 1963 
+Honduras 112000 1964 
+Honduras 112000 1965 
+Honduras 112000 1966 
+Honduras 112000 1967 
+Honduras 112000 1968 
+Honduras 112000 1969 
+Honduras 112000 1970 
+Honduras 112000 1971 
+Hungary 93000 1961 
+Hungary 93000 1962 
+Hungary 93000 1963 
+Hungary 93000 1964 
+Hungary 93000 1965 
+Hungary 93000 1966 
+Hungary 93000 1967 
+Hungary 93000 1968 
+Hungary 93000 1969 
+Hungary 93000 1970 
+Hungary 93000 1971 
+Iceland 103000 1961 
+Iceland 103000 1962 
+Iceland 103000 1963 
+Iceland 103000 1964 
+Iceland 103000 1965 
+Iceland 103000 1966 
+Iceland 103000 1967 
+Iceland 103000 1968 
+Iceland 103000 1969 
+Iceland 103000 1970 
+Iceland 103000 1971 
+India 3290000 1961 
+India 3290000 1962 
+India 3290000 1963 
+India 3290000 1964 
+India 3290000 1965 
+India 3290000 1966 
+India 3290000 1967 
+India 3290000 1968 
+India 3290000 1969 
+India 3290000 1970 
+India 3290000 1971 
+Indonesia 1910000 1961 
+Indonesia 1910000 1962 
+Indonesia 1910000 1963 
+Indonesia 1910000 1964 
+Indonesia 1910000 1965 
+Indonesia 1910000 1966 
+Indonesia 1910000 1967 
+Indonesia 1910000 1968 
+Indonesia 1910000 1969 
+Indonesia 1910000 1970 
+Indonesia 1910000 1971 
+Iran 1750000 1961 
+Iran 1750000 1962 
+Iran 1750000 1963 
+Iran 1750000 1964 
+Iran 1750000 1965 
+Iran 1750000 1966 
+Iran 1750000 1967 
+Iran 1750000 1968 
+Iran 1750000 1969 
+Iran 1750000 1970 
+Iran 1750000 1971 
+Iraq 438000 1961 
+Iraq 438000 1962 
+Iraq 438000 1963 
+Iraq 438000 1964 
+Iraq 438000 1965 
+Iraq 438000 1966 
+Iraq 438000 1967 
+Iraq 438000 1968 
+Iraq 438000 1969 
+Iraq 438000 1970 
+Iraq 438000 1971 
+Ireland 70300 1961 
+Ireland 70300 1962 
+Ireland 70300 1963 
+Ireland 70300 1964 
+Ireland 70300 1965 
+Ireland 70300 1966 
+Ireland 70300 1967 
+Ireland 70300 1968 
+Ireland 70300 1969 
+Ireland 70300 1970 
+Ireland 70300 1971 
+Israel 22100 1961 
+Israel 22100 1962 
+Israel 22100 1963 
+Israel 22100 1964 
+Israel 22100 1965 
+Israel 22100 1966 
+Israel 22100 1967 
+Israel 22100 1968 
+Israel 22100 1969 
+Israel 22100 1970 
+Israel 22100 1971 
+Italy 301000 1961 
+Italy 301000 1962 
+Italy 301000 1963 
+Italy 301000 1964 
+Italy 301000 1965 
+Italy 301000 1966 
+Italy 301000 1967 
+Italy 301000 1968 
+Italy 301000 1969 
+Italy 301000 1970 
+Italy 301000 1971 
+Jamaica 11000 1961 
+Jamaica 11000 1962 
+Jamaica 11000 1963 
+Jamaica 11000 1964 
+Jamaica 11000 1965 
+Jamaica 11000 1966 
+Jamaica 11000 1967 
+Jamaica 11000 1968 
+Jamaica 11000 1969 
+Jamaica 11000 1970 
+Jamaica 11000 1971 
+Japan 378000 1961 
+Japan 378000 1962 
+Japan 378000 1963 
+Japan 378000 1964 
+Japan 378000 1965 
+Japan 378000 1966 
+Japan 378000 1967 
+Japan 378000 1968 
+Japan 378000 1969 
+Japan 378000 1970 
+Japan 378000 1971 
+Jordan 88800 1961 
+Jordan 88800 1962 
+Jordan 88800 1963 
+Jordan 88800 1964 
+Jordan 88800 1965 
+Jordan 88800 1966 
+Jordan 88800 1967 
+Jordan 88800 1968 
+Jordan 88800 1969 
+Jordan 88800 1970 
+Jordan 88800 1971 
+Kazakhstan 2720000 1961 
+Kazakhstan 2720000 1962 
+Kazakhstan 2720000 1963 
+Kazakhstan 2720000 1964 
+Kazakhstan 2720000 1965 
+Kazakhstan 2720000 1966 
+Kazakhstan 2720000 1967 
+Kazakhstan 2720000 1968 
+Kazakhstan 2720000 1969 
+Kazakhstan 2720000 1970 
+Kazakhstan 2720000 1971 
+Kenya 580000 1961 
+Kenya 580000 1962 
+Kenya 580000 1963 
+Kenya 580000 1964 
+Kenya 580000 1965 
+Kenya 580000 1966 
+Kenya 580000 1967 
+Kenya 580000 1968 
+Kenya 580000 1969 
+Kenya 580000 1970 
+Kenya 580000 1971 
+Kiribati 810 1961 
+Kiribati 810 1962 
+Kiribati 810 1963 
+Kiribati 810 1964 
+Kiribati 810 1965 
+Kiribati 810 1966 
+Kiribati 810 1967 
+Kiribati 810 1968 
+Kiribati 810 1969 
+Kiribati 810 1970 
+Kiribati 810 1971 
+Kuwait 17800 1961 
+Kuwait 17800 1962 
+Kuwait 17800 1963 
+Kuwait 17800 1964 
+Kuwait 17800 1965 
+Kuwait 17800 1966 
+Kuwait 17800 1967 
+Kuwait 17800 1968 
+Kuwait 17800 1969 
+Kuwait 17800 1970 
+Kuwait 17800 1971 
+Kyrgyz Republic 200000 1961 
+Kyrgyz Republic 200000 1962 
+Kyrgyz Republic 200000 1963 
+Kyrgyz Republic 200000 1964 
+Kyrgyz Republic 200000 1965 
+Kyrgyz Republic 200000 1966 
+Kyrgyz Republic 200000 1967 
+Kyrgyz Republic 200000 1968 
+Kyrgyz Republic 200000 1969 
+Kyrgyz Republic 200000 1970 
+Kyrgyz Republic 200000 1971 
+Lao 237000 1961 
+Lao 237000 1962 
+Lao 237000 1963 
+Lao 237000 1964 
+Lao 237000 1965 
+Lao 237000 1966 
+Lao 237000 1967 
+Lao 237000 1968 
+Lao 237000 1969 
+Lao 237000 1970 
+Lao 237000 1971 
+Latvia 64600 1961 
+Latvia 64600 1962 
+Latvia 64600 1963 
+Latvia 64600 1964 
+Latvia 64600 1965 
+Latvia 64600 1966 
+Latvia 64600 1967 
+Latvia 64600 1968 
+Latvia 64600 1969 
+Latvia 64600 1970 
+Latvia 64600 1971 
+Lebanon 10500 1961 
+Lebanon 10500 1962 
+Lebanon 10500 1963 
+Lebanon 10500 1964 
+Lebanon 10500 1965 
+Lebanon 10500 1966 
+Lebanon 10500 1967 
+Lebanon 10500 1968 
+Lebanon 10500 1969 
+Lebanon 10500 1970 
+Lebanon 10500 1971 
+Lesotho 30400 1961 
+Lesotho 30400 1962 
+Lesotho 30400 1963 
+Lesotho 30400 1964 
+Lesotho 30400 1965 
+Lesotho 30400 1966 
+Lesotho 30400 1967 
+Lesotho 30400 1968 
+Lesotho 30400 1969 
+Lesotho 30400 1970 
+Lesotho 30400 1971 
+Liberia 111000 1961 
+Liberia 111000 1962 
+Liberia 111000 1963 
+Liberia 111000 1964 
+Liberia 111000 1965 
+Liberia 111000 1966 
+Liberia 111000 1967 
+Liberia 111000 1968 
+Liberia 111000 1969 
+Liberia 111000 1970 
+Liberia 111000 1971 
+Libya 1760000 1961 
+Libya 1760000 1962 
+Libya 1760000 1963 
+Libya 1760000 1964 
+Libya 1760000 1965 
+Libya 1760000 1966 
+Libya 1760000 1967 
+Libya 1760000 1968 
+Libya 1760000 1969 
+Libya 1760000 1970 
+Libya 1760000 1971 
+Liechtenstein 160 1961 
+Liechtenstein 160 1962 
+Liechtenstein 160 1963 
+Liechtenstein 160 1964 
+Liechtenstein 160 1965 
+Liechtenstein 160 1966 
+Liechtenstein 160 1967 
+Liechtenstein 160 1968 
+Liechtenstein 160 1969 
+Liechtenstein 160 1970 
+Liechtenstein 160 1971 
+Lithuania 65300 1961 
+Lithuania 65300 1962 
+Lithuania 65300 1963 
+Lithuania 65300 1964 
+Lithuania 65300 1965 
+Lithuania 65300 1966 
+Lithuania 65300 1967 
+Lithuania 65300 1968 
+Lithuania 65300 1969 
+Lithuania 65300 1970 
+Lithuania 65300 1971 
+Luxembourg  1961 
+Luxembourg  1962 
+Luxembourg  1963 
+Luxembourg  1964 
+Luxembourg  1965 
+Luxembourg  1966 
+Luxembourg  1967 
+Luxembourg  1968 
+Luxembourg  1969 
+Luxembourg  1970 
+Luxembourg  1971 
+Madagascar 587000 1961 
+Madagascar 587000 1962 
+Madagascar 587000 1963 
+Madagascar 587000 1964 
+Madagascar 587000 1965 
+Madagascar 587000 1966 
+Madagascar 587000 1967 
+Madagascar 587000 1968 
+Madagascar 587000 1969 
+Madagascar 587000 1970 
+Madagascar 587000 1971 
+Malawi 118000 1961 
+Malawi 118000 1962 
+Malawi 118000 1963 
+Malawi 118000 1964 
+Malawi 118000 1965 
+Malawi 118000 1966 
+Malawi 118000 1967 
+Malawi 118000 1968 
+Malawi 118000 1969 
+Malawi 118000 1970 
+Malawi 118000 1971 
+Malaysia 331000 1961 
+Malaysia 331000 1962 
+Malaysia 331000 1963 
+Malaysia 331000 1964 
+Malaysia 331000 1965 
+Malaysia 331000 1966 
+Malaysia 331000 1967 
+Malaysia 331000 1968 
+Malaysia 331000 1969 
+Malaysia 331000 1970 
+Malaysia 331000 1971 
+Maldives 300 1961 
+Maldives 300 1962 
+Maldives 300 1963 
+Maldives 300 1964 
+Maldives 300 1965 
+Maldives 300 1966 
+Maldives 300 1967 
+Maldives 300 1968 
+Maldives 300 1969 
+Maldives 300 1970 
+Maldives 300 1971 
+Mali 1240000 1961 
+Mali 1240000 1962 
+Mali 1240000 1963 
+Mali 1240000 1964 
+Mali 1240000 1965 
+Mali 1240000 1966 
+Mali 1240000 1967 
+Mali 1240000 1968 
+Mali 1240000 1969 
+Mali 1240000 1970 
+Mali 1240000 1971 
+Malta 320 1961 
+Malta 320 1962 
+Malta 320 1963 
+Malta 320 1964 
+Malta 320 1965 
+Malta 320 1966 
+Malta 320 1967 
+Malta 320 1968 
+Malta 320 1969 
+Malta 320 1970 
+Malta 320 1971 
+Marshall Islands  1961 
+Marshall Islands  1962 
+Marshall Islands  1963 
+Marshall Islands  1964 
+Marshall Islands  1965 
+Marshall Islands  1966 
+Marshall Islands  1967 
+Marshall Islands  1968 
+Marshall Islands  1969 
+Marshall Islands  1970 
+Marshall Islands  1971 
+Mauritania 1030000 1961 
+Mauritania 1030000 1962 
+Mauritania 1030000 1963 
+Mauritania 1030000 1964 
+Mauritania 1030000 1965 
+Mauritania 1030000 1966 
+Mauritania 1030000 1967 
+Mauritania 1030000 1968 
+Mauritania 1030000 1969 
+Mauritania 1030000 1970 
+Mauritania 1030000 1971 
+Mauritius 2040 1961 
+Mauritius 2040 1962 
+Mauritius 2040 1963 
+Mauritius 2040 1964 
+Mauritius 2040 1965 
+Mauritius 2040 1966 
+Mauritius 2040 1967 
+Mauritius 2040 1968 
+Mauritius 2040 1969 
+Mauritius 2040 1970 
+Mauritius 2040 1971 
+Mexico 1960000 1961 
+Mexico 1960000 1962 
+Mexico 1960000 1963 
+Mexico 1960000 1964 
+Mexico 1960000 1965 
+Mexico 1960000 1966 
+Mexico 1960000 1967 
+Mexico 1960000 1968 
+Mexico 1960000 1969 
+Mexico 1960000 1970 
+Mexico 1960000 1971 
+Micronesia Fed. Sts.  1961 
+Micronesia Fed. Sts.  1962 
+Micronesia Fed. Sts.  1963 
+Micronesia Fed. Sts.  1964 
+Micronesia Fed. Sts.  1965 
+Micronesia Fed. Sts.  1966 
+Micronesia Fed. Sts.  1967 
+Micronesia Fed. Sts.  1968 
+Micronesia Fed. Sts.  1969 
+Micronesia Fed. Sts.  1970 
+Micronesia Fed. Sts.  1971 
+Moldova 33800 1961 
+Moldova 33800 1962 
+Moldova 33800 1963 
+Moldova 33800 1964 
+Moldova 33800 1965 
+Moldova 33800 1966 
+Moldova 33800 1967 
+Moldova 33800 1968 
+Moldova 33800 1969 
+Moldova 33800 1970 
+Moldova 33800 1971 
+Monaco 2 1961 
+Monaco 2 1962 
+Monaco 2 1963 
+Monaco 2 1964 
+Monaco 2 1965 
+Monaco 2 1966 
+Monaco 2 1967 
+Monaco 2 1968 
+Monaco 2 1969 
+Monaco 2 1970 
+Monaco 2 1971 
+Mongolia 1560000 1961 
+Mongolia 1560000 1962 
+Mongolia 1560000 1963 
+Mongolia 1560000 1964 
+Mongolia 1560000 1965 
+Mongolia 1560000 1966 
+Mongolia 1560000 1967 
+Mongolia 1560000 1968 
+Mongolia 1560000 1969 
+Mongolia 1560000 1970 
+Mongolia 1560000 1971 
+Montenegro 13800 1961 
+Montenegro 13800 1962 
+Montenegro 13800 1963 
+Montenegro 13800 1964 
+Montenegro 13800 1965 
+Montenegro 13800 1966 
+Montenegro 13800 1967 
+Montenegro 13800 1968 
+Montenegro 13800 1969 
+Montenegro 13800 1970 
+Montenegro 13800 1971 
+Morocco 447000 1961 
+Morocco 447000 1962 
+Morocco 447000 1963 
+Morocco 447000 1964 
+Morocco 447000 1965 
+Morocco 447000 1966 
+Morocco 447000 1967 
+Morocco 447000 1968 
+Morocco 447000 1969 
+Morocco 447000 1970 
+Morocco 447000 1971 
+Mozambique 799000 1961 
+Mozambique 799000 1962 
+Mozambique 799000 1963 
+Mozambique 799000 1964 
+Mozambique 799000 1965 
+Mozambique 799000 1966 
+Mozambique 799000 1967 
+Mozambique 799000 1968 
+Mozambique 799000 1969 
+Mozambique 799000 1970 
+Mozambique 799000 1971 
+Myanmar 677000 1961 
+Myanmar 677000 1962 
+Myanmar 677000 1963 
+Myanmar 677000 1964 
+Myanmar 677000 1965 
+Myanmar 677000 1966 
+Myanmar 677000 1967 
+Myanmar 677000 1968 
+Myanmar 677000 1969 
+Myanmar 677000 1970 
+Myanmar 677000 1971 
+Namibia 824000 1961 
+Namibia 824000 1962 
+Namibia 824000 1963 
+Namibia 824000 1964 
+Namibia 824000 1965 
+Namibia 824000 1966 
+Namibia 824000 1967 
+Namibia 824000 1968 
+Namibia 824000 1969 
+Namibia 824000 1970 
+Namibia 824000 1971 
+Nauru 20 1961 
+Nauru 20 1962 
+Nauru 20 1963 
+Nauru 20 1964 
+Nauru 20 1965 
+Nauru 20 1966 
+Nauru 20 1967 
+Nauru 20 1968 
+Nauru 20 1969 
+Nauru 20 1970 
+Nauru 20 1971 
+Nepal 147000 1961 
+Nepal 147000 1962 
+Nepal 147000 1963 
+Nepal 147000 1964 
+Nepal 147000 1965 
+Nepal 147000 1966 
+Nepal 147000 1967 
+Nepal 147000 1968 
+Nepal 147000 1969 
+Nepal 147000 1970 
+Nepal 147000 1971 
+Netherlands 41500 1961 
+Netherlands 41500 1962 
+Netherlands 41500 1963 
+Netherlands 41500 1964 
+Netherlands 41500 1965 
+Netherlands 41500 1966 
+Netherlands 41500 1967 
+Netherlands 41500 1968 
+Netherlands 41500 1969 
+Netherlands 41500 1970 
+Netherlands 41500 1971 
+New Zealand 268000 1961 
+New Zealand 268000 1962 
+New Zealand 268000 1963 
+New Zealand 268000 1964 
+New Zealand 268000 1965 
+New Zealand 268000 1966 
+New Zealand 268000 1967 
+New Zealand 268000 1968 
+New Zealand 268000 1969 
+New Zealand 268000 1970 
+New Zealand 268000 1971 
+Nicaragua 130000 1961 
+Nicaragua 130000 1962 
+Nicaragua 130000 1963 
+Nicaragua 130000 1964 
+Nicaragua 130000 1965 
+Nicaragua 130000 1966 
+Nicaragua 130000 1967 
+Nicaragua 130000 1968 
+Nicaragua 130000 1969 
+Nicaragua 130000 1970 
+Nicaragua 130000 1971 
+Niger 1270000 1961 
+Niger 1270000 1962 
+Niger 1270000 1963 
+Niger 1270000 1964 
+Niger 1270000 1965 
+Niger 1270000 1966 
+Niger 1270000 1967 
+Niger 1270000 1968 
+Niger 1270000 1969 
+Niger 1270000 1970 
+Niger 1270000 1971 
+Nigeria 924000 1961 
+Nigeria 924000 1962 
+Nigeria 924000 1963 
+Nigeria 924000 1964 
+Nigeria 924000 1965 
+Nigeria 924000 1966 
+Nigeria 924000 1967 
+Nigeria 924000 1968 
+Nigeria 924000 1969 
+Nigeria 924000 1970 
+Nigeria 924000 1971 
+North Korea 121000 1961 
+North Korea 121000 1962 
+North Korea 121000 1963 
+North Korea 121000 1964 
+North Korea 121000 1965 
+North Korea 121000 1966 
+North Korea 121000 1967 
+North Korea 121000 1968 
+North Korea 121000 1969 
+North Korea 121000 1970 
+North Korea 121000 1971 
+North Macedonia 25700 1961 
+North Macedonia 25700 1962 
+North Macedonia 25700 1963 
+North Macedonia 25700 1964 
+North Macedonia 25700 1965 
+North Macedonia 25700 1966 
+North Macedonia 25700 1967 
+North Macedonia 25700 1968 
+North Macedonia 25700 1969 
+North Macedonia 25700 1970 
+North Macedonia 25700 1971 
+Norway 385000 1961 
+Norway 385000 1962 
+Norway 385000 1963 
+Norway 385000 1964 
+Norway 385000 1965 
+Norway 385000 1966 
+Norway 385000 1967 
+Norway 385000 1968 
+Norway 385000 1969 
+Norway 385000 1970 
+Norway 385000 1971 
+Oman 310000 1961 
+Oman 310000 1962 
+Oman 310000 1963 
+Oman 310000 1964 
+Oman 310000 1965 
+Oman 310000 1966 
+Oman 310000 1967 
+Oman 310000 1968 
+Oman 310000 1969 
+Oman 310000 1970 
+Oman 310000 1971 
+Pakistan 796000 1961 
+Pakistan 796000 1962 
+Pakistan 796000 1963 
+Pakistan 796000 1964 
+Pakistan 796000 1965 
+Pakistan 796000 1966 
+Pakistan 796000 1967 
+Pakistan 796000 1968 
+Pakistan 796000 1969 
+Pakistan 796000 1970 
+Pakistan 796000 1971 
+Palau  1961 
+Palau  1962 
+Palau  1963 
+Palau  1964 
+Palau  1965 
+Palau  1966 
+Palau  1967 
+Palau  1968 
+Palau  1969 
+Palau  1970 
+Palau  1971 
+Palestine 6020 1961 
+Palestine 6020 1962 
+Palestine 6020 1963 
+Palestine 6020 1964 
+Palestine 6020 1965 
+Palestine 6020 1966 
+Palestine 6020 1967 
+Palestine 6020 1968 
+Palestine 6020 1969 
+Palestine 6020 1970 
+Palestine 6020 1971 
+Panama 75400 1961 
+Panama 75400 1962 
+Panama 75400 1963 
+Panama 75400 1964 
+Panama 75400 1965 
+Panama 75400 1966 
+Panama 75400 1967 
+Panama 75400 1968 
+Panama 75400 1969 
+Panama 75400 1970 
+Panama 75400 1971 
+Papua New Guinea 463000 1961 
+Papua New Guinea 463000 1962 
+Papua New Guinea 463000 1963 
+Papua New Guinea 463000 1964 
+Papua New Guinea 463000 1965 
+Papua New Guinea 463000 1966 
+Papua New Guinea 463000 1967 
+Papua New Guinea 463000 1968 
+Papua New Guinea 463000 1969 
+Papua New Guinea 463000 1970 
+Papua New Guinea 463000 1971 
+Paraguay 407000 1961 
+Paraguay 407000 1962 
+Paraguay 407000 1963 
+Paraguay 407000 1964 
+Paraguay 407000 1965 
+Paraguay 407000 1966 
+Paraguay 407000 1967 
+Paraguay 407000 1968 
+Paraguay 407000 1969 
+Paraguay 407000 1970 
+Paraguay 407000 1971 
+Peru 1290000 1961 
+Peru 1290000 1962 
+Peru 1290000 1963 
+Peru 1290000 1964 
+Peru 1290000 1965 
+Peru 1290000 1966 
+Peru 1290000 1967 
+Peru 1290000 1968 
+Peru 1290000 1969 
+Peru 1290000 1970 
+Peru 1290000 1971 
+Philippines 300000 1961 
+Philippines 300000 1962 
+Philippines 300000 1963 
+Philippines 300000 1964 
+Philippines 300000 1965 
+Philippines 300000 1966 
+Philippines 300000 1967 
+Philippines 300000 1968 
+Philippines 300000 1969 
+Philippines 300000 1970 
+Philippines 300000 1971 
+Poland 313000 1961 
+Poland 313000 1962 
+Poland 313000 1963 
+Poland 313000 1964 
+Poland 313000 1965 
+Poland 313000 1966 
+Poland 313000 1967 
+Poland 313000 1968 
+Poland 313000 1969 
+Poland 313000 1970 
+Poland 313000 1971 
+Portugal 92100 1961 
+Portugal 92100 1962 
+Portugal 92100 1963 
+Portugal 92100 1964 
+Portugal 92100 1965 
+Portugal 92100 1966 
+Portugal 92100 1967 
+Portugal 92100 1968 
+Portugal 92100 1969 
+Portugal 92100 1970 
+Portugal 92100 1971 
+Qatar 11600 1961 
+Qatar 11600 1962 
+Qatar 11600 1963 
+Qatar 11600 1964 
+Qatar 11600 1965 
+Qatar 11600 1966 
+Qatar 11600 1967 
+Qatar 11600 1968 
+Qatar 11600 1969 
+Qatar 11600 1970 
+Qatar 11600 1971 
+Romania 238000 1961 
+Romania 238000 1962 
+Romania 238000 1963 
+Romania 238000 1964 
+Romania 238000 1965 
+Romania 238000 1966 
+Romania 238000 1967 
+Romania 238000 1968 
+Romania 238000 1969 
+Romania 238000 1970 
+Romania 238000 1971 
+Russia 17100000 1961 
+Russia 17100000 1962 
+Russia 17100000 1963 
+Russia 17100000 1964 
+Russia 17100000 1965 
+Russia 17100000 1966 
+Russia 17100000 1967 
+Russia 17100000 1968 
+Russia 17100000 1969 
+Russia 17100000 1970 
+Russia 17100000 1971 
+Rwanda 26300 1961 
+Rwanda 26300 1962 
+Rwanda 26300 1963 
+Rwanda 26300 1964 
+Rwanda 26300 1965 
+Rwanda 26300 1966 
+Rwanda 26300 1967 
+Rwanda 26300 1968 
+Rwanda 26300 1969 
+Rwanda 26300 1970 
+Rwanda 26300 1971 
+Samoa 2840 1961 
+Samoa 2840 1962 
+Samoa 2840 1963 
+Samoa 2840 1964 
+Samoa 2840 1965 
+Samoa 2840 1966 
+Samoa 2840 1967 
+Samoa 2840 1968 
+Samoa 2840 1969 
+Samoa 2840 1970 
+Samoa 2840 1971 
+San Marino 60 1961 
+San Marino 60 1962 
+San Marino 60 1963 
+San Marino 60 1964 
+San Marino 60 1965 
+San Marino 60 1966 
+San Marino 60 1967 
+San Marino 60 1968 
+San Marino 60 1969 
+San Marino 60 1970 
+San Marino 60 1971 
+Sao Tome and Principe 960 1961 
+Sao Tome and Principe 960 1962 
+Sao Tome and Principe 960 1963 
+Sao Tome and Principe 960 1964 
+Sao Tome and Principe 960 1965 
+Sao Tome and Principe 960 1966 
+Sao Tome and Principe 960 1967 
+Sao Tome and Principe 960 1968 
+Sao Tome and Principe 960 1969 
+Sao Tome and Principe 960 1970 
+Sao Tome and Principe 960 1971 
+Saudi Arabia 2150000 1961 
+Saudi Arabia 2150000 1962 
+Saudi Arabia 2150000 1963 
+Saudi Arabia 2150000 1964 
+Saudi Arabia 2150000 1965 
+Saudi Arabia 2150000 1966 
+Saudi Arabia 2150000 1967 
+Saudi Arabia 2150000 1968 
+Saudi Arabia 2150000 1969 
+Saudi Arabia 2150000 1970 
+Saudi Arabia 2150000 1971 
+Senegal 197000 1961 
+Senegal 197000 1962 
+Senegal 197000 1963 
+Senegal 197000 1964 
+Senegal 197000 1965 
+Senegal 197000 1966 
+Senegal 197000 1967 
+Senegal 197000 1968 
+Senegal 197000 1969 
+Senegal 197000 1970 
+Senegal 197000 1971 
+Serbia 88400 1961 
+Serbia 88400 1962 
+Serbia 88400 1963 
+Serbia 88400 1964 
+Serbia 88400 1965 
+Serbia 88400 1966 
+Serbia 88400 1967 
+Serbia 88400 1968 
+Serbia 88400 1969 
+Serbia 88400 1970 
+Serbia 88400 1971 
+Seychelles 460 1961 
+Seychelles 460 1962 
+Seychelles 460 1963 
+Seychelles 460 1964 
+Seychelles 460 1965 
+Seychelles 460 1966 
+Seychelles 460 1967 
+Seychelles 460 1968 
+Seychelles 460 1969 
+Seychelles 460 1970 
+Seychelles 460 1971 
+Sierra Leone 72300 1961 
+Sierra Leone 72300 1962 
+Sierra Leone 72300 1963 
+Sierra Leone 72300 1964 
+Sierra Leone 72300 1965 
+Sierra Leone 72300 1966 
+Sierra Leone 72300 1967 
+Sierra Leone 72300 1968 
+Sierra Leone 72300 1969 
+Sierra Leone 72300 1970 
+Sierra Leone 72300 1971 
+Singapore 680 1961 
+Singapore 680 1962 
+Singapore 680 1963 
+Singapore 680 1964 
+Singapore 680 1965 
+Singapore 680 1966 
+Singapore 680 1967 
+Singapore 680 1968 
+Singapore 680 1969 
+Singapore 680 1970 
+Singapore 680 1971 
+Slovak Republic 49000 1961 
+Slovak Republic 49000 1962 
+Slovak Republic 49000 1963 
+Slovak Republic 49000 1964 
+Slovak Republic 49000 1965 
+Slovak Republic 49000 1966 
+Slovak Republic 49000 1967 
+Slovak Republic 49000 1968 
+Slovak Republic 49000 1969 
+Slovak Republic 49000 1970 
+Slovak Republic 49000 1971 
+Slovenia 20300 1961 
+Slovenia 20300 1962 
+Slovenia 20300 1963 
+Slovenia 20300 1964 
+Slovenia 20300 1965 
+Slovenia 20300 1966 
+Slovenia 20300 1967 
+Slovenia 20300 1968 
+Slovenia 20300 1969 
+Slovenia 20300 1970 
+Slovenia 20300 1971 
+Solomon Islands 28900 1961 
+Solomon Islands 28900 1962 
+Solomon Islands 28900 1963 
+Solomon Islands 28900 1964 
+Solomon Islands 28900 1965 
+Solomon Islands 28900 1966 
+Solomon Islands 28900 1967 
+Solomon Islands 28900 1968 
+Solomon Islands 28900 1969 
+Solomon Islands 28900 1970 
+Solomon Islands 28900 1971 
+Somalia 638000 1961 
+Somalia 638000 1962 
+Somalia 638000 1963 
+Somalia 638000 1964 
+Somalia 638000 1965 
+Somalia 638000 1966 
+Somalia 638000 1967 
+Somalia 638000 1968 
+Somalia 638000 1969 
+Somalia 638000 1970 
+Somalia 638000 1971 
+South Africa 1220000 1961 
+South Africa 1220000 1962 
+South Africa 1220000 1963 
+South Africa 1220000 1964 
+South Africa 1220000 1965 
+South Africa 1220000 1966 
+South Africa 1220000 1967 
+South Africa 1220000 1968 
+South Africa 1220000 1969 
+South Africa 1220000 1970 
+South Africa 1220000 1971 
+South Korea 99300 1961 
+South Korea 99300 1962 
+South Korea 99300 1963 
+South Korea 99300 1964 
+South Korea 99300 1965 
+South Korea 99300 1966 
+South Korea 99300 1967 
+South Korea 99300 1968 
+South Korea 99300 1969 
+South Korea 99300 1970 
+South Korea 99300 1971 
+Spain 506000 1961 
+Spain 506000 1962 
+Spain 506000 1963 
+Spain 506000 1964 
+Spain 506000 1965 
+Spain 506000 1966 
+Spain 506000 1967 
+Spain 506000 1968 
+Spain 506000 1969 
+Spain 506000 1970 
+Spain 506000 1971 
+Sri Lanka 65600 1961 
+Sri Lanka 65600 1962 
+Sri Lanka 65600 1963 
+Sri Lanka 65600 1964 
+Sri Lanka 65600 1965 
+Sri Lanka 65600 1966 
+Sri Lanka 65600 1967 
+Sri Lanka 65600 1968 
+Sri Lanka 65600 1969 
+Sri Lanka 65600 1970 
+Sri Lanka 65600 1971 
+St. Kitts and Nevis 350 1961 
+St. Kitts and Nevis 350 1962 
+St. Kitts and Nevis 350 1963 
+St. Kitts and Nevis 350 1964 
+St. Kitts and Nevis 350 1965 
+St. Kitts and Nevis 350 1966 
+St. Kitts and Nevis 350 1967 
+St. Kitts and Nevis 350 1968 
+St. Kitts and Nevis 350 1969 
+St. Kitts and Nevis 350 1970 
+St. Kitts and Nevis 350 1971 
+St. Lucia 620 1961 
+St. Lucia 620 1962 
+St. Lucia 620 1963 
+St. Lucia 620 1964 
+St. Lucia 620 1965 
+St. Lucia 620 1966 
+St. Lucia 620 1967 
+St. Lucia 620 1968 
+St. Lucia 620 1969 
+St. Lucia 620 1970 
+St. Lucia 620 1971 
+St. Vincent and the Grenadines 390 1961 
+St. Vincent and the Grenadines 390 1962 
+St. Vincent and the Grenadines 390 1963 
+St. Vincent and the Grenadines 390 1964 
+St. Vincent and the Grenadines 390 1965 
+St. Vincent and the Grenadines 390 1966 
+St. Vincent and the Grenadines 390 1967 
+St. Vincent and the Grenadines 390 1968 
+St. Vincent and the Grenadines 390 1969 
+St. Vincent and the Grenadines 390 1970 
+St. Vincent and the Grenadines 390 1971 
+Suriname 164000 1961 
+Suriname 164000 1962 
+Suriname 164000 1963 
+Suriname 164000 1964 
+Suriname 164000 1965 
+Suriname 164000 1966 
+Suriname 164000 1967 
+Suriname 164000 1968 
+Suriname 164000 1969 
+Suriname 164000 1970 
+Suriname 164000 1971 
+Sweden 450000 1961 
+Sweden 450000 1962 
+Sweden 450000 1963 
+Sweden 450000 1964 
+Sweden 450000 1965 
+Sweden 450000 1966 
+Sweden 450000 1967 
+Sweden 450000 1968 
+Sweden 450000 1969 
+Sweden 450000 1970 
+Sweden 450000 1971 
+Switzerland 41300 1961 
+Switzerland 41300 1962 
+Switzerland 41300 1963 
+Switzerland 41300 1964 
+Switzerland 41300 1965 
+Switzerland 41300 1966 
+Switzerland 41300 1967 
+Switzerland 41300 1968 
+Switzerland 41300 1969 
+Switzerland 41300 1970 
+Switzerland 41300 1971 
+Syria 185000 1961 
+Syria 185000 1962 
+Syria 185000 1963 
+Syria 185000 1964 
+Syria 185000 1965 
+Syria 185000 1966 
+Syria 185000 1967 
+Syria 185000 1968 
+Syria 185000 1969 
+Syria 185000 1970 
+Syria 185000 1971 
+Tajikistan 143000 1961 
+Tajikistan 143000 1962 
+Tajikistan 143000 1963 
+Tajikistan 143000 1964 
+Tajikistan 143000 1965 
+Tajikistan 143000 1966 
+Tajikistan 143000 1967 
+Tajikistan 143000 1968 
+Tajikistan 143000 1969 
+Tajikistan 143000 1970 
+Tajikistan 143000 1971 
+Tanzania 947000 1961 
+Tanzania 947000 1962 
+Tanzania 947000 1963 
+Tanzania 947000 1964 
+Tanzania 947000 1965 
+Tanzania 947000 1966 
+Tanzania 947000 1967 
+Tanzania 947000 1968 
+Tanzania 947000 1969 
+Tanzania 947000 1970 
+Tanzania 947000 1971 
+Thailand 513000 1961 
+Thailand 513000 1962 
+Thailand 513000 1963 
+Thailand 513000 1964 
+Thailand 513000 1965 
+Thailand 513000 1966 
+Thailand 513000 1967 
+Thailand 513000 1968 
+Thailand 513000 1969 
+Thailand 513000 1970 
+Thailand 513000 1971 
+Timor-Leste 14900 1961 
+Timor-Leste 14900 1962 
+Timor-Leste 14900 1963 
+Timor-Leste 14900 1964 
+Timor-Leste 14900 1965 
+Timor-Leste 14900 1966 
+Timor-Leste 14900 1967 
+Timor-Leste 14900 1968 
+Timor-Leste 14900 1969 
+Timor-Leste 14900 1970 
+Timor-Leste 14900 1971 
+Togo 56800 1961 
+Togo 56800 1962 
+Togo 56800 1963 
+Togo 56800 1964 
+Togo 56800 1965 
+Togo 56800 1966 
+Togo 56800 1967 
+Togo 56800 1968 
+Togo 56800 1969 
+Togo 56800 1970 
+Togo 56800 1971 
+Tonga 750 1961 
+Tonga 750 1962 
+Tonga 750 1963 
+Tonga 750 1964 
+Tonga 750 1965 
+Tonga 750 1966 
+Tonga 750 1967 
+Tonga 750 1968 
+Tonga 750 1969 
+Tonga 750 1970 
+Tonga 750 1971 
+Trinidad and Tobago 5130 1961 
+Trinidad and Tobago 5130 1962 
+Trinidad and Tobago 5130 1963 
+Trinidad and Tobago 5130 1964 
+Trinidad and Tobago 5130 1965 
+Trinidad and Tobago 5130 1966 
+Trinidad and Tobago 5130 1967 
+Trinidad and Tobago 5130 1968 
+Trinidad and Tobago 5130 1969 
+Trinidad and Tobago 5130 1970 
+Trinidad and Tobago 5130 1971 
+Tunisia 164000 1961 
+Tunisia 164000 1962 
+Tunisia 164000 1963 
+Tunisia 164000 1964 
+Tunisia 164000 1965 
+Tunisia 164000 1966 
+Tunisia 164000 1967 
+Tunisia 164000 1968 
+Tunisia 164000 1969 
+Tunisia 164000 1970 
+Tunisia 164000 1971 
+Turkey 785000 1961 
+Turkey 785000 1962 
+Turkey 785000 1963 
+Turkey 785000 1964 
+Turkey 785000 1965 
+Turkey 785000 1966 
+Turkey 785000 1967 
+Turkey 785000 1968 
+Turkey 785000 1969 
+Turkey 785000 1970 
+Turkey 785000 1971 
+Turkmenistan 488000 1961 
+Turkmenistan 488000 1962 
+Turkmenistan 488000 1963 
+Turkmenistan 488000 1964 
+Turkmenistan 488000 1965 
+Turkmenistan 488000 1966 
+Turkmenistan 488000 1967 
+Turkmenistan 488000 1968 
+Turkmenistan 488000 1969 
+Turkmenistan 488000 1970 
+Turkmenistan 488000 1971 
+Tuvalu 30 1961 
+Tuvalu 30 1962 
+Tuvalu 30 1963 
+Tuvalu 30 1964 
+Tuvalu 30 1965 
+Tuvalu 30 1966 
+Tuvalu 30 1967 
+Tuvalu 30 1968 
+Tuvalu 30 1969 
+Tuvalu 30 1970 
+Tuvalu 30 1971 
+Uganda 242000 1961 
+Uganda 242000 1962 
+Uganda 242000 1963 
+Uganda 242000 1964 
+Uganda 242000 1965 
+Uganda 242000 1966 
+Uganda 242000 1967 
+Uganda 242000 1968 
+Uganda 242000 1969 
+Uganda 242000 1970 
+Uganda 242000 1971 
+Ukraine 604000 1961 
+Ukraine 604000 1962 
+Ukraine 604000 1963 
+Ukraine 604000 1964 
+Ukraine 604000 1965 
+Ukraine 604000 1966 
+Ukraine 604000 1967 
+Ukraine 604000 1968 
+Ukraine 604000 1969 
+Ukraine 604000 1970 
+Ukraine 604000 1971 
+United Arab Emirates 83600 1961 
+United Arab Emirates 83600 1962 
+United Arab Emirates 83600 1963 
+United Arab Emirates 83600 1964 
+United Arab Emirates 83600 1965 
+United Arab Emirates 83600 1966 
+United Arab Emirates 83600 1967 
+United Arab Emirates 83600 1968 
+United Arab Emirates 83600 1969 
+United Arab Emirates 83600 1970 
+United Arab Emirates 83600 1971 
+United Kingdom 244000 1961 
+United Kingdom 244000 1962 
+United Kingdom 244000 1963 
+United Kingdom 244000 1964 
+United Kingdom 244000 1965 
+United Kingdom 244000 1966 
+United Kingdom 244000 1967 
+United Kingdom 244000 1968 
+United Kingdom 244000 1969 
+United Kingdom 244000 1970 
+United Kingdom 244000 1971 
+United States 9630000 1961 
+United States 9630000 1962 
+United States 9630000 1963 
+United States 9630000 1964 
+United States 9630000 1965 
+United States 9630000 1966 
+United States 9630000 1967 
+United States 9630000 1968 
+United States 9630000 1969 
+United States 9630000 1970 
+United States 9630000 1971 
+Uruguay 176000 1961 
+Uruguay 176000 1962 
+Uruguay 176000 1963 
+Uruguay 176000 1964 
+Uruguay 176000 1965 
+Uruguay 176000 1966 
+Uruguay 176000 1967 
+Uruguay 176000 1968 
+Uruguay 176000 1969 
+Uruguay 176000 1970 
+Uruguay 176000 1971 
+Uzbekistan 447000 1961 
+Uzbekistan 447000 1962 
+Uzbekistan 447000 1963 
+Uzbekistan 447000 1964 
+Uzbekistan 447000 1965 
+Uzbekistan 447000 1966 
+Uzbekistan 447000 1967 
+Uzbekistan 447000 1968 
+Uzbekistan 447000 1969 
+Uzbekistan 447000 1970 
+Uzbekistan 447000 1971 
+Vanuatu 12200 1961 
+Vanuatu 12200 1962 
+Vanuatu 12200 1963 
+Vanuatu 12200 1964 
+Vanuatu 12200 1965 
+Vanuatu 12200 1966 
+Vanuatu 12200 1967 
+Vanuatu 12200 1968 
+Vanuatu 12200 1969 
+Vanuatu 12200 1970 
+Vanuatu 12200 1971 
+Venezuela 912000 1961 
+Venezuela 912000 1962 
+Venezuela 912000 1963 
+Venezuela 912000 1964 
+Venezuela 912000 1965 
+Venezuela 912000 1966 
+Venezuela 912000 1967 
+Venezuela 912000 1968 
+Venezuela 912000 1969 
+Venezuela 912000 1970 
+Venezuela 912000 1971 
+Vietnam 332000 1961 
+Vietnam 332000 1962 
+Vietnam 332000 1963 
+Vietnam 332000 1964 
+Vietnam 332000 1965 
+Vietnam 332000 1966 
+Vietnam 332000 1967 
+Vietnam 332000 1968 
+Vietnam 332000 1969 
+Vietnam 332000 1970 
+Vietnam 332000 1971 
+Yemen 528000 1961 
+Yemen 528000 1962 
+Yemen 528000 1963 
+Yemen 528000 1964 
+Yemen 528000 1965 
+Yemen 528000 1966 
+Yemen 528000 1967 
+Yemen 528000 1968 
+Yemen 528000 1969 
+Yemen 528000 1970 
+Yemen 528000 1971 
+Zambia 753000 1961 
+Zambia 753000 1962 
+Zambia 753000 1963 
+Zambia 753000 1964 
+Zambia 753000 1965 
+Zambia 753000 1966 
+Zambia 753000 1967 
+Zambia 753000 1968 
+Zambia 753000 1969 
+Zambia 753000 1970 
+Zambia 753000 1971 
+Zimbabwe 391000 1961 
+Zimbabwe 391000 1962 
+Zimbabwe 391000 1963 
+Zimbabwe 391000 1964 
+Zimbabwe 391000 1965 
+Zimbabwe 391000 1966 
+Zimbabwe 391000 1967 
+Zimbabwe 391000 1968 
+Zimbabwe 391000 1969 
+Zimbabwe 391000 1970 
+Zimbabwe 391000 1971 

@@ -5,6 +5,6 @@ import register.IFileManager;
 
 public interface IQueryServer {
 
-	Integer execute(IFileManager manager, String query ) ;
+	int execute(IFileManager manager, String query ) ;
 
 }

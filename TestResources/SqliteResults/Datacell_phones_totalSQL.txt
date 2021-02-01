@@ -2334,66 +2334,65 @@ Congo Dem.Rep. 28900000
 Congo Dem.Rep. 35400000 
 Congo Dem.Rep. 36500000 
 Congo Dem.Rep. 37100000 
-Congo  Rep. 
-Congo 0 
-Congo  
-Congo  
-Congo  
-Congo  
-Congo 0 
-Congo  
-Congo  
-Congo  
-Congo  
-Congo 0 
-Congo  
-Congo  
-Congo  
-Congo  
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 0 
-Congo 1000 
-Congo  
-Congo 3390 
-Congo 5000 
-Congo 70000 
-Congo 150000 
-Congo 222000 
-Congo 330000 
-Congo 384000 
-Congo 558000 
-Congo 917000 
-Congo 1290000 
-Congo 1810000 
-Congo 2950000 
-Congo 3720000 
-Congo 3880000 
-Congo 4280000 
-Congo 4660000 
-Congo 4930000 
-Congo 5220000 
-Congo 5420000 
-Congo 5060000 
-Congo 5000000 
+Congo Rep. 0 
+Congo Rep.  
+Congo Rep.  
+Congo Rep.  
+Congo Rep.  
+Congo Rep. 0 
+Congo Rep.  
+Congo Rep.  
+Congo Rep.  
+Congo Rep.  
+Congo Rep. 0 
+Congo Rep.  
+Congo Rep.  
+Congo Rep.  
+Congo Rep.  
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 0 
+Congo Rep. 1000 
+Congo Rep.  
+Congo Rep. 3390 
+Congo Rep. 5000 
+Congo Rep. 70000 
+Congo Rep. 150000 
+Congo Rep. 222000 
+Congo Rep. 330000 
+Congo Rep. 384000 
+Congo Rep. 558000 
+Congo Rep. 917000 
+Congo Rep. 1290000 
+Congo Rep. 1810000 
+Congo Rep. 2950000 
+Congo Rep. 3720000 
+Congo Rep. 3880000 
+Congo Rep. 4280000 
+Congo Rep. 4660000 
+Congo Rep. 4930000 
+Congo Rep. 5220000 
+Congo Rep. 5420000 
+Congo Rep. 5060000 
+Congo Rep. 5000000 
 Costa Rica 0 
 Costa Rica  
 Costa Rica  

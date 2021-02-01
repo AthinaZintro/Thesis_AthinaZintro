@@ -22,7 +22,7 @@ public  class QueryServer implements IQueryServer {
 	 * @return 
 	 *
 	 */
-	public Integer execute(IFileManager manager,String query )  {
+	public int execute(IFileManager manager,String query )  {
 		QueryParser quer=new QueryParser();
 		HashMap<String, String[]> queryHashMap = new HashMap<String, String[]>();
 		try {
@@ -90,9 +90,12 @@ public  class QueryServer implements IQueryServer {
 		String line;
 		int k = 1;
 		String printFilePath=".//TestResources//QueryResults//"+fromParameters[0]+"Results.txt";
+
+        PrintStream console = System.out; 
+  
 		PrintStream out1 = null;
 		try {
-			out1 = new PrintStream(printFilePath);
+			out1 = new PrintStream(new File(printFilePath));
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -112,11 +115,7 @@ public  class QueryServer implements IQueryServer {
 					System.out.println(printString);
 					if (w.contains(-1)) {
 						br.close();
-
-						out1.flush();
-						out1.close();
-					
-						
+						System.setOut(console); 
 						//System.out.println("The column information that you gave is wrong\n");
 						return -1;
 					}
@@ -199,20 +198,23 @@ public  class QueryServer implements IQueryServer {
 
 				}
 				k++;
+				
 			
 			}
 			br.close();
+
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-		out1.flush();
-		out1.close();
-		
 
+		}
+		System.setOut(console); 
+
+		
 		return 0;
 	}
 

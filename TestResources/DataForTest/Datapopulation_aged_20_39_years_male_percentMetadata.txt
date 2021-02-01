@@ -1,6 +1,6 @@
-Datapopulation_aged_20_39_years_male_percent.csv  
+Datapopulation_aged_20_39_years_male_percent.csv
 ,
 3
-year 
-country 
-rate 
+year
+country
+rate

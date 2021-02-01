@@ -20,6 +20,7 @@ import java.awt.Color;
 import javax.swing.Box;
 import javax.swing.JTextPane;
 import java.awt.Dimension;
+import java.awt.EventQueue;
 
 
 @SuppressWarnings("serial")
@@ -30,7 +31,18 @@ public class QueryWriter extends JFrame {
 	/**
 	 * Launch the application.
 	 */
-	
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					QueryWriter frame = new QueryWriter();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
 
 	/**
 	 * Create the frame.

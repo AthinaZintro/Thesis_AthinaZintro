@@ -11,7 +11,7 @@ import register.IFileManager;
 public class ClientQuering {
 		
 	public static void main(String[] args)  {
-		Integer result = executeFromArgs(args);
+		int result = executeFromArgs(args);
 		if(result==-1) {
 			System.out.println("The column information that you gave is wrong!\n");
 		}else if(result==-2) {
@@ -25,7 +25,7 @@ public class ClientQuering {
 	}
 	
 	public static int executeFromArgs(String[] args) {
-		Integer res=0;
+		
 		FileManagerFactory managerfactory = new FileManagerFactory();
 		IFileManager manager = managerfactory.generateFileManager();
 		QueryServerFactory factory = new QueryServerFactory();
@@ -34,14 +34,14 @@ public class ClientQuering {
 		for(int i=0;i<args.length;i++) {
 			queryString += args[i]+" ";
 		}
-		System.out.println(queryString);
-
-		res = executeQuery.execute(manager, queryString);
+	
+		int res = executeQuery.execute(manager, queryString);
 		
-		System.out.println("Thisss");
+		System.out.println(queryString);
 	
 
 		return res;
+
 		
 	}
 
