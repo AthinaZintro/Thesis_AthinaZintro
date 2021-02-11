@@ -62,6 +62,7 @@ public class FileRegisterChoice {
 		}
 
 		myReader.close();
+		
 		FileManagerFactory factory = new FileManagerFactory();
 		IFileManager fileManager = factory.generateFileManager();
 		String out = fileManager.register(ma.getAbsolutePath(), delimiterOflabels, labels, numberOflabels);

@@ -9,12 +9,15 @@ public  class QueryParser {
 	public HashMap<String, String[]> createParser(String query) throws IOException {
 		HashMap <String,String[]> queryHashMap=new HashMap<String,String[]>();
 		/** Split the query in the right places to take the selectWords words */
-		String[] parameters = query.split("Select");
+		
+		
+		String[] parameters = query.split("(?i)Select");
 		String [] whereWords = new String[1];
-
+	
+		
 		if(parameters.length==2) {
 		
-			String[] par = parameters[1].split("from");
+			String[] par = parameters[1].split("(?i)from");
 			if(par.length>=2) {
 				String selectWordsWords = par[0].replaceAll("\\s", "");
 				String[] selectWords = selectWordsWords.split(",");
@@ -24,7 +27,7 @@ public  class QueryParser {
 				
 				queryHashMap.put("Select",selectWords);
 	
-				String[] where = par[1].split("where"); /** Split the query in the right places to take the fromWords words */
+				String[] where = par[1].split("(?i)where"); /** Split the query in the right places to take the fromWords words */
 				String fromWordsWords = where[0].replaceAll("\\s", "");
 				String[] fromWords = fromWordsWords.split(",");
 
@@ -51,5 +54,5 @@ public  class QueryParser {
 		return queryHashMap;
 
 	}
-
+	
 }
