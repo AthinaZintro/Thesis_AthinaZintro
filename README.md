@@ -1,4 +1,4 @@
-#Thesis_AthinaZintro
+# Thesis_AthinaZintro
 
 ## Περιγραφή
 Το project παίρνει αρχεία (.csv) και εντολές query "Select from where" και αποθηκεύει τα αποτελέσματα του σε ένα αρχείο (.txt).
