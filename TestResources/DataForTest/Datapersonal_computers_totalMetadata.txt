@@ -1,6 +1,0 @@
-Datapersonal_computers_total.csv
-,
-3
-year
-country
-rate
