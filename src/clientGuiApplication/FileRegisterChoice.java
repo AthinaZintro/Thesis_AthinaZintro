@@ -32,42 +32,46 @@ public class FileRegisterChoice {
 		dialog.setMode(FileDialog.LOAD);
 		dialog.setVisible(true);
 		String file = dialog.getFile();
-		File ma = new File(dialog.getDirectory() + file);
-
-		Scanner myReader = null;
-		try {
-			myReader = new Scanner(ma);
-		} catch (FileNotFoundException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
-
-		int i = 0;
-		while (myReader.hasNextLine()) { // Read every line and initialize every variable
-			String line = myReader.nextLine();
-			if (i == 0) {
-				filename = line;
-				System.out.println(line);
-			} else if (i == 1) {
-				delimiterOflabels = line;
-				System.out.println(line);
-			} else if (i == 2) {
-				numberOflabels = line;
-				System.out.println(line);
-			} else if (i == 3) {
-				String str = line.replaceAll("\\s", "");
-				labels = str.split(delimiterOflabels);
+		if (file == null) {
+			  System.out.println("You cancelled the choice");
+		}else {
+			 
+			File ma = new File(dialog.getDirectory() + file);
+	
+			Scanner myReader = null;
+			try {
+				myReader = new Scanner(ma);
+			} catch (FileNotFoundException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
 			}
-			i += 1;
+	
+			int i = 0;
+			while (myReader.hasNextLine()) { // Read every line and initialize every variable
+				String line = myReader.nextLine();
+				if (i == 0) {
+					filename = line;
+					System.out.println(line);
+				} else if (i == 1) {
+					delimiterOflabels = line;
+					System.out.println(line);
+				} else if (i == 2) {
+					numberOflabels = line;
+					System.out.println(line);
+				} else if (i == 3) {
+					String str = line.replaceAll("\\s", "");
+					labels = str.split(delimiterOflabels);
+				}
+				i += 1;
+			}
+	
+			myReader.close();
+			
+			FileManagerFactory factory = new FileManagerFactory();
+			IFileManager fileManager = factory.generateFileManager();
+			String out = fileManager.register(ma.getAbsolutePath(), delimiterOflabels, labels, numberOflabels);
+			System.out.println(out);
 		}
-
-		myReader.close();
-		
-		FileManagerFactory factory = new FileManagerFactory();
-		IFileManager fileManager = factory.generateFileManager();
-		String out = fileManager.register(ma.getAbsolutePath(), delimiterOflabels, labels, numberOflabels);
-		System.out.println(out);
-		System.exit(-100);
 	}
 
 	

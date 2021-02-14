@@ -60,10 +60,10 @@ public class Application {
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("Query Execution");
+		JLabel lblNewLabel = new JLabel("Select the action you want to perform  ");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel.setFont(new Font("Lucida Sans Typewriter", Font.BOLD, 30));
-		lblNewLabel.setBounds(139, 56, 573, 57);
+		lblNewLabel.setBounds(95, 56, 705, 108);
 		panel.add(lblNewLabel);
 		
 		JButton btnNewButton = new JButton("Register File");
@@ -79,7 +79,7 @@ public class Application {
 		btnNewButton.setBounds(80, 271, 293, 82);
 		panel.add(btnNewButton);
 		
-		JButton btnExecuteQuery = new JButton("Execute Query");
+		JButton btnExecuteQuery = new JButton("Query Execution");
 		btnExecuteQuery.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				QueryWriter exquery=new QueryWriter();

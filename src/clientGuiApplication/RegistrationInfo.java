@@ -8,6 +8,7 @@ import javax.swing.border.EmptyBorder;
 import clientRegisterApplication.ClientRegisterFile;
 
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
@@ -104,17 +105,28 @@ public class RegistrationInfo extends JFrame {
 
 
 			public void actionPerformed(ActionEvent e) {
-				int numberOfLabels=Integer.parseInt(txtNumberOfLabels.getText().toString());
-				int j=0;
-				 textField=new JTextField[numberOfLabels];
-				for(int i=0;i<numberOfLabels;i++) {
-					textField[i]=new JTextField("Label");
-					textField[i].setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
-					textField[i].setColumns(10);
-					textField[i].setBounds(30, 345+j, 703, 35);
-					contentPane.add(textField[i]);
-					j+=50;
+				if (!(txtFilename.getText().toString().equalsIgnoreCase("")||txtDelimiter.getText().toString().equalsIgnoreCase("")|| txtNumberOfLabels.getText().toString().equalsIgnoreCase(""))) {
+			        try {
+			        	int numberOfLabels=Integer.parseInt(txtNumberOfLabels.getText().toString());
+			        	int j=0;
+						 textField=new JTextField[numberOfLabels];
+						for(int i=0;i<numberOfLabels;i++) {
+							textField[i]=new JTextField("Fill in the label");
+							textField[i].setText("");
+							textField[i].setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
+							textField[i].setColumns(10);
+							textField[i].setBounds(30, 345+j, 703, 35);
+							contentPane.add(textField[i]);
+							j+=50;
+						}
+			        } catch (NumberFormatException e1) {
+			        	JOptionPane.showMessageDialog(contentPane,"The information that you gave are wrong, you have to add a number of labels to create labels");
+
+			        }
 					
+				}else {
+					JOptionPane.showMessageDialog(contentPane,"The information that you gave are wrong, you have to add a number of labels to create labels");
+
 				}
 				
 			
@@ -137,25 +149,55 @@ public class RegistrationInfo extends JFrame {
 		JButton btnRegisterFile = new JButton("Register File");
 		btnRegisterFile.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				int numberOfLabels=Integer.parseInt(txtNumberOfLabels.getText().toString());
-
-				String [] register=new String[3+numberOfLabels];
-				register[0]=txtFilename.getText();
-				register[1]=txtDelimiter.getText();
-				register[2]=txtNumberOfLabels.getText();
-
-				for(int i=0;i<numberOfLabels;i++) {
-					register[i+3]=textField[i].getText()+" ";
+				System.out.println(txtFilename.getText());
+				if (txtFilename.getText().equalsIgnoreCase("")||txtDelimiter.getText().toString().equalsIgnoreCase("")|| txtNumberOfLabels.getText().toString().equalsIgnoreCase("")) {
+					JOptionPane.showMessageDialog(contentPane,"The information that you gave are wrong, there is not such file to register");
+				}else {
+				//if(txtFilename.getText().toString()!=""&&txtDelimiter.getText().toString()!=""&& txtNumberOfLabels.getText().toString()!="") {
+					int numberOfLabels=Integer.parseInt(txtNumberOfLabels.getText().toString());
+	
+					String [] register=new String[3+numberOfLabels];
+					register[0]=txtFilename.getText();
+					register[1]=txtDelimiter.getText();
+					register[2]=txtNumberOfLabels.getText();
 					
+					for(int i=0;i<numberOfLabels;i++) {
+						register[i+3]=textField[i].getText()+" ";
+						
+					}
+					int result=ClientRegisterFile.registerInfo(register);
+					if(result==0) {
+						JOptionPane.showMessageDialog(contentPane,"Registration succeeded");
+					}else {
+						JOptionPane.showMessageDialog(contentPane,"The information that you gave are wrong, there is not such file to register");
+					}
+					for(int i=0;i<numberOfLabels;i++) {
+						textField[i].setText(" ");
+						
+					}
 				}
-				ClientRegisterFile.registerInfo(register);
-				dispose();
+				txtFilename.setText("");
+				txtDelimiter.setText("");
+				txtNumberOfLabels.setText("");
+				
+				
 				
 			}
 		});
 		btnRegisterFile.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
-		btnRegisterFile.setBounds(884, 465, 236, 39);
+		btnRegisterFile.setBounds(869, 414, 236, 39);
 		contentPane.add(btnRegisterFile);
+		
+		JButton btnRegisterFile_1 = new JButton("<< Back");
+		btnRegisterFile_1.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				dispose();
+			}
+			
+		});
+		btnRegisterFile_1.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
+		btnRegisterFile_1.setBounds(869, 482, 236, 39);
+		contentPane.add(btnRegisterFile_1);
 		
 
 		
