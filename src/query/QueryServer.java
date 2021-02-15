@@ -14,6 +14,7 @@ import register.IFileManager;
 
 public  class QueryServer implements IQueryServer {
 	private boolean resultl;
+	private String spliter;
 
 	/**
 	 * @param manager FileManager class
@@ -59,6 +60,7 @@ public  class QueryServer implements IQueryServer {
 		String[] columns = null;
 		try {
 			columns = takeColumns(path);
+			System.out.println(spliter);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -107,7 +109,7 @@ public  class QueryServer implements IQueryServer {
 				String[] cols = null;
 				if (k == 4) {
 					String printString = "";
-					cols = line.split(",", columns.length);
+					cols = line.split(spliter, columns.length);
 					for (int y = 0; y < selectValues.size(); y++) {
 						printString = printString + cols[selectValues.get(y)] + " ";
 					}
@@ -121,11 +123,13 @@ public  class QueryServer implements IQueryServer {
 					}
 				}
 				if ((k > 4)&&(w.isEmpty()==false)) {
-					cols = line.split(",", columns.length);
+					cols = line.split(spliter, columns.length);
 					for (int m = 0; m < w.size(); m++) {
 						if (cols[w.get(m)].isEmpty() != true) {
 							result.add(chooseOperator(relationalsOperator.get(m), cols[w.get(m)],
 									conditionsParameters.get(m)));
+							//System.out.println(relationalsOperator.get(m)+" " +cols[w.get(m)]+"" +conditionsParameters.get(m)+"");
+							//break;
 						} else {
 							result.add(false);
 						}
@@ -186,7 +190,7 @@ public  class QueryServer implements IQueryServer {
 						
 					}
 				}else if((k > 4)&&w.isEmpty()) {
-					cols = line.split(",", columns.length);
+					cols = line.split(spliter, columns.length);
 					String printString = "";
 					for (int y = 0; y < selectValues.size(); y++) {
 						printString = printString + cols[selectValues.get(y)] + " ";
@@ -275,16 +279,19 @@ public  class QueryServer implements IQueryServer {
 
 	}
 	/* Reading the Datatestfile and return name of columns */
-	private static String[] takeColumns(String path) throws FileNotFoundException {
+	private  String[] takeColumns(String path) throws FileNotFoundException {
 		int j = 0;
 		File file=new File(path);
 		Scanner newReader = new Scanner(file);
 		String[] columns = null;
 		while (newReader.hasNextLine()) {
 			String line = newReader.nextLine();
+			if(j==1) {
+				spliter=line;
+			}
 			if (j == 3) {
 				String str = line.replaceAll("\\s", "");
-				columns = str.split(",");
+				columns = str.split(spliter);
 				// System.out.println(line);
 
 				break;

@@ -42,7 +42,7 @@ public class QueryFileTest {
 		}
 		
 		File file2 = new File(".\\TestResources\\DownloadedData\\cell_phones_total.csv");
-		String outputPath2 = (".\\TestResources\\DataForTest\\Datacell_phones_total.csv");
+		String outputPath2 = ".\\TestResources\\DataForTest\\Datacell_phones_total.csv";
 		try {
 			createDataFile(file2, outputPath2);
 		} catch (IOException e) {
