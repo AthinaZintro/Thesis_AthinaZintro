@@ -37,21 +37,22 @@ public class RegistrationFile extends JFrame {
 	 */
 	public RegistrationFile() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 991, 510);
+		setBounds(100, 100, 946, 445);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
 		JPanel panel = new JPanel();
-		panel.setBounds(10, 32, 967, 430);
+		panel.setBounds(10, 0, 912, 408);
 		contentPane.add(panel);
 		panel.setLayout(null);
+		setResizable(false);
 		
 		JLabel lblNewLabel = new JLabel("Choose the way you want to register the file");
 		lblNewLabel.setFont(new Font("Lucida Sans Typewriter", Font.BOLD, 30));
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel.setBounds(10, 11, 937, 96);
+		lblNewLabel.setBounds(-20, 11, 937, 96);
 		panel.add(lblNewLabel);
 		
 		JButton btnNewButton = new JButton("Choose File");
@@ -63,7 +64,7 @@ public class RegistrationFile extends JFrame {
 				//dispose();
 			}
 		});
-		btnNewButton.setBounds(86, 220, 308, 71);
+		btnNewButton.setBounds(86, 207, 308, 71);
 		panel.add(btnNewButton);
 		
 		JButton btnGiveInformation = new JButton("Give information");
@@ -76,7 +77,7 @@ public class RegistrationFile extends JFrame {
 			}
 		});
 		btnGiveInformation.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
-		btnGiveInformation.setBounds(560, 220, 308, 71);
+		btnGiveInformation.setBounds(537, 207, 308, 71);
 		panel.add(btnGiveInformation);
 		
 		JButton btnNewButton_1 = new JButton("<< Back");
@@ -86,7 +87,7 @@ public class RegistrationFile extends JFrame {
 			}
 		});
 		btnNewButton_1.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
-		btnNewButton_1.setBounds(10, 374, 146, 45);
+		btnNewButton_1.setBounds(10, 332, 146, 45);
 		panel.add(btnNewButton_1);
 	}
 

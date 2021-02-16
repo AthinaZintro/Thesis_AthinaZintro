@@ -8,6 +8,7 @@ import java.awt.Color;
 import javax.swing.JPanel;
 import javax.swing.JLabel;
 import java.awt.Font;
+
 import javax.swing.SwingConstants;
 
 
@@ -15,6 +16,7 @@ import javax.swing.SwingConstants;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.awt.SystemColor;
 
 public class Application {
 
@@ -29,6 +31,7 @@ public class Application {
 				try {
 					Application window = new Application();
 					window.frame.setVisible(true);
+					window.frame.setResizable(false);
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
@@ -55,12 +58,14 @@ public class Application {
 		JPanel panel = new JPanel();
 		panel.setBorder(null);
 		panel.setToolTipText("");
-		panel.setBackground(new Color(245, 255, 250));
+		panel.setBackground(SystemColor.menu);
 		panel.setBounds(0, 0, 851, 417);
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
+		
 		JLabel lblNewLabel = new JLabel("Select the action you want to perform  ");
+		lblNewLabel.setBackground(SystemColor.menu);
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel.setFont(new Font("Lucida Sans Typewriter", Font.BOLD, 30));
 		lblNewLabel.setBounds(95, 56, 705, 108);
@@ -90,4 +95,6 @@ public class Application {
 		btnExecuteQuery.setBounds(477, 271, 299, 82);
 		panel.add(btnExecuteQuery);
 	}
+
+
 }

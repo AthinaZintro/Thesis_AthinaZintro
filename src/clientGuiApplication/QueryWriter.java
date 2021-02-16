@@ -48,27 +48,28 @@ public class QueryWriter extends JFrame {
 	 */
 	public QueryWriter() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 1062, 580);
+		setBounds(100, 100, 990, 518);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
 		JPanel panel = new JPanel();
-		panel.setBounds(0, 11, 1038, 532);
+		panel.setBounds(0, 11, 968, 461);
 		contentPane.add(panel);
 		panel.setLayout(null);
+		setResizable(false);
 		
 		JLabel lblNewLabel = new JLabel("Write bellow the query that you want to execute");
 		lblNewLabel.setFont(new Font("Lucida Sans Typewriter", Font.BOLD, 30));
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel.setBounds(10, 11, 1018, 51);
+		lblNewLabel.setBounds(20, 11, 918, 51);
 		panel.add(lblNewLabel);
 		
 		
 		JTabbedPane tabbedPane = new JTabbedPane(JTabbedPane.TOP);
 		tabbedPane.setAutoscrolls(true);
-		tabbedPane.setBounds(10, 83, 1018, 358);
+		tabbedPane.setBounds(10, 83, 950, 296);
 		panel.add(tabbedPane);
 		
 		final JTextPane textPane = new JTextPane();
@@ -99,7 +100,7 @@ public class QueryWriter extends JFrame {
 				
 			}
 		});
-		btnNewButton.setBounds(763, 452, 265, 38);
+		btnNewButton.setBounds(693, 407, 265, 38);
 		panel.add(btnNewButton);
 		
 		JButton btnNewButton_1 = new JButton("<< Back");
@@ -109,7 +110,7 @@ public class QueryWriter extends JFrame {
 			}
 		});
 		btnNewButton_1.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
-		btnNewButton_1.setBounds(10, 452, 265, 38);
+		btnNewButton_1.setBounds(10, 407, 265, 38);
 		panel.add(btnNewButton_1);
 	
 		

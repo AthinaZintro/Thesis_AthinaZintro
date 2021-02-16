@@ -1,9 +1,5 @@
 package clientQueringApplication;
-
-
 import query.QueryServerFactory;
-
-
 import query.IQueryServer;
 import register.FileManagerFactory;
 import register.IFileManager;
@@ -21,9 +17,7 @@ public class ClientQuering {
 		}else {
 			System.out.println("The query execution succeeded\n");
 		}
-		
 	}
-	
 	public static int executeFromArgs(String[] args) {
 		
 		FileManagerFactory managerfactory = new FileManagerFactory();
@@ -36,14 +30,7 @@ public class ClientQuering {
 		}
 	
 		int res = executeQuery.execute(manager, queryString);
-		
 		System.out.println(queryString);
-	
-
 		return res;
-
-		
 	}
-
-
 }

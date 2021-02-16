@@ -1,10 +1,7 @@
 package clientRegisterApplication;
-
 import java.io.File;
-
 import register.FileManagerFactory;
 import register.IFileManager;
-
 public class ClientRegisterFile {
 	
 	public static void main(String[] args) {
@@ -14,10 +11,7 @@ public class ClientRegisterFile {
 		}else {
 			System.out.println("The information that you gave are wrong, there is not such file to register");
 		}
-		
 	}
-	
-	
 	public static int registerInfo(String[] args) {
 		String filename = args[0];
 		String delimiterOflabels =  args[1];
@@ -40,13 +34,9 @@ public class ClientRegisterFile {
 		}else {
 			return -1;
 		}
-
-		
-		
-		
 	}
-
 }
+
 
 
 
