@@ -86,16 +86,35 @@ public class QueryProcessor {
 		cond1.add("<=");
 		cond1.add("!=");
 
-		String[] condSplit = conditions.split("\\s+");
-
+		String[] condSplit = conditions.split("\\s+");		
 		ArrayList<String> countConditions = new ArrayList<String>();
 
 		for (int i = 1; i < condSplit.length; i++) {
 			if ((condSplit[i].equals("AND")) || (condSplit[i].equals("OR"))) {
 				countOperators.add(condSplit[i]);
-			} else {
-				countConditions.add(condSplit[i]);
+			} else if(i+1<condSplit.length) {
+				boolean m=false;
+				for(int j=0; j<cond1.size();j++) {
+					if ((condSplit[i].contains(cond.get(j))==false )&&(condSplit[i+1].contains(cond.get(j))==false)
+					&&(((condSplit[i+1].equals("AND")) || (condSplit[i+1].equals("OR")))==false)){
+						m=true;
+						
+					}
+					
+				}
+				System.out.println(condSplit[i]);
+				if(m==true) {
+					condSplit[i]+=" "+condSplit[i+1];
+				}
+			
 			}
+			
+		
+		}
+		for (int i = 1; i < condSplit.length; i++) {
+			System.out.println(condSplit[i]);
+			countConditions.add(condSplit[i]);
+
 		}
 		ArrayList<String> fistPartCondition = findComparisonOperators(countConditions, cond, cond1, columns);
 		

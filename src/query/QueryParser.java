@@ -31,17 +31,17 @@ public  class QueryParser {
 				String fromWordsWords = where[0].replaceAll("\\s", "");
 				String[] fromWords = fromWordsWords.split(",");
 
-				queryHashMap.put("from",fromWords);
+				queryHashMap.put("From",fromWords);
 		
 				// System.out.print(" "+fromWords[0]+" "+"\n");
 				if(where.length>=2) {
 					whereWords[0]= where[1]; /** Split the query in the right places to take the whereWords words */
 	
-					queryHashMap.put("where",whereWords);
-					// System.out.print(" "+whereWords+"\n");
+					queryHashMap.put("Where",whereWords);
+					//System.out.print(" "+whereWords[0]+"\n");
 				}else {
 					whereWords[0]="";
-					queryHashMap.put("where",whereWords);
+					queryHashMap.put("Where",whereWords);
 				}
 			}else {
 				

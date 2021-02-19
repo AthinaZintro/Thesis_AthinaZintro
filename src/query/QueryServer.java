@@ -45,11 +45,11 @@ public  class QueryServer implements IQueryServer {
 		 * whereConditions
 		 */
 		
-		String[] fromParameters =  queryHashMap.get("from");
+		String[] fromParameters =  queryHashMap.get("From");
 
 		String[] selectParameters = queryHashMap.get("Select");
 
-		String[] whereC = queryHashMap.get("where");
+		String[] whereC = queryHashMap.get("Where");
 		String whereConditions=whereC[0];
 		
 		String path = code.computeFrom(manager, fromParameters);
