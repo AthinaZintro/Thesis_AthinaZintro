@@ -92,29 +92,32 @@ public class QueryProcessor {
 		for (int i = 1; i < condSplit.length; i++) {
 			if ((condSplit[i].equals("AND")) || (condSplit[i].equals("OR"))) {
 				countOperators.add(condSplit[i]);
-			} else if(i+1<condSplit.length) {
-				boolean m=false;
-				for(int j=0; j<cond1.size();j++) {
-					if ((condSplit[i].contains(cond.get(j))==false )&&(condSplit[i+1].contains(cond.get(j))==false)
-					&&(((condSplit[i+1].equals("AND")) || (condSplit[i+1].equals("OR")))==false)){
-						m=true;
-						
-					}
-					
-				}
-				System.out.println(condSplit[i]);
-				if(m==true) {
-					condSplit[i]+=" "+condSplit[i+1];
-				}
-			
 			}
-			
-		
 		}
-		for (int i = 1; i < condSplit.length; i++) {
-			System.out.println(condSplit[i]);
-			countConditions.add(condSplit[i]);
+		String[] condSplit1;
+		String[] condition1 = conditions.split("\\s+",2);
 
+		if(condition1[0].isEmpty()) {
+			condSplit1 = condition1[1].split("\\s+AND\\s+");
+		}else {
+			condSplit1=conditions.split("\\s+AND\\s+");
+		}
+		
+		
+		
+		for (int i = 0; i < condSplit1.length; i++) {
+			if(condSplit1[i].contains("OR")) {
+				String[] lastcond = condSplit1[i].split("\\s+OR\\s+");
+				for(int j=0;j<lastcond.length;j++) {
+					countConditions.add(lastcond[j].trim());
+				}
+			}else {
+				countConditions.add(condSplit1[i].trim());
+			}	
+
+		}
+		for(int k=0;k<countConditions.size();k++) {
+			System.out.println(countConditions.get(k));
 		}
 		ArrayList<String> fistPartCondition = findComparisonOperators(countConditions, cond, cond1, columns);
 		
@@ -172,6 +175,7 @@ public class QueryProcessor {
 							fistPartCondition.add(""+columnsHashmap.get(con1[0])+"");
 						}
 						comparisonOperators.add(cond1.get(i));
+						
 						parametersOfConditions.add(con1[1]);
 					}
 				}

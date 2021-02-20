@@ -1,1 +1,200 @@
-country rate year 
+country year 
+Afghanistan 1990 
+Albania 1990 
+Algeria 1990 
+Angola 1990 
+Antigua and Barbuda 1990 
+Argentina 1990 
+Armenia 1990 
+Australia 1990 
+Austria 1990 
+Azerbaijan 1990 
+Bahamas 1990 
+Bahrain 1990 
+Bangladesh 1990 
+Barbados 1990 
+Belarus 1990 
+Belgium 1990 
+Belize 1990 
+Benin 1990 
+Bhutan 1990 
+Bolivia 1990 
+Bosnia and Herzegovina 1990 
+Botswana 1990 
+Brazil 1990 
+Brunei 1990 
+Bulgaria 1990 
+Burkina Faso 1990 
+Burundi 1990 
+Cambodia 1990 
+Cameroon 1990 
+Canada 1990 
+Cape Verde 1990 
+Central African Republic 1990 
+Chad 1990 
+Chile 1990 
+China 1990 
+Colombia 1990 
+Comoros 1990 
+Congo Dem. Rep. 1990 
+Congo Rep. 1990 
+Costa Rica 1990 
+Cote d'Ivoire 1990 
+Croatia 1990 
+Cuba 1990 
+Cyprus 1990 
+Czech Republic 1990 
+Denmark 1990 
+Djibouti 1990 
+Dominica 1990 
+Dominican Republic 1990 
+Ecuador 1990 
+Egypt 1990 
+El Salvador 1990 
+Equatorial Guinea 1990 
+Eritrea 1990 
+Estonia 1990 
+Eswatini 1990 
+Ethiopia 1990 
+Fiji 1990 
+Finland 1990 
+France 1990 
+Gabon 1990 
+Gambia 1990 
+Georgia 1990 
+Germany 1990 
+Ghana 1990 
+Greece 1990 
+Grenada 1990 
+Guatemala 1990 
+Guinea 1990 
+Guinea-Bissau 1990 
+Guyana 1990 
+Haiti 1990 
+Honduras 1990 
+Hungary 1990 
+Iceland 1990 
+India 1990 
+Indonesia 1990 
+Iran 1990 
+Iraq 1990 
+Ireland 1990 
+Israel 1990 
+Italy 1990 
+Jamaica 1990 
+Japan 1990 
+Jordan 1990 
+Kenya 1990 
+Kiribati 1990 
+Kuwait 1990 
+Kyrgyz Republic 1990 
+Lao 1990 
+Latvia 1990 
+Lebanon 1990 
+Lesotho 1990 
+Libya 1990 
+Lithuania 1990 
+Luxembourg 1990 
+Madagascar 1990 
+Malawi 1990 
+Malaysia 1990 
+Maldives 1990 
+Mali 1990 
+Malta 1990 
+Marshall Islands 1990 
+Mauritania 1990 
+Mauritius 1990 
+Mexico 1990 
+Micronesia Fed. Sts. 1990 
+Moldova 1990 
+Monaco 1990 
+Mongolia 1990 
+Morocco 1990 
+Mozambique 1990 
+Myanmar 1990 
+Myanmar 1991 
+Myanmar 1992 
+Myanmar 1993 
+Myanmar 1994 
+Myanmar 1995 
+Myanmar 1996 
+Myanmar 1997 
+Myanmar 1998 
+Myanmar 1999 
+Myanmar 2000 
+Myanmar 2001 
+Myanmar 2002 
+Myanmar 2003 
+Myanmar 2004 
+Myanmar 2005 
+Myanmar 2006 
+Namibia 1990 
+Nepal 1990 
+Netherlands 1990 
+New Zealand 1990 
+Nicaragua 1990 
+Niger 1990 
+Nigeria 1990 
+North Macedonia 1990 
+Norway 1990 
+Oman 1990 
+Pakistan 1990 
+Palestine 1990 
+Panama 1990 
+Papua New Guinea 1990 
+Paraguay 1990 
+Peru 1990 
+Philippines 1990 
+Poland 1990 
+Portugal 1990 
+Qatar 1990 
+Romania 1990 
+Russia 1990 
+Rwanda 1990 
+Samoa 1990 
+San Marino 1990 
+Sao Tome and Principe 1990 
+Saudi Arabia 1990 
+Senegal 1990 
+Serbia 1990 
+Seychelles 1990 
+Singapore 1990 
+Slovak Republic 1990 
+Slovenia 1990 
+Solomon Islands 1990 
+Somalia 1990 
+South Africa 1990 
+South Korea 1990 
+Spain 1990 
+Sri Lanka 1990 
+St. Kitts and Nevis 1990 
+St. Lucia 1990 
+St. Vincent and the Grenadines 1990 
+Sudan 1990 
+Suriname 1990 
+Sweden 1990 
+Switzerland 1990 
+Syria 1990 
+Tajikistan 1990 
+Tanzania 1990 
+Thailand 1990 
+Togo 1990 
+Tonga 1990 
+Trinidad and Tobago 1990 
+Tunisia 1990 
+Turkey 1990 
+Turkmenistan 1990 
+Tuvalu 1990 
+Uganda 1990 
+Ukraine 1990 
+United Arab Emirates 1990 
+United Kingdom 1990 
+United States 1990 
+Uruguay 1990 
+Uzbekistan 1990 
+Vanuatu 1990 
+Venezuela 1990 
+Vietnam 1990 
+Yemen 1990 
+Zambia 1990 
+Zimbabwe 1990 

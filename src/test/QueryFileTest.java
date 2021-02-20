@@ -179,7 +179,7 @@ public class QueryFileTest {
 		//Query 
 		String outpath1=".\\TestResources\\QueryResults\\Datapopulation_aged_20_39_years_male_percentResults.txt";
 		String outSqlpath1=".\\TestResources\\SqliteResults\\Datapopulation_aged_20_39_years_male_percentSQL.txt";
-		String query1="Select country , rate ,  year from Datapopulation_aged_20_39_years_male_percent where 	rate>0.295 AND 	country=Afghanistan OR year<=1971 AND year>1960 OR			 rate<0.400 AND rate>0.100 OR country='Afghanistan' AND year<=2000 OR year>1990 AND rate<0.200 ";
+		String query1="Select country , rate ,  year from Datapopulation_aged_20_39_years_male_percent where 	rate>0.295 AND 	country=Afghanistan OR year<=1971 AND year>1960 OR			 rate<0.400 AND rate>0.100 OR country=Afghanistan AND year<=2000 OR year>1990 AND rate<0.200 ";
 		String querySQL1="Select country,rate,year from Datapopulation_aged_20_39_years_male_percent where rate>0.295 AND		 country='Afghanistan'   OR year<=1971 AND year>1960 OR 			rate<0.400 AND rate>0.100 OR country='Greece' AND year<=2000 OR year>1990 AND rate<0.200 ";
 		executeTheQuery(outpath1,outSqlpath1,query1,querySQL1);
 		

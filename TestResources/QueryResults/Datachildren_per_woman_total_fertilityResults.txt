@@ -1,2025 +1,302 @@
-country rate year 
-Afghanistan 7.45 1961 
-Afghanistan 7.45 1962 
-Afghanistan 7.45 1963 
-Afghanistan 7.45 1964 
-Afghanistan 7.45 1965 
-Afghanistan 7.45 1966 
-Afghanistan 7.45 1967 
-Afghanistan 7.45 1968 
-Afghanistan 7.45 1969 
-Afghanistan 7.45 1970 
-Afghanistan 7.45 1971 
-Albania 6.4 1961 
-Albania 6.28 1962 
-Albania 6.13 1963 
-Albania 5.96 1964 
-Albania 5.77 1965 
-Albania 5.58 1966 
-Albania 5.39 1967 
-Albania 5.22 1968 
-Albania 5.06 1969 
-Albania 4.91 1970 
-Albania 4.78 1971 
-Algeria 7.57 1961 
-Algeria 7.61 1962 
-Algeria 7.65 1963 
-Algeria 7.67 1964 
-Algeria 7.68 1965 
-Algeria 7.68 1966 
-Algeria 7.67 1967 
-Algeria 7.67 1968 
-Algeria 7.66 1969 
-Algeria 7.64 1970 
-Algeria 7.62 1971 
-Angola 7.52 1961 
-Angola 7.56 1962 
-Angola 7.59 1963 
-Angola 7.61 1964 
-Angola 7.62 1965 
-Angola 7.62 1966 
-Angola 7.61 1967 
-Angola 7.61 1968 
-Angola 7.6 1969 
-Angola 7.6 1970 
-Angola 7.6 1971 
-Antigua and Barbuda 4.39 1961 
-Antigua and Barbuda 4.34 1962 
-Antigua and Barbuda 4.3 1963 
-Antigua and Barbuda 4.25 1964 
-Antigua and Barbuda 4.19 1965 
-Antigua and Barbuda 4.13 1966 
-Antigua and Barbuda 4.04 1967 
-Antigua and Barbuda 3.94 1968 
-Antigua and Barbuda 3.82 1969 
-Antigua and Barbuda 3.68 1970 
-Antigua and Barbuda 3.52 1971 
-Argentina 3.1 1961 
-Argentina 3.09 1962 
-Argentina 3.08 1963 
-Argentina 3.07 1964 
-Argentina 3.06 1965 
-Argentina 3.05 1966 
-Argentina 3.05 1967 
-Argentina 3.05 1968 
-Argentina 3.06 1969 
-Argentina 3.07 1970 
-Argentina 3.1 1971 
-Armenia 4.51 1961 
-Armenia 4.44 1962 
-Armenia 4.32 1963 
-Armenia 4.16 1964 
-Armenia 3.98 1965 
-Armenia 3.79 1966 
-Armenia 3.61 1967 
-Armenia 3.45 1968 
-Armenia 3.31 1969 
-Armenia 3.21 1970 
-Armenia 3.12 1971 
-Australia 3.52 1961 
-Australia 3.41 1962 
-Australia 3.32 1963 
-Australia 3.16 1964 
-Australia 3 1965 
-Australia 2.92 1966 
-Australia 2.87 1967 
-Australia 2.88 1968 
-Australia 2.86 1969 
-Australia 2.81 1970 
-Australia 2.85 1971 
-Austria 2.79 1961 
-Austria 2.8 1962 
-Austria 2.82 1963 
-Austria 2.8 1964 
-Austria 2.7 1965 
-Austria 2.66 1966 
-Austria 2.62 1967 
-Austria 2.59 1968 
-Austria 2.49 1969 
-Austria 2.29 1970 
-Austria 2.2 1971 
-Azerbaijan 5.94 1961 
-Azerbaijan 5.96 1962 
-Azerbaijan 5.95 1963 
-Azerbaijan 5.89 1964 
-Azerbaijan 5.79 1965 
-Azerbaijan 5.66 1966 
-Azerbaijan 5.51 1967 
-Azerbaijan 5.35 1968 
-Azerbaijan 5.19 1969 
-Azerbaijan 5.02 1970 
-Azerbaijan 4.85 1971 
-Bahamas 4.5 1961 
-Bahamas 4.45 1962 
-Bahamas 4.36 1963 
-Bahamas 4.22 1964 
-Bahamas 4.06 1965 
-Bahamas 3.89 1966 
-Bahamas 3.75 1967 
-Bahamas 3.64 1968 
-Bahamas 3.57 1969 
-Bahamas 3.53 1970 
-Bahamas 3.5 1971 
-Bahrain 7.13 1961 
-Bahrain 7.17 1962 
-Bahrain 7.19 1963 
-Bahrain 7.19 1964 
-Bahrain 7.17 1965 
-Bahrain 7.1 1966 
-Bahrain 7 1967 
-Bahrain 6.86 1968 
-Bahrain 6.69 1969 
-Bahrain 6.5 1970 
-Bahrain 6.29 1971 
-Bangladesh 6.76 1961 
-Bangladesh 6.79 1962 
-Bangladesh 6.83 1963 
-Bangladesh 6.85 1964 
-Bangladesh 6.88 1965 
-Bangladesh 6.9 1966 
-Bangladesh 6.92 1967 
-Bangladesh 6.94 1968 
-Bangladesh 6.95 1969 
-Bangladesh 6.95 1970 
-Bangladesh 6.94 1971 
-Barbados 4.31 1961 
-Barbados 4.27 1962 
-Barbados 4.2 1963 
-Barbados 4.09 1964 
-Barbados 3.96 1965 
-Barbados 3.81 1966 
-Barbados 3.64 1967 
-Barbados 3.46 1968 
-Barbados 3.28 1969 
-Barbados 3.11 1970 
-Barbados 2.95 1971 
-Belarus 2.66 1961 
-Belarus 2.61 1962 
-Belarus 2.55 1963 
-Belarus 2.49 1964 
-Belarus 2.43 1965 
-Belarus 2.37 1966 
-Belarus 2.33 1967 
-Belarus 2.29 1968 
-Belarus 2.27 1969 
-Belarus 2.25 1970 
-Belarus 2.24 1971 
-Belgium 2.62 1961 
-Belgium 2.63 1962 
-Belgium 2.62 1963 
-Belgium 2.6 1964 
-Belgium 2.56 1965 
-Belgium 2.5 1966 
-Belgium 2.43 1967 
-Belgium 2.36 1968 
-Belgium 2.28 1969 
-Belgium 2.21 1970 
-Belgium 2.13 1971 
-Belize 6.48 1961 
-Belize 6.46 1962 
-Belize 6.44 1963 
-Belize 6.42 1964 
-Belize 6.4 1965 
-Belize 6.38 1966 
-Belize 6.36 1967 
-Belize 6.34 1968 
-Belize 6.32 1969 
-Belize 6.3 1970 
-Belize 6.29 1971 
-Benin 6.34 1961 
-Benin 6.39 1962 
-Benin 6.45 1963 
-Benin 6.5 1964 
-Benin 6.54 1965 
-Benin 6.59 1966 
-Benin 6.63 1967 
-Benin 6.67 1968 
-Benin 6.71 1969 
-Benin 6.75 1970 
-Benin 6.79 1971 
-Bhutan 6.67 1961 
-Bhutan 6.67 1962 
-Bhutan 6.67 1963 
-Bhutan 6.67 1964 
-Bhutan 6.67 1965 
-Bhutan 6.67 1966 
-Bhutan 6.67 1967 
-Bhutan 6.67 1968 
-Bhutan 6.67 1969 
-Bhutan 6.67 1970 
-Bhutan 6.67 1971 
-Bolivia 6.67 1961 
-Bolivia 6.65 1962 
-Bolivia 6.63 1963 
-Bolivia 6.61 1964 
-Bolivia 6.59 1965 
-Bolivia 6.59 1966 
-Bolivia 6.59 1967 
-Bolivia 6.59 1968 
-Bolivia 6.59 1969 
-Bolivia 6.58 1970 
-Bolivia 6.55 1971 
-Bosnia and Herzegovina 3.74 1961 
-Bosnia and Herzegovina 3.68 1962 
-Bosnia and Herzegovina 3.6 1963 
-Bosnia and Herzegovina 3.52 1964 
-Bosnia and Herzegovina 3.42 1965 
-Bosnia and Herzegovina 3.31 1966 
-Bosnia and Herzegovina 3.21 1967 
-Bosnia and Herzegovina 3.11 1968 
-Bosnia and Herzegovina 3.02 1969 
-Bosnia and Herzegovina 2.93 1970 
-Bosnia and Herzegovina 2.84 1971 
-Botswana 6.63 1961 
-Botswana 6.65 1962 
-Botswana 6.67 1963 
-Botswana 6.68 1964 
-Botswana 6.69 1965 
-Botswana 6.7 1966 
-Botswana 6.7 1967 
-Botswana 6.69 1968 
-Botswana 6.67 1969 
-Botswana 6.65 1970 
-Botswana 6.62 1971 
-Brazil 6.19 1961 
-Brazil 6.14 1962 
-Brazil 6.06 1963 
-Brazil 5.95 1964 
-Brazil 5.82 1965 
-Brazil 5.66 1966 
-Brazil 5.49 1967 
-Brazil 5.33 1968 
-Brazil 5.17 1969 
-Brazil 5.02 1970 
-Brazil 4.9 1971 
-Brunei 6.49 1961 
-Brunei 6.45 1962 
-Brunei 6.36 1963 
-Brunei 6.23 1964 
-Brunei 6.07 1965 
-Brunei 5.92 1966 
-Brunei 5.8 1967 
-Brunei 5.74 1968 
-Brunei 5.73 1969 
-Brunei 5.75 1970 
-Brunei 5.77 1971 
-Bulgaria 2.23 1961 
-Bulgaria 2.21 1962 
-Bulgaria 2.2 1963 
-Bulgaria 2.18 1964 
-Bulgaria 2.17 1965 
-Bulgaria 2.15 1966 
-Bulgaria 2.14 1967 
-Bulgaria 2.13 1968 
-Bulgaria 2.13 1969 
-Bulgaria 2.14 1970 
-Bulgaria 2.14 1971 
-Burkina Faso 6.32 1961 
-Burkina Faso 6.34 1962 
-Burkina Faso 6.38 1963 
-Burkina Faso 6.41 1964 
-Burkina Faso 6.45 1965 
-Burkina Faso 6.49 1966 
-Burkina Faso 6.53 1967 
-Burkina Faso 6.56 1968 
-Burkina Faso 6.59 1969 
-Burkina Faso 6.62 1970 
-Burkina Faso 6.66 1971 
-Burundi 7 1961 
-Burundi 7.05 1962 
-Burundi 7.09 1963 
-Burundi 7.14 1964 
-Burundi 7.18 1965 
-Burundi 7.22 1966 
-Burundi 7.25 1967 
-Burundi 7.27 1968 
-Burundi 7.28 1969 
-Burundi 7.29 1970 
-Burundi 7.3 1971 
-Cambodia 6.96 1961 
-Cambodia 6.96 1962 
-Cambodia 6.94 1963 
-Cambodia 6.91 1964 
-Cambodia 6.87 1965 
-Cambodia 6.81 1966 
-Cambodia 6.75 1967 
-Cambodia 6.67 1968 
-Cambodia 6.57 1969 
-Cambodia 6.47 1970 
-Cambodia 6.33 1971 
-Cameroon 5.71 1961 
-Cameroon 5.77 1962 
-Cameroon 5.83 1963 
-Cameroon 5.89 1964 
-Cameroon 5.95 1965 
-Cameroon 6 1966 
-Cameroon 6.06 1967 
-Cameroon 6.11 1968 
-Cameroon 6.16 1969 
-Cameroon 6.2 1970 
-Cameroon 6.25 1971 
-Canada 3.81 1961 
-Canada 3.7 1962 
-Canada 3.56 1963 
-Canada 3.38 1964 
-Canada 3.18 1965 
-Canada 2.96 1966 
-Canada 2.75 1967 
-Canada 2.56 1968 
-Canada 2.38 1969 
-Canada 2.23 1970 
-Canada 2.11 1971 
-Cape Verde 6.92 1961 
-Cape Verde 6.95 1962 
-Cape Verde 6.98 1963 
-Cape Verde 6.99 1964 
-Cape Verde 6.99 1965 
-Cape Verde 6.99 1966 
-Cape Verde 6.98 1967 
-Cape Verde 6.97 1968 
-Cape Verde 6.95 1969 
-Cape Verde 6.94 1970 
-Cape Verde 6.91 1971 
-Central African Republic 5.87 1961 
-Central African Republic 5.89 1962 
-Central African Republic 5.91 1963 
-Central African Republic 5.93 1964 
-Central African Republic 5.94 1965 
-Central African Republic 5.95 1966 
-Central African Republic 5.95 1967 
-Central African Republic 5.95 1968 
-Central African Republic 5.95 1969 
-Central African Republic 5.95 1970 
-Central African Republic 5.95 1971 
-Chad 6.27 1961 
-Chad 6.29 1962 
-Chad 6.3 1963 
-Chad 6.32 1964 
-Chad 6.34 1965 
-Chad 6.36 1966 
-Chad 6.39 1967 
-Chad 6.43 1968 
-Chad 6.48 1969 
-Chad 6.53 1970 
-Chad 6.58 1971 
-Chile 5.05 1961 
-Chile 5 1962 
-Chile 4.93 1963 
-Chile 4.84 1964 
-Chile 4.75 1965 
-Chile 4.63 1966 
-Chile 4.5 1967 
-Chile 4.35 1968 
-Chile 4.19 1969 
-Chile 4.02 1970 
-Chile 3.84 1971 
-China 3.28 1961 
-China 5.97 1962 
-China 7.41 1963 
-China 6.12 1964 
-China 6.02 1965 
-China 6.21 1966 
-China 5.25 1967 
-China 6.37 1968 
-China 5.67 1969 
-China 5.75 1970 
-China 5.4 1971 
-Colombia 6.8 1961 
-Colombia 6.78 1962 
-Colombia 6.74 1963 
-Colombia 6.67 1964 
-Colombia 6.57 1965 
-Colombia 6.43 1966 
-Colombia 6.25 1967 
-Colombia 6.03 1968 
-Colombia 5.8 1969 
-Colombia 5.55 1970 
-Colombia 5.3 1971 
-Comoros 6.85 1961 
-Comoros 6.9 1962 
-Comoros 6.94 1963 
-Comoros 6.98 1964 
-Comoros 7 1965 
-Comoros 7.03 1966 
-Comoros 7.04 1967 
-Comoros 7.06 1968 
-Comoros 7.06 1969 
-Comoros 7.06 1970 
-Comoros 7.06 1971 
-Congo Dem. Rep. 6.02 1961 
-Congo Dem. Rep. 6.03 1962 
-Congo Dem. Rep. 6.05 1963 
-Congo Dem. Rep. 6.07 1964 
-Congo Dem. Rep. 6.09 1965 
-Congo Dem. Rep. 6.11 1966 
-Congo Dem. Rep. 6.14 1967 
-Congo Dem. Rep. 6.16 1968 
-Congo Dem. Rep. 6.19 1969 
-Congo Dem. Rep. 6.21 1970 
-Congo Dem. Rep. 6.24 1971 
-Congo Rep. 5.92 1961 
-Congo Rep. 5.97 1962 
-Congo Rep. 6.01 1963 
-Congo Rep. 6.05 1964 
-Congo Rep. 6.09 1965 
-Congo Rep. 6.14 1966 
-Congo Rep. 6.18 1967 
-Congo Rep. 6.22 1968 
-Congo Rep. 6.25 1969 
-Congo Rep. 6.29 1970 
-Congo Rep. 6.32 1971 
-Costa Rica 6.41 1961 
-Costa Rica 6.32 1962 
-Costa Rica 6.2 1963 
-Costa Rica 6.04 1964 
-Costa Rica 5.85 1965 
-Costa Rica 5.63 1966 
-Costa Rica 5.38 1967 
-Costa Rica 5.12 1968 
-Costa Rica 4.86 1969 
-Costa Rica 4.61 1970 
-Costa Rica 4.39 1971 
-Cote d'Ivoire 7.43 1961 
-Cote d'Ivoire 7.51 1962 
-Cote d'Ivoire 7.58 1963 
-Cote d'Ivoire 7.65 1964 
-Cote d'Ivoire 7.71 1965 
-Cote d'Ivoire 7.77 1966 
-Cote d'Ivoire 7.82 1967 
-Cote d'Ivoire 7.86 1968 
-Cote d'Ivoire 7.89 1969 
-Cote d'Ivoire 7.91 1970 
-Cote d'Ivoire 7.93 1971 
-Croatia 2.3 1961 
-Croatia 2.27 1962 
-Croatia 2.24 1963 
-Croatia 2.21 1964 
-Croatia 2.18 1965 
-Croatia 2.14 1966 
-Croatia 2.1 1967 
-Croatia 2.07 1968 
-Croatia 2.04 1969 
-Croatia 2.01 1970 
-Croatia 1.99 1971 
-Cuba 4.36 1961 
-Cuba 4.51 1962 
-Cuba 4.61 1963 
-Cuba 4.64 1964 
-Cuba 4.62 1965 
-Cuba 4.54 1966 
-Cuba 4.43 1967 
-Cuba 4.31 1968 
-Cuba 4.18 1969 
-Cuba 4.03 1970 
-Cuba 3.86 1971 
-Cyprus 3.47 1961 
-Cyprus 3.42 1962 
-Cyprus 3.35 1963 
-Cyprus 3.25 1964 
-Cyprus 3.13 1965 
-Cyprus 3.01 1966 
-Cyprus 2.89 1967 
-Cyprus 2.78 1968 
-Cyprus 2.69 1969 
-Cyprus 2.61 1970 
-Cyprus 2.55 1971 
-Czech Republic 2.24 1961 
-Czech Republic 2.2 1962 
-Czech Republic 2.15 1963 
-Czech Republic 2.1 1964 
-Czech Republic 2.05 1965 
-Czech Republic 2.01 1966 
-Czech Republic 1.99 1967 
-Czech Republic 1.99 1968 
-Czech Republic 2.02 1969 
-Czech Republic 2.06 1970 
-Czech Republic 2.11 1971 
-Denmark 2.55 1961 
-Denmark 2.54 1962 
-Denmark 2.64 1963 
-Denmark 2.6 1964 
-Denmark 2.61 1965 
-Denmark 2.62 1966 
-Denmark 2.35 1967 
-Denmark 2.12 1968 
-Denmark 2 1969 
-Denmark 1.95 1970 
-Denmark 2.04 1971 
-Djibouti 6.49 1961 
-Djibouti 6.53 1962 
-Djibouti 6.56 1963 
-Djibouti 6.6 1964 
-Djibouti 6.63 1965 
-Djibouti 6.67 1966 
-Djibouti 6.7 1967 
-Djibouti 6.74 1968 
-Djibouti 6.77 1969 
-Djibouti 6.8 1970 
-Djibouti 6.83 1971 
-Dominican Republic 7.49 1961 
-Dominican Republic 7.4 1962 
-Dominican Republic 7.3 1963 
-Dominican Republic 7.19 1964 
-Dominican Republic 7.05 1965 
-Dominican Republic 6.9 1966 
-Dominican Republic 6.74 1967 
-Dominican Republic 6.56 1968 
-Dominican Republic 6.38 1969 
-Dominican Republic 6.18 1970 
-Dominican Republic 5.98 1971 
-Ecuador 6.7 1961 
-Ecuador 6.68 1962 
-Ecuador 6.65 1963 
-Ecuador 6.61 1964 
-Ecuador 6.56 1965 
-Ecuador 6.51 1966 
-Ecuador 6.44 1967 
-Ecuador 6.35 1968 
-Ecuador 6.25 1969 
-Ecuador 6.14 1970 
-Ecuador 6.01 1971 
-Egypt 6.7 1961 
-Egypt 6.67 1962 
-Egypt 6.65 1963 
-Egypt 6.62 1964 
-Egypt 6.58 1965 
-Egypt 6.53 1966 
-Egypt 6.47 1967 
-Egypt 6.4 1968 
-Egypt 6.32 1969 
-Egypt 6.23 1970 
-Egypt 6.14 1971 
-El Salvador 6.68 1961 
-El Salvador 6.67 1962 
-El Salvador 6.65 1963 
-El Salvador 6.61 1964 
-El Salvador 6.55 1965 
-El Salvador 6.49 1966 
-El Salvador 6.42 1967 
-El Salvador 6.34 1968 
-El Salvador 6.26 1969 
-El Salvador 6.17 1970 
-El Salvador 6.09 1971 
-Equatorial Guinea 5.66 1961 
-Equatorial Guinea 5.67 1962 
-Equatorial Guinea 5.69 1963 
-Equatorial Guinea 5.71 1964 
-Equatorial Guinea 5.73 1965 
-Equatorial Guinea 5.76 1966 
-Equatorial Guinea 5.78 1967 
-Equatorial Guinea 5.79 1968 
-Equatorial Guinea 5.8 1969 
-Equatorial Guinea 5.81 1970 
-Equatorial Guinea 5.81 1971 
-Eritrea 6.87 1961 
-Eritrea 6.84 1962 
-Eritrea 6.81 1963 
-Eritrea 6.78 1964 
-Eritrea 6.75 1965 
-Eritrea 6.73 1966 
-Eritrea 6.71 1967 
-Eritrea 6.69 1968 
-Eritrea 6.67 1969 
-Eritrea 6.65 1970 
-Eritrea 6.64 1971 
-Estonia 1.95 1961 
-Estonia 1.94 1962 
-Estonia 1.95 1963 
-Estonia 1.95 1964 
-Estonia 1.97 1965 
-Estonia 1.99 1966 
-Estonia 2.01 1967 
-Estonia 2.04 1968 
-Estonia 2.07 1969 
-Estonia 2.1 1970 
-Estonia 2.12 1971 
-Eswatini 6.73 1961 
-Eswatini 6.75 1962 
-Eswatini 6.76 1963 
-Eswatini 6.78 1964 
-Eswatini 6.8 1965 
-Eswatini 6.82 1966 
-Eswatini 6.84 1967 
-Eswatini 6.86 1968 
-Eswatini 6.87 1969 
-Eswatini 6.88 1970 
-Eswatini 6.88 1971 
-Ethiopia 6.88 1961 
-Ethiopia 6.88 1962 
-Ethiopia 6.87 1963 
-Ethiopia 6.87 1964 
-Ethiopia 6.86 1965 
-Ethiopia 6.87 1966 
-Ethiopia 6.88 1967 
-Ethiopia 6.9 1968 
-Ethiopia 6.94 1969 
-Ethiopia 6.98 1970 
-Ethiopia 7.02 1971 
-Fiji 6.28 1961 
-Fiji 6.09 1962 
-Fiji 5.88 1963 
-Fiji 5.68 1964 
-Fiji 5.48 1965 
-Fiji 5.28 1966 
-Fiji 5.08 1967 
-Fiji 4.89 1968 
-Fiji 4.71 1969 
-Fiji 4.54 1970 
-Fiji 4.4 1971 
-Finland 2.65 1961 
-Finland 2.66 1962 
-Finland 2.66 1963 
-Finland 2.58 1964 
-Finland 2.46 1965 
-Finland 2.41 1966 
-Finland 2.32 1967 
-Finland 2.15 1968 
-Finland 1.94 1969 
-Finland 1.83 1970 
-Finland 1.7 1971 
-France 2.8 1961 
-France 2.81 1962 
-France 2.81 1963 
-France 2.8 1964 
-France 2.77 1965 
-France 2.73 1966 
-France 2.68 1967 
-France 2.62 1968 
-France 2.56 1969 
-France 2.49 1970 
-France 2.41 1971 
-Gabon 4.94 1961 
-Gabon 4.97 1962 
-Gabon 5.01 1963 
-Gabon 5.04 1964 
-Gabon 5.08 1965 
-Gabon 5.11 1966 
-Gabon 5.14 1967 
-Gabon 5.18 1968 
-Gabon 5.21 1969 
-Gabon 5.25 1970 
-Gabon 5.28 1971 
-Gambia 5.62 1961 
-Gambia 5.67 1962 
-Gambia 5.72 1963 
-Gambia 5.78 1964 
-Gambia 5.83 1965 
-Gambia 5.88 1966 
-Gambia 5.94 1967 
-Gambia 5.99 1968 
-Gambia 6.04 1969 
-Gambia 6.09 1970 
-Gambia 6.14 1971 
-Georgia 2.94 1961 
-Georgia 2.94 1962 
-Georgia 2.92 1963 
-Georgia 2.91 1964 
-Georgia 2.88 1965 
-Georgia 2.85 1966 
-Georgia 2.82 1967 
-Georgia 2.79 1968 
-Georgia 2.75 1969 
-Georgia 2.71 1970 
-Georgia 2.67 1971 
-Germany 2.43 1961 
-Germany 2.47 1962 
-Germany 2.49 1963 
-Germany 2.5 1964 
-Germany 2.48 1965 
-Germany 2.44 1966 
-Germany 2.37 1967 
-Germany 2.28 1968 
-Germany 2.17 1969 
-Germany 2.04 1970 
-Germany 1.92 1971 
-Ghana 6.79 1961 
-Ghana 6.83 1962 
-Ghana 6.86 1963 
-Ghana 6.89 1964 
-Ghana 6.92 1965 
-Ghana 6.94 1966 
-Ghana 6.95 1967 
-Ghana 6.96 1968 
-Ghana 6.96 1969 
-Ghana 6.95 1970 
-Ghana 6.94 1971 
-Greece 2.32 1961 
-Greece 2.32 1962 
-Greece 2.34 1963 
-Greece 2.37 1964 
-Greece 2.41 1965 
-Greece 2.46 1966 
-Greece 2.51 1967 
-Greece 2.54 1968 
-Greece 2.56 1969 
-Greece 2.57 1970 
-Greece 2.57 1971 
-Grenada 6.63 1961 
-Grenada 6.44 1962 
-Grenada 6.2 1963 
-Grenada 5.91 1964 
-Grenada 5.6 1965 
-Grenada 5.3 1966 
-Grenada 5.04 1967 
-Grenada 4.84 1968 
-Grenada 4.69 1969 
-Grenada 4.6 1970 
-Grenada 4.56 1971 
-Guatemala 6.86 1961 
-Guatemala 6.82 1962 
-Guatemala 6.79 1963 
-Guatemala 6.77 1964 
-Guatemala 6.74 1965 
-Guatemala 6.72 1966 
-Guatemala 6.71 1967 
-Guatemala 6.69 1968 
-Guatemala 6.66 1969 
-Guatemala 6.64 1970 
-Guatemala 6.62 1971 
-Guinea 6.13 1961 
-Guinea 6.14 1962 
-Guinea 6.15 1963 
-Guinea 6.15 1964 
-Guinea 6.16 1965 
-Guinea 6.17 1966 
-Guinea 6.18 1967 
-Guinea 6.19 1968 
-Guinea 6.21 1969 
-Guinea 6.23 1970 
-Guinea 6.25 1971 
-Guinea-Bissau 5.93 1961 
-Guinea-Bissau 5.94 1962 
-Guinea-Bissau 5.95 1963 
-Guinea-Bissau 5.96 1964 
-Guinea-Bissau 5.97 1965 
-Guinea-Bissau 5.98 1966 
-Guinea-Bissau 5.99 1967 
-Guinea-Bissau 6.01 1968 
-Guinea-Bissau 6.02 1969 
-Guinea-Bissau 6.04 1970 
-Guinea-Bissau 6.06 1971 
-Guyana 6.31 1961 
-Guyana 6.23 1962 
-Guyana 6.14 1963 
-Guyana 6.05 1964 
-Guyana 5.96 1965 
-Guyana 5.86 1966 
-Guyana 5.76 1967 
-Guyana 5.64 1968 
-Guyana 5.52 1969 
-Guyana 5.38 1970 
-Guyana 5.23 1971 
-Haiti 6.32 1961 
-Haiti 6.3 1962 
-Haiti 6.27 1963 
-Haiti 6.23 1964 
-Haiti 6.18 1965 
-Haiti 6.11 1966 
-Haiti 6.03 1967 
-Haiti 5.94 1968 
-Haiti 5.85 1969 
-Haiti 5.76 1970 
-Haiti 5.69 1971 
-Honduras 7.45 1961 
-Honduras 7.44 1962 
-Honduras 7.44 1963 
-Honduras 7.44 1964 
-Honduras 7.44 1965 
-Honduras 7.44 1966 
-Honduras 7.42 1967 
-Honduras 7.38 1968 
-Honduras 7.33 1969 
-Honduras 7.27 1970 
-Honduras 7.2 1971 
-Hungary 1.94 1961 
-Hungary 1.88 1962 
-Hungary 1.84 1963 
-Hungary 1.83 1964 
-Hungary 1.85 1965 
-Hungary 1.88 1966 
-Hungary 1.92 1967 
-Hungary 1.95 1968 
-Hungary 1.98 1969 
-Hungary 2.01 1970 
-Hungary 2.03 1971 
-Iceland 4.07 1961 
-Iceland 3.98 1962 
-Iceland 3.86 1963 
-Iceland 3.74 1964 
-Iceland 3.6 1965 
-Iceland 3.46 1966 
-Iceland 3.34 1967 
-Iceland 3.22 1968 
-Iceland 3.12 1969 
-Iceland 3.03 1970 
-Iceland 2.95 1971 
-India 5.9 1961 
-India 5.89 1962 
-India 5.88 1963 
-India 5.86 1964 
-India 5.83 1965 
-India 5.79 1966 
-India 5.75 1967 
-India 5.7 1968 
-India 5.65 1969 
-India 5.59 1970 
-India 5.52 1971 
-Indonesia 5.66 1961 
-Indonesia 5.65 1962 
-Indonesia 5.63 1963 
-Indonesia 5.62 1964 
-Indonesia 5.61 1965 
-Indonesia 5.6 1966 
-Indonesia 5.58 1967 
-Indonesia 5.56 1968 
-Indonesia 5.52 1969 
-Indonesia 5.47 1970 
-Indonesia 5.41 1971 
-Iran 6.92 1961 
-Iran 6.91 1962 
-Iran 6.9 1963 
-Iran 6.87 1964 
-Iran 6.83 1965 
-Iran 6.77 1966 
-Iran 6.7 1967 
-Iran 6.62 1968 
-Iran 6.53 1969 
-Iran 6.44 1970 
-Iran 6.36 1971 
-Iraq 6.36 1961 
-Iraq 6.51 1962 
-Iraq 6.69 1963 
-Iraq 6.87 1964 
-Iraq 7.04 1965 
-Iraq 7.19 1966 
-Iraq 7.3 1967 
-Iraq 7.36 1968 
-Iraq 7.38 1969 
-Iraq 7.36 1970 
-Iraq 7.31 1971 
-Ireland 3.93 1961 
-Ireland 3.98 1962 
-Ireland 4 1963 
-Ireland 3.99 1964 
-Ireland 3.95 1965 
-Ireland 3.9 1966 
-Ireland 3.86 1967 
-Ireland 3.83 1968 
-Ireland 3.82 1969 
-Ireland 3.81 1970 
-Ireland 3.81 1971 
-Israel 3.84 1961 
-Israel 3.83 1962 
-Israel 3.82 1963 
-Israel 3.82 1964 
-Israel 3.81 1965 
-Israel 3.8 1966 
-Israel 3.8 1967 
-Israel 3.81 1968 
-Israel 3.81 1969 
-Israel 3.82 1970 
-Israel 3.81 1971 
-Italy 2.43 1961 
-Italy 2.47 1962 
-Italy 2.5 1963 
-Italy 2.52 1964 
-Italy 2.53 1965 
-Italy 2.53 1966 
-Italy 2.52 1967 
-Italy 2.5 1968 
-Italy 2.48 1969 
-Italy 2.44 1970 
-Italy 2.4 1971 
-Jamaica 5.53 1961 
-Jamaica 5.63 1962 
-Jamaica 5.71 1963 
-Jamaica 5.78 1964 
-Jamaica 5.82 1965 
-Jamaica 5.82 1966 
-Jamaica 5.79 1967 
-Jamaica 5.72 1968 
-Jamaica 5.62 1969 
-Jamaica 5.48 1970 
-Jamaica 5.31 1971 
-Japan 2.02 1961 
-Japan 2.01 1962 
-Japan 2.01 1963 
-Japan 2.01 1964 
-Japan 2.02 1965 
-Japan 2.03 1966 
-Japan 2.04 1967 
-Japan 2.07 1968 
-Japan 2.09 1969 
-Japan 2.11 1970 
-Japan 2.12 1971 
-Jordan 7.8 1961 
-Jordan 7.9 1962 
-Jordan 7.98 1963 
-Jordan 8.03 1964 
-Jordan 8.06 1965 
-Jordan 8.05 1966 
-Jordan 8.03 1967 
-Jordan 8 1968 
-Jordan 7.97 1969 
-Jordan 7.93 1970 
-Jordan 7.88 1971 
-Kazakhstan 4.51 1961 
-Kazakhstan 4.43 1962 
-Kazakhstan 4.32 1963 
-Kazakhstan 4.19 1964 
-Kazakhstan 4.05 1965 
-Kazakhstan 3.91 1966 
-Kazakhstan 3.8 1967 
-Kazakhstan 3.71 1968 
-Kazakhstan 3.65 1969 
-Kazakhstan 3.61 1970 
-Kazakhstan 3.59 1971 
-Kenya 8 1961 
-Kenya 8.04 1962 
-Kenya 8.08 1963 
-Kenya 8.1 1964 
-Kenya 8.12 1965 
-Kenya 8.13 1966 
-Kenya 8.13 1967 
-Kenya 8.12 1968 
-Kenya 8.1 1969 
-Kenya 8.08 1970 
-Kenya 8.05 1971 
-Kiribati 6.8 1961 
-Kiribati 6.78 1962 
-Kiribati 6.73 1963 
-Kiribati 6.63 1964 
-Kiribati 6.5 1965 
-Kiribati 6.33 1966 
-Kiribati 6.13 1967 
-Kiribati 5.9 1968 
-Kiribati 5.67 1969 
-Kiribati 5.46 1970 
-Kiribati 5.27 1971 
-Kuwait 7.27 1961 
-Kuwait 7.31 1962 
-Kuwait 7.35 1963 
-Kuwait 7.38 1964 
-Kuwait 7.41 1965 
-Kuwait 7.42 1966 
-Kuwait 7.4 1967 
-Kuwait 7.36 1968 
-Kuwait 7.28 1969 
-Kuwait 7.17 1970 
-Kuwait 7.02 1971 
-Kyrgyz Republic 5.52 1961 
-Kyrgyz Republic 5.53 1962 
-Kyrgyz Republic 5.52 1963 
-Kyrgyz Republic 5.48 1964 
-Kyrgyz Republic 5.42 1965 
-Kyrgyz Republic 5.35 1966 
-Kyrgyz Republic 5.3 1967 
-Kyrgyz Republic 5.25 1968 
-Kyrgyz Republic 5.21 1969 
-Kyrgyz Republic 5.18 1970 
-Kyrgyz Republic 5.15 1971 
-Lao 5.96 1961 
-Lao 5.97 1962 
-Lao 5.97 1963 
-Lao 5.97 1964 
-Lao 5.97 1965 
-Lao 5.97 1966 
-Lao 5.97 1967 
-Lao 5.97 1968 
-Lao 5.97 1969 
-Lao 5.97 1970 
-Lao 5.98 1971 
-Latvia 1.9 1961 
-Latvia 1.88 1962 
-Latvia 1.86 1963 
-Latvia 1.85 1964 
-Latvia 1.84 1965 
-Latvia 1.84 1966 
-Latvia 1.85 1967 
-Latvia 1.87 1968 
-Latvia 1.9 1969 
-Latvia 1.93 1970 
-Latvia 1.95 1971 
-Lebanon 5.72 1961 
-Lebanon 5.69 1962 
-Lebanon 5.65 1963 
-Lebanon 5.58 1964 
-Lebanon 5.5 1965 
-Lebanon 5.4 1966 
-Lebanon 5.3 1967 
-Lebanon 5.18 1968 
-Lebanon 5.06 1969 
-Lebanon 4.95 1970 
-Lebanon 4.84 1971 
-Lesotho 5.83 1961 
-Lesotho 5.82 1962 
-Lesotho 5.81 1963 
-Lesotho 5.81 1964 
-Lesotho 5.8 1965 
-Lesotho 5.8 1966 
-Lesotho 5.8 1967 
-Lesotho 5.81 1968 
-Lesotho 5.81 1969 
-Lesotho 5.81 1970 
-Lesotho 5.81 1971 
-Liberia 6.43 1961 
-Liberia 6.45 1962 
-Liberia 6.48 1963 
-Liberia 6.5 1964 
-Liberia 6.52 1965 
-Liberia 6.55 1966 
-Liberia 6.58 1967 
-Liberia 6.62 1968 
-Liberia 6.66 1969 
-Liberia 6.7 1970 
-Liberia 6.74 1971 
-Libya 7.24 1961 
-Libya 7.31 1962 
-Libya 7.4 1963 
-Libya 7.52 1964 
-Libya 7.65 1965 
-Libya 7.78 1966 
-Libya 7.91 1967 
-Libya 8.01 1968 
-Libya 8.09 1969 
-Libya 8.13 1970 
-Libya 8.15 1971 
-Lithuania 2.49 1961 
-Lithuania 2.45 1962 
-Lithuania 2.41 1963 
-Lithuania 2.38 1964 
-Lithuania 2.35 1965 
-Lithuania 2.33 1966 
-Lithuania 2.32 1967 
-Lithuania 2.31 1968 
-Lithuania 2.31 1969 
-Lithuania 2.31 1970 
-Lithuania 2.3 1971 
-Luxembourg 2.38 1961 
-Luxembourg 2.39 1962 
-Luxembourg 2.39 1963 
-Luxembourg 2.37 1964 
-Luxembourg 2.34 1965 
-Luxembourg 2.29 1966 
-Luxembourg 2.22 1967 
-Luxembourg 2.14 1968 
-Luxembourg 2.05 1969 
-Luxembourg 1.96 1970 
-Luxembourg 1.87 1971 
-Madagascar 7.3 1961 
-Madagascar 7.3 1962 
-Madagascar 7.31 1963 
-Madagascar 7.31 1964 
-Madagascar 7.31 1965 
-Madagascar 7.31 1966 
-Madagascar 7.3 1967 
-Madagascar 7.3 1968 
-Madagascar 7.29 1969 
-Madagascar 7.27 1970 
-Madagascar 7.25 1971 
-Malawi 6.96 1961 
-Malawi 6.99 1962 
-Malawi 7.02 1963 
-Malawi 7.06 1964 
-Malawi 7.1 1965 
-Malawi 7.14 1966 
-Malawi 7.18 1967 
-Malawi 7.22 1968 
-Malawi 7.26 1969 
-Malawi 7.3 1970 
-Malawi 7.35 1971 
-Malaysia 6.42 1961 
-Malaysia 6.35 1962 
-Malaysia 6.25 1963 
-Malaysia 6.1 1964 
-Malaysia 5.92 1965 
-Malaysia 5.73 1966 
-Malaysia 5.53 1967 
-Malaysia 5.34 1968 
-Malaysia 5.17 1969 
-Malaysia 5.01 1970 
-Malaysia 4.88 1971 
-Maldives 7.08 1961 
-Maldives 7.12 1962 
-Maldives 7.15 1963 
-Maldives 7.18 1964 
-Maldives 7.2 1965 
-Maldives 7.22 1966 
-Maldives 7.23 1967 
-Maldives 7.24 1968 
-Maldives 7.24 1969 
-Maldives 7.23 1970 
-Maldives 7.2 1971 
-Mali 6.98 1961 
-Mali 6.99 1962 
-Mali 7.01 1963 
-Mali 7.03 1964 
-Mali 7.05 1965 
-Mali 7.07 1966 
-Mali 7.09 1967 
-Mali 7.11 1968 
-Mali 7.12 1969 
-Mali 7.13 1970 
-Mali 7.14 1971 
-Malta 3.38 1961 
-Malta 3.2 1962 
-Malta 3.01 1963 
-Malta 2.8 1964 
-Malta 2.59 1965 
-Malta 2.4 1966 
-Malta 2.24 1967 
-Malta 2.11 1968 
-Malta 2.02 1969 
-Malta 1.98 1970 
-Malta 1.96 1971 
-Mauritania 6.79 1961 
-Mauritania 6.79 1962 
-Mauritania 6.8 1963 
-Mauritania 6.8 1964 
-Mauritania 6.8 1965 
-Mauritania 6.8 1966 
-Mauritania 6.8 1967 
-Mauritania 6.8 1968 
-Mauritania 6.79 1969 
-Mauritania 6.78 1970 
-Mauritania 6.77 1971 
-Mauritius 6.18 1961 
-Mauritius 6.12 1962 
-Mauritius 5.99 1963 
-Mauritius 5.79 1964 
-Mauritius 5.51 1965 
-Mauritius 5.19 1966 
-Mauritius 4.85 1967 
-Mauritius 4.52 1968 
-Mauritius 4.21 1969 
-Mauritius 3.95 1970 
-Mauritius 3.74 1971 
-Mexico 6.76 1961 
-Mexico 6.76 1962 
-Mexico 6.75 1963 
-Mexico 6.75 1964 
-Mexico 6.76 1965 
-Mexico 6.77 1966 
-Mexico 6.79 1967 
-Mexico 6.81 1968 
-Mexico 6.83 1969 
-Mexico 6.83 1970 
-Mexico 6.79 1971 
-Micronesia Fed. Sts. 6.92 1961 
-Micronesia Fed. Sts. 6.91 1962 
-Micronesia Fed. Sts. 6.9 1963 
-Micronesia Fed. Sts. 6.89 1964 
-Micronesia Fed. Sts. 6.89 1965 
-Micronesia Fed. Sts. 6.9 1966 
-Micronesia Fed. Sts. 6.91 1967 
-Micronesia Fed. Sts. 6.92 1968 
-Micronesia Fed. Sts. 6.94 1969 
-Micronesia Fed. Sts. 6.94 1970 
-Micronesia Fed. Sts. 6.93 1971 
-Moldova 3.26 1961 
-Moldova 3.18 1962 
-Moldova 3.09 1963 
-Moldova 2.99 1964 
-Moldova 2.89 1965 
-Moldova 2.8 1966 
-Moldova 2.72 1967 
-Moldova 2.66 1968 
-Moldova 2.61 1969 
-Moldova 2.58 1970 
-Moldova 2.56 1971 
-Mongolia 7.17 1961 
-Mongolia 7.35 1962 
-Mongolia 7.48 1963 
-Mongolia 7.56 1964 
-Mongolia 7.59 1965 
-Mongolia 7.6 1966 
-Mongolia 7.59 1967 
-Mongolia 7.58 1968 
-Mongolia 7.58 1969 
-Mongolia 7.57 1970 
-Mongolia 7.55 1971 
-Montenegro 3.52 1961 
-Montenegro 3.44 1962 
-Montenegro 3.34 1963 
-Montenegro 3.25 1964 
-Montenegro 3.15 1965 
-Montenegro 3.05 1966 
-Montenegro 2.95 1967 
-Montenegro 2.87 1968 
-Montenegro 2.8 1969 
-Montenegro 2.74 1970 
-Montenegro 2.68 1971 
-Morocco 7.07 1961 
-Morocco 7.09 1962 
-Morocco 7.09 1963 
-Morocco 7.07 1964 
-Morocco 7.03 1965 
-Morocco 6.97 1966 
-Morocco 6.9 1967 
-Morocco 6.82 1968 
-Morocco 6.74 1969 
-Morocco 6.65 1970 
-Morocco 6.55 1971 
-Mozambique 6.94 1961 
-Mozambique 6.92 1962 
-Mozambique 6.9 1963 
-Mozambique 6.88 1964 
-Mozambique 6.87 1965 
-Mozambique 6.86 1966 
-Mozambique 6.86 1967 
-Mozambique 6.85 1968 
-Mozambique 6.85 1969 
-Mozambique 6.84 1970 
-Mozambique 6.82 1971 
-Myanmar 6.07 1961 
-Myanmar 6.1 1962 
-Myanmar 6.12 1963 
-Myanmar 6.13 1964 
-Myanmar 6.14 1965 
-Myanmar 6.13 1966 
-Myanmar 6.11 1967 
-Myanmar 6.08 1968 
-Myanmar 6.03 1969 
-Myanmar 5.96 1970 
-Myanmar 5.88 1971 
-Namibia 6.17 1961 
-Namibia 6.18 1962 
-Namibia 6.2 1963 
-Namibia 6.22 1964 
-Namibia 6.24 1965 
-Namibia 6.26 1966 
-Namibia 6.3 1967 
-Namibia 6.35 1968 
-Namibia 6.4 1969 
-Namibia 6.46 1970 
-Namibia 6.52 1971 
-Nepal 5.96 1961 
-Nepal 5.96 1962 
-Nepal 5.96 1963 
-Nepal 5.97 1964 
-Nepal 5.97 1965 
-Nepal 5.96 1966 
-Nepal 5.96 1967 
-Nepal 5.95 1968 
-Nepal 5.93 1969 
-Nepal 5.92 1970 
-Nepal 5.9 1971 
-Netherlands 3.22 1961 
-Netherlands 3.18 1962 
-Netherlands 3.19 1963 
-Netherlands 3.17 1964 
-Netherlands 3.04 1965 
-Netherlands 2.9 1966 
-Netherlands 2.81 1967 
-Netherlands 2.72 1968 
-Netherlands 2.75 1969 
-Netherlands 2.57 1970 
-Netherlands 2.36 1971 
-New Zealand 3.61 1961 
-New Zealand 3.51 1962 
-New Zealand 3.41 1963 
-New Zealand 3.22 1964 
-New Zealand 3.05 1965 
-New Zealand 3.13 1966 
-New Zealand 3 1967 
-New Zealand 3.02 1968 
-New Zealand 3.01 1969 
-New Zealand 2.95 1970 
-New Zealand 3.02 1971 
-Nicaragua 7.26 1961 
-Nicaragua 7.18 1962 
-Nicaragua 7.11 1963 
-Nicaragua 7.05 1964 
-Nicaragua 7.01 1965 
-Nicaragua 6.98 1966 
-Nicaragua 6.96 1967 
-Nicaragua 6.94 1968 
-Nicaragua 6.92 1969 
-Nicaragua 6.89 1970 
-Nicaragua 6.86 1971 
-Niger 7.47 1961 
-Niger 7.49 1962 
-Niger 7.51 1963 
-Niger 7.52 1964 
-Niger 7.53 1965 
-Niger 7.54 1966 
-Niger 7.54 1967 
-Niger 7.55 1968 
-Niger 7.56 1969 
-Niger 7.57 1970 
-Niger 7.58 1971 
-Nigeria 6.35 1961 
-Nigeria 6.35 1962 
-Nigeria 6.34 1963 
-Nigeria 6.34 1964 
-Nigeria 6.34 1965 
-Nigeria 6.34 1966 
-Nigeria 6.36 1967 
-Nigeria 6.39 1968 
-Nigeria 6.43 1969 
-Nigeria 6.47 1970 
-Nigeria 6.52 1971 
-North Korea 4.36 1961 
-North Korea 4.17 1962 
-North Korea 4.06 1963 
-North Korea 4.02 1964 
-North Korea 4.06 1965 
-North Korea 4.16 1966 
-North Korea 4.26 1967 
-North Korea 4.33 1968 
-North Korea 4.35 1969 
-North Korea 4.32 1970 
-North Korea 4.21 1971 
-North Macedonia 3.76 1961 
-North Macedonia 3.69 1962 
-North Macedonia 3.64 1963 
-North Macedonia 3.6 1964 
-North Macedonia 3.55 1965 
-North Macedonia 3.5 1966 
-North Macedonia 3.44 1967 
-North Macedonia 3.36 1968 
-North Macedonia 3.27 1969 
-North Macedonia 3.16 1970 
-North Macedonia 3.04 1971 
-Norway 2.91 1961 
-Norway 2.89 1962 
-Norway 2.91 1963 
-Norway 2.96 1964 
-Norway 2.93 1965 
-Norway 2.89 1966 
-Norway 2.8 1967 
-Norway 2.75 1968 
-Norway 2.69 1969 
-Norway 2.5 1970 
-Norway 2.49 1971 
-Oman 7.25 1961 
-Oman 7.25 1962 
-Oman 7.26 1963 
-Oman 7.26 1964 
-Oman 7.27 1965 
-Oman 7.28 1966 
-Oman 7.28 1967 
-Oman 7.29 1968 
-Oman 7.29 1969 
-Oman 7.31 1970 
-Oman 7.35 1971 
-Pakistan 6.6 1961 
-Pakistan 6.6 1962 
-Pakistan 6.6 1963 
-Pakistan 6.6 1964 
-Pakistan 6.6 1965 
-Pakistan 6.6 1966 
-Pakistan 6.6 1967 
-Pakistan 6.6 1968 
-Pakistan 6.6 1969 
-Pakistan 6.6 1970 
-Pakistan 6.6 1971 
-Palestine 7.8 1961 
-Palestine 7.91 1962 
-Palestine 7.99 1963 
-Palestine 8.04 1964 
-Palestine 8.06 1965 
-Palestine 8.05 1966 
-Palestine 8.02 1967 
-Palestine 7.98 1968 
-Palestine 7.92 1969 
-Palestine 7.86 1970 
-Palestine 7.8 1971 
-Panama 5.85 1961 
-Panama 5.81 1962 
-Panama 5.77 1963 
-Panama 5.71 1964 
-Panama 5.64 1965 
-Panama 5.56 1966 
-Panama 5.47 1967 
-Panama 5.38 1968 
-Panama 5.28 1969 
-Panama 5.17 1970 
-Panama 5.06 1971 
-Papua New Guinea 6.28 1961 
-Papua New Guinea 6.28 1962 
-Papua New Guinea 6.28 1963 
-Papua New Guinea 6.27 1964 
-Papua New Guinea 6.26 1965 
-Papua New Guinea 6.24 1966 
-Papua New Guinea 6.23 1967 
-Papua New Guinea 6.21 1968 
-Papua New Guinea 6.19 1969 
-Papua New Guinea 6.16 1970 
-Papua New Guinea 6.14 1971 
-Paraguay 6.49 1961 
-Paraguay 6.47 1962 
-Paraguay 6.45 1963 
-Paraguay 6.41 1964 
-Paraguay 6.36 1965 
-Paraguay 6.28 1966 
-Paraguay 6.17 1967 
-Paraguay 6.04 1968 
-Paraguay 5.89 1969 
-Paraguay 5.74 1970 
-Paraguay 5.59 1971 
-Peru 6.97 1961 
-Peru 6.96 1962 
-Peru 6.95 1963 
-Peru 6.92 1964 
-Peru 6.88 1965 
-Peru 6.82 1966 
-Peru 6.73 1967 
-Peru 6.63 1968 
-Peru 6.51 1969 
-Peru 6.38 1970 
-Peru 6.24 1971 
-Philippines 7.09 1961 
-Philippines 7.02 1962 
-Philippines 6.95 1963 
-Philippines 6.87 1964 
-Philippines 6.78 1965 
-Philippines 6.69 1966 
-Philippines 6.59 1967 
-Philippines 6.49 1968 
-Philippines 6.38 1969 
-Philippines 6.26 1970 
-Philippines 6.15 1971 
-Poland 2.96 1961 
-Poland 2.82 1962 
-Poland 2.69 1963 
-Poland 2.57 1964 
-Poland 2.48 1965 
-Poland 2.41 1966 
-Poland 2.35 1967 
-Poland 2.31 1968 
-Poland 2.28 1969 
-Poland 2.25 1970 
-Poland 2.24 1971 
-Portugal 3.18 1961 
-Portugal 3.19 1962 
-Portugal 3.19 1963 
-Portugal 3.19 1964 
-Portugal 3.18 1965 
-Portugal 3.16 1966 
-Portugal 3.13 1967 
-Portugal 3.09 1968 
-Portugal 3.05 1969 
-Portugal 2.99 1970 
-Portugal 2.94 1971 
-Qatar 6.97 1961 
-Qatar 6.98 1962 
-Qatar 6.98 1963 
-Qatar 6.99 1964 
-Qatar 6.99 1965 
-Qatar 6.99 1966 
-Qatar 6.98 1967 
-Qatar 6.97 1968 
-Qatar 6.95 1969 
-Qatar 6.91 1970 
-Qatar 6.86 1971 
-Romania 2.25 1961 
-Romania 2.22 1962 
-Romania 2.25 1963 
-Romania 2.33 1964 
-Romania 2.46 1965 
-Romania 2.59 1966 
-Romania 2.71 1967 
-Romania 2.79 1968 
-Romania 2.83 1969 
-Romania 2.82 1970 
-Romania 2.79 1971 
-Russia 2.46 1961 
-Russia 2.34 1962 
-Russia 2.28 1963 
-Russia 2.16 1964 
-Russia 2.09 1965 
-Russia 2.1 1966 
-Russia 2.01 1967 
-Russia 1.97 1968 
-Russia 1.98 1969 
-Russia 2 1970 
-Russia 2.02 1971 
-Rwanda 8.19 1961 
-Rwanda 8.2 1962 
-Rwanda 8.2 1963 
-Rwanda 8.2 1964 
-Rwanda 8.2 1965 
-Rwanda 8.2 1966 
-Rwanda 8.2 1967 
-Rwanda 8.21 1968 
-Rwanda 8.22 1969 
-Rwanda 8.23 1970 
-Rwanda 8.25 1971 
-Samoa 7.65 1961 
-Samoa 7.63 1962 
-Samoa 7.6 1963 
-Samoa 7.57 1964 
-Samoa 7.52 1965 
-Samoa 7.46 1966 
-Samoa 7.4 1967 
-Samoa 7.33 1968 
-Samoa 7.27 1969 
-Samoa 7.19 1970 
-Samoa 7.12 1971 
-Sao Tome and Principe 6.26 1961 
-Sao Tome and Principe 6.28 1962 
-Sao Tome and Principe 6.31 1963 
-Sao Tome and Principe 6.33 1964 
-Sao Tome and Principe 6.35 1965 
-Sao Tome and Principe 6.37 1966 
-Sao Tome and Principe 6.39 1967 
-Sao Tome and Principe 6.42 1968 
-Sao Tome and Principe 6.44 1969 
-Sao Tome and Principe 6.47 1970 
-Sao Tome and Principe 6.49 1971 
-Saudi Arabia 7.23 1961 
-Saudi Arabia 7.24 1962 
-Saudi Arabia 7.25 1963 
-Saudi Arabia 7.26 1964 
-Saudi Arabia 7.26 1965 
-Saudi Arabia 7.26 1966 
-Saudi Arabia 7.26 1967 
-Saudi Arabia 7.27 1968 
-Saudi Arabia 7.27 1969 
-Saudi Arabia 7.28 1970 
-Saudi Arabia 7.29 1971 
-Senegal 7.04 1961 
-Senegal 7.08 1962 
-Senegal 7.12 1963 
-Senegal 7.15 1964 
-Senegal 7.19 1965 
-Senegal 7.22 1966 
-Senegal 7.24 1967 
-Senegal 7.26 1968 
-Senegal 7.28 1969 
-Senegal 7.29 1970 
-Senegal 7.3 1971 
-Serbia 2.49 1961 
-Serbia 2.48 1962 
-Serbia 2.48 1963 
-Serbia 2.48 1964 
-Serbia 2.47 1965 
-Serbia 2.45 1966 
-Serbia 2.44 1967 
-Serbia 2.42 1968 
-Serbia 2.4 1969 
-Serbia 2.39 1970 
-Serbia 2.38 1971 
-Seychelles 5.4 1961 
-Seychelles 5.53 1962 
-Seychelles 5.65 1963 
-Seychelles 5.76 1964 
-Seychelles 5.84 1965 
-Seychelles 5.89 1966 
-Seychelles 5.92 1967 
-Seychelles 5.9 1968 
-Seychelles 5.85 1969 
-Seychelles 5.76 1970 
-Seychelles 5.63 1971 
-Sierra Leone 6.17 1961 
-Sierra Leone 6.22 1962 
-Sierra Leone 6.26 1963 
-Sierra Leone 6.3 1964 
-Sierra Leone 6.34 1965 
-Sierra Leone 6.37 1966 
-Sierra Leone 6.4 1967 
-Sierra Leone 6.43 1968 
-Sierra Leone 6.47 1969 
-Sierra Leone 6.5 1970 
-Sierra Leone 6.52 1971 
-Singapore 5.56 1961 
-Singapore 5.27 1962 
-Singapore 4.97 1963 
-Singapore 4.66 1964 
-Singapore 4.36 1965 
-Singapore 4.07 1966 
-Singapore 3.82 1967 
-Singapore 3.58 1968 
-Singapore 3.38 1969 
-Singapore 3.19 1970 
-Singapore 3.01 1971 
-Slovak Republic 3.01 1961 
-Slovak Republic 2.94 1962 
-Slovak Republic 2.86 1963 
-Slovak Republic 2.78 1964 
-Slovak Republic 2.7 1965 
-Slovak Republic 2.64 1966 
-Slovak Republic 2.58 1967 
-Slovak Republic 2.54 1968 
-Slovak Republic 2.51 1969 
-Slovak Republic 2.5 1970 
-Slovak Republic 2.5 1971 
-Slovenia 2.33 1961 
-Slovenia 2.33 1962 
-Slovenia 2.32 1963 
-Slovenia 2.31 1964 
-Slovenia 2.3 1965 
-Slovenia 2.29 1966 
-Slovenia 2.27 1967 
-Slovenia 2.26 1968 
-Slovenia 2.24 1969 
-Slovenia 2.23 1970 
-Slovenia 2.22 1971 
-Solomon Islands 6.39 1961 
-Solomon Islands 6.38 1962 
-Solomon Islands 6.39 1963 
-Solomon Islands 6.39 1964 
-Solomon Islands 6.42 1965 
-Solomon Islands 6.47 1966 
-Solomon Islands 6.55 1967 
-Solomon Islands 6.66 1968 
-Solomon Islands 6.78 1969 
-Solomon Islands 6.91 1970 
-Solomon Islands 7.04 1971 
-Somalia 7.25 1961 
-Somalia 7.26 1962 
-Somalia 7.26 1963 
-Somalia 7.26 1964 
-Somalia 7.26 1965 
-Somalia 7.26 1966 
-Somalia 7.25 1967 
-Somalia 7.23 1968 
-Somalia 7.21 1969 
-Somalia 7.18 1970 
-Somalia 7.15 1971 
-South Africa 6.13 1961 
-South Africa 6.08 1962 
-South Africa 6.03 1963 
-South Africa 5.97 1964 
-South Africa 5.92 1965 
-South Africa 5.86 1966 
-South Africa 5.81 1967 
-South Africa 5.77 1968 
-South Africa 5.72 1969 
-South Africa 5.67 1970 
-South Africa 5.61 1971 
-South Korea 5.93 1961 
-South Korea 5.74 1962 
-South Korea 5.53 1963 
-South Korea 5.33 1964 
-South Korea 5.13 1965 
-South Korea 4.94 1966 
-South Korea 4.77 1967 
-South Korea 4.62 1968 
-South Korea 4.47 1969 
-South Korea 4.34 1970 
-South Korea 4.19 1971 
-South Sudan 6.71 1961 
-South Sudan 6.74 1962 
-South Sudan 6.76 1963 
-South Sudan 6.79 1964 
-South Sudan 6.81 1965 
-South Sudan 6.83 1966 
-South Sudan 6.85 1967 
-South Sudan 6.87 1968 
-South Sudan 6.88 1969 
-South Sudan 6.89 1970 
-South Sudan 6.9 1971 
-Spain 2.79 1961 
-Spain 2.8 1962 
-Spain 2.82 1963 
-Spain 2.83 1964 
-Spain 2.83 1965 
-Spain 2.84 1966 
-Spain 2.85 1967 
-Spain 2.86 1968 
-Spain 2.87 1969 
-Spain 2.87 1970 
-Spain 2.87 1971 
-Sri Lanka 5.42 1961 
-Sri Lanka 5.3 1962 
-Sri Lanka 5.18 1963 
-Sri Lanka 5.07 1964 
-Sri Lanka 4.96 1965 
-Sri Lanka 4.85 1966 
-Sri Lanka 4.73 1967 
-Sri Lanka 4.61 1968 
-Sri Lanka 4.48 1969 
-Sri Lanka 4.34 1970 
-Sri Lanka 4.21 1971 
-St. Lucia 6.93 1961 
-St. Lucia 6.88 1962 
-St. Lucia 6.82 1963 
-St. Lucia 6.76 1964 
-St. Lucia 6.69 1965 
-St. Lucia 6.61 1966 
-St. Lucia 6.51 1967 
-St. Lucia 6.39 1968 
-St. Lucia 6.25 1969 
-St. Lucia 6.1 1970 
-St. Lucia 5.95 1971 
-St. Vincent and the Grenadines 7.16 1961 
-St. Vincent and the Grenadines 7.07 1962 
-St. Vincent and the Grenadines 6.98 1963 
-St. Vincent and the Grenadines 6.88 1964 
-St. Vincent and the Grenadines 6.76 1965 
-St. Vincent and the Grenadines 6.63 1966 
-St. Vincent and the Grenadines 6.49 1967 
-St. Vincent and the Grenadines 6.35 1968 
-St. Vincent and the Grenadines 6.19 1969 
-St. Vincent and the Grenadines 6.01 1970 
-St. Vincent and the Grenadines 5.83 1971 
-Sudan 6.71 1961 
-Sudan 6.74 1962 
-Sudan 6.76 1963 
-Sudan 6.79 1964 
-Sudan 6.81 1965 
-Sudan 6.83 1966 
-Sudan 6.85 1967 
-Sudan 6.87 1968 
-Sudan 6.88 1969 
-Sudan 6.89 1970 
-Sudan 6.9 1971 
-Suriname 6.59 1961 
-Suriname 6.56 1962 
-Suriname 6.5 1963 
-Suriname 6.41 1964 
-Suriname 6.3 1965 
-Suriname 6.18 1966 
-Suriname 6.05 1967 
-Suriname 5.92 1968 
-Suriname 5.79 1969 
-Suriname 5.65 1970 
-Suriname 5.5 1971 
-Sweden 2.23 1961 
-Sweden 2.26 1962 
-Sweden 2.33 1963 
-Sweden 2.48 1964 
-Sweden 2.41 1965 
-Sweden 2.36 1966 
-Sweden 2.27 1967 
-Sweden 2.07 1968 
-Sweden 1.92 1969 
-Sweden 1.92 1970 
-Sweden 1.96 1971 
-Switzerland 2.55 1961 
-Switzerland 2.58 1962 
-Switzerland 2.58 1963 
-Switzerland 2.56 1964 
-Switzerland 2.53 1965 
-Switzerland 2.47 1966 
-Switzerland 2.4 1967 
-Switzerland 2.31 1968 
-Switzerland 2.22 1969 
-Switzerland 2.12 1970 
-Switzerland 2.02 1971 
-Syria 7.5 1961 
-Syria 7.52 1962 
-Syria 7.54 1963 
-Syria 7.56 1964 
-Syria 7.56 1965 
-Syria 7.57 1966 
-Syria 7.57 1967 
-Syria 7.57 1968 
-Syria 7.57 1969 
-Syria 7.57 1970 
-Syria 7.57 1971 
-Tajikistan 6.66 1961 
-Tajikistan 6.76 1962 
-Tajikistan 6.84 1963 
-Tajikistan 6.91 1964 
-Tajikistan 6.96 1965 
-Tajikistan 7 1966 
-Tajikistan 7.02 1967 
-Tajikistan 7.04 1968 
-Tajikistan 7.03 1969 
-Tajikistan 7 1970 
-Tajikistan 6.94 1971 
-Tanzania 6.81 1961 
-Tanzania 6.8 1962 
-Tanzania 6.8 1963 
-Tanzania 6.8 1964 
-Tanzania 6.8 1965 
-Tanzania 6.8 1966 
-Tanzania 6.79 1967 
-Tanzania 6.79 1968 
-Tanzania 6.78 1969 
-Tanzania 6.77 1970 
-Tanzania 6.77 1971 
-Thailand 6.15 1961 
-Thailand 6.16 1962 
-Thailand 6.16 1963 
-Thailand 6.15 1964 
-Thailand 6.13 1965 
-Thailand 6.08 1966 
-Thailand 6.01 1967 
-Thailand 5.9 1968 
-Thailand 5.76 1969 
-Thailand 5.6 1970 
-Thailand 5.4 1971 
-Timor-Leste 6.38 1961 
-Timor-Leste 6.38 1962 
-Timor-Leste 6.37 1963 
-Timor-Leste 6.35 1964 
-Timor-Leste 6.31 1965 
-Timor-Leste 6.27 1966 
-Timor-Leste 6.21 1967 
-Timor-Leste 6.13 1968 
-Timor-Leste 6.04 1969 
-Timor-Leste 5.92 1970 
-Timor-Leste 5.75 1971 
-Togo 6.57 1961 
-Togo 6.62 1962 
-Togo 6.68 1963 
-Togo 6.73 1964 
-Togo 6.79 1965 
-Togo 6.85 1966 
-Togo 6.91 1967 
-Togo 6.97 1968 
-Togo 7.03 1969 
-Togo 7.08 1970 
-Togo 7.14 1971 
-Tonga 7.35 1961 
-Tonga 7.3 1962 
-Tonga 7.23 1963 
-Tonga 7.12 1964 
-Tonga 6.97 1965 
-Tonga 6.8 1966 
-Tonga 6.59 1967 
-Tonga 6.37 1968 
-Tonga 6.15 1969 
-Tonga 5.94 1970 
-Tonga 5.76 1971 
-Trinidad and Tobago 5.18 1961 
-Trinidad and Tobago 5.05 1962 
-Trinidad and Tobago 4.87 1963 
-Trinidad and Tobago 4.66 1964 
-Trinidad and Tobago 4.43 1965 
-Trinidad and Tobago 4.2 1966 
-Trinidad and Tobago 3.99 1967 
-Trinidad and Tobago 3.8 1968 
-Trinidad and Tobago 3.66 1969 
-Trinidad and Tobago 3.55 1970 
-Trinidad and Tobago 3.48 1971 
-Tunisia 6.97 1961 
-Tunisia 6.99 1962 
-Tunisia 7.01 1963 
-Tunisia 7.02 1964 
-Tunisia 7.01 1965 
-Tunisia 6.98 1966 
-Tunisia 6.94 1967 
-Tunisia 6.88 1968 
-Tunisia 6.8 1969 
-Tunisia 6.71 1970 
-Tunisia 6.59 1971 
-Turkey 6.3 1961 
-Turkey 6.24 1962 
-Turkey 6.17 1963 
-Turkey 6.09 1964 
-Turkey 6.01 1965 
-Turkey 5.93 1966 
-Turkey 5.86 1967 
-Turkey 5.78 1968 
-Turkey 5.7 1969 
-Turkey 5.62 1970 
-Turkey 5.53 1971 
-Turkmenistan 6.69 1961 
-Turkmenistan 6.76 1962 
-Turkmenistan 6.79 1963 
-Turkmenistan 6.79 1964 
-Turkmenistan 6.76 1965 
-Turkmenistan 6.7 1966 
-Turkmenistan 6.64 1967 
-Turkmenistan 6.56 1968 
-Turkmenistan 6.48 1969 
-Turkmenistan 6.4 1970 
-Turkmenistan 6.32 1971 
-Uganda 7.02 1961 
-Uganda 7.04 1962 
-Uganda 7.06 1963 
-Uganda 7.08 1964 
-Uganda 7.09 1965 
-Uganda 7.11 1966 
-Uganda 7.11 1967 
-Uganda 7.12 1968 
-Uganda 7.12 1969 
-Uganda 7.12 1970 
-Uganda 7.11 1971 
-Ukraine 2.31 1961 
-Ukraine 2.21 1962 
-Ukraine 2.13 1963 
-Ukraine 2.07 1964 
-Ukraine 2.03 1965 
-Ukraine 2.02 1966 
-Ukraine 2.01 1967 
-Ukraine 2.02 1968 
-Ukraine 2.03 1969 
-Ukraine 2.05 1970 
-Ukraine 2.06 1971 
-United Arab Emirates 6.91 1961 
-United Arab Emirates 6.89 1962 
-United Arab Emirates 6.88 1963 
-United Arab Emirates 6.86 1964 
-United Arab Emirates 6.84 1965 
-United Arab Emirates 6.82 1966 
-United Arab Emirates 6.79 1967 
-United Arab Emirates 6.76 1968 
-United Arab Emirates 6.71 1969 
-United Arab Emirates 6.66 1970 
-United Arab Emirates 6.58 1971 
-United Kingdom 2.75 1961 
-United Kingdom 2.79 1962 
-United Kingdom 2.8 1963 
-United Kingdom 2.79 1964 
-United Kingdom 2.76 1965 
-United Kingdom 2.7 1966 
-United Kingdom 2.61 1967 
-United Kingdom 2.52 1968 
-United Kingdom 2.41 1969 
-United Kingdom 2.29 1970 
-United Kingdom 2.18 1971 
-United States 3.63 1961 
-United States 3.48 1962 
-United States 3.35 1963 
-United States 3.22 1964 
-United States 2.93 1965 
-United States 2.71 1966 
-United States 2.56 1967 
-United States 2.47 1968 
-United States 2.46 1969 
-United States 2.46 1970 
-United States 2.27 1971 
-Uruguay 2.89 1961 
-Uruguay 2.88 1962 
-Uruguay 2.87 1963 
-Uruguay 2.86 1964 
-Uruguay 2.84 1965 
-Uruguay 2.83 1966 
-Uruguay 2.83 1967 
-Uruguay 2.84 1968 
-Uruguay 2.87 1969 
-Uruguay 2.9 1970 
-Uruguay 2.94 1971 
-Uzbekistan 6.36 1961 
-Uzbekistan 6.44 1962 
-Uzbekistan 6.49 1963 
-Uzbekistan 6.52 1964 
-Uzbekistan 6.52 1965 
-Uzbekistan 6.5 1966 
-Uzbekistan 6.46 1967 
-Uzbekistan 6.42 1968 
-Uzbekistan 6.38 1969 
-Uzbekistan 6.33 1970 
-Uzbekistan 6.26 1971 
-Vanuatu 7.12 1961 
-Vanuatu 7.03 1962 
-Vanuatu 6.94 1963 
-Vanuatu 6.84 1964 
-Vanuatu 6.73 1965 
-Vanuatu 6.63 1966 
-Vanuatu 6.53 1967 
-Vanuatu 6.43 1968 
-Vanuatu 6.35 1969 
-Vanuatu 6.27 1970 
-Vanuatu 6.2 1971 
-Venezuela 6.64 1961 
-Venezuela 6.63 1962 
-Venezuela 6.58 1963 
-Venezuela 6.5 1964 
-Venezuela 6.37 1965 
-Venezuela 6.2 1966 
-Venezuela 6.01 1967 
-Venezuela 5.81 1968 
-Venezuela 5.61 1969 
-Venezuela 5.4 1970 
-Venezuela 5.22 1971 
-Vietnam 6.39 1961 
-Vietnam 6.43 1962 
-Vietnam 6.45 1963 
-Vietnam 6.46 1964 
-Vietnam 6.48 1965 
-Vietnam 6.49 1966 
-Vietnam 6.49 1967 
-Vietnam 6.49 1968 
-Vietnam 6.49 1969 
-Vietnam 6.47 1970 
-Vietnam 6.42 1971 
-Yemen 7.53 1961 
-Yemen 7.58 1962 
-Yemen 7.62 1963 
-Yemen 7.67 1964 
-Yemen 7.71 1965 
-Yemen 7.74 1966 
-Yemen 7.76 1967 
-Yemen 7.78 1968 
-Yemen 7.79 1969 
-Yemen 7.81 1970 
-Yemen 7.85 1971 
-Zambia 7.17 1961 
-Zambia 7.21 1962 
-Zambia 7.25 1963 
-Zambia 7.27 1964 
-Zambia 7.29 1965 
-Zambia 7.3 1966 
-Zambia 7.32 1967 
-Zambia 7.33 1968 
-Zambia 7.35 1969 
-Zambia 7.37 1970 
-Zambia 7.38 1971 
-Zimbabwe 7.22 1961 
-Zimbabwe 7.27 1962 
-Zimbabwe 7.31 1963 
-Zimbabwe 7.35 1964 
-Zimbabwe 7.37 1965 
-Zimbabwe 7.39 1966 
-Zimbabwe 7.4 1967 
-Zimbabwe 7.41 1968 
-Zimbabwe 7.42 1969 
-Zimbabwe 7.42 1970 
-Zimbabwe 7.42 1971 
+year 
+1800 
+1801 
+1802 
+1803 
+1804 
+1805 
+1806 
+1807 
+1808 
+1809 
+1810 
+1811 
+1812 
+1813 
+1814 
+1815 
+1816 
+1817 
+1818 
+1819 
+1820 
+1821 
+1822 
+1823 
+1824 
+1825 
+1826 
+1827 
+1828 
+1829 
+1830 
+1831 
+1832 
+1833 
+1834 
+1835 
+1836 
+1837 
+1838 
+1839 
+1840 
+1841 
+1842 
+1843 
+1844 
+1845 
+1846 
+1847 
+1848 
+1849 
+1850 
+1851 
+1852 
+1853 
+1854 
+1855 
+1856 
+1857 
+1858 
+1859 
+1860 
+1861 
+1862 
+1863 
+1864 
+1865 
+1866 
+1867 
+1868 
+1869 
+1870 
+1871 
+1872 
+1873 
+1874 
+1875 
+1876 
+1877 
+1878 
+1879 
+1880 
+1881 
+1882 
+1883 
+1884 
+1885 
+1886 
+1887 
+1888 
+1889 
+1890 
+1891 
+1892 
+1893 
+1894 
+1895 
+1896 
+1897 
+1898 
+1899 
+1900 
+1901 
+1902 
+1903 
+1904 
+1905 
+1906 
+1907 
+1908 
+1909 
+1910 
+1911 
+1912 
+1913 
+1914 
+1915 
+1916 
+1917 
+1918 
+1919 
+1920 
+1921 
+1922 
+1923 
+1924 
+1925 
+1926 
+1927 
+1928 
+1929 
+1930 
+1931 
+1932 
+1933 
+1934 
+1935 
+1936 
+1937 
+1938 
+1939 
+1940 
+1941 
+1942 
+1943 
+1944 
+1945 
+1946 
+1947 
+1948 
+1949 
+1950 
+1951 
+1952 
+1953 
+1954 
+1955 
+1956 
+1957 
+1958 
+1959 
+1960 
+1961 
+1962 
+1963 
+1964 
+1965 
+1966 
+1967 
+1968 
+1969 
+1970 
+1971 
+1972 
+1973 
+1974 
+1975 
+1976 
+1977 
+1978 
+1979 
+1980 
+1981 
+1982 
+1983 
+1984 
+1985 
+1986 
+1987 
+1988 
+1989 
+1990 
+1991 
+1992 
+1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+2031 
+2032 
+2033 
+2034 
+2035 
+2036 
+2037 
+2038 
+2039 
+2040 
+2041 
+2042 
+2043 
+2044 
+2045 
+2046 
+2047 
+2048 
+2049 
+2050 
+2051 
+2052 
+2053 
+2054 
+2055 
+2056 
+2057 
+2058 
+2059 
+2060 
+2061 
+2062 
+2063 
+2064 
+2065 
+2066 
+2067 
+2068 
+2069 
+2070 
+2071 
+2072 
+2073 
+2074 
+2075 
+2076 
+2077 
+2078 
+2079 
+2080 
+2081 
+2082 
+2083 
+2084 
+2085 
+2086 
+2087 
+2088 
+2089 
+2090 
+2091 
+2092 
+2093 
+2094 
+2095 
+2096 
+2097 
+2098 
+2099 
+2100 

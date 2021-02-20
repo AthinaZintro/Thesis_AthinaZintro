@@ -1,1 +1,240 @@
-country rate year 
+year rate country 
+1990 7 Afghanistan 
+1990 6.5 Albania 
+1990 4 Algeria 
+1990  Andorra 
+1990 7 Angola 
+1990 2.5 Antigua and Barbuda 
+1990 2 Argentina 
+1990  Armenia 
+1990 1 Australia 
+1990 1 Austria 
+1990  Azerbaijan 
+1990 2.5 Bahamas 
+1990 5.5 Bahrain 
+1990 5 Bangladesh 
+1990 1 Barbados 
+1990  Belarus 
+1990 1 Belgium 
+1990 1.5 Belize 
+1990 5 Benin 
+1990 5.5 Bhutan 
+1990 2.5 Bolivia 
+1990  Bosnia and Herzegovina 
+1990 1.5 Botswana 
+1990 2.5 Brazil 
+1990 5.5 Brunei 
+1990 3.5 Bulgaria 
+1990 5.5 Burkina Faso 
+1990 6.5 Burundi 
+1990 7 Cambodia 
+1990 6 Cameroon 
+1990 1 Canada 
+1990 5 Cape Verde 
+1990 5.5 Central African Republic 
+1990 6.5 Chad 
+1990 2 Chile 
+1990 7 China 
+1990 3.5 Colombia 
+1990 5 Comoros 
+1990 6 Congo Dem. Rep. 
+1990 6 Congo Rep. 
+1990 1 Costa Rica 
+1990 5 Cote d'Ivoire 
+1990  Croatia 
+1990 7 Cuba 
+1990 1 Cyprus 
+1990  Czech Republic 
+1990 1 Denmark 
+1990 5.5 Djibouti 
+1990 1.5 Dominica 
+1990 2.5 Dominican Republic 
+1990 2 Ecuador 
+1990 4.5 Egypt 
+1990 3.5 El Salvador 
+1990 7 Equatorial Guinea 
+1990  Eritrea 
+1990  Estonia 
+1990 5.5 Eswatini 
+1990 7 Ethiopia 
+1990 5 Fiji 
+1990 1 Finland 
+1990 1.5 France 
+1990 4 Gabon 
+1990 2 Gambia 
+1990  Georgia 
+1990 1.5 Germany 
+1990 5.5 Ghana 
+1990 1.5 Greece 
+1990 2 Grenada 
+1972 2.5 Guatemala 
+1973 2 Guatemala 
+1974 3.5 Guatemala 
+1975 3.5 Guatemala 
+1976 3.5 Guatemala 
+1977 3.5 Guatemala 
+1978 3.5 Guatemala 
+1979 4.5 Guatemala 
+1980 6 Guatemala 
+1981 6 Guatemala 
+1982  Guatemala 
+1983 6 Guatemala 
+1984 5.5 Guatemala 
+1985 4 Guatemala 
+1986 3 Guatemala 
+1987 3 Guatemala 
+1988 3 Guatemala 
+1989 3 Guatemala 
+1990 3.5 Guatemala 
+1991 4 Guatemala 
+1992 4.5 Guatemala 
+1993 4.5 Guatemala 
+1994 4.5 Guatemala 
+1995 4.5 Guatemala 
+1996 3.5 Guatemala 
+1997 3.5 Guatemala 
+1998 3.5 Guatemala 
+1999 3.5 Guatemala 
+2000 3.5 Guatemala 
+2001 3.5 Guatemala 
+2002 4 Guatemala 
+2003 4 Guatemala 
+2004 4 Guatemala 
+2005 4 Guatemala 
+2006 3.5 Guatemala 
+2007 3.5 Guatemala 
+2008 3.5 Guatemala 
+2009 4 Guatemala 
+2010 4 Guatemala 
+2011 3.5 Guatemala 
+2012 3.5 Guatemala 
+2013 3.5 Guatemala 
+2014 3.5 Guatemala 
+2015 4 Guatemala 
+2016 4 Guatemala 
+2017 4 Guatemala 
+2018 4 Guatemala 
+1990 5.5 Guinea 
+1990 5.5 Guinea-Bissau 
+1990 4.5 Guyana 
+1990 4 Haiti 
+1990 2.5 Honduras 
+1990 2 Hungary 
+1990 1 Iceland 
+1990 2.5 India 
+1990 5.5 Indonesia 
+1990 5.5 Iran 
+1990 7 Iraq 
+1990 1 Ireland 
+1990 2 Israel 
+1990 1 Italy 
+1990 2 Jamaica 
+1990 1 Japan 
+1990 5 Jordan 
+1990  Kazakhstan 
+1990 6 Kenya 
+1990 1.5 Kiribati 
+1990 7 Kuwait 
+1990  Kyrgyz Republic 
+1990 6.5 Lao 
+1990  Latvia 
+1990 5.5 Lebanon 
+1990 5.5 Lesotho 
+1990 7 Liberia 
+1990 7 Libya 
+1990  Liechtenstein 
+1990  Lithuania 
+1990 1 Luxembourg 
+1990 4 Madagascar 
+1990 6.5 Malawi 
+1990 4.5 Malaysia 
+1990 5.5 Maldives 
+1990 5.5 Mali 
+1990 1 Malta 
+1990  Marshall Islands 
+1990 6.5 Mauritania 
+1990 2 Mauritius 
+1990 4 Mexico 
+1990  Micronesia Fed. Sts. 
+1990  Moldova 
+1990  Monaco 
+1990 4 Mongolia 
+1990  Montenegro 
+1990 4 Morocco 
+1990 6 Mozambique 
+1990 7 Myanmar 
+1990 2.5 Namibia 
+1990 1.5 Nauru 
+1990 4 Nepal 
+1990 1 Netherlands 
+1990 1 New Zealand 
+1990 3 Nicaragua 
+1990 5.5 Niger 
+1990 5 Nigeria 
+1990 7 North Korea 
+1990  North Macedonia 
+1990 1 Norway 
+1990 6 Oman 
+1990 4 Pakistan 
+1990  Palau 
+1990 3 Panama 
+1990 2.5 Papua New Guinea 
+1990 3.5 Paraguay 
+1990 3.5 Peru 
+1990 3 Philippines 
+1990 2 Poland 
+1990 1.5 Portugal 
+1990 6 Qatar 
+1990 5.5 Romania 
+1990  Russia 
+1990 6 Rwanda 
+1990 2 Samoa 
+1990  San Marino 
+1990 5 Sao Tome and Principe 
+1990 6.5 Saudi Arabia 
+1990 3.5 Senegal 
+1990  Serbia 
+1990 6 Seychelles 
+1990 5.5 Sierra Leone 
+1990 4 Singapore 
+1990  Slovak Republic 
+1990  Slovenia 
+1990 1 Solomon Islands 
+1990 7 Somalia 
+1990 4.5 South Africa 
+1990 2.5 South Korea 
+1990  South Sudan 
+1990 1 Spain 
+1990 4.5 Sri Lanka 
+1990 1 St. Kitts and Nevis 
+1990 1.5 St. Lucia 
+1990 1.5 St. Vincent and the Grenadines 
+1990 7 Sudan 
+1990 5 Suriname 
+1990 1 Sweden 
+1990 1 Switzerland 
+1990 7 Syria 
+1990  Tajikistan 
+1990 5.5 Tanzania 
+1990 2.5 Thailand 
+1990  Timor-Leste 
+1990 6 Togo 
+1990 3 Tonga 
+1990 1 Trinidad and Tobago 
+1990 4.5 Tunisia 
+1990 3 Turkey 
+1990  Turkmenistan 
+1990 1 Tuvalu 
+1990 5.5 Uganda 
+1990  Ukraine 
+1990 5.5 United Arab Emirates 
+1990 1.5 United Kingdom 
+1990 1 United States 
+1990 1.5 Uruguay 
+1990  Uzbekistan 
+1990 2.5 Vanuatu 
+1990 2 Venezuela 
+1990 7 Vietnam 
+1990 5.5 Yemen 
+1990 5.5 Zambia 
+1990 5 Zimbabwe 

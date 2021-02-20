@@ -71,11 +71,13 @@ public  class QueryServer implements IQueryServer {
 			queryProcessor = code.computeWhere(columns, whereConditions);
 		}
 		ArrayList<String> relationalsOperator = queryProcessor.get("comparisonOperators");
-
+		
 		ArrayList<String> conditionsParameters =queryProcessor.get("parametersOfConditions");
-
+		
 		ArrayList<String> operators = queryProcessor.get("countOperators");
+		
 		ArrayList<String> firstpart=queryProcessor.get("fistPartCondition");
+	
 		ArrayList<Integer> w= new ArrayList<Integer>();
 		if(firstpart!=null) {
 			for(int i=0;i<firstpart.size();i++){
@@ -128,10 +130,10 @@ public  class QueryServer implements IQueryServer {
 						if (cols[w.get(m)].isEmpty() != true) {
 							result.add(chooseOperator(relationalsOperator.get(m), cols[w.get(m)],
 									conditionsParameters.get(m)));
-							//System.out.println(relationalsOperator.get(m)+" " +cols[w.get(m)]+"" +conditionsParameters.get(m)+"");
-							//break;
 						} else {
 							result.add(false);
+							//System.out.println(relationalsOperator.get(m)+" " +cols[w.get(m)]+"" +conditionsParameters.get(m)+"");
+
 						}
 					}
 					//System.out.println(w.size());
@@ -235,7 +237,7 @@ public  class QueryServer implements IQueryServer {
 		/** Checks which comparison operator the condition has */
 		// System.out.println("a: "+a+" x: "+x+" y: "+y+"\n"); /* makes the comparison
 		// and returns true or false for that */
-
+		
 		if (a.equals("=")) {
 			if (x.equals(y)) {
 				return true;
@@ -246,7 +248,7 @@ public  class QueryServer implements IQueryServer {
 			double y1 = Double.parseDouble(y);
 			if (a.equals(">")) {
 				if (x1 > y1) {
-					// System.out.println("a: "+a+" x1: "+x1+" y1: "+y1+"\n");
+					//System.out.println("a: "+a+" x1: "+x1+" y1: "+y1+"\n");
 					return true;
 
 				}
@@ -275,8 +277,8 @@ public  class QueryServer implements IQueryServer {
 				return false;
 			}
 		}
-		return false;
 
+		return false;
 	}
 	/* Reading the Datatestfile and return name of columns */
 	private  String[] takeColumns(String path) throws FileNotFoundException {
