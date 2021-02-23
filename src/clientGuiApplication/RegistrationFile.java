@@ -6,6 +6,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.SwingConstants;
 
 import java.awt.EventQueue;
@@ -59,9 +60,15 @@ public class RegistrationFile extends JFrame {
 		btnNewButton.setFont(new Font("Lucida Sans Typewriter", Font.PLAIN, 25));
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				@SuppressWarnings("unused")
 				FileRegisterChoice register =new FileRegisterChoice();
-				//dispose();
+				if(register.RegisterChoice()==-1) {
+					JOptionPane.showMessageDialog(contentPane,"You did not make any choice");
+					
+				}else {
+					JOptionPane.showMessageDialog(contentPane,"Registered file suceed");
+					
+				}
+				
 			}
 		});
 		btnNewButton.setBounds(86, 207, 308, 71);

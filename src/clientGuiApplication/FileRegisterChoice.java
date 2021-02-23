@@ -19,7 +19,7 @@ import register.IFileManager;
  */
 public class FileRegisterChoice {
 	
-	public  FileRegisterChoice() {
+	public int RegisterChoice() {
 		
 		@SuppressWarnings("unused")
 		String filename ="";
@@ -29,11 +29,13 @@ public class FileRegisterChoice {
 
 		Frame Frame = null;
 		FileDialog dialog = new FileDialog(Frame, "Select File to Open"); // Open a window to choose file
+		dialog.setDirectory(".\\TestResources\\DataForTest");
 		dialog.setMode(FileDialog.LOAD);
 		dialog.setVisible(true);
 		String file = dialog.getFile();
 		if (file == null) {
 			  System.out.println("You cancelled the choice");
+			  return -1;
 		}else {
 			 
 			File ma = new File(dialog.getDirectory() + file);
@@ -71,6 +73,7 @@ public class FileRegisterChoice {
 			IFileManager fileManager = factory.generateFileManager();
 			String out = fileManager.register(ma.getAbsolutePath(), delimiterOflabels, labels, numberOflabels);
 			System.out.println(out);
+			return 1;
 		}
 	}
 

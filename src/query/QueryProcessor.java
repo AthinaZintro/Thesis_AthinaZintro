@@ -35,10 +35,7 @@ public class QueryProcessor {
 		 * Chooses the file that has the from comparisonOperatorss and returns the path
 		 */						
 
-		// System.out.print(" "+from[0]+" "+"\n");
-
 		String x = from[0];
-		
 		String path = manager.getFileAndPathCollection().get(x);
 		if(path==null) {
 			File file = new File(".//TestResources//DataForTest//"+x+"Metadata.txt");
@@ -47,7 +44,6 @@ public class QueryProcessor {
 			}
 		}
 
-		// System.out.println("path "+path);
 		return path;
 
 	}

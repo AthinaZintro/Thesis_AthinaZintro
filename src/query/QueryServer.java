@@ -60,7 +60,7 @@ public  class QueryServer implements IQueryServer {
 		String[] columns = null;
 		try {
 			columns = takeColumns(path);
-			System.out.println(spliter);
+			//System.out.println(spliter);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
