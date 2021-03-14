@@ -1,0 +1,8 @@
+Filename | TimeRegisterOfCode
+accountEXP.csv | 687800
+Loan1MEXP.csv | 801000
+at_least_basic_water_source_urban_access_percentEXP.csv | 1354300
+children_per_woman_total_fertilityEXP.csv | 657200
+loanEXP.csv | 324300
+dateEXP.csv | 451000
+payment_reasonEXP.csv | 288500

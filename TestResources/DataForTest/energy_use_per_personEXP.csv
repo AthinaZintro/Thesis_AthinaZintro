@@ -1,0 +1,9090 @@
+energy_use_per_personEXP.csv
+,
+3
+year,country,rate
+1960,Albania,
+1961,Albania,
+1962,Albania,
+1963,Albania,
+1964,Albania,
+1965,Albania,
+1966,Albania,
+1967,Albania,
+1968,Albania,
+1969,Albania,
+1970,Albania,
+1971,Albania,785
+1972,Albania,866
+1973,Albania,763
+1974,Albania,777
+1975,Albania,827
+1976,Albania,891
+1977,Albania,924
+1978,Albania,1010
+1979,Albania,864
+1980,Albania,1150
+1981,Albania,989
+1982,Albania,967
+1983,Albania,1000
+1984,Albania,1020
+1985,Albania,917
+1986,Albania,964
+1987,Albania,922
+1988,Albania,928
+1989,Albania,896
+1990,Albania,813
+1991,Albania,573
+1992,Albania,418
+1993,Albania,412
+1994,Albania,441
+1995,Albania,417
+1996,Albania,448
+1997,Albania,385
+1998,Albania,427
+1999,Albania,576
+2000,Albania,580
+2001,Albania,597
+2002,Albania,660
+2003,Albania,648
+2004,Albania,715
+2005,Albania,720
+2006,Albania,707
+2007,Albania,680
+2008,Albania,711
+2009,Albania,732
+2010,Albania,729
+2011,Albania,765
+2012,Albania,688
+2013,Albania,801
+2014,Albania,808
+1960,Algeria,
+1961,Algeria,
+1962,Algeria,
+1963,Algeria,
+1964,Algeria,
+1965,Algeria,
+1966,Algeria,
+1967,Algeria,
+1968,Algeria,
+1969,Algeria,
+1970,Algeria,
+1971,Algeria,233
+1972,Algeria,263
+1973,Algeria,307
+1974,Algeria,321
+1975,Algeria,332
+1976,Algeria,369
+1977,Algeria,401
+1978,Algeria,480
+1979,Algeria,590
+1980,Algeria,583
+1981,Algeria,615
+1982,Algeria,776
+1983,Algeria,813
+1984,Algeria,781
+1985,Algeria,791
+1986,Algeria,868
+1987,Algeria,833
+1988,Algeria,855
+1989,Algeria,825
+1990,Algeria,861
+1991,Algeria,889
+1992,Algeria,889
+1993,Algeria,872
+1994,Algeria,824
+1995,Algeria,843
+1996,Algeria,802
+1997,Algeria,809
+1998,Algeria,825
+1999,Algeria,868
+2000,Algeria,870
+2001,Algeria,860
+2002,Algeria,908
+2003,Algeria,953
+2004,Algeria,952
+2005,Algeria,978
+2006,Algeria,1030
+2007,Algeria,1080
+2008,Algeria,1070
+2009,Algeria,1150
+2010,Algeria,1110
+2011,Algeria,1140
+2012,Algeria,1230
+2013,Algeria,1250
+2014,Algeria,1330
+1960,Angola,
+1961,Angola,
+1962,Angola,
+1963,Angola,
+1964,Angola,
+1965,Angola,
+1966,Angola,
+1967,Angola,
+1968,Angola,
+1969,Angola,
+1970,Angola,
+1971,Angola,637
+1972,Angola,663
+1973,Angola,636
+1974,Angola,624
+1975,Angola,587
+1976,Angola,559
+1977,Angola,533
+1978,Angola,567
+1979,Angola,556
+1980,Angola,547
+1981,Angola,532
+1982,Angola,506
+1983,Angola,502
+1984,Angola,489
+1985,Angola,501
+1986,Angola,489
+1987,Angola,484
+1988,Angola,486
+1989,Angola,480
+1990,Angola,497
+1991,Angola,492
+1992,Angola,479
+1993,Angola,480
+1994,Angola,471
+1995,Angola,456
+1996,Angola,454
+1997,Angola,449
+1998,Angola,434
+1999,Angola,441
+2000,Angola,439
+2001,Angola,443
+2002,Angola,448
+2003,Angola,468
+2004,Angola,465
+2005,Angola,434
+2006,Angola,459
+2007,Angola,472
+2008,Angola,492
+2009,Angola,515
+2010,Angola,521
+2011,Angola,522
+2012,Angola,552
+2013,Angola,534
+2014,Angola,545
+1960,Antigua and Barbuda,
+1961,Antigua and Barbuda,
+1962,Antigua and Barbuda,
+1963,Antigua and Barbuda,
+1964,Antigua and Barbuda,
+1965,Antigua and Barbuda,
+1966,Antigua and Barbuda,
+1967,Antigua and Barbuda,
+1968,Antigua and Barbuda,
+1969,Antigua and Barbuda,
+1970,Antigua and Barbuda,
+1971,Antigua and Barbuda,
+1972,Antigua and Barbuda,
+1973,Antigua and Barbuda,
+1974,Antigua and Barbuda,
+1975,Antigua and Barbuda,
+1976,Antigua and Barbuda,
+1977,Antigua and Barbuda,
+1978,Antigua and Barbuda,
+1979,Antigua and Barbuda,
+1980,Antigua and Barbuda,
+1981,Antigua and Barbuda,
+1982,Antigua and Barbuda,
+1983,Antigua and Barbuda,
+1984,Antigua and Barbuda,
+1985,Antigua and Barbuda,
+1986,Antigua and Barbuda,
+1987,Antigua and Barbuda,
+1988,Antigua and Barbuda,
+1989,Antigua and Barbuda,
+1990,Antigua and Barbuda,1580
+1991,Antigua and Barbuda,
+1992,Antigua and Barbuda,
+1993,Antigua and Barbuda,
+1994,Antigua and Barbuda,
+1995,Antigua and Barbuda,
+1996,Antigua and Barbuda,
+1997,Antigua and Barbuda,
+1998,Antigua and Barbuda,
+1999,Antigua and Barbuda,
+2000,Antigua and Barbuda,
+2001,Antigua and Barbuda,
+2002,Antigua and Barbuda,
+2003,Antigua and Barbuda,
+2004,Antigua and Barbuda,1680
+2005,Antigua and Barbuda,1680
+2006,Antigua and Barbuda,1730
+2007,Antigua and Barbuda,1740
+1960,Argentina,
+1961,Argentina,
+1962,Argentina,
+1963,Argentina,
+1964,Argentina,
+1965,Argentina,
+1966,Argentina,
+1967,Argentina,
+1968,Argentina,
+1969,Argentina,
+1970,Argentina,
+1971,Argentina,1390
+1972,Argentina,1390
+1973,Argentina,1420
+1974,Argentina,1430
+1975,Argentina,1390
+1976,Argentina,1420
+1977,Argentina,1430
+1978,Argentina,1440
+1979,Argentina,1500
+1980,Argentina,1500
+1981,Argentina,1440
+1982,Argentina,1430
+1983,Argentina,1430
+1984,Argentina,1460
+1985,Argentina,1370
+1986,Argentina,1430
+1987,Argentina,1480
+1988,Argentina,1510
+1989,Argentina,1450
+1990,Argentina,1410
+1991,Argentina,1440
+1992,Argentina,1490
+1993,Argentina,1470
+1994,Argentina,1550
+1995,Argentina,1550
+1996,Argentina,1590
+1997,Argentina,1620
+1998,Argentina,1660
+1999,Argentina,1670
+2000,Argentina,1670
+2001,Argentina,1570
+2002,Argentina,1510
+2003,Argentina,1600
+2004,Argentina,1730
+2005,Argentina,1720
+2006,Argentina,1850
+2007,Argentina,1860
+2008,Argentina,1940
+2009,Argentina,1870
+2010,Argentina,1930
+2011,Argentina,1950
+2012,Argentina,1940
+2013,Argentina,1970
+2014,Argentina,2030
+1960,Armenia,
+1961,Armenia,
+1962,Armenia,
+1963,Armenia,
+1964,Armenia,
+1965,Armenia,
+1966,Armenia,
+1967,Armenia,
+1968,Armenia,
+1969,Armenia,
+1970,Armenia,
+1971,Armenia,
+1972,Armenia,
+1973,Armenia,
+1974,Armenia,
+1975,Armenia,
+1976,Armenia,
+1977,Armenia,
+1978,Armenia,
+1979,Armenia,
+1980,Armenia,
+1981,Armenia,
+1982,Armenia,
+1983,Armenia,
+1984,Armenia,
+1985,Armenia,
+1986,Armenia,
+1987,Armenia,
+1988,Armenia,
+1989,Armenia,
+1990,Armenia,2180
+1991,Armenia,2320
+1992,Armenia,1200
+1993,Armenia,652
+1994,Armenia,420
+1995,Armenia,511
+1996,Armenia,562
+1997,Armenia,594
+1998,Armenia,610
+1999,Armenia,594
+2000,Armenia,656
+2001,Armenia,657
+2002,Armenia,618
+2003,Armenia,656
+2004,Armenia,698
+2005,Armenia,843
+2006,Armenia,865
+2007,Armenia,973
+2008,Armenia,1030
+2009,Armenia,904
+2010,Armenia,863
+2011,Armenia,944
+2012,Armenia,1030
+2013,Armenia,1000
+2014,Armenia,1020
+1960,Australia,3060
+1961,Australia,3120
+1962,Australia,3170
+1963,Australia,3280
+1964,Australia,3350
+1965,Australia,3460
+1966,Australia,3550
+1967,Australia,3690
+1968,Australia,3760
+1969,Australia,3790
+1970,Australia,4060
+1971,Australia,3990
+1972,Australia,4040
+1973,Australia,4260
+1974,Australia,4290
+1975,Australia,4350
+1976,Australia,4410
+1977,Australia,4670
+1978,Australia,4630
+1979,Australia,4680
+1980,Australia,4740
+1981,Australia,4690
+1982,Australia,4820
+1983,Australia,4560
+1984,Australia,4650
+1985,Australia,4600
+1986,Australia,4620
+1987,Australia,4770
+1988,Australia,4700
+1989,Australia,5000
+1990,Australia,5060
+1991,Australia,4930
+1992,Australia,4960
+1993,Australia,5150
+1994,Australia,5090
+1995,Australia,5130
+1996,Australia,5390
+1997,Australia,5470
+1998,Australia,5550
+1999,Australia,5610
+2000,Australia,5640
+2001,Australia,5450
+2002,Australia,5570
+2003,Australia,5570
+2004,Australia,5600
+2005,Australia,5560
+2006,Australia,5710
+2007,Australia,5870
+2008,Australia,5960
+2009,Australia,5860
+2010,Australia,5790
+2011,Australia,5750
+2012,Australia,5580
+2013,Australia,5470
+2014,Australia,5330
+2015,Australia,5480
+1960,Austria,1550
+1961,Austria,1550
+1962,Austria,1680
+1963,Austria,1820
+1964,Austria,1860
+1965,Austria,1850
+1966,Austria,1900
+1967,Austria,1920
+1968,Austria,2050
+1969,Austria,2180
+1970,Austria,2420
+1971,Austria,2510
+1972,Austria,2630
+1973,Austria,2830
+1974,Austria,2730
+1975,Austria,2650
+1976,Austria,2870
+1977,Austria,2800
+1978,Austria,2890
+1979,Austria,3140
+1980,Austria,3070
+1981,Austria,2900
+1982,Austria,2830
+1983,Austria,2840
+1984,Austria,2950
+1985,Austria,3050
+1986,Austria,3060
+1987,Austria,3170
+1988,Austria,3200
+1989,Austria,3140
+1990,Austria,3240
+1991,Austria,3420
+1992,Austria,3250
+1993,Austria,3260
+1994,Austria,3230
+1995,Austria,3370
+1996,Austria,3580
+1997,Austria,3550
+1998,Austria,3610
+1999,Austria,3590
+2000,Austria,3570
+2001,Austria,3760
+2002,Austria,3770
+2003,Austria,3970
+2004,Austria,4010
+2005,Austria,4090
+2006,Austria,4080
+2007,Austria,4020
+2008,Austria,4030
+2009,Austria,3800
+2010,Austria,4050
+2011,Austria,3920
+2012,Austria,3890
+2013,Austria,3920
+2014,Austria,3760
+2015,Austria,3800
+1960,Azerbaijan,
+1961,Azerbaijan,
+1962,Azerbaijan,
+1963,Azerbaijan,
+1964,Azerbaijan,
+1965,Azerbaijan,
+1966,Azerbaijan,
+1967,Azerbaijan,
+1968,Azerbaijan,
+1969,Azerbaijan,
+1970,Azerbaijan,
+1971,Azerbaijan,
+1972,Azerbaijan,
+1973,Azerbaijan,
+1974,Azerbaijan,
+1975,Azerbaijan,
+1976,Azerbaijan,
+1977,Azerbaijan,
+1978,Azerbaijan,
+1979,Azerbaijan,
+1980,Azerbaijan,
+1981,Azerbaijan,
+1982,Azerbaijan,
+1983,Azerbaijan,
+1984,Azerbaijan,
+1985,Azerbaijan,
+1986,Azerbaijan,
+1987,Azerbaijan,
+1988,Azerbaijan,
+1989,Azerbaijan,
+1990,Azerbaijan,3170
+1991,Azerbaijan,3090
+1992,Azerbaijan,2460
+1993,Azerbaijan,2180
+1994,Azerbaijan,1950
+1995,Azerbaijan,1810
+1996,Azerbaijan,1510
+1997,Azerbaijan,1440
+1998,Azerbaijan,1490
+1999,Azerbaijan,1370
+2000,Azerbaijan,1400
+2001,Azerbaijan,1410
+2002,Azerbaijan,1410
+2003,Azerbaijan,1480
+2004,Azerbaijan,1540
+2005,Azerbaijan,1600
+2006,Azerbaijan,1560
+2007,Azerbaijan,1410
+2008,Azerbaijan,1520
+2009,Azerbaijan,1330
+2010,Azerbaijan,1280
+2011,Azerbaijan,1370
+2012,Azerbaijan,1470
+2013,Azerbaijan,1470
+2014,Azerbaijan,1500
+1960,Bahamas,
+1961,Bahamas,
+1962,Bahamas,
+1963,Bahamas,
+1964,Bahamas,
+1965,Bahamas,
+1966,Bahamas,
+1967,Bahamas,
+1968,Bahamas,
+1969,Bahamas,
+1970,Bahamas,
+1971,Bahamas,
+1972,Bahamas,
+1973,Bahamas,
+1974,Bahamas,
+1975,Bahamas,
+1976,Bahamas,
+1977,Bahamas,
+1978,Bahamas,
+1979,Bahamas,
+1980,Bahamas,
+1981,Bahamas,
+1982,Bahamas,
+1983,Bahamas,
+1984,Bahamas,
+1985,Bahamas,
+1986,Bahamas,
+1987,Bahamas,
+1988,Bahamas,
+1989,Bahamas,
+1990,Bahamas,2520
+1991,Bahamas,
+1992,Bahamas,
+1993,Bahamas,
+1994,Bahamas,
+1995,Bahamas,
+1996,Bahamas,
+1997,Bahamas,
+1998,Bahamas,
+1999,Bahamas,
+2000,Bahamas,
+2001,Bahamas,
+2002,Bahamas,
+2003,Bahamas,
+2004,Bahamas,2080
+2005,Bahamas,2140
+2006,Bahamas,2130
+2007,Bahamas,2100
+1960,Bahrain,
+1961,Bahrain,
+1962,Bahrain,
+1963,Bahrain,
+1964,Bahrain,
+1965,Bahrain,
+1966,Bahrain,
+1967,Bahrain,
+1968,Bahrain,
+1969,Bahrain,
+1970,Bahrain,
+1971,Bahrain,6390
+1972,Bahrain,5970
+1973,Bahrain,8500
+1974,Bahrain,9010
+1975,Bahrain,8000
+1976,Bahrain,9580
+1977,Bahrain,8190
+1978,Bahrain,7840
+1979,Bahrain,8810
+1980,Bahrain,7790
+1981,Bahrain,8300
+1982,Bahrain,9070
+1983,Bahrain,8500
+1984,Bahrain,8830
+1985,Bahrain,9920
+1986,Bahrain,10300
+1987,Bahrain,9520
+1988,Bahrain,10500
+1989,Bahrain,10200
+1990,Bahrain,10600
+1991,Bahrain,10100
+1992,Bahrain,10800
+1993,Bahrain,11100
+1994,Bahrain,11600
+1995,Bahrain,11400
+1996,Bahrain,11100
+1997,Bahrain,12200
+1998,Bahrain,12400
+1999,Bahrain,11900
+2000,Bahrain,12000
+2001,Bahrain,11700
+2002,Bahrain,11500
+2003,Bahrain,11600
+2004,Bahrain,10900
+2005,Bahrain,11700
+2006,Bahrain,11600
+2007,Bahrain,11200
+2008,Bahrain,11300
+2009,Bahrain,10300
+2010,Bahrain,10200
+2011,Bahrain,9910
+2012,Bahrain,9660
+2013,Bahrain,10400
+2014,Bahrain,10600
+1960,Bangladesh,
+1961,Bangladesh,
+1962,Bangladesh,
+1963,Bangladesh,
+1964,Bangladesh,
+1965,Bangladesh,
+1966,Bangladesh,
+1967,Bangladesh,
+1968,Bangladesh,
+1969,Bangladesh,
+1970,Bangladesh,
+1971,Bangladesh,86.8
+1972,Bangladesh,88.1
+1973,Bangladesh,93.9
+1974,Bangladesh,95.5
+1975,Bangladesh,96
+1976,Bangladesh,99.9
+1977,Bangladesh,99.7
+1978,Bangladesh,100
+1979,Bangladesh,102
+1980,Bangladesh,106
+1981,Bangladesh,105
+1982,Bangladesh,108
+1983,Bangladesh,108
+1984,Bangladesh,106
+1985,Bangladesh,110
+1986,Bangladesh,114
+1987,Bangladesh,110
+1988,Bangladesh,117
+1989,Bangladesh,120
+1990,Bangladesh,123
+1991,Bangladesh,119
+1992,Bangladesh,123
+1993,Bangladesh,127
+1994,Bangladesh,130
+1995,Bangladesh,138
+1996,Bangladesh,136
+1997,Bangladesh,139
+1998,Bangladesh,142
+1999,Bangladesh,141
+2000,Bangladesh,143
+2001,Bangladesh,154
+2002,Bangladesh,154
+2003,Bangladesh,160
+2004,Bangladesh,160
+2005,Bangladesh,164
+2006,Bangladesh,173
+2007,Bangladesh,179
+2008,Bangladesh,186
+2009,Bangladesh,193
+2010,Bangladesh,207
+2011,Bangladesh,212
+2012,Bangladesh,220
+2013,Bangladesh,222
+2014,Bangladesh,229
+1960,Barbados,
+1961,Barbados,
+1962,Barbados,
+1963,Barbados,
+1964,Barbados,
+1965,Barbados,
+1966,Barbados,
+1967,Barbados,
+1968,Barbados,
+1969,Barbados,
+1970,Barbados,
+1971,Barbados,
+1972,Barbados,
+1973,Barbados,
+1974,Barbados,
+1975,Barbados,
+1976,Barbados,
+1977,Barbados,
+1978,Barbados,
+1979,Barbados,
+1980,Barbados,
+1981,Barbados,
+1982,Barbados,
+1983,Barbados,
+1984,Barbados,
+1985,Barbados,
+1986,Barbados,
+1987,Barbados,
+1988,Barbados,
+1989,Barbados,
+1990,Barbados,1230
+1991,Barbados,
+1992,Barbados,
+1993,Barbados,
+1994,Barbados,
+1995,Barbados,
+1996,Barbados,
+1997,Barbados,
+1998,Barbados,
+1999,Barbados,
+2000,Barbados,
+2001,Barbados,
+2002,Barbados,
+2003,Barbados,
+2004,Barbados,1360
+2005,Barbados,1410
+2006,Barbados,1430
+2007,Barbados,1440
+1960,Belarus,
+1961,Belarus,
+1962,Belarus,
+1963,Belarus,
+1964,Belarus,
+1965,Belarus,
+1966,Belarus,
+1967,Belarus,
+1968,Belarus,
+1969,Belarus,
+1970,Belarus,
+1971,Belarus,
+1972,Belarus,
+1973,Belarus,
+1974,Belarus,
+1975,Belarus,
+1976,Belarus,
+1977,Belarus,
+1978,Belarus,
+1979,Belarus,
+1980,Belarus,
+1981,Belarus,
+1982,Belarus,
+1983,Belarus,
+1984,Belarus,
+1985,Belarus,
+1986,Belarus,
+1987,Belarus,
+1988,Belarus,
+1989,Belarus,
+1990,Belarus,4470
+1991,Belarus,4350
+1992,Belarus,3620
+1993,Belarus,3080
+1994,Belarus,2620
+1995,Belarus,2430
+1996,Belarus,2500
+1997,Belarus,2510
+1998,Belarus,2470
+1999,Belarus,2410
+2000,Belarus,2460
+2001,Belarus,2490
+2002,Belarus,2550
+2003,Belarus,2640
+2004,Belarus,2750
+2005,Belarus,2770
+2006,Belarus,2970
+2007,Belarus,2920
+2008,Belarus,2930
+2009,Belarus,2790
+2010,Belarus,2900
+2011,Belarus,3100
+2012,Belarus,3220
+2013,Belarus,2880
+2014,Belarus,2930
+1960,Belgium,2520
+1961,Belgium,2570
+1962,Belgium,2810
+1963,Belgium,3040
+1964,Belgium,3020
+1965,Belgium,3120
+1966,Belgium,3050
+1967,Belgium,3180
+1968,Belgium,3590
+1969,Belgium,3880
+1970,Belgium,4140
+1971,Belgium,4100
+1972,Belgium,4470
+1973,Belgium,4720
+1974,Belgium,4620
+1975,Belgium,4320
+1976,Belgium,4620
+1977,Belgium,4590
+1978,Belgium,4830
+1979,Belgium,4980
+1980,Belgium,4740
+1981,Belgium,4420
+1982,Belgium,4210
+1983,Belgium,4160
+1984,Belgium,4330
+1985,Belgium,4470
+1986,Belgium,4630
+1987,Belgium,4730
+1988,Belgium,4770
+1989,Belgium,4800
+1990,Belgium,4810
+1991,Belgium,5010
+1992,Belgium,5040
+1993,Belgium,4900
+1994,Belgium,5190
+1995,Belgium,5270
+1996,Belgium,5540
+1997,Belgium,5520
+1998,Belgium,5600
+1999,Belgium,5610
+2000,Belgium,5670
+2001,Belgium,5630
+2002,Belgium,5390
+2003,Belgium,5590
+2004,Belgium,5590
+2005,Belgium,5560
+2006,Belgium,5470
+2007,Belgium,5340
+2008,Belgium,5450
+2009,Belgium,5200
+2010,Belgium,5540
+2011,Belgium,5090
+2012,Belgium,4850
+2013,Belgium,5000
+2014,Belgium,4710
+2015,Belgium,4690
+1960,Belize,
+1961,Belize,
+1962,Belize,
+1963,Belize,
+1964,Belize,
+1965,Belize,
+1966,Belize,
+1967,Belize,
+1968,Belize,
+1969,Belize,
+1970,Belize,
+1971,Belize,
+1972,Belize,
+1973,Belize,
+1974,Belize,
+1975,Belize,
+1976,Belize,
+1977,Belize,
+1978,Belize,
+1979,Belize,
+1980,Belize,
+1981,Belize,
+1982,Belize,
+1983,Belize,
+1984,Belize,
+1985,Belize,
+1986,Belize,
+1987,Belize,
+1988,Belize,
+1989,Belize,
+1990,Belize,566
+1991,Belize,
+1992,Belize,
+1993,Belize,
+1994,Belize,
+1995,Belize,
+1996,Belize,
+1997,Belize,
+1998,Belize,
+1999,Belize,
+2000,Belize,
+2001,Belize,
+2002,Belize,
+2003,Belize,
+2004,Belize,561
+2005,Belize,567
+2006,Belize,590
+2007,Belize,595
+1960,Benin,
+1961,Benin,
+1962,Benin,
+1963,Benin,
+1964,Benin,
+1965,Benin,
+1966,Benin,
+1967,Benin,
+1968,Benin,
+1969,Benin,
+1970,Benin,
+1971,Benin,371
+1972,Benin,380
+1973,Benin,380
+1974,Benin,379
+1975,Benin,381
+1976,Benin,360
+1977,Benin,364
+1978,Benin,368
+1979,Benin,365
+1980,Benin,364
+1981,Benin,353
+1982,Benin,356
+1983,Benin,355
+1984,Benin,354
+1985,Benin,361
+1986,Benin,354
+1987,Benin,348
+1988,Benin,347
+1989,Benin,338
+1990,Benin,334
+1991,Benin,328
+1992,Benin,324
+1993,Benin,320
+1994,Benin,316
+1995,Benin,313
+1996,Benin,353
+1997,Benin,355
+1998,Benin,340
+1999,Benin,345
+2000,Benin,289
+2001,Benin,298
+2002,Benin,310
+2003,Benin,317
+2004,Benin,321
+2005,Benin,313
+2006,Benin,359
+2007,Benin,379
+2008,Benin,377
+2009,Benin,384
+2010,Benin,397
+2011,Benin,397
+2012,Benin,400
+2013,Benin,406
+2014,Benin,417
+1960,Bhutan,
+1961,Bhutan,
+1962,Bhutan,
+1963,Bhutan,
+1964,Bhutan,
+1965,Bhutan,
+1966,Bhutan,
+1967,Bhutan,
+1968,Bhutan,
+1969,Bhutan,
+1970,Bhutan,
+1971,Bhutan,
+1972,Bhutan,
+1973,Bhutan,
+1974,Bhutan,
+1975,Bhutan,
+1976,Bhutan,
+1977,Bhutan,
+1978,Bhutan,
+1979,Bhutan,
+1980,Bhutan,
+1981,Bhutan,
+1982,Bhutan,
+1983,Bhutan,
+1984,Bhutan,
+1985,Bhutan,
+1986,Bhutan,
+1987,Bhutan,
+1988,Bhutan,
+1989,Bhutan,
+1990,Bhutan,105
+1991,Bhutan,
+1992,Bhutan,
+1993,Bhutan,
+1994,Bhutan,
+1995,Bhutan,
+1996,Bhutan,
+1997,Bhutan,
+1998,Bhutan,
+1999,Bhutan,
+2000,Bhutan,
+2001,Bhutan,
+2002,Bhutan,
+2003,Bhutan,
+2004,Bhutan,282
+2005,Bhutan,314
+2006,Bhutan,321
+2007,Bhutan,367
+1960,Bolivia,
+1961,Bolivia,
+1962,Bolivia,
+1963,Bolivia,
+1964,Bolivia,
+1965,Bolivia,
+1966,Bolivia,
+1967,Bolivia,
+1968,Bolivia,
+1969,Bolivia,
+1970,Bolivia,
+1971,Bolivia,223
+1972,Bolivia,241
+1973,Bolivia,249
+1974,Bolivia,261
+1975,Bolivia,296
+1976,Bolivia,317
+1977,Bolivia,332
+1978,Bolivia,352
+1979,Bolivia,379
+1980,Bolivia,438
+1981,Bolivia,450
+1982,Bolivia,464
+1983,Bolivia,431
+1984,Bolivia,422
+1985,Bolivia,408
+1986,Bolivia,378
+1987,Bolivia,343
+1988,Bolivia,350
+1989,Bolivia,366
+1990,Bolivia,380
+1991,Bolivia,384
+1992,Bolivia,398
+1993,Bolivia,417
+1994,Bolivia,449
+1995,Bolivia,494
+1996,Bolivia,520
+1997,Bolivia,556
+1998,Bolivia,551
+1999,Bolivia,531
+2000,Bolivia,583
+2001,Bolivia,445
+2002,Bolivia,523
+2003,Bolivia,534
+2004,Bolivia,525
+2005,Bolivia,563
+2006,Bolivia,692
+2007,Bolivia,554
+2008,Bolivia,579
+2009,Bolivia,594
+2010,Bolivia,636
+2011,Bolivia,661
+2012,Bolivia,748
+2013,Bolivia,740
+2014,Bolivia,778
+1960,Bosnia and Herzegovina,
+1961,Bosnia and Herzegovina,
+1962,Bosnia and Herzegovina,
+1963,Bosnia and Herzegovina,
+1964,Bosnia and Herzegovina,
+1965,Bosnia and Herzegovina,
+1966,Bosnia and Herzegovina,
+1967,Bosnia and Herzegovina,
+1968,Bosnia and Herzegovina,
+1969,Bosnia and Herzegovina,
+1970,Bosnia and Herzegovina,
+1971,Bosnia and Herzegovina,
+1972,Bosnia and Herzegovina,
+1973,Bosnia and Herzegovina,
+1974,Bosnia and Herzegovina,
+1975,Bosnia and Herzegovina,
+1976,Bosnia and Herzegovina,
+1977,Bosnia and Herzegovina,
+1978,Bosnia and Herzegovina,
+1979,Bosnia and Herzegovina,
+1980,Bosnia and Herzegovina,
+1981,Bosnia and Herzegovina,
+1982,Bosnia and Herzegovina,
+1983,Bosnia and Herzegovina,
+1984,Bosnia and Herzegovina,
+1985,Bosnia and Herzegovina,
+1986,Bosnia and Herzegovina,
+1987,Bosnia and Herzegovina,
+1988,Bosnia and Herzegovina,
+1989,Bosnia and Herzegovina,
+1990,Bosnia and Herzegovina,1570
+1991,Bosnia and Herzegovina,1450
+1992,Bosnia and Herzegovina,1050
+1993,Bosnia and Herzegovina,909
+1994,Bosnia and Herzegovina,365
+1995,Bosnia and Herzegovina,390
+1996,Bosnia and Herzegovina,464
+1997,Bosnia and Herzegovina,721
+1998,Bosnia and Herzegovina,897
+1999,Bosnia and Herzegovina,885
+2000,Bosnia and Herzegovina,1160
+2001,Bosnia and Herzegovina,1120
+2002,Bosnia and Herzegovina,1170
+2003,Bosnia and Herzegovina,1170
+2004,Bosnia and Herzegovina,1280
+2005,Bosnia and Herzegovina,1340
+2006,Bosnia and Herzegovina,1410
+2007,Bosnia and Herzegovina,1410
+2008,Bosnia and Herzegovina,1590
+2009,Bosnia and Herzegovina,1660
+2010,Bosnia and Herzegovina,1750
+2011,Bosnia and Herzegovina,1950
+2012,Bosnia and Herzegovina,1850
+2013,Bosnia and Herzegovina,1820
+2014,Bosnia and Herzegovina,2250
+1960,Botswana,
+1961,Botswana,
+1962,Botswana,
+1963,Botswana,
+1964,Botswana,
+1965,Botswana,
+1966,Botswana,
+1967,Botswana,
+1968,Botswana,
+1969,Botswana,
+1970,Botswana,
+1971,Botswana,
+1972,Botswana,
+1973,Botswana,
+1974,Botswana,
+1975,Botswana,
+1976,Botswana,
+1977,Botswana,
+1978,Botswana,
+1979,Botswana,
+1980,Botswana,
+1981,Botswana,811
+1982,Botswana,822
+1983,Botswana,802
+1984,Botswana,790
+1985,Botswana,805
+1986,Botswana,849
+1987,Botswana,812
+1988,Botswana,919
+1989,Botswana,947
+1990,Botswana,947
+1991,Botswana,936
+1992,Botswana,1050
+1993,Botswana,1030
+1994,Botswana,985
+1995,Botswana,985
+1996,Botswana,938
+1997,Botswana,962
+1998,Botswana,1060
+1999,Botswana,1070
+2000,Botswana,1090
+2001,Botswana,1080
+2002,Botswana,1080
+2003,Botswana,1060
+2004,Botswana,1020
+2005,Botswana,1040
+2006,Botswana,1050
+2007,Botswana,1060
+2008,Botswana,1100
+2009,Botswana,1010
+2010,Botswana,1080
+2011,Botswana,1030
+2012,Botswana,1150
+2013,Botswana,1200
+2014,Botswana,1300
+1960,Brazil,
+1961,Brazil,
+1962,Brazil,
+1963,Brazil,
+1964,Brazil,
+1965,Brazil,
+1966,Brazil,
+1967,Brazil,
+1968,Brazil,
+1969,Brazil,
+1970,Brazil,
+1971,Brazil,716
+1972,Brazil,749
+1973,Brazil,802
+1974,Brazil,833
+1975,Brazil,850
+1976,Brazil,871
+1977,Brazil,879
+1978,Brazil,913
+1979,Brazil,948
+1980,Brazil,943
+1981,Brazil,884
+1982,Brazil,878
+1983,Brazil,879
+1984,Brazil,915
+1985,Brazil,956
+1986,Brazil,980
+1987,Brazil,998
+1988,Brazil,993
+1989,Brazil,994
+1990,Brazil,941
+1991,Brazil,942
+1992,Brazil,936
+1993,Brazil,943
+1994,Brazil,977
+1995,Brazil,994
+1996,Brazil,1030
+1997,Brazil,1070
+1998,Brazil,1080
+1999,Brazil,1080
+2000,Brazil,1070
+2001,Brazil,1080
+2002,Brazil,1090
+2003,Brazil,1090
+2004,Brazil,1140
+2005,Brazil,1160
+2006,Brazil,1180
+2007,Brazil,1240
+2008,Brazil,1290
+2009,Brazil,1240
+2010,Brazil,1360
+2011,Brazil,1370
+2012,Brazil,1410
+2013,Brazil,1460
+2014,Brazil,1500
+1960,Brunei,
+1961,Brunei,
+1962,Brunei,
+1963,Brunei,
+1964,Brunei,
+1965,Brunei,
+1966,Brunei,
+1967,Brunei,
+1968,Brunei,
+1969,Brunei,
+1970,Brunei,
+1971,Brunei,1310
+1972,Brunei,1240
+1973,Brunei,2320
+1974,Brunei,3830
+1975,Brunei,4580
+1976,Brunei,5800
+1977,Brunei,6040
+1978,Brunei,5440
+1979,Brunei,5470
+1980,Brunei,6960
+1981,Brunei,6500
+1982,Brunei,6780
+1983,Brunei,6960
+1984,Brunei,7790
+1985,Brunei,7940
+1986,Brunei,6780
+1987,Brunei,6760
+1988,Brunei,5460
+1989,Brunei,6160
+1990,Brunei,6670
+1991,Brunei,7340
+1992,Brunei,7670
+1993,Brunei,7180
+1994,Brunei,6480
+1995,Brunei,7560
+1996,Brunei,7430
+1997,Brunei,7490
+1998,Brunei,7290
+1999,Brunei,7270
+2000,Brunei,7160
+2001,Brunei,6490
+2002,Brunei,6220
+2003,Brunei,7090
+2004,Brunei,6390
+2005,Brunei,6070
+2006,Brunei,8510
+2007,Brunei,8610
+2008,Brunei,9340
+2009,Brunei,7930
+2010,Brunei,8340
+2011,Brunei,9840
+2012,Brunei,9600
+2013,Brunei,7520
+2014,Brunei,8670
+1960,Bulgaria,
+1961,Bulgaria,
+1962,Bulgaria,
+1963,Bulgaria,
+1964,Bulgaria,
+1965,Bulgaria,
+1966,Bulgaria,
+1967,Bulgaria,
+1968,Bulgaria,
+1969,Bulgaria,
+1970,Bulgaria,
+1971,Bulgaria,2230
+1972,Bulgaria,2260
+1973,Bulgaria,2380
+1974,Bulgaria,2460
+1975,Bulgaria,2670
+1976,Bulgaria,2780
+1977,Bulgaria,2950
+1978,Bulgaria,3080
+1979,Bulgaria,3200
+1980,Bulgaria,3200
+1981,Bulgaria,3190
+1982,Bulgaria,3310
+1983,Bulgaria,3370
+1984,Bulgaria,3390
+1985,Bulgaria,3420
+1986,Bulgaria,3450
+1987,Bulgaria,3410
+1988,Bulgaria,3490
+1989,Bulgaria,3430
+1990,Bulgaria,3240
+1991,Bulgaria,2540
+1992,Bulgaria,2400
+1993,Bulgaria,2590
+1994,Bulgaria,2520
+1995,Bulgaria,2750
+1996,Bulgaria,2750
+1997,Bulgaria,2500
+1998,Bulgaria,2430
+1999,Bulgaria,2230
+2000,Bulgaria,2280
+2001,Bulgaria,2420
+2002,Bulgaria,2410
+2003,Bulgaria,2490
+2004,Bulgaria,2440
+2005,Bulgaria,2600
+2006,Bulgaria,2690
+2007,Bulgaria,2670
+2008,Bulgaria,2650
+2009,Bulgaria,2350
+2010,Bulgaria,2420
+2011,Bulgaria,2620
+2012,Bulgaria,2510
+2013,Bulgaria,2330
+2014,Bulgaria,2480
+1960,Cambodia,
+1961,Cambodia,
+1962,Cambodia,
+1963,Cambodia,
+1964,Cambodia,
+1965,Cambodia,
+1966,Cambodia,
+1967,Cambodia,
+1968,Cambodia,
+1969,Cambodia,
+1970,Cambodia,
+1971,Cambodia,
+1972,Cambodia,
+1973,Cambodia,
+1974,Cambodia,
+1975,Cambodia,
+1976,Cambodia,
+1977,Cambodia,
+1978,Cambodia,
+1979,Cambodia,
+1980,Cambodia,
+1981,Cambodia,
+1982,Cambodia,
+1983,Cambodia,
+1984,Cambodia,
+1985,Cambodia,
+1986,Cambodia,
+1987,Cambodia,
+1988,Cambodia,
+1989,Cambodia,
+1990,Cambodia,
+1991,Cambodia,
+1992,Cambodia,
+1993,Cambodia,
+1994,Cambodia,
+1995,Cambodia,266
+1996,Cambodia,270
+1997,Cambodia,267
+1998,Cambodia,296
+1999,Cambodia,289
+2000,Cambodia,281
+2001,Cambodia,277
+2002,Cambodia,316
+2003,Cambodia,320
+2004,Cambodia,259
+2005,Cambodia,259
+2006,Cambodia,254
+2007,Cambodia,254
+2008,Cambodia,251
+2009,Cambodia,360
+2010,Cambodia,370
+2011,Cambodia,381
+2012,Cambodia,391
+2013,Cambodia,397
+2014,Cambodia,417
+1960,Cameroon,
+1961,Cameroon,
+1962,Cameroon,
+1963,Cameroon,
+1964,Cameroon,
+1965,Cameroon,
+1966,Cameroon,
+1967,Cameroon,
+1968,Cameroon,
+1969,Cameroon,
+1970,Cameroon,
+1971,Cameroon,403
+1972,Cameroon,401
+1973,Cameroon,399
+1974,Cameroon,399
+1975,Cameroon,407
+1976,Cameroon,402
+1977,Cameroon,418
+1978,Cameroon,419
+1979,Cameroon,422
+1980,Cameroon,424
+1981,Cameroon,432
+1982,Cameroon,438
+1983,Cameroon,439
+1984,Cameroon,440
+1985,Cameroon,443
+1986,Cameroon,435
+1987,Cameroon,429
+1988,Cameroon,429
+1989,Cameroon,431
+1990,Cameroon,423
+1991,Cameroon,414
+1992,Cameroon,407
+1993,Cameroon,409
+1994,Cameroon,411
+1995,Cameroon,407
+1996,Cameroon,406
+1997,Cameroon,407
+1998,Cameroon,408
+1999,Cameroon,400
+2000,Cameroon,407
+2001,Cameroon,401
+2002,Cameroon,400
+2003,Cameroon,405
+2004,Cameroon,406
+2005,Cameroon,398
+2006,Cameroon,369
+2007,Cameroon,338
+2008,Cameroon,332
+2009,Cameroon,349
+2010,Cameroon,342
+2011,Cameroon,321
+2012,Cameroon,322
+2013,Cameroon,330
+2014,Cameroon,335
+1960,Canada,4250
+1961,Canada,4310
+1962,Canada,4450
+1963,Canada,4690
+1964,Canada,4900
+1965,Canada,5150
+1966,Canada,5270
+1967,Canada,5560
+1968,Canada,5870
+1969,Canada,6090
+1970,Canada,6480
+1971,Canada,6440
+1972,Canada,6860
+1973,Canada,7080
+1974,Canada,7090
+1975,Canada,7170
+1976,Canada,7290
+1977,Canada,7430
+1978,Canada,7560
+1979,Canada,7860
+1980,Canada,7830
+1981,Canada,7560
+1982,Canada,7170
+1983,Canada,7080
+1984,Canada,7370
+1985,Canada,7470
+1986,Canada,7520
+1987,Canada,7670
+1988,Canada,7890
+1989,Canada,7960
+1990,Canada,7630
+1991,Canada,7520
+1992,Canada,7600
+1993,Canada,7770
+1994,Canada,7960
+1995,Canada,7980
+1996,Canada,8050
+1997,Canada,8060
+1998,Canada,7950
+1999,Canada,8110
+2000,Canada,8270
+2001,Canada,8060
+2002,Canada,7990
+2003,Canada,8340
+2004,Canada,8460
+2005,Canada,8420
+2006,Canada,8240
+2007,Canada,8210
+2008,Canada,8190
+2009,Canada,7800
+2010,Canada,7790
+2011,Canada,7910
+2012,Canada,7730
+2013,Canada,7740
+2014,Canada,7900
+2015,Canada,7630
+1960,Cape Verde,
+1961,Cape Verde,
+1962,Cape Verde,
+1963,Cape Verde,
+1964,Cape Verde,
+1965,Cape Verde,
+1966,Cape Verde,
+1967,Cape Verde,
+1968,Cape Verde,
+1969,Cape Verde,
+1970,Cape Verde,
+1971,Cape Verde,
+1972,Cape Verde,
+1973,Cape Verde,
+1974,Cape Verde,
+1975,Cape Verde,
+1976,Cape Verde,
+1977,Cape Verde,
+1978,Cape Verde,
+1979,Cape Verde,
+1980,Cape Verde,
+1981,Cape Verde,
+1982,Cape Verde,
+1983,Cape Verde,
+1984,Cape Verde,
+1985,Cape Verde,
+1986,Cape Verde,
+1987,Cape Verde,
+1988,Cape Verde,
+1989,Cape Verde,
+1990,Cape Verde,85.9
+1991,Cape Verde,
+1992,Cape Verde,
+1993,Cape Verde,
+1994,Cape Verde,
+1995,Cape Verde,
+1996,Cape Verde,
+1997,Cape Verde,
+1998,Cape Verde,
+1999,Cape Verde,
+2000,Cape Verde,
+2001,Cape Verde,
+2002,Cape Verde,
+2003,Cape Verde,
+2004,Cape Verde,195
+2005,Cape Verde,214
+2006,Cape Verde,217
+2007,Cape Verde,217
+1960,Chile,
+1961,Chile,
+1962,Chile,
+1963,Chile,
+1964,Chile,
+1965,Chile,
+1966,Chile,
+1967,Chile,
+1968,Chile,
+1969,Chile,
+1970,Chile,
+1971,Chile,875
+1972,Chile,875
+1973,Chile,828
+1974,Chile,809
+1975,Chile,721
+1976,Chile,751
+1977,Chile,767
+1978,Chile,782
+1979,Chile,815
+1980,Chile,830
+1981,Chile,831
+1982,Chile,752
+1983,Chile,767
+1984,Chile,795
+1985,Chile,782
+1986,Chile,804
+1987,Chile,817
+1988,Chile,910
+1989,Chile,1000
+1990,Chile,1060
+1991,Chile,1060
+1992,Chile,1130
+1993,Chile,1140
+1994,Chile,1200
+1995,Chile,1280
+1996,Chile,1390
+1997,Chile,1540
+1998,Chile,1570
+1999,Chile,1650
+2000,Chile,1640
+2001,Chile,1590
+2002,Chile,1630
+2003,Chile,1630
+2004,Chile,1720
+2005,Chile,1750
+2006,Chile,1810
+2007,Chile,1850
+2008,Chile,1820
+2009,Chile,1750
+2010,Chile,1810
+2011,Chile,1950
+2012,Chile,2140
+2013,Chile,2200
+2014,Chile,2030
+2015,Chile,2010
+1960,China,
+1961,China,
+1962,China,
+1963,China,
+1964,China,
+1965,China,
+1966,China,
+1967,China,
+1968,China,
+1969,China,
+1970,China,
+1971,China,465
+1972,China,477
+1973,China,484
+1974,China,486
+1975,China,527
+1976,China,537
+1977,China,577
+1978,China,617
+1979,China,619
+1980,China,609
+1981,China,597
+1982,China,607
+1983,China,622
+1984,China,651
+1985,China,658
+1986,China,671
+1987,China,694
+1988,China,720
+1989,China,724
+1990,China,767
+1991,China,737
+1992,China,753
+1993,China,788
+1994,China,816
+1995,China,867
+1996,China,882
+1997,China,872
+1998,China,869
+1999,China,879
+2000,China,899
+2001,China,929
+2002,China,985
+2003,China,1120
+2004,China,1270
+2005,China,1390
+2006,China,1520
+2007,China,1630
+2008,China,1670
+2009,China,1780
+2010,China,1950
+2011,China,2090
+2012,China,2160
+2013,China,2210
+2014,China,2240
+1960,Colombia,
+1961,Colombia,
+1962,Colombia,
+1963,Colombia,
+1964,Colombia,
+1965,Colombia,
+1966,Colombia,
+1967,Colombia,
+1968,Colombia,
+1969,Colombia,
+1970,Colombia,
+1971,Colombia,630
+1972,Colombia,616
+1973,Colombia,606
+1974,Colombia,627
+1975,Colombia,641
+1976,Colombia,652
+1977,Colombia,657
+1978,Colombia,640
+1979,Colombia,611
+1980,Colombia,658
+1981,Colombia,652
+1982,Colombia,656
+1983,Colombia,663
+1984,Colombia,671
+1985,Colombia,667
+1986,Colombia,712
+1987,Colombia,721
+1988,Colombia,728
+1989,Colombia,720
+1990,Colombia,732
+1991,Colombia,725
+1992,Colombia,728
+1993,Colombia,747
+1994,Colombia,759
+1995,Colombia,758
+1996,Colombia,763
+1997,Colombia,727
+1998,Colombia,749
+1999,Colombia,659
+2000,Colombia,651
+2001,Colombia,639
+2002,Colombia,617
+2003,Colombia,620
+2004,Colombia,618
+2005,Colombia,635
+2006,Colombia,659
+2007,Colombia,647
+2008,Colombia,669
+2009,Colombia,686
+2010,Colombia,690
+2011,Colombia,684
+2012,Colombia,685
+2013,Colombia,724
+2014,Colombia,724
+1960,Comoros,
+1961,Comoros,
+1962,Comoros,
+1963,Comoros,
+1964,Comoros,
+1965,Comoros,
+1966,Comoros,
+1967,Comoros,
+1968,Comoros,
+1969,Comoros,
+1970,Comoros,
+1971,Comoros,
+1972,Comoros,
+1973,Comoros,
+1974,Comoros,
+1975,Comoros,
+1976,Comoros,
+1977,Comoros,
+1978,Comoros,
+1979,Comoros,
+1980,Comoros,
+1981,Comoros,
+1982,Comoros,
+1983,Comoros,
+1984,Comoros,
+1985,Comoros,
+1986,Comoros,
+1987,Comoros,
+1988,Comoros,
+1989,Comoros,
+1990,Comoros,43.4
+1991,Comoros,
+1992,Comoros,
+1993,Comoros,
+1994,Comoros,
+1995,Comoros,
+1996,Comoros,
+1997,Comoros,
+1998,Comoros,
+1999,Comoros,
+2000,Comoros,
+2001,Comoros,
+2002,Comoros,
+2003,Comoros,
+2004,Comoros,56.9
+2005,Comoros,60.5
+2006,Comoros,67
+2007,Comoros,63.9
+1960,Congo Dem. Rep.,
+1961,Congo Dem. Rep.,
+1962,Congo Dem. Rep.,
+1963,Congo Dem. Rep.,
+1964,Congo Dem. Rep.,
+1965,Congo Dem. Rep.,
+1966,Congo Dem. Rep.,
+1967,Congo Dem. Rep.,
+1968,Congo Dem. Rep.,
+1969,Congo Dem. Rep.,
+1970,Congo Dem. Rep.,
+1971,Congo Dem. Rep.,325
+1972,Congo Dem. Rep.,324
+1973,Congo Dem. Rep.,327
+1974,Congo Dem. Rep.,327
+1975,Congo Dem. Rep.,326
+1976,Congo Dem. Rep.,322
+1977,Congo Dem. Rep.,323
+1978,Congo Dem. Rep.,322
+1979,Congo Dem. Rep.,327
+1980,Congo Dem. Rep.,321
+1981,Congo Dem. Rep.,328
+1982,Congo Dem. Rep.,321
+1983,Congo Dem. Rep.,334
+1984,Congo Dem. Rep.,342
+1985,Congo Dem. Rep.,333
+1986,Congo Dem. Rep.,331
+1987,Congo Dem. Rep.,335
+1988,Congo Dem. Rep.,338
+1989,Congo Dem. Rep.,336
+1990,Congo Dem. Rep.,341
+1991,Congo Dem. Rep.,329
+1992,Congo Dem. Rep.,322
+1993,Congo Dem. Rep.,316
+1994,Congo Dem. Rep.,306
+1995,Congo Dem. Rep.,309
+1996,Congo Dem. Rep.,310
+1997,Congo Dem. Rep.,308
+1998,Congo Dem. Rep.,308
+1999,Congo Dem. Rep.,303
+2000,Congo Dem. Rep.,295
+2001,Congo Dem. Rep.,297
+2002,Congo Dem. Rep.,298
+2003,Congo Dem. Rep.,300
+2004,Congo Dem. Rep.,302
+2005,Congo Dem. Rep.,304
+2006,Congo Dem. Rep.,306
+2007,Congo Dem. Rep.,307
+2008,Congo Dem. Rep.,308
+2009,Congo Dem. Rep.,307
+2010,Congo Dem. Rep.,307
+2011,Congo Dem. Rep.,316
+2012,Congo Dem. Rep.,379
+2013,Congo Dem. Rep.,385
+2014,Congo Dem. Rep.,389
+1960,Congo Rep.,
+1961,Congo Rep.,
+1962,Congo Rep.,
+1963,Congo Rep.,
+1964,Congo Rep.,
+1965,Congo Rep.,
+1966,Congo Rep.,
+1967,Congo Rep.,
+1968,Congo Rep.,
+1969,Congo Rep.,
+1970,Congo Rep.,
+1971,Congo Rep.,372
+1972,Congo Rep.,374
+1973,Congo Rep.,368
+1974,Congo Rep.,364
+1975,Congo Rep.,360
+1976,Congo Rep.,383
+1977,Congo Rep.,354
+1978,Congo Rep.,357
+1979,Congo Rep.,346
+1980,Congo Rep.,349
+1981,Congo Rep.,349
+1982,Congo Rep.,359
+1983,Congo Rep.,391
+1984,Congo Rep.,368
+1985,Congo Rep.,372
+1986,Congo Rep.,356
+1987,Congo Rep.,352
+1988,Congo Rep.,333
+1989,Congo Rep.,337
+1990,Congo Rep.,334
+1991,Congo Rep.,339
+1992,Congo Rep.,326
+1993,Congo Rep.,319
+1994,Congo Rep.,268
+1995,Congo Rep.,297
+1996,Congo Rep.,272
+1997,Congo Rep.,253
+1998,Congo Rep.,246
+1999,Congo Rep.,235
+2000,Congo Rep.,227
+2001,Congo Rep.,247
+2002,Congo Rep.,242
+2003,Congo Rep.,278
+2004,Congo Rep.,286
+2005,Congo Rep.,300
+2006,Congo Rep.,379
+2007,Congo Rep.,325
+2008,Congo Rep.,336
+2009,Congo Rep.,371
+2010,Congo Rep.,392
+2011,Congo Rep.,508
+2012,Congo Rep.,567
+2013,Congo Rep.,568
+2014,Congo Rep.,555
+1960,Costa Rica,
+1961,Costa Rica,
+1962,Costa Rica,
+1963,Costa Rica,
+1964,Costa Rica,
+1965,Costa Rica,
+1966,Costa Rica,
+1967,Costa Rica,
+1968,Costa Rica,
+1969,Costa Rica,
+1970,Costa Rica,
+1971,Costa Rica,426
+1972,Costa Rica,444
+1973,Costa Rica,471
+1974,Costa Rica,450
+1975,Costa Rica,475
+1976,Costa Rica,467
+1977,Costa Rica,530
+1978,Costa Rica,558
+1979,Costa Rica,561
+1980,Costa Rica,526
+1981,Costa Rica,481
+1982,Costa Rica,456
+1983,Costa Rica,437
+1984,Costa Rica,461
+1985,Costa Rica,462
+1986,Costa Rica,471
+1987,Costa Rica,489
+1988,Costa Rica,488
+1989,Costa Rica,530
+1990,Costa Rica,538
+1991,Costa Rica,556
+1992,Costa Rica,699
+1993,Costa Rica,695
+1994,Costa Rica,668
+1995,Costa Rica,665
+1996,Costa Rica,652
+1997,Costa Rica,645
+1998,Costa Rica,627
+1999,Costa Rica,677
+2000,Costa Rica,725
+2001,Costa Rica,717
+2002,Costa Rica,742
+2003,Costa Rica,784
+2004,Costa Rica,915
+2005,Costa Rica,902
+2006,Costa Rica,963
+2007,Costa Rica,1020
+2008,Costa Rica,1030
+2009,Costa Rica,1010
+2010,Costa Rica,1020
+2011,Costa Rica,1000
+2012,Costa Rica,1010
+2013,Costa Rica,1020
+2014,Costa Rica,1020
+1960,Cote d'Ivoire,
+1961,Cote d'Ivoire,
+1962,Cote d'Ivoire,
+1963,Cote d'Ivoire,
+1964,Cote d'Ivoire,
+1965,Cote d'Ivoire,
+1966,Cote d'Ivoire,
+1967,Cote d'Ivoire,
+1968,Cote d'Ivoire,
+1969,Cote d'Ivoire,
+1970,Cote d'Ivoire,
+1971,Cote d'Ivoire,461
+1972,Cote d'Ivoire,467
+1973,Cote d'Ivoire,461
+1974,Cote d'Ivoire,459
+1975,Cote d'Ivoire,462
+1976,Cote d'Ivoire,475
+1977,Cote d'Ivoire,463
+1978,Cote d'Ivoire,473
+1979,Cote d'Ivoire,458
+1980,Cote d'Ivoire,445
+1981,Cote d'Ivoire,424
+1982,Cote d'Ivoire,404
+1983,Cote d'Ivoire,378
+1984,Cote d'Ivoire,369
+1985,Cote d'Ivoire,373
+1986,Cote d'Ivoire,398
+1987,Cote d'Ivoire,392
+1988,Cote d'Ivoire,385
+1989,Cote d'Ivoire,384
+1990,Cote d'Ivoire,364
+1991,Cote d'Ivoire,362
+1992,Cote d'Ivoire,380
+1993,Cote d'Ivoire,380
+1994,Cote d'Ivoire,377
+1995,Cote d'Ivoire,363
+1996,Cote d'Ivoire,395
+1997,Cote d'Ivoire,390
+1998,Cote d'Ivoire,378
+1999,Cote d'Ivoire,438
+2000,Cote d'Ivoire,413
+2001,Cote d'Ivoire,387
+2002,Cote d'Ivoire,405
+2003,Cote d'Ivoire,375
+2004,Cote d'Ivoire,517
+2005,Cote d'Ivoire,524
+2006,Cote d'Ivoire,504
+2007,Cote d'Ivoire,531
+2008,Cote d'Ivoire,522
+2009,Cote d'Ivoire,467
+2010,Cote d'Ivoire,495
+2011,Cote d'Ivoire,554
+2012,Cote d'Ivoire,586
+2013,Cote d'Ivoire,613
+2014,Cote d'Ivoire,613
+1960,Croatia,
+1961,Croatia,
+1962,Croatia,
+1963,Croatia,
+1964,Croatia,
+1965,Croatia,
+1966,Croatia,
+1967,Croatia,
+1968,Croatia,
+1969,Croatia,
+1970,Croatia,
+1971,Croatia,
+1972,Croatia,
+1973,Croatia,
+1974,Croatia,
+1975,Croatia,
+1976,Croatia,
+1977,Croatia,
+1978,Croatia,
+1979,Croatia,
+1980,Croatia,
+1981,Croatia,
+1982,Croatia,
+1983,Croatia,
+1984,Croatia,
+1985,Croatia,
+1986,Croatia,
+1987,Croatia,
+1988,Croatia,
+1989,Croatia,
+1990,Croatia,1980
+1991,Croatia,1740
+1992,Croatia,1630
+1993,Croatia,1680
+1994,Croatia,1630
+1995,Croatia,1690
+1996,Croatia,1770
+1997,Croatia,1880
+1998,Croatia,1950
+1999,Croatia,1930
+2000,Croatia,1880
+2001,Croatia,2020
+2002,Croatia,2080
+2003,Croatia,2230
+2004,Croatia,2230
+2005,Croatia,2260
+2006,Croatia,2250
+2007,Croatia,2340
+2008,Croatia,2280
+2009,Croatia,2210
+2010,Croatia,2190
+2011,Croatia,2140
+2012,Croatia,2020
+2013,Croatia,1980
+2014,Croatia,1900
+1960,Cuba,
+1961,Cuba,
+1962,Cuba,
+1963,Cuba,
+1964,Cuba,
+1965,Cuba,
+1966,Cuba,
+1967,Cuba,
+1968,Cuba,
+1969,Cuba,
+1970,Cuba,
+1971,Cuba,1180
+1972,Cuba,1120
+1973,Cuba,1180
+1974,Cuba,1230
+1975,Cuba,1240
+1976,Cuba,1290
+1977,Cuba,1390
+1978,Cuba,1460
+1979,Cuba,1490
+1980,Cuba,1490
+1981,Cuba,1490
+1982,Cuba,1500
+1983,Cuba,1580
+1984,Cuba,1530
+1985,Cuba,1510
+1986,Cuba,1500
+1987,Cuba,1540
+1988,Cuba,1610
+1989,Cuba,1740
+1990,Cuba,1640
+1991,Cuba,1350
+1992,Cuba,1180
+1993,Cuba,977
+1994,Cuba,1000
+1995,Cuba,998
+1996,Cuba,1080
+1997,Cuba,1110
+1998,Cuba,1030
+1999,Cuba,1070
+2000,Cuba,1140
+2001,Cuba,1110
+2002,Cuba,1040
+2003,Cuba,1030
+2004,Cuba,1000
+2005,Cuba,947
+2006,Cuba,946
+2007,Cuba,901
+2008,Cuba,958
+2009,Cuba,1020
+2010,Cuba,1100
+2011,Cuba,1030
+2012,Cuba,1070
+2013,Cuba,1020
+2014,Cuba,1030
+1960,Cyprus,
+1961,Cyprus,
+1962,Cyprus,
+1963,Cyprus,
+1964,Cyprus,
+1965,Cyprus,
+1966,Cyprus,
+1967,Cyprus,
+1968,Cyprus,
+1969,Cyprus,
+1970,Cyprus,
+1971,Cyprus,946
+1972,Cyprus,1190
+1973,Cyprus,1230
+1974,Cyprus,925
+1975,Cyprus,869
+1976,Cyprus,998
+1977,Cyprus,1070
+1978,Cyprus,1120
+1979,Cyprus,1210
+1980,Cyprus,1260
+1981,Cyprus,1230
+1982,Cyprus,1250
+1983,Cyprus,1290
+1984,Cyprus,1330
+1985,Cyprus,1310
+1986,Cyprus,1460
+1987,Cyprus,1640
+1988,Cyprus,1640
+1989,Cyprus,1680
+1990,Cyprus,1780
+1991,Cyprus,1780
+1992,Cyprus,1960
+1993,Cyprus,2060
+1994,Cyprus,2300
+1995,Cyprus,1980
+1996,Cyprus,2160
+1997,Cyprus,2070
+1998,Cyprus,2170
+1999,Cyprus,2150
+2000,Cyprus,2270
+2001,Cyprus,2200
+2002,Cyprus,2190
+2003,Cyprus,2350
+2004,Cyprus,2160
+2005,Cyprus,2160
+2006,Cyprus,2210
+2007,Cyprus,2290
+2008,Cyprus,2390
+2009,Cyprus,2300
+2010,Cyprus,2200
+2011,Cyprus,2110
+2012,Cyprus,1960
+2013,Cyprus,1690
+2014,Cyprus,1710
+1960,Czech Republic,
+1961,Czech Republic,
+1962,Czech Republic,
+1963,Czech Republic,
+1964,Czech Republic,
+1965,Czech Republic,
+1966,Czech Republic,
+1967,Czech Republic,
+1968,Czech Republic,
+1969,Czech Republic,
+1970,Czech Republic,
+1971,Czech Republic,4620
+1972,Czech Republic,4610
+1973,Czech Republic,4550
+1974,Czech Republic,4190
+1975,Czech Republic,4340
+1976,Czech Republic,4440
+1977,Czech Republic,4720
+1978,Czech Republic,4430
+1979,Czech Republic,4700
+1980,Czech Republic,4560
+1981,Czech Republic,4570
+1982,Czech Republic,4630
+1983,Czech Republic,4650
+1984,Czech Republic,4740
+1985,Czech Republic,4760
+1986,Czech Republic,4840
+1987,Czech Republic,4980
+1988,Czech Republic,4880
+1989,Czech Republic,4740
+1990,Czech Republic,4800
+1991,Czech Republic,4350
+1992,Czech Republic,4220
+1993,Czech Republic,4090
+1994,Czech Republic,3960
+1995,Czech Republic,4020
+1996,Czech Republic,4150
+1997,Czech Republic,4180
+1998,Czech Republic,4060
+1999,Czech Republic,3780
+2000,Czech Republic,3990
+2001,Czech Republic,4110
+2002,Czech Republic,4160
+2003,Czech Republic,4360
+2004,Czech Republic,4460
+2005,Czech Republic,4400
+2006,Czech Republic,4490
+2007,Czech Republic,4470
+2008,Czech Republic,4330
+2009,Czech Republic,4030
+2010,Czech Republic,4240
+2011,Czech Republic,4080
+2012,Czech Republic,4050
+2013,Czech Republic,3990
+2014,Czech Republic,3920
+2015,Czech Republic,3860
+1960,Denmark,1920
+1961,Denmark,2020
+1962,Denmark,2300
+1963,Denmark,2500
+1964,Denmark,2600
+1965,Denmark,2820
+1966,Denmark,3070
+1967,Denmark,3060
+1968,Denmark,3200
+1969,Denmark,3700
+1970,Denmark,3970
+1971,Denmark,3730
+1972,Denmark,3860
+1973,Denmark,3780
+1974,Denmark,3490
+1975,Denmark,3450
+1976,Denmark,3750
+1977,Denmark,3830
+1978,Denmark,3890
+1979,Denmark,4020
+1980,Denmark,3740
+1981,Denmark,3380
+1982,Denmark,3420
+1983,Denmark,3230
+1984,Denmark,3350
+1985,Denmark,3770
+1986,Denmark,3820
+1987,Denmark,3820
+1988,Denmark,3640
+1989,Denmark,3410
+1990,Denmark,3380
+1991,Denmark,3730
+1992,Denmark,3560
+1993,Denmark,3650
+1994,Denmark,3760
+1995,Denmark,3710
+1996,Denmark,4170
+1997,Denmark,3850
+1998,Denmark,3770
+1999,Denmark,3600
+2000,Denmark,3490
+2001,Denmark,3580
+2002,Denmark,3540
+2003,Denmark,3730
+2004,Denmark,3600
+2005,Denmark,3490
+2006,Denmark,3730
+2007,Denmark,3620
+2008,Denmark,3500
+2009,Denmark,3330
+2010,Denmark,3510
+2011,Denmark,3230
+2012,Denmark,3090
+2013,Denmark,3130
+2014,Denmark,2870
+2015,Denmark,2820
+1960,Djibouti,
+1961,Djibouti,
+1962,Djibouti,
+1963,Djibouti,
+1964,Djibouti,
+1965,Djibouti,
+1966,Djibouti,
+1967,Djibouti,
+1968,Djibouti,
+1969,Djibouti,
+1970,Djibouti,
+1971,Djibouti,
+1972,Djibouti,
+1973,Djibouti,
+1974,Djibouti,
+1975,Djibouti,
+1976,Djibouti,
+1977,Djibouti,
+1978,Djibouti,
+1979,Djibouti,
+1980,Djibouti,
+1981,Djibouti,
+1982,Djibouti,
+1983,Djibouti,
+1984,Djibouti,
+1985,Djibouti,
+1986,Djibouti,
+1987,Djibouti,
+1988,Djibouti,
+1989,Djibouti,
+1990,Djibouti,220
+1991,Djibouti,
+1992,Djibouti,
+1993,Djibouti,
+1994,Djibouti,
+1995,Djibouti,
+1996,Djibouti,
+1997,Djibouti,
+1998,Djibouti,
+1999,Djibouti,
+2000,Djibouti,
+2001,Djibouti,
+2002,Djibouti,
+2003,Djibouti,
+2004,Djibouti,172
+2005,Djibouti,177
+2006,Djibouti,180
+2007,Djibouti,178
+1960,Dominica,
+1961,Dominica,
+1962,Dominica,
+1963,Dominica,
+1964,Dominica,
+1965,Dominica,
+1966,Dominica,
+1967,Dominica,
+1968,Dominica,
+1969,Dominica,
+1970,Dominica,
+1971,Dominica,
+1972,Dominica,
+1973,Dominica,
+1974,Dominica,
+1975,Dominica,
+1976,Dominica,
+1977,Dominica,
+1978,Dominica,
+1979,Dominica,
+1980,Dominica,
+1981,Dominica,
+1982,Dominica,
+1983,Dominica,
+1984,Dominica,
+1985,Dominica,
+1986,Dominica,
+1987,Dominica,
+1988,Dominica,
+1989,Dominica,
+1990,Dominica,301
+1991,Dominica,
+1992,Dominica,
+1993,Dominica,
+1994,Dominica,
+1995,Dominica,
+1996,Dominica,
+1997,Dominica,
+1998,Dominica,
+1999,Dominica,
+2000,Dominica,
+2001,Dominica,
+2002,Dominica,
+2003,Dominica,
+2004,Dominica,554
+2005,Dominica,581
+2006,Dominica,594
+2007,Dominica,607
+1960,Dominican Republic,
+1961,Dominican Republic,
+1962,Dominican Republic,
+1963,Dominican Republic,
+1964,Dominican Republic,
+1965,Dominican Republic,
+1966,Dominican Republic,
+1967,Dominican Republic,
+1968,Dominican Republic,
+1969,Dominican Republic,
+1970,Dominican Republic,
+1971,Dominican Republic,506
+1972,Dominican Republic,574
+1973,Dominican Republic,587
+1974,Dominican Republic,602
+1975,Dominican Republic,599
+1976,Dominican Republic,603
+1977,Dominican Republic,602
+1978,Dominican Republic,603
+1979,Dominican Republic,612
+1980,Dominican Republic,592
+1981,Dominican Republic,599
+1982,Dominican Republic,598
+1983,Dominican Republic,622
+1984,Dominican Republic,642
+1985,Dominican Republic,524
+1986,Dominican Republic,533
+1987,Dominican Republic,592
+1988,Dominican Republic,555
+1989,Dominican Republic,537
+1990,Dominican Republic,563
+1991,Dominican Republic,557
+1992,Dominican Republic,606
+1993,Dominican Republic,576
+1994,Dominican Republic,650
+1995,Dominican Republic,671
+1996,Dominican Republic,689
+1997,Dominican Republic,756
+1998,Dominican Republic,786
+1999,Dominican Republic,805
+2000,Dominican Republic,852
+2001,Dominican Republic,814
+2002,Dominican Republic,852
+2003,Dominican Republic,795
+2004,Dominican Republic,709
+2005,Dominican Republic,760
+2006,Dominican Republic,777
+2007,Dominican Republic,780
+2008,Dominican Republic,772
+2009,Dominican Republic,748
+2010,Dominican Republic,777
+2011,Dominican Republic,781
+2012,Dominican Republic,815
+2013,Dominican Republic,760
+2014,Dominican Republic,752
+1960,Ecuador,
+1961,Ecuador,
+1962,Ecuador,
+1963,Ecuador,
+1964,Ecuador,
+1965,Ecuador,
+1966,Ecuador,
+1967,Ecuador,
+1968,Ecuador,
+1969,Ecuador,
+1970,Ecuador,
+1971,Ecuador,358
+1972,Ecuador,361
+1973,Ecuador,356
+1974,Ecuador,419
+1975,Ecuador,449
+1976,Ecuador,486
+1977,Ecuador,567
+1978,Ecuador,569
+1979,Ecuador,585
+1980,Ecuador,625
+1981,Ecuador,634
+1982,Ecuador,665
+1983,Ecuador,601
+1984,Ecuador,628
+1985,Ecuador,619
+1986,Ecuador,602
+1987,Ecuador,601
+1988,Ecuador,615
+1989,Ecuador,574
+1990,Ecuador,619
+1991,Ecuador,635
+1992,Ecuador,629
+1993,Ecuador,573
+1994,Ecuador,600
+1995,Ecuador,687
+1996,Ecuador,708
+1997,Ecuador,720
+1998,Ecuador,725
+1999,Ecuador,639
+2000,Ecuador,695
+2001,Ecuador,724
+2002,Ecuador,695
+2003,Ecuador,693
+2004,Ecuador,658
+2005,Ecuador,675
+2006,Ecuador,667
+2007,Ecuador,742
+2008,Ecuador,672
+2009,Ecuador,788
+2010,Ecuador,784
+2011,Ecuador,818
+2012,Ecuador,795
+2013,Ecuador,844
+2014,Ecuador,889
+1960,Egypt,
+1961,Egypt,
+1962,Egypt,
+1963,Egypt,
+1964,Egypt,
+1965,Egypt,
+1966,Egypt,
+1967,Egypt,
+1968,Egypt,
+1969,Egypt,
+1970,Egypt,
+1971,Egypt,221
+1972,Egypt,238
+1973,Egypt,217
+1974,Egypt,238
+1975,Egypt,254
+1976,Egypt,289
+1977,Egypt,309
+1978,Egypt,311
+1979,Egypt,334
+1980,Egypt,349
+1981,Egypt,396
+1982,Egypt,423
+1983,Egypt,457
+1984,Egypt,494
+1985,Egypt,521
+1986,Egypt,521
+1987,Egypt,540
+1988,Egypt,538
+1989,Egypt,560
+1990,Egypt,575
+1991,Egypt,562
+1992,Egypt,564
+1993,Egypt,573
+1994,Egypt,541
+1995,Egypt,564
+1996,Egypt,586
+1997,Egypt,598
+1998,Egypt,629
+1999,Egypt,630
+2000,Egypt,590
+2001,Egypt,650
+2002,Egypt,658
+2003,Egypt,670
+2004,Egypt,711
+2005,Egypt,814
+2006,Egypt,845
+2007,Egypt,889
+2008,Egypt,908
+2009,Egypt,911
+2010,Egypt,877
+2011,Egypt,901
+2012,Egypt,906
+2013,Egypt,849
+2014,Egypt,827
+1960,El Salvador,
+1961,El Salvador,
+1962,El Salvador,
+1963,El Salvador,
+1964,El Salvador,
+1965,El Salvador,
+1966,El Salvador,
+1967,El Salvador,
+1968,El Salvador,
+1969,El Salvador,
+1970,El Salvador,
+1971,El Salvador,465
+1972,El Salvador,484
+1973,El Salvador,499
+1974,El Salvador,499
+1975,El Salvador,544
+1976,El Salvador,614
+1977,El Salvador,621
+1978,El Salvador,644
+1979,El Salvador,617
+1980,El Salvador,549
+1981,El Salvador,583
+1982,El Salvador,593
+1983,El Salvador,562
+1984,El Salvador,566
+1985,El Salvador,532
+1986,El Salvador,456
+1987,El Salvador,502
+1988,El Salvador,462
+1989,El Salvador,468
+1990,El Salvador,468
+1991,El Salvador,508
+1992,El Salvador,523
+1993,El Salvador,543
+1994,El Salvador,568
+1995,El Salvador,597
+1996,El Salvador,564
+1997,El Salvador,618
+1998,El Salvador,630
+1999,El Salvador,649
+2000,El Salvador,674
+2001,El Salvador,700
+2002,El Salvador,710
+2003,El Salvador,737
+2004,El Salvador,727
+2005,El Salvador,745
+2006,El Salvador,779
+2007,El Salvador,733
+2008,El Salvador,734
+2009,El Salvador,684
+2010,El Salvador,687
+2011,El Salvador,691
+2012,El Salvador,677
+2013,El Salvador,637
+2014,El Salvador,646
+1960,Equatorial Guinea,
+1961,Equatorial Guinea,
+1962,Equatorial Guinea,
+1963,Equatorial Guinea,
+1964,Equatorial Guinea,
+1965,Equatorial Guinea,
+1966,Equatorial Guinea,
+1967,Equatorial Guinea,
+1968,Equatorial Guinea,
+1969,Equatorial Guinea,
+1970,Equatorial Guinea,
+1971,Equatorial Guinea,
+1972,Equatorial Guinea,
+1973,Equatorial Guinea,
+1974,Equatorial Guinea,
+1975,Equatorial Guinea,
+1976,Equatorial Guinea,
+1977,Equatorial Guinea,
+1978,Equatorial Guinea,
+1979,Equatorial Guinea,
+1980,Equatorial Guinea,
+1981,Equatorial Guinea,
+1982,Equatorial Guinea,
+1983,Equatorial Guinea,
+1984,Equatorial Guinea,
+1985,Equatorial Guinea,
+1986,Equatorial Guinea,
+1987,Equatorial Guinea,
+1988,Equatorial Guinea,
+1989,Equatorial Guinea,
+1990,Equatorial Guinea,
+1991,Equatorial Guinea,
+1992,Equatorial Guinea,
+1993,Equatorial Guinea,
+1994,Equatorial Guinea,
+1995,Equatorial Guinea,
+1996,Equatorial Guinea,
+1997,Equatorial Guinea,
+1998,Equatorial Guinea,
+1999,Equatorial Guinea,
+2000,Equatorial Guinea,
+2001,Equatorial Guinea,
+2002,Equatorial Guinea,
+2003,Equatorial Guinea,
+2004,Equatorial Guinea,1060
+2005,Equatorial Guinea,1670
+2006,Equatorial Guinea,1920
+2007,Equatorial Guinea,2140
+1960,Eritrea,
+1961,Eritrea,
+1962,Eritrea,
+1963,Eritrea,
+1964,Eritrea,
+1965,Eritrea,
+1966,Eritrea,
+1967,Eritrea,
+1968,Eritrea,
+1969,Eritrea,
+1970,Eritrea,
+1971,Eritrea,
+1972,Eritrea,
+1973,Eritrea,
+1974,Eritrea,
+1975,Eritrea,
+1976,Eritrea,
+1977,Eritrea,
+1978,Eritrea,
+1979,Eritrea,
+1980,Eritrea,
+1981,Eritrea,
+1982,Eritrea,
+1983,Eritrea,
+1984,Eritrea,
+1985,Eritrea,
+1986,Eritrea,
+1987,Eritrea,
+1988,Eritrea,
+1989,Eritrea,
+1990,Eritrea,
+1991,Eritrea,
+1992,Eritrea,389
+1993,Eritrea,411
+1994,Eritrea,428
+1995,Eritrea,453
+1996,Eritrea,477
+1997,Eritrea,474
+1998,Eritrea,307
+1999,Eritrea,314
+2000,Eritrea,309
+2001,Eritrea,312
+2002,Eritrea,302
+2003,Eritrea,308
+2004,Eritrea,273
+2005,Eritrea,270
+2006,Eritrea,238
+2007,Eritrea,239
+2008,Eritrea,220
+2009,Eritrea,231
+2010,Eritrea,234
+2011,Eritrea,236
+1960,Estonia,
+1961,Estonia,
+1962,Estonia,
+1963,Estonia,
+1964,Estonia,
+1965,Estonia,
+1966,Estonia,
+1967,Estonia,
+1968,Estonia,
+1969,Estonia,
+1970,Estonia,
+1971,Estonia,
+1972,Estonia,
+1973,Estonia,
+1974,Estonia,
+1975,Estonia,
+1976,Estonia,
+1977,Estonia,
+1978,Estonia,
+1979,Estonia,
+1980,Estonia,
+1981,Estonia,
+1982,Estonia,
+1983,Estonia,
+1984,Estonia,
+1985,Estonia,
+1986,Estonia,
+1987,Estonia,
+1988,Estonia,
+1989,Estonia,
+1990,Estonia,6230
+1991,Estonia,5840
+1992,Estonia,4280
+1993,Estonia,3640
+1994,Estonia,3750
+1995,Estonia,3620
+1996,Estonia,4040
+1997,Estonia,4010
+1998,Estonia,3700
+1999,Estonia,3460
+2000,Estonia,3370
+2001,Estonia,3540
+2002,Estonia,3420
+2003,Estonia,3800
+2004,Estonia,3890
+2005,Estonia,3850
+2006,Estonia,3780
+2007,Estonia,4240
+2008,Estonia,4110
+2009,Estonia,3650
+2010,Estonia,4220
+2011,Estonia,4240
+2012,Estonia,4170
+2013,Estonia,4620
+2014,Estonia,4590
+2015,Estonia,4170
+1960,Eswatini,
+1961,Eswatini,
+1962,Eswatini,
+1963,Eswatini,
+1964,Eswatini,
+1965,Eswatini,
+1966,Eswatini,
+1967,Eswatini,
+1968,Eswatini,
+1969,Eswatini,
+1970,Eswatini,
+1971,Eswatini,
+1972,Eswatini,
+1973,Eswatini,
+1974,Eswatini,
+1975,Eswatini,
+1976,Eswatini,
+1977,Eswatini,
+1978,Eswatini,
+1979,Eswatini,
+1980,Eswatini,
+1981,Eswatini,
+1982,Eswatini,
+1983,Eswatini,
+1984,Eswatini,
+1985,Eswatini,
+1986,Eswatini,
+1987,Eswatini,
+1988,Eswatini,
+1989,Eswatini,
+1990,Eswatini,375
+1991,Eswatini,
+1992,Eswatini,
+1993,Eswatini,
+1994,Eswatini,
+1995,Eswatini,
+1996,Eswatini,
+1997,Eswatini,
+1998,Eswatini,
+1999,Eswatini,
+2000,Eswatini,
+2001,Eswatini,
+2002,Eswatini,
+2003,Eswatini,
+2004,Eswatini,396
+2005,Eswatini,387
+2006,Eswatini,392
+2007,Eswatini,406
+1960,Ethiopia,
+1961,Ethiopia,
+1962,Ethiopia,
+1963,Ethiopia,
+1964,Ethiopia,
+1965,Ethiopia,
+1966,Ethiopia,
+1967,Ethiopia,
+1968,Ethiopia,
+1969,Ethiopia,
+1970,Ethiopia,
+1971,Ethiopia,476
+1972,Ethiopia,474
+1973,Ethiopia,474
+1974,Ethiopia,474
+1975,Ethiopia,472
+1976,Ethiopia,472
+1977,Ethiopia,472
+1978,Ethiopia,474
+1979,Ethiopia,475
+1980,Ethiopia,475
+1981,Ethiopia,476
+1982,Ethiopia,475
+1983,Ethiopia,475
+1984,Ethiopia,474
+1985,Ethiopia,474
+1986,Ethiopia,475
+1987,Ethiopia,478
+1988,Ethiopia,477
+1989,Ethiopia,478
+1990,Ethiopia,479
+1991,Ethiopia,478
+1992,Ethiopia,473
+1993,Ethiopia,475
+1994,Ethiopia,477
+1995,Ethiopia,478
+1996,Ethiopia,479
+1997,Ethiopia,478
+1998,Ethiopia,478
+1999,Ethiopia,478
+2000,Ethiopia,478
+2001,Ethiopia,482
+2002,Ethiopia,483
+2003,Ethiopia,484
+2004,Ethiopia,485
+2005,Ethiopia,483
+2006,Ethiopia,484
+2007,Ethiopia,486
+2008,Ethiopia,487
+2009,Ethiopia,487
+2010,Ethiopia,487
+2011,Ethiopia,489
+2012,Ethiopia,489
+2013,Ethiopia,492
+2014,Ethiopia,493
+1960,Fiji,
+1961,Fiji,
+1962,Fiji,
+1963,Fiji,
+1964,Fiji,
+1965,Fiji,
+1966,Fiji,
+1967,Fiji,
+1968,Fiji,
+1969,Fiji,
+1970,Fiji,
+1971,Fiji,
+1972,Fiji,
+1973,Fiji,
+1974,Fiji,
+1975,Fiji,
+1976,Fiji,
+1977,Fiji,
+1978,Fiji,
+1979,Fiji,
+1980,Fiji,
+1981,Fiji,
+1982,Fiji,
+1983,Fiji,
+1984,Fiji,
+1985,Fiji,
+1986,Fiji,
+1987,Fiji,
+1988,Fiji,
+1989,Fiji,
+1990,Fiji,392
+1991,Fiji,
+1992,Fiji,
+1993,Fiji,
+1994,Fiji,
+1995,Fiji,
+1996,Fiji,
+1997,Fiji,
+1998,Fiji,
+1999,Fiji,
+2000,Fiji,
+2001,Fiji,
+2002,Fiji,
+2003,Fiji,
+2004,Fiji,814
+2005,Fiji,704
+2006,Fiji,675
+2007,Fiji,627
+1960,Finland,2200
+1961,Finland,2250
+1962,Finland,2360
+1963,Finland,2480
+1964,Finland,2680
+1965,Finland,2890
+1966,Finland,3070
+1967,Finland,3130
+1968,Finland,3340
+1969,Finland,3670
+1970,Finland,3870
+1971,Finland,3940
+1972,Finland,4190
+1973,Finland,4510
+1974,Finland,4380
+1975,Finland,4180
+1976,Finland,4460
+1977,Finland,4520
+1978,Finland,4660
+1979,Finland,4960
+1980,Finland,5150
+1981,Finland,4930
+1982,Finland,4810
+1983,Finland,4820
+1984,Finland,4910
+1985,Finland,5270
+1986,Finland,5480
+1987,Finland,5960
+1988,Finland,5590
+1989,Finland,5750
+1990,Finland,5690
+1991,Finland,5740
+1992,Finland,5380
+1993,Finland,5620
+1994,Finland,5970
+1995,Finland,5660
+1996,Finland,6070
+1997,Finland,6280
+1998,Finland,6320
+1999,Finland,6280
+2000,Finland,6260
+2001,Finland,6410
+2002,Finland,6730
+2003,Finland,7080
+2004,Finland,7130
+2005,Finland,6560
+2006,Finland,7110
+2007,Finland,6970
+2008,Finland,6670
+2009,Finland,6270
+2010,Finland,6830
+2011,Finland,6540
+2012,Finland,6280
+2013,Finland,6120
+2014,Finland,6210
+2015,Finland,5920
+1960,France,1700
+1961,France,1750
+1962,France,1860
+1963,France,1980
+1964,France,2090
+1965,France,2110
+1966,France,2120
+1967,France,2250
+1968,France,2360
+1969,France,2540
+1970,France,2950
+1971,France,3030
+1972,France,3170
+1973,France,3390
+1974,France,3250
+1975,France,3060
+1976,France,3250
+1977,France,3170
+1978,France,3370
+1979,France,3500
+1980,France,3480
+1981,France,3380
+1982,France,3280
+1983,France,3350
+1984,France,3450
+1985,France,3600
+1986,France,3630
+1987,France,3700
+1988,France,3670
+1989,France,3800
+1990,France,3850
+1991,France,4040
+1992,France,3950
+1993,France,4000
+1994,France,3840
+1995,France,3980
+1996,France,4190
+1997,France,4050
+1998,France,4150
+1999,France,4120
+2000,France,4140
+2001,France,4250
+2002,France,4230
+2003,France,4270
+2004,France,4300
+2005,France,4290
+2006,France,4190
+2007,France,4120
+2008,France,4110
+2009,France,3910
+2010,France,4020
+2011,France,3850
+2012,France,3840
+2013,France,3830
+2014,France,3660
+2015,France,3690
+1960,Gabon,
+1961,Gabon,
+1962,Gabon,
+1963,Gabon,
+1964,Gabon,
+1965,Gabon,
+1966,Gabon,
+1967,Gabon,
+1968,Gabon,
+1969,Gabon,
+1970,Gabon,
+1971,Gabon,1780
+1972,Gabon,1710
+1973,Gabon,2320
+1974,Gabon,2480
+1975,Gabon,2010
+1976,Gabon,1880
+1977,Gabon,2010
+1978,Gabon,2230
+1979,Gabon,1930
+1980,Gabon,1890
+1981,Gabon,2070
+1982,Gabon,2080
+1983,Gabon,2080
+1984,Gabon,1890
+1985,Gabon,1640
+1986,Gabon,1600
+1987,Gabon,1480
+1988,Gabon,1520
+1989,Gabon,1370
+1990,Gabon,1240
+1991,Gabon,1250
+1992,Gabon,1300
+1993,Gabon,1340
+1994,Gabon,1160
+1995,Gabon,1240
+1996,Gabon,1250
+1997,Gabon,1240
+1998,Gabon,1290
+1999,Gabon,1220
+2000,Gabon,1200
+2001,Gabon,1250
+2002,Gabon,1480
+2003,Gabon,1700
+2004,Gabon,1920
+2005,Gabon,2160
+2006,Gabon,2360
+2007,Gabon,2560
+2008,Gabon,2720
+2009,Gabon,2880
+2010,Gabon,3130
+2011,Gabon,2430
+2012,Gabon,2070
+2013,Gabon,2910
+2014,Gabon,2690
+1960,Gambia,
+1961,Gambia,
+1962,Gambia,
+1963,Gambia,
+1964,Gambia,
+1965,Gambia,
+1966,Gambia,
+1967,Gambia,
+1968,Gambia,
+1969,Gambia,
+1970,Gambia,
+1971,Gambia,
+1972,Gambia,
+1973,Gambia,
+1974,Gambia,
+1975,Gambia,
+1976,Gambia,
+1977,Gambia,
+1978,Gambia,
+1979,Gambia,
+1980,Gambia,
+1981,Gambia,
+1982,Gambia,
+1983,Gambia,
+1984,Gambia,
+1985,Gambia,
+1986,Gambia,
+1987,Gambia,
+1988,Gambia,
+1989,Gambia,
+1990,Gambia,64.7
+1991,Gambia,
+1992,Gambia,
+1993,Gambia,
+1994,Gambia,
+1995,Gambia,
+1996,Gambia,
+1997,Gambia,
+1998,Gambia,
+1999,Gambia,
+2000,Gambia,
+2001,Gambia,
+2002,Gambia,
+2003,Gambia,
+2004,Gambia,72.2
+2005,Gambia,70
+2006,Gambia,71.6
+2007,Gambia,81.1
+1960,Georgia,
+1961,Georgia,
+1962,Georgia,
+1963,Georgia,
+1964,Georgia,
+1965,Georgia,
+1966,Georgia,
+1967,Georgia,
+1968,Georgia,
+1969,Georgia,
+1970,Georgia,
+1971,Georgia,
+1972,Georgia,
+1973,Georgia,
+1974,Georgia,
+1975,Georgia,
+1976,Georgia,
+1977,Georgia,
+1978,Georgia,
+1979,Georgia,
+1980,Georgia,
+1981,Georgia,
+1982,Georgia,
+1983,Georgia,
+1984,Georgia,
+1985,Georgia,
+1986,Georgia,
+1987,Georgia,
+1988,Georgia,
+1989,Georgia,
+1990,Georgia,2590
+1991,Georgia,2080
+1992,Georgia,1780
+1993,Georgia,1550
+1994,Georgia,969
+1995,Georgia,800
+1996,Georgia,834
+1997,Georgia,756
+1998,Georgia,716
+1999,Georgia,669
+2000,Georgia,704
+2001,Georgia,640
+2002,Georgia,639
+2003,Georgia,685
+2004,Georgia,708
+2005,Georgia,728
+2006,Georgia,781
+2007,Georgia,866
+2008,Georgia,781
+2009,Georgia,812
+2010,Georgia,825
+2011,Georgia,944
+2012,Georgia,994
+2013,Georgia,1050
+2014,Georgia,1180
+1960,Germany,1950
+1961,Germany,1990
+1962,Germany,2120
+1963,Germany,2280
+1964,Germany,2340
+1965,Germany,2380
+1966,Germany,2390
+1967,Germany,2390
+1968,Germany,2560
+1969,Germany,2770
+1970,Germany,3860
+1971,Germany,3900
+1972,Germany,4020
+1973,Germany,4240
+1974,Germany,4160
+1975,Germany,3980
+1976,Germany,4310
+1977,Germany,4340
+1978,Germany,4480
+1979,Germany,4690
+1980,Germany,4560
+1981,Germany,4400
+1982,Germany,4260
+1983,Germany,4270
+1984,Germany,4450
+1985,Germany,4600
+1986,Germany,4590
+1987,Germany,4620
+1988,Germany,4630
+1989,Germany,4510
+1990,Germany,4420
+1991,Germany,4300
+1992,Germany,4190
+1993,Germany,4120
+1994,Germany,4090
+1995,Germany,4120
+1996,Germany,4250
+1997,Germany,4200
+1998,Germany,4180
+1999,Germany,4080
+2000,Germany,4090
+2001,Germany,4210
+2002,Germany,4110
+2003,Germany,4080
+2004,Germany,4110
+2005,Germany,4090
+2006,Germany,4200
+2007,Germany,3990
+2008,Germany,4040
+2009,Germany,3790
+2010,Germany,4000
+2011,Germany,3870
+2012,Germany,3880
+2013,Germany,3940
+2014,Germany,3780
+2015,Germany,3820
+1960,Ghana,
+1961,Ghana,
+1962,Ghana,
+1963,Ghana,
+1964,Ghana,
+1965,Ghana,
+1966,Ghana,
+1967,Ghana,
+1968,Ghana,
+1969,Ghana,
+1970,Ghana,
+1971,Ghana,334
+1972,Ghana,343
+1973,Ghana,354
+1974,Ghana,362
+1975,Ghana,366
+1976,Ghana,359
+1977,Ghana,374
+1978,Ghana,366
+1979,Ghana,362
+1980,Ghana,364
+1981,Ghana,371
+1982,Ghana,371
+1983,Ghana,305
+1984,Ghana,316
+1985,Ghana,340
+1986,Ghana,344
+1987,Ghana,362
+1988,Ghana,344
+1989,Ghana,361
+1990,Ghana,358
+1991,Ghana,360
+1992,Ghana,362
+1993,Ghana,369
+1994,Ghana,373
+1995,Ghana,380
+1996,Ghana,383
+1997,Ghana,391
+1998,Ghana,403
+1999,Ghana,408
+2000,Ghana,326
+2001,Ghana,320
+2002,Ghana,310
+2003,Ghana,286
+2004,Ghana,279
+2005,Ghana,270
+2006,Ghana,280
+2007,Ghana,273
+2008,Ghana,266
+2009,Ghana,281
+2010,Ghana,299
+2011,Ghana,311
+2012,Ghana,329
+2013,Ghana,336
+2014,Ghana,332
+1960,Greece,289
+1961,Greece,322
+1962,Greece,350
+1963,Greece,368
+1964,Greece,434
+1965,Greece,479
+1966,Greece,547
+1967,Greece,608
+1968,Greece,652
+1969,Greece,726
+1970,Greece,873
+1971,Greece,984
+1972,Greece,1130
+1973,Greece,1320
+1974,Greece,1260
+1975,Greece,1300
+1976,Greece,1390
+1977,Greece,1470
+1978,Greece,1530
+1979,Greece,1600
+1980,Greece,1550
+1981,Greece,1510
+1982,Greece,1540
+1983,Greece,1600
+1984,Greece,1650
+1985,Greece,1770
+1986,Greece,1670
+1987,Greece,1790
+1988,Greece,1900
+1989,Greece,2090
+1990,Greece,2100
+1991,Greece,2090
+1992,Greece,2130
+1993,Greece,2090
+1994,Greece,2140
+1995,Greece,2150
+1996,Greece,2210
+1997,Greece,2280
+1998,Greece,2390
+1999,Greece,2390
+2000,Greece,2510
+2001,Greece,2580
+2002,Greece,2600
+2003,Greece,2670
+2004,Greece,2710
+2005,Greece,2750
+2006,Greece,2740
+2007,Greece,2730
+2008,Greece,2750
+2009,Greece,2650
+2010,Greece,2480
+2011,Greece,2410
+2012,Greece,2400
+2013,Greece,2130
+2014,Greece,2120
+2015,Greece,2180
+1960,Grenada,
+1961,Grenada,
+1962,Grenada,
+1963,Grenada,
+1964,Grenada,
+1965,Grenada,
+1966,Grenada,
+1967,Grenada,
+1968,Grenada,
+1969,Grenada,
+1970,Grenada,
+1971,Grenada,
+1972,Grenada,
+1973,Grenada,
+1974,Grenada,
+1975,Grenada,
+1976,Grenada,
+1977,Grenada,
+1978,Grenada,
+1979,Grenada,
+1980,Grenada,
+1981,Grenada,
+1982,Grenada,
+1983,Grenada,
+1984,Grenada,
+1985,Grenada,
+1986,Grenada,
+1987,Grenada,
+1988,Grenada,
+1989,Grenada,
+1990,Grenada,441
+1991,Grenada,
+1992,Grenada,
+1993,Grenada,
+1994,Grenada,
+1995,Grenada,
+1996,Grenada,
+1997,Grenada,
+1998,Grenada,
+1999,Grenada,
+2000,Grenada,
+2001,Grenada,
+2002,Grenada,
+2003,Grenada,
+2004,Grenada,709
+2005,Grenada,755
+2006,Grenada,772
+2007,Grenada,770
+1960,Guatemala,
+1961,Guatemala,
+1962,Guatemala,
+1963,Guatemala,
+1964,Guatemala,
+1965,Guatemala,
+1966,Guatemala,
+1967,Guatemala,
+1968,Guatemala,
+1969,Guatemala,
+1970,Guatemala,
+1971,Guatemala,489
+1972,Guatemala,493
+1973,Guatemala,503
+1974,Guatemala,505
+1975,Guatemala,543
+1976,Guatemala,568
+1977,Guatemala,589
+1978,Guatemala,590
+1979,Guatemala,611
+1980,Guatemala,550
+1981,Guatemala,522
+1982,Guatemala,499
+1983,Guatemala,469
+1984,Guatemala,482
+1985,Guatemala,478
+1986,Guatemala,447
+1987,Guatemala,459
+1988,Guatemala,464
+1989,Guatemala,469
+1990,Guatemala,487
+1991,Guatemala,488
+1992,Guatemala,501
+1993,Guatemala,487
+1994,Guatemala,501
+1995,Guatemala,517
+1996,Guatemala,519
+1997,Guatemala,530
+1998,Guatemala,563
+1999,Guatemala,604
+2000,Guatemala,607
+2001,Guatemala,606
+2002,Guatemala,597
+2003,Guatemala,607
+2004,Guatemala,612
+2005,Guatemala,602
+2006,Guatemala,600
+2007,Guatemala,632
+2008,Guatemala,594
+2009,Guatemala,669
+2010,Guatemala,715
+2011,Guatemala,751
+2012,Guatemala,749
+2013,Guatemala,801
+2014,Guatemala,864
+1960,Guinea-Bissau,
+1961,Guinea-Bissau,
+1962,Guinea-Bissau,
+1963,Guinea-Bissau,
+1964,Guinea-Bissau,
+1965,Guinea-Bissau,
+1966,Guinea-Bissau,
+1967,Guinea-Bissau,
+1968,Guinea-Bissau,
+1969,Guinea-Bissau,
+1970,Guinea-Bissau,
+1971,Guinea-Bissau,
+1972,Guinea-Bissau,
+1973,Guinea-Bissau,
+1974,Guinea-Bissau,
+1975,Guinea-Bissau,
+1976,Guinea-Bissau,
+1977,Guinea-Bissau,
+1978,Guinea-Bissau,
+1979,Guinea-Bissau,
+1980,Guinea-Bissau,
+1981,Guinea-Bissau,
+1982,Guinea-Bissau,
+1983,Guinea-Bissau,
+1984,Guinea-Bissau,
+1985,Guinea-Bissau,
+1986,Guinea-Bissau,
+1987,Guinea-Bissau,
+1988,Guinea-Bissau,
+1989,Guinea-Bissau,
+1990,Guinea-Bissau,76.5
+1991,Guinea-Bissau,
+1992,Guinea-Bissau,
+1993,Guinea-Bissau,
+1994,Guinea-Bissau,
+1995,Guinea-Bissau,
+1996,Guinea-Bissau,
+1997,Guinea-Bissau,
+1998,Guinea-Bissau,
+1999,Guinea-Bissau,
+2000,Guinea-Bissau,
+2001,Guinea-Bissau,
+2002,Guinea-Bissau,
+2003,Guinea-Bissau,
+2004,Guinea-Bissau,65.5
+2005,Guinea-Bissau,64.7
+2006,Guinea-Bissau,65.3
+2007,Guinea-Bissau,67.3
+1960,Guyana,
+1961,Guyana,
+1962,Guyana,
+1963,Guyana,
+1964,Guyana,
+1965,Guyana,
+1966,Guyana,
+1967,Guyana,
+1968,Guyana,
+1969,Guyana,
+1970,Guyana,
+1971,Guyana,
+1972,Guyana,
+1973,Guyana,
+1974,Guyana,
+1975,Guyana,
+1976,Guyana,
+1977,Guyana,
+1978,Guyana,
+1979,Guyana,
+1980,Guyana,
+1981,Guyana,
+1982,Guyana,
+1983,Guyana,
+1984,Guyana,
+1985,Guyana,
+1986,Guyana,
+1987,Guyana,
+1988,Guyana,
+1989,Guyana,
+1990,Guyana,514
+1991,Guyana,
+1992,Guyana,
+1993,Guyana,
+1994,Guyana,
+1995,Guyana,
+1996,Guyana,
+1997,Guyana,
+1998,Guyana,
+1999,Guyana,
+2000,Guyana,
+2001,Guyana,
+2002,Guyana,
+2003,Guyana,
+2004,Guyana,642
+2005,Guyana,663
+2006,Guyana,670
+2007,Guyana,670
+1960,Haiti,
+1961,Haiti,
+1962,Haiti,
+1963,Haiti,
+1964,Haiti,
+1965,Haiti,
+1966,Haiti,
+1967,Haiti,
+1968,Haiti,
+1969,Haiti,
+1970,Haiti,
+1971,Haiti,316
+1972,Haiti,320
+1973,Haiti,323
+1974,Haiti,331
+1975,Haiti,337
+1976,Haiti,350
+1977,Haiti,354
+1978,Haiti,361
+1979,Haiti,367
+1980,Haiti,369
+1981,Haiti,300
+1982,Haiti,304
+1983,Haiti,306
+1984,Haiti,301
+1985,Haiti,297
+1986,Haiti,226
+1987,Haiti,228
+1988,Haiti,231
+1989,Haiti,231
+1990,Haiti,222
+1991,Haiti,217
+1992,Haiti,221
+1993,Haiti,210
+1994,Haiti,189
+1995,Haiti,219
+1996,Haiti,246
+1997,Haiti,255
+1998,Haiti,251
+1999,Haiti,250
+2000,Haiti,238
+2001,Haiti,239
+2002,Haiti,264
+2003,Haiti,249
+2004,Haiti,253
+2005,Haiti,370
+2006,Haiti,375
+2007,Haiti,387
+2008,Haiti,386
+2009,Haiti,385
+2010,Haiti,382
+2011,Haiti,389
+2012,Haiti,397
+2013,Haiti,394
+2014,Haiti,394
+1960,Honduras,
+1961,Honduras,
+1962,Honduras,
+1963,Honduras,
+1964,Honduras,
+1965,Honduras,
+1966,Honduras,
+1967,Honduras,
+1968,Honduras,
+1969,Honduras,
+1970,Honduras,
+1971,Honduras,496
+1972,Honduras,493
+1973,Honduras,497
+1974,Honduras,490
+1975,Honduras,488
+1976,Honduras,493
+1977,Honduras,506
+1978,Honduras,503
+1979,Honduras,504
+1980,Honduras,509
+1981,Honduras,490
+1982,Honduras,515
+1983,Honduras,490
+1984,Honduras,486
+1985,Honduras,467
+1986,Honduras,466
+1987,Honduras,477
+1988,Honduras,485
+1989,Honduras,491
+1990,Honduras,480
+1991,Honduras,471
+1992,Honduras,477
+1993,Honduras,474
+1994,Honduras,479
+1995,Honduras,495
+1996,Honduras,483
+1997,Honduras,512
+1998,Honduras,535
+1999,Honduras,457
+2000,Honduras,455
+2001,Honduras,478
+2002,Honduras,484
+2003,Honduras,513
+2004,Honduras,540
+2005,Honduras,551
+2006,Honduras,523
+2007,Honduras,601
+2008,Honduras,583
+2009,Honduras,547
+2010,Honduras,549
+2011,Honduras,597
+2012,Honduras,593
+2013,Honduras,591
+2014,Honduras,598
+1960,Hungary,
+1961,Hungary,
+1962,Hungary,
+1963,Hungary,
+1964,Hungary,
+1965,Hungary,1430
+1966,Hungary,1450
+1967,Hungary,1480
+1968,Hungary,1510
+1969,Hungary,1610
+1970,Hungary,1730
+1971,Hungary,1840
+1972,Hungary,1880
+1973,Hungary,2040
+1974,Hungary,2100
+1975,Hungary,2170
+1976,Hungary,2310
+1977,Hungary,2430
+1978,Hungary,2670
+1979,Hungary,2640
+1980,Hungary,2650
+1981,Hungary,2630
+1982,Hungary,2630
+1983,Hungary,2590
+1984,Hungary,2700
+1985,Hungary,2790
+1986,Hungary,2790
+1987,Hungary,2890
+1988,Hungary,2860
+1989,Hungary,2870
+1990,Hungary,2770
+1991,Hungary,2640
+1992,Hungary,2420
+1993,Hungary,2480
+1994,Hungary,2410
+1995,Hungary,2500
+1996,Hungary,2570
+1997,Hungary,2530
+1998,Hungary,2500
+1999,Hungary,2490
+2000,Hungary,2450
+2001,Hungary,2510
+2002,Hungary,2520
+2003,Hungary,2580
+2004,Hungary,2580
+2005,Hungary,2730
+2006,Hungary,2710
+2007,Hungary,2660
+2008,Hungary,2640
+2009,Hungary,2480
+2010,Hungary,2570
+2011,Hungary,2500
+2012,Hungary,2370
+2013,Hungary,2270
+2014,Hungary,2310
+2015,Hungary,2430
+1960,Iceland,3080
+1961,Iceland,2920
+1962,Iceland,3030
+1963,Iceland,3280
+1964,Iceland,3310
+1965,Iceland,3440
+1966,Iceland,3640
+1967,Iceland,3590
+1968,Iceland,3920
+1969,Iceland,3550
+1970,Iceland,4230
+1971,Iceland,4380
+1972,Iceland,4400
+1973,Iceland,5270
+1974,Iceland,5130
+1975,Iceland,5070
+1976,Iceland,5090
+1977,Iceland,5600
+1978,Iceland,5710
+1979,Iceland,6520
+1980,Iceland,6560
+1981,Iceland,7180
+1982,Iceland,7080
+1983,Iceland,7250
+1984,Iceland,7530
+1985,Iceland,7330
+1986,Iceland,7610
+1987,Iceland,7860
+1988,Iceland,7880
+1989,Iceland,7980
+1990,Iceland,8910
+1991,Iceland,8050
+1992,Iceland,7760
+1993,Iceland,8250
+1994,Iceland,8290
+1995,Iceland,8260
+1996,Iceland,8850
+1997,Iceland,8580
+1998,Iceland,9040
+1999,Iceland,10000
+2000,Iceland,11100
+2001,Iceland,10600
+2002,Iceland,10800
+2003,Iceland,10700
+2004,Iceland,10500
+2005,Iceland,10500
+2006,Iceland,12700
+2007,Iceland,14700
+2008,Iceland,16400
+2009,Iceland,16900
+2010,Iceland,17000
+2011,Iceland,18200
+2012,Iceland,17600
+2013,Iceland,18200
+2014,Iceland,17900
+2015,Iceland,17500
+1960,India,
+1961,India,
+1962,India,
+1963,India,
+1964,India,
+1965,India,
+1966,India,
+1967,India,
+1968,India,
+1969,India,
+1970,India,
+1971,India,267
+1972,India,267
+1973,India,269
+1974,India,273
+1975,India,276
+1976,India,280
+1977,India,282
+1978,India,279
+1979,India,286
+1980,India,286
+1981,India,294
+1982,India,298
+1983,India,301
+1984,India,306
+1985,India,315
+1986,India,319
+1987,India,324
+1988,India,334
+1989,India,343
+1990,India,350
+1991,India,357
+1992,India,363
+1993,India,365
+1994,India,371
+1995,India,385
+1996,India,389
+1997,India,397
+1998,India,399
+1999,India,415
+2000,India,417
+2001,India,416
+2002,India,421
+2003,India,424
+2004,India,440
+2005,India,450
+2006,India,466
+2007,India,485
+2008,India,502
+2009,India,545
+2010,India,562
+2011,India,578
+2012,India,599
+2013,India,606
+2014,India,637
+1960,Indonesia,
+1961,Indonesia,
+1962,Indonesia,
+1963,Indonesia,
+1964,Indonesia,
+1965,Indonesia,
+1966,Indonesia,
+1967,Indonesia,
+1968,Indonesia,
+1969,Indonesia,
+1970,Indonesia,
+1971,Indonesia,297
+1972,Indonesia,301
+1973,Indonesia,307
+1974,Indonesia,310
+1975,Indonesia,315
+1976,Indonesia,321
+1977,Indonesia,348
+1978,Indonesia,364
+1979,Indonesia,372
+1980,Indonesia,378
+1981,Indonesia,388
+1982,Indonesia,389
+1983,Indonesia,387
+1984,Indonesia,394
+1985,Indonesia,399
+1986,Indonesia,431
+1987,Indonesia,437
+1988,Indonesia,440
+1989,Indonesia,457
+1990,Indonesia,544
+1991,Indonesia,561
+1992,Indonesia,575
+1993,Indonesia,621
+1994,Indonesia,612
+1995,Indonesia,664
+1996,Indonesia,678
+1997,Indonesia,691
+1998,Indonesia,666
+1999,Indonesia,688
+2000,Indonesia,736
+2001,Indonesia,743
+2002,Indonesia,760
+2003,Indonesia,752
+2004,Indonesia,791
+2005,Indonesia,794
+2006,Indonesia,802
+2007,Indonesia,788
+2008,Indonesia,793
+2009,Indonesia,846
+2010,Indonesia,877
+2011,Indonesia,834
+2012,Indonesia,853
+2013,Indonesia,864
+2014,Indonesia,884
+1960,Iran,
+1961,Iran,
+1962,Iran,
+1963,Iran,
+1964,Iran,
+1965,Iran,
+1966,Iran,
+1967,Iran,
+1968,Iran,
+1969,Iran,
+1970,Iran,
+1971,Iran,567
+1972,Iran,541
+1973,Iran,668
+1974,Iran,772
+1975,Iran,814
+1976,Iran,898
+1977,Iran,975
+1978,Iran,914
+1979,Iran,1000
+1980,Iran,985
+1981,Iran,1070
+1982,Iran,1200
+1983,Iran,981
+1984,Iran,1100
+1985,Iran,1140
+1986,Iran,1100
+1987,Iran,1080
+1988,Iran,1060
+1989,Iran,1210
+1990,Iran,1230
+1991,Iran,1330
+1992,Iran,1380
+1993,Iran,1460
+1994,Iran,1600
+1995,Iran,1650
+1996,Iran,1570
+1997,Iran,1730
+1998,Iran,1740
+1999,Iran,1950
+2000,Iran,1870
+2001,Iran,2010
+2002,Iran,2050
+2003,Iran,2090
+2004,Iran,2260
+2005,Iran,2480
+2006,Iran,2560
+2007,Iran,2680
+2008,Iran,2840
+2009,Iran,2800
+2010,Iran,2770
+2011,Iran,2790
+2012,Iran,2870
+2013,Iran,2890
+2014,Iran,3060
+1960,Iraq,
+1961,Iraq,
+1962,Iraq,
+1963,Iraq,
+1964,Iraq,
+1965,Iraq,
+1966,Iraq,
+1967,Iraq,
+1968,Iraq,
+1969,Iraq,
+1970,Iraq,
+1971,Iraq,392
+1972,Iraq,404
+1973,Iraq,425
+1974,Iraq,447
+1975,Iraq,521
+1976,Iraq,625
+1977,Iraq,625
+1978,Iraq,691
+1979,Iraq,799
+1980,Iraq,712
+1981,Iraq,685
+1982,Iraq,691
+1983,Iraq,811
+1984,Iraq,836
+1985,Iraq,946
+1986,Iraq,1000
+1987,Iraq,972
+1988,Iraq,1150
+1989,Iraq,1240
+1990,Iraq,1150
+1991,Iraq,892
+1992,Iraq,1290
+1993,Iraq,1630
+1994,Iraq,1790
+1995,Iraq,1670
+1996,Iraq,1620
+1997,Iraq,1870
+1998,Iraq,1290
+1999,Iraq,967
+2000,Iraq,1100
+2001,Iraq,1200
+2002,Iraq,1110
+2003,Iraq,989
+2004,Iraq,992
+2005,Iraq,982
+2006,Iraq,909
+2007,Iraq,909
+2008,Iraq,968
+2009,Iraq,1140
+2010,Iraq,1260
+2011,Iraq,1340
+2012,Iraq,1440
+2013,Iraq,1490
+2014,Iraq,1440
+1960,Ireland,1320
+1961,Ireland,1400
+1962,Ireland,1410
+1963,Ireland,1450
+1964,Ireland,1520
+1965,Ireland,1510
+1966,Ireland,1630
+1967,Ireland,1770
+1968,Ireland,1880
+1969,Ireland,1970
+1970,Ireland,2020
+1971,Ireland,2250
+1972,Ireland,2190
+1973,Ireland,2240
+1974,Ireland,2270
+1975,Ireland,2080
+1976,Ireland,2110
+1977,Ireland,2200
+1978,Ireland,2180
+1979,Ireland,2530
+1980,Ireland,2410
+1981,Ireland,2390
+1982,Ireland,2360
+1983,Ireland,2340
+1984,Ireland,2350
+1985,Ireland,2440
+1986,Ireland,2500
+1987,Ireland,2610
+1988,Ireland,2590
+1989,Ireland,2660
+1990,Ireland,2820
+1991,Ireland,2830
+1992,Ireland,2780
+1993,Ireland,2810
+1994,Ireland,2940
+1995,Ireland,2950
+1996,Ireland,3120
+1997,Ireland,3260
+1998,Ireland,3420
+1999,Ireland,3540
+2000,Ireland,3630
+2001,Ireland,3710
+2002,Ireland,3660
+2003,Ireland,3520
+2004,Ireland,3560
+2005,Ireland,3500
+2006,Ireland,3420
+2007,Ireland,3420
+2008,Ireland,3290
+2009,Ireland,3150
+2010,Ireland,3150
+2011,Ireland,2870
+2012,Ireland,2850
+2013,Ireland,2810
+2014,Ireland,2740
+2015,Ireland,2820
+1960,Israel,
+1961,Israel,
+1962,Israel,
+1963,Israel,
+1964,Israel,
+1965,Israel,
+1966,Israel,
+1967,Israel,
+1968,Israel,
+1969,Israel,
+1970,Israel,
+1971,Israel,1870
+1972,Israel,1760
+1973,Israel,2370
+1974,Israel,1730
+1975,Israel,2030
+1976,Israel,1830
+1977,Israel,1790
+1978,Israel,1850
+1979,Israel,2010
+1980,Israel,2020
+1981,Israel,1840
+1982,Israel,1960
+1983,Israel,1790
+1984,Israel,1830
+1985,Israel,1790
+1986,Israel,2100
+1987,Israel,2280
+1988,Israel,2450
+1989,Israel,2490
+1990,Israel,2460
+1991,Israel,2320
+1992,Israel,2580
+1993,Israel,2630
+1994,Israel,2740
+1995,Israel,2800
+1996,Israel,2800
+1997,Israel,2880
+1998,Israel,2890
+1999,Israel,2740
+2000,Israel,2900
+2001,Israel,2970
+2002,Israel,2860
+2003,Israel,2950
+2004,Israel,2820
+2005,Israel,2660
+2006,Israel,2880
+2007,Israel,2900
+2008,Israel,3130
+2009,Israel,2870
+2010,Israel,3040
+2011,Israel,2980
+2012,Israel,3070
+2013,Israel,2870
+2014,Israel,2760
+2015,Israel,2780
+1960,Italy,795
+1961,Italy,891
+1962,Italy,1010
+1963,Italy,1120
+1964,Italy,1220
+1965,Italy,1320
+1966,Italy,1430
+1967,Italy,1550
+1968,Italy,1700
+1969,Italy,1830
+1970,Italy,2030
+1971,Italy,1950
+1972,Italy,2050
+1973,Italy,2180
+1974,Italy,2210
+1975,Italy,2110
+1976,Italy,2260
+1977,Italy,2200
+1978,Italy,2250
+1979,Italy,2340
+1980,Italy,2320
+1981,Italy,2270
+1982,Italy,2210
+1983,Italy,2200
+1984,Italy,2250
+1985,Italy,2280
+1986,Italy,2310
+1987,Italy,2410
+1988,Italy,2460
+1989,Italy,2570
+1990,Italy,2580
+1991,Italy,2650
+1992,Italy,2630
+1993,Italy,2610
+1994,Italy,2580
+1995,Italy,2800
+1996,Italy,2800
+1997,Italy,2830
+1998,Italy,2910
+1999,Italy,2960
+2000,Italy,3010
+2001,Italy,3020
+2002,Italy,3040
+2003,Italy,3170
+2004,Italy,3170
+2005,Italy,3210
+2006,Italy,3180
+2007,Italy,3150
+2008,Italy,3090
+2009,Italy,2870
+2010,Italy,2930
+2011,Italy,2830
+2012,Italy,2710
+2013,Italy,2580
+2014,Italy,2410
+2015,Italy,2480
+1960,Jamaica,
+1961,Jamaica,
+1962,Jamaica,
+1963,Jamaica,
+1964,Jamaica,
+1965,Jamaica,
+1966,Jamaica,
+1967,Jamaica,
+1968,Jamaica,
+1969,Jamaica,
+1970,Jamaica,
+1971,Jamaica,1060
+1972,Jamaica,1330
+1973,Jamaica,1480
+1974,Jamaica,1370
+1975,Jamaica,1320
+1976,Jamaica,1180
+1977,Jamaica,1140
+1978,Jamaica,1170
+1979,Jamaica,1200
+1980,Jamaica,1050
+1981,Jamaica,1060
+1982,Jamaica,1020
+1983,Jamaica,881
+1984,Jamaica,870
+1985,Jamaica,738
+1986,Jamaica,743
+1987,Jamaica,757
+1988,Jamaica,768
+1989,Jamaica,957
+1990,Jamaica,1150
+1991,Jamaica,1150
+1992,Jamaica,1200
+1993,Jamaica,1190
+1994,Jamaica,1200
+1995,Jamaica,1260
+1996,Jamaica,1320
+1997,Jamaica,1310
+1998,Jamaica,1340
+1999,Jamaica,1370
+2000,Jamaica,1440
+2001,Jamaica,1430
+2002,Jamaica,1320
+2003,Jamaica,1370
+2004,Jamaica,1380
+2005,Jamaica,1360
+2006,Jamaica,1510
+2007,Jamaica,1510
+2008,Jamaica,1270
+2009,Jamaica,1080
+2010,Jamaica,951
+2011,Jamaica,1010
+2012,Jamaica,974
+2013,Jamaica,1010
+2014,Jamaica,977
+1960,Japan,874
+1961,Japan,963
+1962,Japan,1000
+1963,Japan,1140
+1964,Japan,1260
+1965,Japan,1360
+1966,Japan,1480
+1967,Japan,1720
+1968,Japan,1940
+1969,Japan,2190
+1970,Japan,2460
+1971,Japan,2530
+1972,Japan,2670
+1973,Japan,2960
+1974,Japan,2920
+1975,Japan,2730
+1976,Japan,2880
+1977,Japan,2900
+1978,Japan,2900
+1979,Japan,3040
+1980,Japan,2950
+1981,Japan,2860
+1982,Japan,2840
+1983,Japan,2820
+1984,Japan,3020
+1985,Japan,3010
+1986,Japan,3020
+1987,Japan,3040
+1988,Japan,3240
+1989,Japan,3350
+1990,Japan,3550
+1991,Japan,3580
+1992,Japan,3650
+1993,Japan,3660
+1994,Japan,3850
+1995,Japan,3940
+1996,Japan,4010
+1997,Japan,4040
+1998,Japan,3960
+1999,Japan,4010
+2000,Japan,4080
+2001,Japan,4010
+2002,Japan,3990
+2003,Japan,3950
+2004,Japan,4080
+2005,Japan,4060
+2006,Japan,4050
+2007,Japan,4010
+2008,Japan,3860
+2009,Japan,3680
+2010,Japan,3890
+2011,Japan,3610
+2012,Japan,3540
+2013,Japan,3570
+2014,Japan,3470
+2015,Japan,3430
+1960,Jordan,
+1961,Jordan,
+1962,Jordan,
+1963,Jordan,
+1964,Jordan,
+1965,Jordan,
+1966,Jordan,
+1967,Jordan,
+1968,Jordan,
+1969,Jordan,
+1970,Jordan,
+1971,Jordan,272
+1972,Jordan,286
+1973,Jordan,315
+1974,Jordan,323
+1975,Jordan,365
+1976,Jordan,456
+1977,Jordan,454
+1978,Jordan,543
+1979,Jordan,542
+1980,Jordan,640
+1981,Jordan,769
+1982,Jordan,841
+1983,Jordan,876
+1984,Jordan,925
+1985,Jordan,903
+1986,Jordan,931
+1987,Jordan,951
+1988,Jordan,906
+1989,Jordan,874
+1990,Jordan,918
+1991,Jordan,900
+1992,Jordan,956
+1993,Jordan,896
+1994,Jordan,915
+1995,Jordan,937
+1996,Jordan,933
+1997,Jordan,930
+1998,Jordan,943
+1999,Jordan,924
+2000,Jordan,950
+2001,Jordan,923
+2002,Jordan,952
+2003,Jordan,952
+2004,Jordan,1110
+2005,Jordan,1160
+2006,Jordan,1140
+2007,Jordan,1150
+2008,Jordan,1080
+2009,Jordan,1080
+2010,Jordan,978
+2011,Jordan,922
+2012,Jordan,970
+2013,Jordan,907
+2014,Jordan,917
+1960,Kazakhstan,
+1961,Kazakhstan,
+1962,Kazakhstan,
+1963,Kazakhstan,
+1964,Kazakhstan,
+1965,Kazakhstan,
+1966,Kazakhstan,
+1967,Kazakhstan,
+1968,Kazakhstan,
+1969,Kazakhstan,
+1970,Kazakhstan,
+1971,Kazakhstan,
+1972,Kazakhstan,
+1973,Kazakhstan,
+1974,Kazakhstan,
+1975,Kazakhstan,
+1976,Kazakhstan,
+1977,Kazakhstan,
+1978,Kazakhstan,
+1979,Kazakhstan,
+1980,Kazakhstan,
+1981,Kazakhstan,
+1982,Kazakhstan,
+1983,Kazakhstan,
+1984,Kazakhstan,
+1985,Kazakhstan,
+1986,Kazakhstan,
+1987,Kazakhstan,
+1988,Kazakhstan,
+1989,Kazakhstan,
+1990,Kazakhstan,4490
+1991,Kazakhstan,4560
+1992,Kazakhstan,4800
+1993,Kazakhstan,4020
+1994,Kazakhstan,3610
+1995,Kazakhstan,3300
+1996,Kazakhstan,2910
+1997,Kazakhstan,2580
+1998,Kazakhstan,2610
+1999,Kazakhstan,2410
+2000,Kazakhstan,2400
+2001,Kazakhstan,2320
+2002,Kazakhstan,2670
+2003,Kazakhstan,2890
+2004,Kazakhstan,3380
+2005,Kazakhstan,3360
+2006,Kazakhstan,4010
+2007,Kazakhstan,4270
+2008,Kazakhstan,4460
+2009,Kazakhstan,3940
+2010,Kazakhstan,4230
+2011,Kazakhstan,4670
+2012,Kazakhstan,4400
+2013,Kazakhstan,4790
+2014,Kazakhstan,4430
+1960,Kenya,
+1961,Kenya,
+1962,Kenya,
+1963,Kenya,
+1964,Kenya,
+1965,Kenya,
+1966,Kenya,
+1967,Kenya,
+1968,Kenya,
+1969,Kenya,
+1970,Kenya,
+1971,Kenya,452
+1972,Kenya,456
+1973,Kenya,451
+1974,Kenya,451
+1975,Kenya,445
+1976,Kenya,450
+1977,Kenya,455
+1978,Kenya,451
+1979,Kenya,450
+1980,Kenya,449
+1981,Kenya,445
+1982,Kenya,436
+1983,Kenya,427
+1984,Kenya,435
+1985,Kenya,437
+1986,Kenya,459
+1987,Kenya,461
+1988,Kenya,456
+1989,Kenya,457
+1990,Kenya,452
+1991,Kenya,445
+1992,Kenya,442
+1993,Kenya,439
+1994,Kenya,431
+1995,Kenya,438
+1996,Kenya,441
+1997,Kenya,434
+1998,Kenya,437
+1999,Kenya,435
+2000,Kenya,438
+2001,Kenya,432
+2002,Kenya,426
+2003,Kenya,424
+2004,Kenya,434
+2005,Kenya,437
+2006,Kenya,443
+2007,Kenya,440
+2008,Kenya,444
+2009,Kenya,457
+2010,Kenya,464
+2011,Kenya,461
+2012,Kenya,455
+2013,Kenya,469
+2014,Kenya,506
+1960,Kiribati,
+1961,Kiribati,
+1962,Kiribati,
+1963,Kiribati,
+1964,Kiribati,
+1965,Kiribati,
+1966,Kiribati,
+1967,Kiribati,
+1968,Kiribati,
+1969,Kiribati,
+1970,Kiribati,
+1971,Kiribati,
+1972,Kiribati,
+1973,Kiribati,
+1974,Kiribati,
+1975,Kiribati,
+1976,Kiribati,
+1977,Kiribati,
+1978,Kiribati,
+1979,Kiribati,
+1980,Kiribati,
+1981,Kiribati,
+1982,Kiribati,
+1983,Kiribati,
+1984,Kiribati,
+1985,Kiribati,
+1986,Kiribati,
+1987,Kiribati,
+1988,Kiribati,
+1989,Kiribati,
+1990,Kiribati,98.2
+1991,Kiribati,
+1992,Kiribati,
+1993,Kiribati,
+1994,Kiribati,
+1995,Kiribati,
+1996,Kiribati,
+1997,Kiribati,
+1998,Kiribati,
+1999,Kiribati,
+2000,Kiribati,
+2001,Kiribati,
+2002,Kiribati,
+2003,Kiribati,
+2004,Kiribati,88.4
+2005,Kiribati,86.7
+2006,Kiribati,106
+2007,Kiribati,114
+1960,Kuwait,
+1961,Kuwait,
+1962,Kuwait,
+1963,Kuwait,
+1964,Kuwait,
+1965,Kuwait,
+1966,Kuwait,
+1967,Kuwait,
+1968,Kuwait,
+1969,Kuwait,
+1970,Kuwait,
+1971,Kuwait,7670
+1972,Kuwait,7940
+1973,Kuwait,7870
+1974,Kuwait,7080
+1975,Kuwait,6340
+1976,Kuwait,6480
+1977,Kuwait,6580
+1978,Kuwait,6760
+1979,Kuwait,8050
+1980,Kuwait,7640
+1981,Kuwait,7150
+1982,Kuwait,7600
+1983,Kuwait,7720
+1984,Kuwait,7630
+1985,Kuwait,8080
+1986,Kuwait,8290
+1987,Kuwait,8520
+1988,Kuwait,9910
+1989,Kuwait,11300
+1990,Kuwait,4350
+1991,Kuwait,1330
+1992,Kuwait,
+1993,Kuwait,
+1994,Kuwait,
+1995,Kuwait,9210
+1996,Kuwait,8940
+1997,Kuwait,8590
+1998,Kuwait,9170
+1999,Kuwait,9230
+2000,Kuwait,9150
+2001,Kuwait,9500
+2002,Kuwait,9610
+2003,Kuwait,10100
+2004,Kuwait,10600
+2005,Kuwait,11600
+2006,Kuwait,10800
+2007,Kuwait,10500
+2008,Kuwait,10800
+2009,Kuwait,11100
+2010,Kuwait,10700
+2011,Kuwait,10200
+2012,Kuwait,11100
+2013,Kuwait,9910
+2014,Kuwait,9180
+1960,Kyrgyz Republic,
+1961,Kyrgyz Republic,
+1962,Kyrgyz Republic,
+1963,Kyrgyz Republic,
+1964,Kyrgyz Republic,
+1965,Kyrgyz Republic,
+1966,Kyrgyz Republic,
+1967,Kyrgyz Republic,
+1968,Kyrgyz Republic,
+1969,Kyrgyz Republic,
+1970,Kyrgyz Republic,
+1971,Kyrgyz Republic,
+1972,Kyrgyz Republic,
+1973,Kyrgyz Republic,
+1974,Kyrgyz Republic,
+1975,Kyrgyz Republic,
+1976,Kyrgyz Republic,
+1977,Kyrgyz Republic,
+1978,Kyrgyz Republic,
+1979,Kyrgyz Republic,
+1980,Kyrgyz Republic,
+1981,Kyrgyz Republic,
+1982,Kyrgyz Republic,
+1983,Kyrgyz Republic,
+1984,Kyrgyz Republic,
+1985,Kyrgyz Republic,
+1986,Kyrgyz Republic,
+1987,Kyrgyz Republic,
+1988,Kyrgyz Republic,
+1989,Kyrgyz Republic,
+1990,Kyrgyz Republic,1700
+1991,Kyrgyz Republic,1520
+1992,Kyrgyz Republic,1100
+1993,Kyrgyz Republic,857
+1994,Kyrgyz Republic,619
+1995,Kyrgyz Republic,523
+1996,Kyrgyz Republic,596
+1997,Kyrgyz Republic,552
+1998,Kyrgyz Republic,579
+1999,Kyrgyz Republic,498
+2000,Kyrgyz Republic,473
+2001,Kyrgyz Republic,436
+2002,Kyrgyz Republic,485
+2003,Kyrgyz Republic,511
+2004,Kyrgyz Republic,498
+2005,Kyrgyz Republic,499
+2006,Kyrgyz Republic,485
+2007,Kyrgyz Republic,561
+2008,Kyrgyz Republic,594
+2009,Kyrgyz Republic,536
+2010,Kyrgyz Republic,505
+2011,Kyrgyz Republic,600
+2012,Kyrgyz Republic,737
+2013,Kyrgyz Republic,690
+2014,Kyrgyz Republic,650
+1960,Latvia,
+1961,Latvia,
+1962,Latvia,
+1963,Latvia,
+1964,Latvia,
+1965,Latvia,
+1966,Latvia,
+1967,Latvia,
+1968,Latvia,
+1969,Latvia,
+1970,Latvia,
+1971,Latvia,
+1972,Latvia,
+1973,Latvia,
+1974,Latvia,
+1975,Latvia,
+1976,Latvia,
+1977,Latvia,
+1978,Latvia,
+1979,Latvia,
+1980,Latvia,
+1981,Latvia,
+1982,Latvia,
+1983,Latvia,
+1984,Latvia,
+1985,Latvia,
+1986,Latvia,
+1987,Latvia,
+1988,Latvia,
+1989,Latvia,
+1990,Latvia,2950
+1991,Latvia,2790
+1992,Latvia,2340
+1993,Latvia,2060
+1994,Latvia,1890
+1995,Latvia,1850
+1996,Latvia,1840
+1997,Latvia,1820
+1998,Latvia,1800
+1999,Latvia,1660
+2000,Latvia,1620
+2001,Latvia,1760
+2002,Latvia,1760
+2003,Latvia,1890
+2004,Latvia,1960
+2005,Latvia,2020
+2006,Latvia,2110
+2007,Latvia,2180
+2008,Latvia,2110
+2009,Latvia,2060
+2010,Latvia,2150
+2011,Latvia,2070
+2012,Latvia,2170
+2013,Latvia,2160
+2014,Latvia,2180
+1960,Lebanon,
+1961,Lebanon,
+1962,Lebanon,
+1963,Lebanon,
+1964,Lebanon,
+1965,Lebanon,
+1966,Lebanon,
+1967,Lebanon,
+1968,Lebanon,
+1969,Lebanon,
+1970,Lebanon,
+1971,Lebanon,785
+1972,Lebanon,789
+1973,Lebanon,958
+1974,Lebanon,964
+1975,Lebanon,840
+1976,Lebanon,894
+1977,Lebanon,697
+1978,Lebanon,833
+1979,Lebanon,899
+1980,Lebanon,955
+1981,Lebanon,909
+1982,Lebanon,685
+1983,Lebanon,738
+1984,Lebanon,748
+1985,Lebanon,878
+1986,Lebanon,971
+1987,Lebanon,999
+1988,Lebanon,737
+1989,Lebanon,719
+1990,Lebanon,697
+1991,Lebanon,828
+1992,Lebanon,797
+1993,Lebanon,1080
+1994,Lebanon,1130
+1995,Lebanon,1250
+1996,Lebanon,1290
+1997,Lebanon,1440
+1998,Lebanon,1400
+1999,Lebanon,1440
+2000,Lebanon,1280
+2001,Lebanon,1320
+2002,Lebanon,1250
+2003,Lebanon,1190
+2004,Lebanon,1160
+2005,Lebanon,1070
+2006,Lebanon,1010
+2007,Lebanon,886
+2008,Lebanon,1140
+2009,Lebanon,1380
+2010,Lebanon,1290
+2011,Lebanon,1220
+2012,Lebanon,1290
+2013,Lebanon,1200
+2014,Lebanon,1200
+1960,Lesotho,
+1961,Lesotho,
+1962,Lesotho,
+1963,Lesotho,
+1964,Lesotho,
+1965,Lesotho,
+1966,Lesotho,
+1967,Lesotho,
+1968,Lesotho,
+1969,Lesotho,
+1970,Lesotho,
+1971,Lesotho,
+1972,Lesotho,
+1973,Lesotho,
+1974,Lesotho,
+1975,Lesotho,
+1976,Lesotho,
+1977,Lesotho,
+1978,Lesotho,
+1979,Lesotho,
+1980,Lesotho,
+1981,Lesotho,
+1982,Lesotho,
+1983,Lesotho,
+1984,Lesotho,
+1985,Lesotho,
+1986,Lesotho,
+1987,Lesotho,
+1988,Lesotho,
+1989,Lesotho,
+1990,Lesotho,
+1991,Lesotho,
+1992,Lesotho,
+1993,Lesotho,
+1994,Lesotho,
+1995,Lesotho,
+1996,Lesotho,
+1997,Lesotho,
+1998,Lesotho,
+1999,Lesotho,
+2000,Lesotho,
+2001,Lesotho,
+2002,Lesotho,
+2003,Lesotho,
+2004,Lesotho,14
+2005,Lesotho,16.5
+2006,Lesotho,9.55
+2007,Lesotho,9.56
+1960,Libya,
+1961,Libya,
+1962,Libya,
+1963,Libya,
+1964,Libya,
+1965,Libya,
+1966,Libya,
+1967,Libya,
+1968,Libya,
+1969,Libya,
+1970,Libya,
+1971,Libya,705
+1972,Libya,944
+1973,Libya,1070
+1974,Libya,1140
+1975,Libya,1390
+1976,Libya,1210
+1977,Libya,1440
+1978,Libya,1570
+1979,Libya,1700
+1980,Libya,2190
+1981,Libya,2270
+1982,Libya,2380
+1983,Libya,2340
+1984,Libya,2420
+1985,Libya,2620
+1986,Libya,2520
+1987,Libya,2680
+1988,Libya,2510
+1989,Libya,2650
+1990,Libya,2520
+1991,Libya,2490
+1992,Libya,2420
+1993,Libya,2460
+1994,Libya,2720
+1995,Libya,2830
+1996,Libya,2950
+1997,Libya,2950
+1998,Libya,2940
+1999,Libya,2860
+2000,Libya,2950
+2001,Libya,3000
+2002,Libya,3070
+2003,Libya,3100
+2004,Libya,3140
+2005,Libya,3070
+2006,Libya,3050
+2007,Libya,2800
+2008,Libya,2940
+2009,Libya,3150
+2010,Libya,3350
+2011,Libya,2190
+2012,Libya,2740
+2013,Libya,3070
+2014,Libya,2810
+1960,Lithuania,
+1961,Lithuania,
+1962,Lithuania,
+1963,Lithuania,
+1964,Lithuania,
+1965,Lithuania,
+1966,Lithuania,
+1967,Lithuania,
+1968,Lithuania,
+1969,Lithuania,
+1970,Lithuania,
+1971,Lithuania,
+1972,Lithuania,
+1973,Lithuania,
+1974,Lithuania,
+1975,Lithuania,
+1976,Lithuania,
+1977,Lithuania,
+1978,Lithuania,
+1979,Lithuania,
+1980,Lithuania,
+1981,Lithuania,
+1982,Lithuania,
+1983,Lithuania,
+1984,Lithuania,
+1985,Lithuania,
+1986,Lithuania,
+1987,Lithuania,
+1988,Lithuania,
+1989,Lithuania,
+1990,Lithuania,4340
+1991,Lithuania,4600
+1992,Lithuania,2980
+1993,Lithuania,2470
+1994,Lithuania,2220
+1995,Lithuania,2400
+1996,Lithuania,2610
+1997,Lithuania,2490
+1998,Lithuania,2630
+1999,Lithuania,2260
+2000,Lithuania,2040
+2001,Lithuania,2380
+2002,Lithuania,2570
+2003,Lithuania,2710
+2004,Lithuania,2780
+2005,Lithuania,2660
+2006,Lithuania,2670
+2007,Lithuania,2930
+2008,Lithuania,2980
+2009,Lithuania,2770
+2010,Lithuania,2280
+2011,Lithuania,2410
+2012,Lithuania,2470
+2013,Lithuania,2360
+2014,Lithuania,2390
+1960,Luxembourg,10500
+1961,Luxembourg,10500
+1962,Luxembourg,10400
+1963,Luxembourg,10500
+1964,Luxembourg,11200
+1965,Luxembourg,10900
+1966,Luxembourg,10500
+1967,Luxembourg,10400
+1968,Luxembourg,11100
+1969,Luxembourg,12000
+1970,Luxembourg,12100
+1971,Luxembourg,11900
+1972,Luxembourg,12000
+1973,Luxembourg,12600
+1974,Luxembourg,13000
+1975,Luxembourg,10500
+1976,Luxembourg,10700
+1977,Luxembourg,10300
+1978,Luxembourg,11100
+1979,Luxembourg,10500
+1980,Luxembourg,9770
+1981,Luxembourg,8530
+1982,Luxembourg,8060
+1983,Luxembourg,7580
+1984,Luxembourg,8110
+1985,Luxembourg,8350
+1986,Luxembourg,8160
+1987,Luxembourg,7940
+1988,Luxembourg,8160
+1989,Luxembourg,8700
+1990,Luxembourg,8870
+1991,Luxembourg,9350
+1992,Luxembourg,9260
+1993,Luxembourg,9270
+1994,Luxembourg,8820
+1995,Luxembourg,7710
+1996,Luxembourg,7710
+1997,Luxembourg,7410
+1998,Luxembourg,7070
+1999,Luxembourg,7270
+2000,Luxembourg,7680
+2001,Luxembourg,7980
+2002,Luxembourg,8200
+2003,Luxembourg,8550
+2004,Luxembourg,9390
+2005,Luxembourg,9430
+2006,Luxembourg,9170
+2007,Luxembourg,8770
+2008,Luxembourg,8610
+2009,Luxembourg,7950
+2010,Luxembourg,8330
+2011,Luxembourg,8060
+2012,Luxembourg,7720
+2013,Luxembourg,7310
+2014,Luxembourg,6860
+2015,Luxembourg,6550
+1960,Malaysia,
+1961,Malaysia,
+1962,Malaysia,
+1963,Malaysia,
+1964,Malaysia,
+1965,Malaysia,
+1966,Malaysia,
+1967,Malaysia,
+1968,Malaysia,
+1969,Malaysia,
+1970,Malaysia,
+1971,Malaysia,547
+1972,Malaysia,541
+1973,Malaysia,524
+1974,Malaysia,578
+1975,Malaysia,593
+1976,Malaysia,629
+1977,Malaysia,618
+1978,Malaysia,775
+1979,Malaysia,885
+1980,Malaysia,862
+1981,Malaysia,897
+1982,Malaysia,888
+1983,Malaysia,1010
+1984,Malaysia,1020
+1985,Malaysia,997
+1986,Malaysia,1090
+1987,Malaysia,1070
+1988,Malaysia,1090
+1989,Malaysia,1160
+1990,Malaysia,1210
+1991,Malaysia,1450
+1992,Malaysia,1560
+1993,Malaysia,1650
+1994,Malaysia,1600
+1995,Malaysia,1690
+1996,Malaysia,1820
+1997,Malaysia,2060
+1998,Malaysia,1910
+1999,Malaysia,1890
+2000,Malaysia,2110
+2001,Malaysia,2150
+2002,Malaysia,2170
+2003,Malaysia,2280
+2004,Malaysia,2410
+2005,Malaysia,2560
+2006,Malaysia,2520
+2007,Malaysia,2710
+2008,Malaysia,2780
+2009,Malaysia,2590
+2010,Malaysia,2600
+2011,Malaysia,2670
+2012,Malaysia,2680
+2013,Malaysia,2980
+2014,Malaysia,3000
+1960,Maldives,
+1961,Maldives,
+1962,Maldives,
+1963,Maldives,
+1964,Maldives,
+1965,Maldives,
+1966,Maldives,
+1967,Maldives,
+1968,Maldives,
+1969,Maldives,
+1970,Maldives,
+1971,Maldives,
+1972,Maldives,
+1973,Maldives,
+1974,Maldives,
+1975,Maldives,
+1976,Maldives,
+1977,Maldives,
+1978,Maldives,
+1979,Maldives,
+1980,Maldives,
+1981,Maldives,
+1982,Maldives,
+1983,Maldives,
+1984,Maldives,
+1985,Maldives,
+1986,Maldives,
+1987,Maldives,
+1988,Maldives,
+1989,Maldives,
+1990,Maldives,228
+1991,Maldives,
+1992,Maldives,
+1993,Maldives,
+1994,Maldives,
+1995,Maldives,
+1996,Maldives,
+1997,Maldives,
+1998,Maldives,
+1999,Maldives,
+2000,Maldives,
+2001,Maldives,
+2002,Maldives,
+2003,Maldives,
+2004,Maldives,803
+2005,Maldives,704
+2006,Maldives,879
+2007,Maldives,892
+1960,Malta,
+1961,Malta,
+1962,Malta,
+1963,Malta,
+1964,Malta,
+1965,Malta,
+1966,Malta,
+1967,Malta,
+1968,Malta,
+1969,Malta,
+1970,Malta,
+1971,Malta,696
+1972,Malta,873
+1973,Malta,844
+1974,Malta,775
+1975,Malta,688
+1976,Malta,778
+1977,Malta,823
+1978,Malta,950
+1979,Malta,908
+1980,Malta,1010
+1981,Malta,1130
+1982,Malta,1260
+1983,Malta,945
+1984,Malta,1250
+1985,Malta,1020
+1986,Malta,1680
+1987,Malta,1750
+1988,Malta,1870
+1989,Malta,1980
+1990,Malta,1960
+1991,Malta,1850
+1992,Malta,1810
+1993,Malta,2290
+1994,Malta,2060
+1995,Malta,1880
+1996,Malta,1840
+1997,Malta,2050
+1998,Malta,1790
+1999,Malta,1940
+2000,Malta,1730
+2001,Malta,2000
+2002,Malta,1850
+2003,Malta,2070
+2004,Malta,2070
+2005,Malta,2180
+2006,Malta,2060
+2007,Malta,2160
+2008,Malta,2040
+2009,Malta,1890
+2010,Malta,2010
+2011,Malta,1990
+2012,Malta,2090
+2013,Malta,1800
+2014,Malta,1780
+1960,Marshall Islands,
+1961,Marshall Islands,
+1962,Marshall Islands,
+1963,Marshall Islands,
+1964,Marshall Islands,
+1965,Marshall Islands,
+1966,Marshall Islands,
+1967,Marshall Islands,
+1968,Marshall Islands,
+1969,Marshall Islands,
+1970,Marshall Islands,
+1971,Marshall Islands,
+1972,Marshall Islands,
+1973,Marshall Islands,
+1974,Marshall Islands,
+1975,Marshall Islands,
+1976,Marshall Islands,
+1977,Marshall Islands,
+1978,Marshall Islands,
+1979,Marshall Islands,
+1980,Marshall Islands,
+1981,Marshall Islands,
+1982,Marshall Islands,
+1983,Marshall Islands,
+1984,Marshall Islands,
+1985,Marshall Islands,
+1986,Marshall Islands,
+1987,Marshall Islands,
+1988,Marshall Islands,
+1989,Marshall Islands,
+1990,Marshall Islands,
+1991,Marshall Islands,
+1992,Marshall Islands,
+1993,Marshall Islands,
+1994,Marshall Islands,
+1995,Marshall Islands,
+1996,Marshall Islands,
+1997,Marshall Islands,
+1998,Marshall Islands,
+1999,Marshall Islands,
+2000,Marshall Islands,
+2001,Marshall Islands,
+2002,Marshall Islands,
+2003,Marshall Islands,
+2004,Marshall Islands,532
+2005,Marshall Islands,525
+2006,Marshall Islands,538
+2007,Marshall Islands,571
+1960,Mauritius,
+1961,Mauritius,
+1962,Mauritius,
+1963,Mauritius,
+1964,Mauritius,
+1965,Mauritius,
+1966,Mauritius,
+1967,Mauritius,
+1968,Mauritius,
+1969,Mauritius,
+1970,Mauritius,
+1971,Mauritius,434
+1972,Mauritius,435
+1973,Mauritius,439
+1974,Mauritius,449
+1975,Mauritius,449
+1976,Mauritius,460
+1977,Mauritius,475
+1978,Mauritius,476
+1979,Mauritius,468
+1980,Mauritius,446
+1981,Mauritius,435
+1982,Mauritius,415
+1983,Mauritius,426
+1984,Mauritius,432
+1985,Mauritius,433
+1986,Mauritius,491
+1987,Mauritius,512
+1988,Mauritius,514
+1989,Mauritius,561
+1990,Mauritius,629
+1991,Mauritius,634
+1992,Mauritius,658
+1993,Mauritius,679
+1994,Mauritius,658
+1995,Mauritius,697
+1996,Mauritius,702
+1997,Mauritius,713
+1998,Mauritius,750
+1999,Mauritius,775
+2000,Mauritius,851
+2001,Mauritius,887
+2002,Mauritius,873
+2003,Mauritius,909
+2004,Mauritius,920
+2005,Mauritius,946
+2006,Mauritius,1010
+2007,Mauritius,1010
+2008,Mauritius,1030
+2009,Mauritius,999
+2010,Mauritius,1050
+2011,Mauritius,1050
+2012,Mauritius,1070
+2013,Mauritius,1090
+2014,Mauritius,1110
+1960,Mexico,
+1961,Mexico,
+1962,Mexico,
+1963,Mexico,
+1964,Mexico,
+1965,Mexico,
+1966,Mexico,
+1967,Mexico,
+1968,Mexico,
+1969,Mexico,
+1970,Mexico,
+1971,Mexico,810
+1972,Mexico,869
+1973,Mexico,933
+1974,Mexico,965
+1975,Mexico,992
+1976,Mexico,1030
+1977,Mexico,1090
+1978,Mexico,1190
+1979,Mexico,1270
+1980,Mexico,1400
+1981,Mexico,1460
+1982,Mexico,1500
+1983,Mexico,1380
+1984,Mexico,1410
+1985,Mexico,1430
+1986,Mexico,1360
+1987,Mexico,1400
+1988,Mexico,1390
+1989,Mexico,1430
+1990,Mexico,1470
+1991,Mexico,1520
+1992,Mexico,1500
+1993,Mexico,1500
+1994,Mexico,1510
+1995,Mexico,1440
+1996,Mexico,1450
+1997,Mexico,1500
+1998,Mexico,1520
+1999,Mexico,1540
+2000,Mexico,1520
+2001,Mexico,1550
+2002,Mexico,1530
+2003,Mexico,1600
+2004,Mexico,1600
+2005,Mexico,1690
+2006,Mexico,1700
+2007,Mexico,1660
+2008,Mexico,1620
+2009,Mexico,1600
+2010,Mexico,1530
+2011,Mexico,1590
+2012,Mexico,1630
+2013,Mexico,1620
+2014,Mexico,1560
+2015,Mexico,1540
+1960,Moldova,
+1961,Moldova,
+1962,Moldova,
+1963,Moldova,
+1964,Moldova,
+1965,Moldova,
+1966,Moldova,
+1967,Moldova,
+1968,Moldova,
+1969,Moldova,
+1970,Moldova,
+1971,Moldova,
+1972,Moldova,
+1973,Moldova,
+1974,Moldova,
+1975,Moldova,
+1976,Moldova,
+1977,Moldova,
+1978,Moldova,
+1979,Moldova,
+1980,Moldova,
+1981,Moldova,
+1982,Moldova,
+1983,Moldova,
+1984,Moldova,
+1985,Moldova,
+1986,Moldova,
+1987,Moldova,
+1988,Moldova,
+1989,Moldova,
+1990,Moldova,3330
+1991,Moldova,2770
+1992,Moldova,2300
+1993,Moldova,2050
+1994,Moldova,1720
+1995,Moldova,1600
+1996,Moldova,1380
+1997,Moldova,1320
+1998,Moldova,1220
+1999,Moldova,1060
+2000,Moldova,986
+2001,Moldova,1050
+2002,Moldova,1060
+2003,Moldova,1160
+2004,Moldova,1170
+2005,Moldova,1210
+2006,Moldova,1200
+2007,Moldova,1170
+2008,Moldova,1170
+2009,Moldova,1110
+2010,Moldova,1230
+2011,Moldova,1210
+2012,Moldova,1190
+2013,Moldova,1070
+2014,Moldova,1160
+1960,Mongolia,
+1961,Mongolia,
+1962,Mongolia,
+1963,Mongolia,
+1964,Mongolia,
+1965,Mongolia,
+1966,Mongolia,
+1967,Mongolia,
+1968,Mongolia,
+1969,Mongolia,
+1970,Mongolia,
+1971,Mongolia,
+1972,Mongolia,
+1973,Mongolia,
+1974,Mongolia,
+1975,Mongolia,
+1976,Mongolia,
+1977,Mongolia,
+1978,Mongolia,
+1979,Mongolia,
+1980,Mongolia,
+1981,Mongolia,
+1982,Mongolia,
+1983,Mongolia,
+1984,Mongolia,
+1985,Mongolia,1620
+1986,Mongolia,1700
+1987,Mongolia,1750
+1988,Mongolia,1810
+1989,Mongolia,1680
+1990,Mongolia,1560
+1991,Mongolia,1720
+1992,Mongolia,1490
+1993,Mongolia,1380
+1994,Mongolia,1180
+1995,Mongolia,1170
+1996,Mongolia,980
+1997,Mongolia,952
+1998,Mongolia,951
+1999,Mongolia,944
+2000,Mongolia,1000
+2001,Mongolia,998
+2002,Mongolia,1060
+2003,Mongolia,1020
+2004,Mongolia,1040
+2005,Mongolia,1190
+2006,Mongolia,1330
+2007,Mongolia,1380
+2008,Mongolia,1360
+2009,Mongolia,1390
+2010,Mongolia,1450
+2011,Mongolia,1560
+2012,Mongolia,1690
+2013,Mongolia,1830
+2014,Mongolia,1830
+1960,Montenegro,
+1961,Montenegro,
+1962,Montenegro,
+1963,Montenegro,
+1964,Montenegro,
+1965,Montenegro,
+1966,Montenegro,
+1967,Montenegro,
+1968,Montenegro,
+1969,Montenegro,
+1970,Montenegro,
+1971,Montenegro,
+1972,Montenegro,
+1973,Montenegro,
+1974,Montenegro,
+1975,Montenegro,
+1976,Montenegro,
+1977,Montenegro,
+1978,Montenegro,
+1979,Montenegro,
+1980,Montenegro,
+1981,Montenegro,
+1982,Montenegro,
+1983,Montenegro,
+1984,Montenegro,
+1985,Montenegro,
+1986,Montenegro,
+1987,Montenegro,
+1988,Montenegro,
+1989,Montenegro,
+1990,Montenegro,
+1991,Montenegro,
+1992,Montenegro,
+1993,Montenegro,
+1994,Montenegro,
+1995,Montenegro,
+1996,Montenegro,
+1997,Montenegro,
+1998,Montenegro,
+1999,Montenegro,
+2000,Montenegro,
+2001,Montenegro,
+2002,Montenegro,
+2003,Montenegro,
+2004,Montenegro,
+2005,Montenegro,1750
+2006,Montenegro,1910
+2007,Montenegro,1930
+2008,Montenegro,2070
+2009,Montenegro,1650
+2010,Montenegro,1900
+2011,Montenegro,1820
+2012,Montenegro,1710
+2013,Montenegro,1580
+2014,Montenegro,1540
+1960,Morocco,
+1961,Morocco,
+1962,Morocco,
+1963,Morocco,
+1964,Morocco,
+1965,Morocco,
+1966,Morocco,
+1967,Morocco,
+1968,Morocco,
+1969,Morocco,
+1970,Morocco,
+1971,Morocco,181
+1972,Morocco,191
+1973,Morocco,207
+1974,Morocco,219
+1975,Morocco,223
+1976,Morocco,235
+1977,Morocco,253
+1978,Morocco,262
+1979,Morocco,273
+1980,Morocco,270
+1981,Morocco,265
+1982,Morocco,269
+1983,Morocco,274
+1984,Morocco,276
+1985,Morocco,275
+1986,Morocco,277
+1987,Morocco,279
+1988,Morocco,287
+1989,Morocco,306
+1990,Morocco,307
+1991,Morocco,317
+1992,Morocco,330
+1993,Morocco,336
+1994,Morocco,355
+1995,Morocco,346
+1996,Morocco,358
+1997,Morocco,364
+1998,Morocco,367
+1999,Morocco,385
+2000,Morocco,383
+2001,Morocco,401
+2002,Morocco,403
+2003,Morocco,397
+2004,Morocco,466
+2005,Morocco,487
+2006,Morocco,490
+2007,Morocco,500
+2008,Morocco,513
+2009,Morocco,510
+2010,Morocco,528
+2011,Morocco,561
+2012,Morocco,561
+2013,Morocco,556
+2014,Morocco,555
+1960,Mozambique,
+1961,Mozambique,
+1962,Mozambique,
+1963,Mozambique,
+1964,Mozambique,
+1965,Mozambique,
+1966,Mozambique,
+1967,Mozambique,
+1968,Mozambique,
+1969,Mozambique,
+1970,Mozambique,
+1971,Mozambique,747
+1972,Mozambique,716
+1973,Mozambique,703
+1974,Mozambique,681
+1975,Mozambique,657
+1976,Mozambique,631
+1977,Mozambique,623
+1978,Mozambique,590
+1979,Mozambique,577
+1980,Mozambique,578
+1981,Mozambique,550
+1982,Mozambique,538
+1983,Mozambique,521
+1984,Mozambique,506
+1985,Mozambique,499
+1986,Mozambique,492
+1987,Mozambique,488
+1988,Mozambique,483
+1989,Mozambique,476
+1990,Mozambique,456
+1991,Mozambique,442
+1992,Mozambique,432
+1993,Mozambique,424
+1994,Mozambique,411
+1995,Mozambique,406
+1996,Mozambique,401
+1997,Mozambique,402
+1998,Mozambique,396
+1999,Mozambique,394
+2000,Mozambique,405
+2001,Mozambique,414
+2002,Mozambique,407
+2003,Mozambique,417
+2004,Mozambique,421
+2005,Mozambique,414
+2006,Mozambique,415
+2007,Mozambique,421
+2008,Mozambique,417
+2009,Mozambique,421
+2010,Mozambique,423
+2011,Mozambique,428
+2012,Mozambique,425
+2013,Mozambique,428
+2014,Mozambique,443
+1960,Myanmar,
+1961,Myanmar,
+1962,Myanmar,
+1963,Myanmar,
+1964,Myanmar,
+1965,Myanmar,
+1966,Myanmar,
+1967,Myanmar,
+1968,Myanmar,
+1969,Myanmar,
+1970,Myanmar,
+1971,Myanmar,283
+1972,Myanmar,281
+1973,Myanmar,271
+1974,Myanmar,275
+1975,Myanmar,274
+1976,Myanmar,278
+1977,Myanmar,277
+1978,Myanmar,275
+1979,Myanmar,274
+1980,Myanmar,275
+1981,Myanmar,273
+1982,Myanmar,273
+1983,Myanmar,271
+1984,Myanmar,275
+1985,Myanmar,289
+1986,Myanmar,290
+1987,Myanmar,273
+1988,Myanmar,266
+1989,Myanmar,269
+1990,Myanmar,258
+1991,Myanmar,251
+1992,Myanmar,255
+1993,Myanmar,250
+1994,Myanmar,263
+1995,Myanmar,269
+1996,Myanmar,266
+1997,Myanmar,268
+1998,Myanmar,272
+1999,Myanmar,270
+2000,Myanmar,275
+2001,Myanmar,266
+2002,Myanmar,272
+2003,Myanmar,292
+2004,Myanmar,306
+2005,Myanmar,304
+2006,Myanmar,306
+2007,Myanmar,316
+2008,Myanmar,303
+2009,Myanmar,285
+2010,Myanmar,277
+2011,Myanmar,281
+2012,Myanmar,305
+2013,Myanmar,320
+2014,Myanmar,369
+1960,Namibia,
+1961,Namibia,
+1962,Namibia,
+1963,Namibia,
+1964,Namibia,
+1965,Namibia,
+1966,Namibia,
+1967,Namibia,
+1968,Namibia,
+1969,Namibia,
+1970,Namibia,
+1971,Namibia,
+1972,Namibia,
+1973,Namibia,
+1974,Namibia,
+1975,Namibia,
+1976,Namibia,
+1977,Namibia,
+1978,Namibia,
+1979,Namibia,
+1980,Namibia,
+1981,Namibia,
+1982,Namibia,
+1983,Namibia,
+1984,Namibia,
+1985,Namibia,
+1986,Namibia,
+1987,Namibia,
+1988,Namibia,
+1989,Namibia,
+1990,Namibia,
+1991,Namibia,470
+1992,Namibia,487
+1993,Namibia,512
+1994,Namibia,539
+1995,Namibia,577
+1996,Namibia,607
+1997,Namibia,607
+1998,Namibia,621
+1999,Namibia,608
+2000,Namibia,568
+2001,Namibia,663
+2002,Namibia,605
+2003,Namibia,621
+2004,Namibia,641
+2005,Namibia,684
+2006,Namibia,674
+2007,Namibia,681
+2008,Namibia,712
+2009,Namibia,712
+2010,Namibia,726
+2011,Namibia,736
+2012,Namibia,750
+2013,Namibia,778
+2014,Namibia,794
+1960,Nepal,
+1961,Nepal,
+1962,Nepal,
+1963,Nepal,
+1964,Nepal,
+1965,Nepal,
+1966,Nepal,
+1967,Nepal,
+1968,Nepal,
+1969,Nepal,
+1970,Nepal,
+1971,Nepal,297
+1972,Nepal,299
+1973,Nepal,301
+1974,Nepal,301
+1975,Nepal,300
+1976,Nepal,299
+1977,Nepal,300
+1978,Nepal,299
+1979,Nepal,303
+1980,Nepal,304
+1981,Nepal,302
+1982,Nepal,303
+1983,Nepal,306
+1984,Nepal,306
+1985,Nepal,302
+1986,Nepal,305
+1987,Nepal,304
+1988,Nepal,305
+1989,Nepal,302
+1990,Nepal,306
+1991,Nepal,308
+1992,Nepal,307
+1993,Nepal,307
+1994,Nepal,309
+1995,Nepal,311
+1996,Nepal,311
+1997,Nepal,314
+1998,Nepal,316
+1999,Nepal,327
+2000,Nepal,339
+2001,Nepal,344
+2002,Nepal,342
+2003,Nepal,347
+2004,Nepal,347
+2005,Nepal,355
+2006,Nepal,350
+2007,Nepal,353
+2008,Nepal,361
+2009,Nepal,369
+2010,Nepal,378
+2011,Nepal,391
+2012,Nepal,374
+2013,Nepal,417
+2014,Nepal,434
+1960,Netherlands,1830
+1961,Netherlands,1880
+1962,Netherlands,2080
+1963,Netherlands,2270
+1964,Netherlands,2350
+1965,Netherlands,2490
+1966,Netherlands,2610
+1967,Netherlands,2760
+1968,Netherlands,3040
+1969,Netherlands,3360
+1970,Netherlands,3770
+1971,Netherlands,3860
+1972,Netherlands,4380
+1973,Netherlands,4610
+1974,Netherlands,4500
+1975,Netherlands,4320
+1976,Netherlands,4740
+1977,Netherlands,4560
+1978,Netherlands,4660
+1979,Netherlands,4870
+1980,Netherlands,4550
+1981,Netherlands,4270
+1982,Netherlands,3790
+1983,Netherlands,3940
+1984,Netherlands,4150
+1985,Netherlands,4180
+1986,Netherlands,4320
+1987,Netherlands,4390
+1988,Netherlands,4320
+1989,Netherlands,4320
+1990,Netherlands,4390
+1991,Netherlands,4600
+1992,Netherlands,4500
+1993,Netherlands,4510
+1994,Netherlands,4510
+1995,Netherlands,4780
+1996,Netherlands,5010
+1997,Netherlands,4840
+1998,Netherlands,4840
+1999,Netherlands,4730
+2000,Netherlands,4740
+2001,Netherlands,4840
+2002,Netherlands,4870
+2003,Netherlands,5020
+2004,Netherlands,5090
+2005,Netherlands,4990
+2006,Netherlands,4930
+2007,Netherlands,4910
+2008,Netherlands,4850
+2009,Netherlands,4720
+2010,Netherlands,5030
+2011,Netherlands,4640
+2012,Netherlands,4650
+2013,Netherlands,4600
+2014,Netherlands,4330
+2015,Netherlands,4230
+1960,New Zealand,1690
+1961,New Zealand,1760
+1962,New Zealand,1790
+1963,New Zealand,1920
+1964,New Zealand,2180
+1965,New Zealand,2240
+1966,New Zealand,2290
+1967,New Zealand,2190
+1968,New Zealand,2320
+1969,New Zealand,2370
+1970,New Zealand,2460
+1971,New Zealand,2390
+1972,New Zealand,2620
+1973,New Zealand,2660
+1974,New Zealand,2880
+1975,New Zealand,2770
+1976,New Zealand,2930
+1977,New Zealand,3060
+1978,New Zealand,3030
+1979,New Zealand,2830
+1980,New Zealand,2890
+1981,New Zealand,2850
+1982,New Zealand,3010
+1983,New Zealand,3080
+1984,New Zealand,3250
+1985,New Zealand,3450
+1986,New Zealand,3460
+1987,New Zealand,3450
+1988,New Zealand,3610
+1989,New Zealand,3850
+1990,New Zealand,3850
+1991,New Zealand,3760
+1992,New Zealand,3810
+1993,New Zealand,3970
+1994,New Zealand,4060
+1995,New Zealand,4050
+1996,New Zealand,4130
+1997,New Zealand,4260
+1998,New Zealand,4160
+1999,New Zealand,4310
+2000,New Zealand,4430
+2001,New Zealand,4410
+2002,New Zealand,4340
+2003,New Zealand,4200
+2004,New Zealand,4240
+2005,New Zealand,4100
+2006,New Zealand,4050
+2007,New Zealand,4050
+2008,New Zealand,4080
+2009,New Zealand,4070
+2010,New Zealand,4230
+2011,New Zealand,4180
+2012,New Zealand,4360
+2013,New Zealand,4360
+2014,New Zealand,4560
+2015,New Zealand,4440
+1960,Nicaragua,
+1961,Nicaragua,
+1962,Nicaragua,
+1963,Nicaragua,
+1964,Nicaragua,
+1965,Nicaragua,
+1966,Nicaragua,
+1967,Nicaragua,
+1968,Nicaragua,
+1969,Nicaragua,
+1970,Nicaragua,
+1971,Nicaragua,491
+1972,Nicaragua,486
+1973,Nicaragua,511
+1974,Nicaragua,520
+1975,Nicaragua,525
+1976,Nicaragua,546
+1977,Nicaragua,583
+1978,Nicaragua,546
+1979,Nicaragua,447
+1980,Nicaragua,470
+1981,Nicaragua,469
+1982,Nicaragua,467
+1983,Nicaragua,473
+1984,Nicaragua,507
+1985,Nicaragua,517
+1986,Nicaragua,505
+1987,Nicaragua,499
+1988,Nicaragua,462
+1989,Nicaragua,484
+1990,Nicaragua,484
+1991,Nicaragua,502
+1992,Nicaragua,506
+1993,Nicaragua,487
+1994,Nicaragua,482
+1995,Nicaragua,486
+1996,Nicaragua,485
+1997,Nicaragua,499
+1998,Nicaragua,493
+1999,Nicaragua,492
+2000,Nicaragua,496
+2001,Nicaragua,493
+2002,Nicaragua,504
+2003,Nicaragua,509
+2004,Nicaragua,525
+2005,Nicaragua,526
+2006,Nicaragua,514
+2007,Nicaragua,516
+2008,Nicaragua,514
+2009,Nicaragua,510
+2010,Nicaragua,508
+2011,Nicaragua,518
+2012,Nicaragua,549
+2013,Nicaragua,580
+2014,Nicaragua,596
+1960,Niger,
+1961,Niger,
+1962,Niger,
+1963,Niger,
+1964,Niger,
+1965,Niger,
+1966,Niger,
+1967,Niger,
+1968,Niger,
+1969,Niger,
+1970,Niger,
+1971,Niger,
+1972,Niger,
+1973,Niger,
+1974,Niger,
+1975,Niger,
+1976,Niger,
+1977,Niger,
+1978,Niger,
+1979,Niger,
+1980,Niger,
+1981,Niger,
+1982,Niger,
+1983,Niger,
+1984,Niger,
+1985,Niger,
+1986,Niger,
+1987,Niger,
+1988,Niger,
+1989,Niger,
+1990,Niger,
+1991,Niger,
+1992,Niger,
+1993,Niger,
+1994,Niger,
+1995,Niger,
+1996,Niger,
+1997,Niger,
+1998,Niger,
+1999,Niger,
+2000,Niger,130
+2001,Niger,129
+2002,Niger,129
+2003,Niger,130
+2004,Niger,131
+2005,Niger,127
+2006,Niger,126
+2007,Niger,127
+2008,Niger,128
+2009,Niger,130
+2010,Niger,135
+2011,Niger,113
+2012,Niger,128
+2013,Niger,155
+2014,Niger,150
+1960,Nigeria,
+1961,Nigeria,
+1962,Nigeria,
+1963,Nigeria,
+1964,Nigeria,
+1965,Nigeria,
+1966,Nigeria,
+1967,Nigeria,
+1968,Nigeria,
+1969,Nigeria,
+1970,Nigeria,
+1971,Nigeria,579
+1972,Nigeria,585
+1973,Nigeria,597
+1974,Nigeria,600
+1975,Nigeria,608
+1976,Nigeria,622
+1977,Nigeria,636
+1978,Nigeria,646
+1979,Nigeria,653
+1980,Nigeria,665
+1981,Nigeria,677
+1982,Nigeria,692
+1983,Nigeria,694
+1984,Nigeria,678
+1985,Nigeria,683
+1986,Nigeria,672
+1987,Nigeria,677
+1988,Nigeria,679
+1989,Nigeria,685
+1990,Nigeria,698
+1991,Nigeria,713
+1992,Nigeria,722
+1993,Nigeria,716
+1994,Nigeria,681
+1995,Nigeria,683
+1996,Nigeria,694
+1997,Nigeria,700
+1998,Nigeria,688
+1999,Nigeria,695
+2000,Nigeria,704
+2001,Nigeria,720
+2002,Nigeria,725
+2003,Nigeria,747
+2004,Nigeria,749
+2005,Nigeria,758
+2006,Nigeria,745
+2007,Nigeria,751
+2008,Nigeria,753
+2009,Nigeria,722
+2010,Nigeria,756
+2011,Nigeria,779
+2012,Nigeria,799
+2013,Nigeria,780
+2014,Nigeria,764
+1960,North Korea,
+1961,North Korea,
+1962,North Korea,
+1963,North Korea,
+1964,North Korea,
+1965,North Korea,
+1966,North Korea,
+1967,North Korea,
+1968,North Korea,
+1969,North Korea,
+1970,North Korea,
+1971,North Korea,1310
+1972,North Korea,1330
+1973,North Korea,1320
+1974,North Korea,1350
+1975,North Korea,1370
+1976,North Korea,1430
+1977,North Korea,1480
+1978,North Korea,1570
+1979,North Korea,1660
+1980,North Korea,1740
+1981,North Korea,1760
+1982,North Korea,1810
+1983,North Korea,1850
+1984,North Korea,1860
+1985,North Korea,1910
+1986,North Korea,1850
+1987,North Korea,1760
+1988,North Korea,1760
+1989,North Korea,1730
+1990,North Korea,1640
+1991,North Korea,1540
+1992,North Korea,1320
+1993,North Korea,1200
+1994,North Korea,1080
+1995,North Korea,1010
+1996,North Korea,874
+1997,North Korea,824
+1998,North Korea,763
+1999,North Korea,810
+2000,North Korea,860
+2001,North Korea,881
+2002,North Korea,838
+2003,North Korea,851
+2004,North Korea,864
+2005,North Korea,893
+2006,North Korea,896
+2007,North Korea,757
+2008,North Korea,830
+2009,North Korea,815
+2010,North Korea,770
+2011,North Korea,567
+2012,North Korea,575
+2013,North Korea,435
+2014,North Korea,475
+1960,North Macedonia,
+1961,North Macedonia,
+1962,North Macedonia,
+1963,North Macedonia,
+1964,North Macedonia,
+1965,North Macedonia,
+1966,North Macedonia,
+1967,North Macedonia,
+1968,North Macedonia,
+1969,North Macedonia,
+1970,North Macedonia,
+1971,North Macedonia,
+1972,North Macedonia,
+1973,North Macedonia,
+1974,North Macedonia,
+1975,North Macedonia,
+1976,North Macedonia,
+1977,North Macedonia,
+1978,North Macedonia,
+1979,North Macedonia,
+1980,North Macedonia,
+1981,North Macedonia,
+1982,North Macedonia,
+1983,North Macedonia,
+1984,North Macedonia,
+1985,North Macedonia,
+1986,North Macedonia,
+1987,North Macedonia,
+1988,North Macedonia,
+1989,North Macedonia,
+1990,North Macedonia,1240
+1991,North Macedonia,1220
+1992,North Macedonia,1360
+1993,North Macedonia,1400
+1994,North Macedonia,1250
+1995,North Macedonia,1260
+1996,North Macedonia,1490
+1997,North Macedonia,1340
+1998,North Macedonia,1440
+1999,North Macedonia,1340
+2000,North Macedonia,1310
+2001,North Macedonia,1260
+2002,North Macedonia,1230
+2003,North Macedonia,1360
+2004,North Macedonia,1340
+2005,North Macedonia,1360
+2006,North Macedonia,1420
+2007,North Macedonia,1460
+2008,North Macedonia,1460
+2009,North Macedonia,1360
+2010,North Macedonia,1390
+2011,North Macedonia,1510
+2012,North Macedonia,1430
+2013,North Macedonia,1300
+2014,North Macedonia,1260
+1960,Norway,1910
+1961,Norway,1940
+1962,Norway,2050
+1963,Norway,2180
+1964,Norway,2320
+1965,Norway,2540
+1966,Norway,2710
+1967,Norway,2820
+1968,Norway,3050
+1969,Norway,3190
+1970,Norway,3420
+1971,Norway,3410
+1972,Norway,3500
+1973,Norway,3610
+1974,Norway,3580
+1975,Norway,3650
+1976,Norway,3960
+1977,Norway,4060
+1978,Norway,4360
+1979,Norway,4470
+1980,Norway,4490
+1981,Norway,4410
+1982,Norway,4260
+1983,Norway,4430
+1984,Norway,4670
+1985,Norway,4820
+1986,Norway,5020
+1987,Norway,5050
+1988,Norway,4820
+1989,Norway,4980
+1990,Norway,4970
+1991,Norway,5110
+1992,Norway,5160
+1993,Norway,5460
+1994,Norway,5320
+1995,Norway,5390
+1996,Norway,5200
+1997,Norway,5480
+1998,Norway,5680
+1999,Norway,5910
+2000,Norway,5830
+2001,Norway,5950
+2002,Norway,5500
+2003,Norway,5930
+2004,Norway,5770
+2005,Norway,5800
+2006,Norway,5830
+2007,Norway,5860
+2008,Norway,6750
+2009,Norway,6480
+2010,Norway,6930
+2011,Norway,5650
+2012,Norway,5910
+2013,Norway,6420
+2014,Norway,5600
+2015,Norway,5820
+1960,Oman,
+1961,Oman,
+1962,Oman,
+1963,Oman,
+1964,Oman,
+1965,Oman,
+1966,Oman,
+1967,Oman,
+1968,Oman,
+1969,Oman,
+1970,Oman,
+1971,Oman,113
+1972,Oman,112
+1973,Oman,120
+1974,Oman,177
+1975,Oman,271
+1976,Oman,407
+1977,Oman,762
+1978,Oman,538
+1979,Oman,772
+1980,Oman,997
+1981,Oman,803
+1982,Oman,1150
+1983,Oman,1000
+1984,Oman,1570
+1985,Oman,1410
+1986,Oman,1270
+1987,Oman,1410
+1988,Oman,1320
+1989,Oman,1470
+1990,Oman,2330
+1991,Oman,3080
+1992,Oman,2750
+1993,Oman,2860
+1994,Oman,2810
+1995,Oman,2770
+1996,Oman,2800
+1997,Oman,3000
+1998,Oman,3020
+1999,Oman,3120
+2000,Oman,3340
+2001,Oman,3350
+2002,Oman,3460
+2003,Oman,3600
+2004,Oman,3600
+2005,Oman,3940
+2006,Oman,5980
+2007,Oman,6660
+2008,Oman,5690
+2009,Oman,5500
+2010,Oman,6150
+2011,Oman,6770
+2012,Oman,6770
+2013,Oman,6490
+2014,Oman,6040
+1960,Pakistan,
+1961,Pakistan,
+1962,Pakistan,
+1963,Pakistan,
+1964,Pakistan,
+1965,Pakistan,
+1966,Pakistan,
+1967,Pakistan,
+1968,Pakistan,
+1969,Pakistan,
+1970,Pakistan,
+1971,Pakistan,285
+1972,Pakistan,285
+1973,Pakistan,291
+1974,Pakistan,300
+1975,Pakistan,305
+1976,Pakistan,299
+1977,Pakistan,303
+1978,Pakistan,305
+1979,Pakistan,313
+1980,Pakistan,317
+1981,Pakistan,329
+1982,Pakistan,337
+1983,Pakistan,344
+1984,Pakistan,343
+1985,Pakistan,350
+1986,Pakistan,354
+1987,Pakistan,376
+1988,Pakistan,383
+1989,Pakistan,393
+1990,Pakistan,399
+1991,Pakistan,397
+1992,Pakistan,411
+1993,Pakistan,421
+1994,Pakistan,426
+1995,Pakistan,433
+1996,Pakistan,442
+1997,Pakistan,441
+1998,Pakistan,438
+1999,Pakistan,450
+2000,Pakistan,450
+2001,Pakistan,446
+2002,Pakistan,440
+2003,Pakistan,450
+2004,Pakistan,471
+2005,Pakistan,477
+2006,Pakistan,486
+2007,Pakistan,500
+2008,Pakistan,481
+2009,Pakistan,477
+2010,Pakistan,474
+2011,Pakistan,467
+2012,Pakistan,463
+2013,Pakistan,464
+2014,Pakistan,460
+1960,Palau,
+1961,Palau,
+1962,Palau,
+1963,Palau,
+1964,Palau,
+1965,Palau,
+1966,Palau,
+1967,Palau,
+1968,Palau,
+1969,Palau,
+1970,Palau,
+1971,Palau,
+1972,Palau,
+1973,Palau,
+1974,Palau,
+1975,Palau,
+1976,Palau,
+1977,Palau,
+1978,Palau,
+1979,Palau,
+1980,Palau,
+1981,Palau,
+1982,Palau,
+1983,Palau,
+1984,Palau,
+1985,Palau,
+1986,Palau,
+1987,Palau,
+1988,Palau,
+1989,Palau,
+1990,Palau,4880
+1960,Panama,
+1961,Panama,
+1962,Panama,
+1963,Panama,
+1964,Panama,
+1965,Panama,
+1966,Panama,
+1967,Panama,
+1968,Panama,
+1969,Panama,
+1970,Panama,
+1971,Panama,1060
+1972,Panama,1160
+1973,Panama,1230
+1974,Panama,1180
+1975,Panama,969
+1976,Panama,935
+1977,Panama,900
+1978,Panama,860
+1979,Panama,898
+1980,Panama,714
+1981,Panama,744
+1982,Panama,796
+1983,Panama,831
+1984,Panama,744
+1985,Panama,703
+1986,Panama,699
+1987,Panama,731
+1988,Panama,666
+1989,Panama,614
+1990,Panama,603
+1991,Panama,641
+1992,Panama,715
+1993,Panama,711
+1994,Panama,733
+1995,Panama,729
+1996,Panama,763
+1997,Panama,777
+1998,Panama,883
+1999,Panama,854
+2000,Panama,848
+2001,Panama,943
+2002,Panama,840
+2003,Panama,826
+2004,Panama,799
+2005,Panama,875
+2006,Panama,918
+2007,Panama,883
+2008,Panama,869
+2009,Panama,942
+2010,Panama,991
+2011,Panama,1060
+2012,Panama,1070
+2013,Panama,1040
+2014,Panama,1080
+1960,Paraguay,
+1961,Paraguay,
+1962,Paraguay,
+1963,Paraguay,
+1964,Paraguay,
+1965,Paraguay,
+1966,Paraguay,
+1967,Paraguay,
+1968,Paraguay,
+1969,Paraguay,
+1970,Paraguay,
+1971,Paraguay,540
+1972,Paraguay,541
+1973,Paraguay,571
+1974,Paraguay,553
+1975,Paraguay,528
+1976,Paraguay,548
+1977,Paraguay,580
+1978,Paraguay,631
+1979,Paraguay,623
+1980,Paraguay,655
+1981,Paraguay,636
+1982,Paraguay,630
+1983,Paraguay,626
+1984,Paraguay,619
+1985,Paraguay,614
+1986,Paraguay,622
+1987,Paraguay,698
+1988,Paraguay,726
+1989,Paraguay,769
+1990,Paraguay,728
+1991,Paraguay,732
+1992,Paraguay,711
+1993,Paraguay,720
+1994,Paraguay,768
+1995,Paraguay,822
+1996,Paraguay,822
+1997,Paraguay,874
+1998,Paraguay,844
+1999,Paraguay,789
+2000,Paraguay,723
+2001,Paraguay,722
+2002,Paraguay,702
+2003,Paraguay,704
+2004,Paraguay,699
+2005,Paraguay,680
+2006,Paraguay,690
+2007,Paraguay,705
+2008,Paraguay,729
+2009,Paraguay,728
+2010,Paraguay,769
+2011,Paraguay,770
+2012,Paraguay,778
+2013,Paraguay,759
+2014,Paraguay,783
+1960,Peru,
+1961,Peru,
+1962,Peru,
+1963,Peru,
+1964,Peru,
+1965,Peru,
+1966,Peru,
+1967,Peru,
+1968,Peru,
+1969,Peru,
+1970,Peru,
+1971,Peru,660
+1972,Peru,642
+1973,Peru,651
+1974,Peru,670
+1975,Peru,671
+1976,Peru,664
+1977,Peru,670
+1978,Peru,634
+1979,Peru,616
+1980,Peru,642
+1981,Peru,630
+1982,Peru,626
+1983,Peru,562
+1984,Peru,562
+1985,Peru,535
+1986,Peru,533
+1987,Peru,535
+1988,Peru,514
+1989,Peru,465
+1990,Peru,441
+1991,Peru,424
+1992,Peru,404
+1993,Peru,424
+1994,Peru,431
+1995,Peru,452
+1996,Peru,456
+1997,Peru,434
+1998,Peru,448
+1999,Peru,470
+2000,Peru,462
+2001,Peru,440
+2002,Peru,438
+2003,Peru,425
+2004,Peru,466
+2005,Peru,490
+2006,Peru,471
+2007,Peru,506
+2008,Peru,526
+2009,Peru,547
+2010,Peru,643
+2011,Peru,649
+2012,Peru,693
+2013,Peru,684
+2014,Peru,790
+1960,Philippines,
+1961,Philippines,
+1962,Philippines,
+1963,Philippines,
+1964,Philippines,
+1965,Philippines,
+1966,Philippines,
+1967,Philippines,
+1968,Philippines,
+1969,Philippines,
+1970,Philippines,
+1971,Philippines,416
+1972,Philippines,407
+1973,Philippines,440
+1974,Philippines,429
+1975,Philippines,442
+1976,Philippines,451
+1977,Philippines,457
+1978,Philippines,452
+1979,Philippines,466
+1980,Philippines,473
+1981,Philippines,463
+1982,Philippines,462
+1983,Philippines,489
+1984,Philippines,428
+1985,Philippines,438
+1986,Philippines,426
+1987,Philippines,434
+1988,Philippines,447
+1989,Philippines,458
+1990,Philippines,464
+1991,Philippines,452
+1992,Philippines,461
+1993,Philippines,450
+1994,Philippines,471
+1995,Philippines,482
+1996,Philippines,487
+1997,Philippines,501
+1998,Philippines,504
+1999,Philippines,506
+2000,Philippines,513
+2001,Philippines,481
+2002,Philippines,477
+2003,Philippines,469
+2004,Philippines,458
+2005,Philippines,450
+2006,Philippines,439
+2007,Philippines,432
+2008,Philippines,441
+2009,Philippines,413
+2010,Philippines,430
+2011,Philippines,426
+2012,Philippines,445
+2013,Philippines,453
+2014,Philippines,474
+1960,Poland,1830
+1961,Poland,1890
+1962,Poland,1980
+1963,Poland,1980
+1964,Poland,2030
+1965,Poland,2090
+1966,Poland,2140
+1967,Poland,2200
+1968,Poland,2290
+1969,Poland,2440
+1970,Poland,2550
+1971,Poland,2630
+1972,Poland,2690
+1973,Poland,2780
+1974,Poland,2880
+1975,Poland,3030
+1976,Poland,3160
+1977,Poland,3250
+1978,Poland,3490
+1979,Poland,3570
+1980,Poland,3560
+1981,Poland,3250
+1982,Poland,3410
+1983,Poland,3350
+1984,Poland,3210
+1985,Poland,3350
+1986,Poland,3460
+1987,Poland,3540
+1988,Poland,3500
+1989,Poland,3260
+1990,Poland,2710
+1991,Poland,2640
+1992,Poland,2570
+1993,Poland,2620
+1994,Poland,2500
+1995,Poland,2580
+1996,Poland,2680
+1997,Poland,2640
+1998,Poland,2460
+1999,Poland,2400
+2000,Poland,2320
+2001,Poland,2340
+2002,Poland,2310
+2003,Poland,2380
+2004,Poland,2380
+2005,Poland,2410
+2006,Poland,2540
+2007,Poland,2530
+2008,Poland,2560
+2009,Poland,2470
+2010,Poland,2640
+2011,Poland,2650
+2012,Poland,2570
+2013,Poland,2570
+2014,Poland,2470
+2015,Poland,2490
+1960,Portugal,337
+1961,Portugal,366
+1962,Portugal,363
+1963,Portugal,395
+1964,Portugal,410
+1965,Portugal,441
+1966,Portugal,452
+1967,Portugal,487
+1968,Portugal,497
+1969,Portugal,580
+1970,Portugal,664
+1971,Portugal,726
+1972,Portugal,745
+1973,Portugal,799
+1974,Portugal,824
+1975,Portugal,845
+1976,Portugal,872
+1977,Portugal,845
+1978,Portugal,917
+1979,Portugal,998
+1980,Portugal,1020
+1981,Portugal,1010
+1982,Portugal,1120
+1983,Portugal,1120
+1984,Portugal,1120
+1985,Portugal,1090
+1986,Portugal,1210
+1987,Portugal,1240
+1988,Portugal,1300
+1989,Portugal,1580
+1990,Portugal,1680
+1991,Portugal,1700
+1992,Portugal,1810
+1993,Portugal,1790
+1994,Portugal,1830
+1995,Portugal,2010
+1996,Portugal,1990
+1997,Portugal,2080
+1998,Portugal,2240
+1999,Portugal,2390
+2000,Portugal,2390
+2001,Portugal,2390
+2002,Portugal,2480
+2003,Portugal,2400
+2004,Portugal,2460
+2005,Portugal,2520
+2006,Portugal,2390
+2007,Portugal,2400
+2008,Portugal,2340
+2009,Portugal,2300
+2010,Portugal,2220
+2011,Portugal,2160
+2012,Portugal,2040
+2013,Portugal,2060
+2014,Portugal,2030
+2015,Portugal,2130
+1960,Qatar,
+1961,Qatar,
+1962,Qatar,
+1963,Qatar,
+1964,Qatar,
+1965,Qatar,
+1966,Qatar,
+1967,Qatar,
+1968,Qatar,
+1969,Qatar,
+1970,Qatar,
+1971,Qatar,7750
+1972,Qatar,7800
+1973,Qatar,10100
+1974,Qatar,8010
+1975,Qatar,12400
+1976,Qatar,8800
+1977,Qatar,9520
+1978,Qatar,8450
+1979,Qatar,13700
+1980,Qatar,14800
+1981,Qatar,16700
+1982,Qatar,17300
+1983,Qatar,16100
+1984,Qatar,16500
+1985,Qatar,15200
+1986,Qatar,15100
+1987,Qatar,14700
+1988,Qatar,14600
+1989,Qatar,14400
+1990,Qatar,13700
+1991,Qatar,14800
+1992,Qatar,15200
+1993,Qatar,15600
+1994,Qatar,15500
+1995,Qatar,15900
+1996,Qatar,16500
+1997,Qatar,19000
+1998,Qatar,19300
+1999,Qatar,19800
+2000,Qatar,18400
+2001,Qatar,19600
+2002,Qatar,21300
+2003,Qatar,20700
+2004,Qatar,22100
+2005,Qatar,19300
+2006,Qatar,19200
+2007,Qatar,18200
+2008,Qatar,15800
+2009,Qatar,14600
+2010,Qatar,14900
+2011,Qatar,15400
+2012,Qatar,17300
+2013,Qatar,17300
+2014,Qatar,17900
+1960,Romania,
+1961,Romania,
+1962,Romania,
+1963,Romania,
+1964,Romania,
+1965,Romania,
+1966,Romania,
+1967,Romania,
+1968,Romania,
+1969,Romania,
+1970,Romania,
+1971,Romania,2060
+1972,Romania,2130
+1973,Romania,2300
+1974,Romania,2290
+1975,Romania,2430
+1976,Romania,2590
+1977,Romania,2740
+1978,Romania,2920
+1979,Romania,2880
+1980,Romania,2940
+1981,Romania,2900
+1982,Romania,2880
+1983,Romania,2890
+1984,Romania,2860
+1985,Romania,2860
+1986,Romania,2920
+1987,Romania,3030
+1988,Romania,3030
+1989,Romania,2990
+1990,Romania,2680
+1991,Romania,2230
+1992,Romania,2050
+1993,Romania,2000
+1994,Romania,1890
+1995,Romania,2050
+1996,Romania,2110
+1997,Romania,1990
+1998,Romania,1820
+1999,Romania,1610
+2000,Romania,1610
+2001,Romania,1660
+2002,Romania,1760
+2003,Romania,1830
+2004,Romania,1800
+2005,Romania,1810
+2006,Romania,1880
+2007,Romania,1900
+2008,Romania,1930
+2009,Romania,1710
+2010,Romania,1730
+2011,Romania,1780
+2012,Romania,1740
+2013,Romania,1600
+2014,Romania,1590
+1960,Russia,
+1961,Russia,
+1962,Russia,
+1963,Russia,
+1964,Russia,
+1965,Russia,
+1966,Russia,
+1967,Russia,
+1968,Russia,
+1969,Russia,
+1970,Russia,
+1971,Russia,
+1972,Russia,
+1973,Russia,
+1974,Russia,
+1975,Russia,
+1976,Russia,
+1977,Russia,
+1978,Russia,
+1979,Russia,
+1980,Russia,
+1981,Russia,
+1982,Russia,
+1983,Russia,
+1984,Russia,
+1985,Russia,
+1986,Russia,
+1987,Russia,
+1988,Russia,
+1989,Russia,
+1990,Russia,5940
+1991,Russia,5870
+1992,Russia,5360
+1993,Russia,5060
+1994,Russia,4430
+1995,Russia,4290
+1996,Russia,4250
+1997,Russia,4070
+1998,Russia,3980
+1999,Russia,4140
+2000,Russia,4220
+2001,Russia,4290
+2002,Russia,4290
+2003,Russia,4460
+2004,Russia,4490
+2005,Russia,4540
+2006,Russia,4690
+2007,Russia,4710
+2008,Russia,4820
+2009,Russia,4530
+2010,Russia,4820
+2011,Russia,5050
+2012,Russia,5170
+2013,Russia,5080
+2014,Russia,4940
+1960,Samoa,
+1961,Samoa,
+1962,Samoa,
+1963,Samoa,
+1964,Samoa,
+1965,Samoa,
+1966,Samoa,
+1967,Samoa,
+1968,Samoa,
+1969,Samoa,
+1970,Samoa,
+1971,Samoa,
+1972,Samoa,
+1973,Samoa,
+1974,Samoa,
+1975,Samoa,
+1976,Samoa,
+1977,Samoa,
+1978,Samoa,
+1979,Samoa,
+1980,Samoa,
+1981,Samoa,
+1982,Samoa,
+1983,Samoa,
+1984,Samoa,
+1985,Samoa,
+1986,Samoa,
+1987,Samoa,
+1988,Samoa,
+1989,Samoa,
+1990,Samoa,266
+1991,Samoa,
+1992,Samoa,
+1993,Samoa,
+1994,Samoa,
+1995,Samoa,
+1996,Samoa,
+1997,Samoa,
+1998,Samoa,
+1999,Samoa,
+2000,Samoa,
+2001,Samoa,
+2002,Samoa,
+2003,Samoa,
+2004,Samoa,314
+2005,Samoa,317
+2006,Samoa,315
+2007,Samoa,319
+1960,Sao Tome and Principe,
+1961,Sao Tome and Principe,
+1962,Sao Tome and Principe,
+1963,Sao Tome and Principe,
+1964,Sao Tome and Principe,
+1965,Sao Tome and Principe,
+1966,Sao Tome and Principe,
+1967,Sao Tome and Principe,
+1968,Sao Tome and Principe,
+1969,Sao Tome and Principe,
+1970,Sao Tome and Principe,
+1971,Sao Tome and Principe,
+1972,Sao Tome and Principe,
+1973,Sao Tome and Principe,
+1974,Sao Tome and Principe,
+1975,Sao Tome and Principe,
+1976,Sao Tome and Principe,
+1977,Sao Tome and Principe,
+1978,Sao Tome and Principe,
+1979,Sao Tome and Principe,
+1980,Sao Tome and Principe,
+1981,Sao Tome and Principe,
+1982,Sao Tome and Principe,
+1983,Sao Tome and Principe,
+1984,Sao Tome and Principe,
+1985,Sao Tome and Principe,
+1986,Sao Tome and Principe,
+1987,Sao Tome and Principe,
+1988,Sao Tome and Principe,
+1989,Sao Tome and Principe,
+1990,Sao Tome and Principe,197
+1991,Sao Tome and Principe,
+1992,Sao Tome and Principe,
+1993,Sao Tome and Principe,
+1994,Sao Tome and Principe,
+1995,Sao Tome and Principe,
+1996,Sao Tome and Principe,
+1997,Sao Tome and Principe,
+1998,Sao Tome and Principe,
+1999,Sao Tome and Principe,
+2000,Sao Tome and Principe,
+2001,Sao Tome and Principe,
+2002,Sao Tome and Principe,
+2003,Sao Tome and Principe,
+2004,Sao Tome and Principe,247
+2005,Sao Tome and Principe,273
+2006,Sao Tome and Principe,272
+2007,Sao Tome and Principe,265
+1960,Saudi Arabia,
+1961,Saudi Arabia,
+1962,Saudi Arabia,
+1963,Saudi Arabia,
+1964,Saudi Arabia,
+1965,Saudi Arabia,
+1966,Saudi Arabia,
+1967,Saudi Arabia,
+1968,Saudi Arabia,
+1969,Saudi Arabia,
+1970,Saudi Arabia,
+1971,Saudi Arabia,1210
+1972,Saudi Arabia,978
+1973,Saudi Arabia,1080
+1974,Saudi Arabia,1150
+1975,Saudi Arabia,1180
+1976,Saudi Arabia,1300
+1977,Saudi Arabia,1380
+1978,Saudi Arabia,1980
+1979,Saudi Arabia,2460
+1980,Saudi Arabia,3210
+1981,Saudi Arabia,4100
+1982,Saudi Arabia,4310
+1983,Saudi Arabia,4430
+1984,Saudi Arabia,3680
+1985,Saudi Arabia,3510
+1986,Saudi Arabia,3330
+1987,Saudi Arabia,3800
+1988,Saudi Arabia,4170
+1989,Saudi Arabia,4010
+1990,Saudi Arabia,3570
+1991,Saudi Arabia,4030
+1992,Saudi Arabia,4450
+1993,Saudi Arabia,4500
+1994,Saudi Arabia,4610
+1995,Saudi Arabia,4530
+1996,Saudi Arabia,4750
+1997,Saudi Arabia,4440
+1998,Saudi Arabia,4650
+1999,Saudi Arabia,4630
+2000,Saudi Arabia,4740
+2001,Saudi Arabia,4740
+2002,Saudi Arabia,5100
+2003,Saudi Arabia,5010
+2004,Saudi Arabia,5180
+2005,Saudi Arabia,5150
+2006,Saudi Arabia,5540
+2007,Saudi Arabia,5570
+2008,Saudi Arabia,6050
+2009,Saudi Arabia,6260
+2010,Saudi Arabia,6760
+2011,Saudi Arabia,6300
+2012,Saudi Arabia,6870
+2013,Saudi Arabia,6390
+2014,Saudi Arabia,6910
+1960,Senegal,
+1961,Senegal,
+1962,Senegal,
+1963,Senegal,
+1964,Senegal,
+1965,Senegal,
+1966,Senegal,
+1967,Senegal,
+1968,Senegal,
+1969,Senegal,
+1970,Senegal,
+1971,Senegal,283
+1972,Senegal,279
+1973,Senegal,283
+1974,Senegal,283
+1975,Senegal,282
+1976,Senegal,280
+1977,Senegal,281
+1978,Senegal,275
+1979,Senegal,280
+1980,Senegal,280
+1981,Senegal,270
+1982,Senegal,260
+1983,Senegal,253
+1984,Senegal,258
+1985,Senegal,241
+1986,Senegal,245
+1987,Senegal,253
+1988,Senegal,234
+1989,Senegal,225
+1990,Senegal,224
+1991,Senegal,216
+1992,Senegal,223
+1993,Senegal,216
+1994,Senegal,208
+1995,Senegal,215
+1996,Senegal,214
+1997,Senegal,222
+1998,Senegal,229
+1999,Senegal,236
+2000,Senegal,245
+2001,Senegal,258
+2002,Senegal,256
+2003,Senegal,243
+2004,Senegal,253
+2005,Senegal,252
+2006,Senegal,246
+2007,Senegal,257
+2008,Senegal,261
+2009,Senegal,305
+2010,Senegal,302
+2011,Senegal,311
+2012,Senegal,300
+2013,Senegal,269
+2014,Senegal,279
+1960,Serbia,
+1961,Serbia,
+1962,Serbia,
+1963,Serbia,
+1964,Serbia,
+1965,Serbia,
+1966,Serbia,
+1967,Serbia,
+1968,Serbia,
+1969,Serbia,
+1970,Serbia,
+1971,Serbia,
+1972,Serbia,
+1973,Serbia,
+1974,Serbia,
+1975,Serbia,
+1976,Serbia,
+1977,Serbia,
+1978,Serbia,
+1979,Serbia,
+1980,Serbia,
+1981,Serbia,
+1982,Serbia,
+1983,Serbia,
+1984,Serbia,
+1985,Serbia,
+1986,Serbia,
+1987,Serbia,
+1988,Serbia,
+1989,Serbia,
+1990,Serbia,2600
+1991,Serbia,2200
+1992,Serbia,2020
+1993,Serbia,1710
+1994,Serbia,1570
+1995,Serbia,1810
+1996,Serbia,2180
+1997,Serbia,2300
+1998,Serbia,2300
+1999,Serbia,1690
+2000,Serbia,1830
+2001,Serbia,1990
+2002,Serbia,2120
+2003,Serbia,2220
+2004,Serbia,2420
+2005,Serbia,2160
+2006,Serbia,2300
+2007,Serbia,2250
+2008,Serbia,2290
+2009,Serbia,2070
+2010,Serbia,2140
+2011,Serbia,2240
+2012,Serbia,2020
+2013,Serbia,2080
+2014,Serbia,1860
+1960,Seychelles,
+1961,Seychelles,
+1962,Seychelles,
+1963,Seychelles,
+1964,Seychelles,
+1965,Seychelles,
+1966,Seychelles,
+1967,Seychelles,
+1968,Seychelles,
+1969,Seychelles,
+1970,Seychelles,
+1971,Seychelles,
+1972,Seychelles,
+1973,Seychelles,
+1974,Seychelles,
+1975,Seychelles,
+1976,Seychelles,
+1977,Seychelles,
+1978,Seychelles,
+1979,Seychelles,
+1980,Seychelles,
+1981,Seychelles,
+1982,Seychelles,
+1983,Seychelles,
+1984,Seychelles,
+1985,Seychelles,
+1986,Seychelles,
+1987,Seychelles,
+1988,Seychelles,
+1989,Seychelles,
+1990,Seychelles,541
+1991,Seychelles,
+1992,Seychelles,
+1993,Seychelles,
+1994,Seychelles,
+1995,Seychelles,
+1996,Seychelles,
+1997,Seychelles,
+1998,Seychelles,
+1999,Seychelles,
+2000,Seychelles,
+2001,Seychelles,
+2002,Seychelles,
+2003,Seychelles,
+2004,Seychelles,3100
+2005,Seychelles,2750
+2006,Seychelles,2870
+2007,Seychelles,2410
+1960,Singapore,
+1961,Singapore,
+1962,Singapore,
+1963,Singapore,
+1964,Singapore,
+1965,Singapore,
+1966,Singapore,
+1967,Singapore,
+1968,Singapore,
+1969,Singapore,
+1970,Singapore,
+1971,Singapore,1290
+1972,Singapore,1570
+1973,Singapore,1710
+1974,Singapore,1800
+1975,Singapore,1640
+1976,Singapore,1690
+1977,Singapore,1760
+1978,Singapore,2210
+1979,Singapore,2130
+1980,Singapore,2130
+1981,Singapore,2120
+1982,Singapore,1990
+1983,Singapore,2200
+1984,Singapore,2460
+1985,Singapore,2470
+1986,Singapore,2630
+1987,Singapore,2760
+1988,Singapore,2980
+1989,Singapore,2900
+1990,Singapore,3780
+1991,Singapore,4170
+1992,Singapore,4590
+1993,Singapore,5490
+1994,Singapore,6460
+1995,Singapore,5350
+1996,Singapore,5360
+1997,Singapore,5820
+1998,Singapore,5080
+1999,Singapore,4590
+2000,Singapore,4630
+2001,Singapore,5150
+2002,Singapore,5070
+2003,Singapore,6220
+2004,Singapore,7370
+2005,Singapore,5060
+2006,Singapore,5260
+2007,Singapore,4680
+2008,Singapore,5090
+2009,Singapore,4260
+2010,Singapore,5010
+2011,Singapore,5070
+2012,Singapore,4900
+2013,Singapore,4880
+2014,Singapore,5120
+1960,Slovak Republic,
+1961,Slovak Republic,
+1962,Slovak Republic,
+1963,Slovak Republic,
+1964,Slovak Republic,
+1965,Slovak Republic,
+1966,Slovak Republic,
+1967,Slovak Republic,
+1968,Slovak Republic,
+1969,Slovak Republic,
+1970,Slovak Republic,
+1971,Slovak Republic,3130
+1972,Slovak Republic,3220
+1973,Slovak Republic,3340
+1974,Slovak Republic,3460
+1975,Slovak Republic,3540
+1976,Slovak Republic,3630
+1977,Slovak Republic,3780
+1978,Slovak Republic,3930
+1979,Slovak Republic,3970
+1980,Slovak Republic,3980
+1981,Slovak Republic,3870
+1982,Slovak Republic,3750
+1983,Slovak Republic,3770
+1984,Slovak Republic,3930
+1985,Slovak Republic,4020
+1986,Slovak Republic,3980
+1987,Slovak Republic,4070
+1988,Slovak Republic,4110
+1989,Slovak Republic,4080
+1990,Slovak Republic,4020
+1991,Slovak Republic,3610
+1992,Slovak Republic,3410
+1993,Slovak Republic,3330
+1994,Slovak Republic,3260
+1995,Slovak Republic,3320
+1996,Slovak Republic,3360
+1997,Slovak Republic,3360
+1998,Slovak Republic,3260
+1999,Slovak Republic,3270
+2000,Slovak Republic,3290
+2001,Slovak Republic,3460
+2002,Slovak Republic,3480
+2003,Slovak Republic,3470
+2004,Slovak Republic,3420
+2005,Slovak Republic,3500
+2006,Slovak Republic,3470
+2007,Slovak Republic,3320
+2008,Slovak Republic,3410
+2009,Slovak Republic,3110
+2010,Slovak Republic,3310
+2011,Slovak Republic,3210
+2012,Slovak Republic,3080
+2013,Slovak Republic,3130
+2014,Slovak Republic,2940
+2015,Slovak Republic,3000
+1960,Slovenia,
+1961,Slovenia,
+1962,Slovenia,
+1963,Slovenia,
+1964,Slovenia,
+1965,Slovenia,
+1966,Slovenia,
+1967,Slovenia,
+1968,Slovenia,
+1969,Slovenia,
+1970,Slovenia,
+1971,Slovenia,
+1972,Slovenia,
+1973,Slovenia,
+1974,Slovenia,
+1975,Slovenia,
+1976,Slovenia,
+1977,Slovenia,
+1978,Slovenia,
+1979,Slovenia,
+1980,Slovenia,
+1981,Slovenia,
+1982,Slovenia,
+1983,Slovenia,
+1984,Slovenia,
+1985,Slovenia,
+1986,Slovenia,
+1987,Slovenia,
+1988,Slovenia,
+1989,Slovenia,
+1990,Slovenia,2860
+1991,Slovenia,2780
+1992,Slovenia,2580
+1993,Slovenia,2720
+1994,Slovenia,2830
+1995,Slovenia,3050
+1996,Slovenia,3180
+1997,Slovenia,3310
+1998,Slovenia,3250
+1999,Slovenia,3240
+2000,Slovenia,3220
+2001,Slovenia,3380
+2002,Slovenia,3420
+2003,Slovenia,3460
+2004,Slovenia,3570
+2005,Slovenia,3650
+2006,Slovenia,3650
+2007,Slovenia,3630
+2008,Slovenia,3840
+2009,Slovenia,3500
+2010,Slovenia,3580
+2011,Slovenia,3570
+2012,Slovenia,3420
+2013,Slovenia,3330
+2014,Slovenia,3240
+2015,Slovenia,3170
+1960,Solomon Islands,
+1961,Solomon Islands,
+1962,Solomon Islands,
+1963,Solomon Islands,
+1964,Solomon Islands,
+1965,Solomon Islands,
+1966,Solomon Islands,
+1967,Solomon Islands,
+1968,Solomon Islands,
+1969,Solomon Islands,
+1970,Solomon Islands,
+1971,Solomon Islands,
+1972,Solomon Islands,
+1973,Solomon Islands,
+1974,Solomon Islands,
+1975,Solomon Islands,
+1976,Solomon Islands,
+1977,Solomon Islands,
+1978,Solomon Islands,
+1979,Solomon Islands,
+1980,Solomon Islands,
+1981,Solomon Islands,
+1982,Solomon Islands,
+1983,Solomon Islands,
+1984,Solomon Islands,
+1985,Solomon Islands,
+1986,Solomon Islands,
+1987,Solomon Islands,
+1988,Solomon Islands,
+1989,Solomon Islands,
+1990,Solomon Islands,171
+1991,Solomon Islands,
+1992,Solomon Islands,
+1993,Solomon Islands,
+1994,Solomon Islands,
+1995,Solomon Islands,
+1996,Solomon Islands,
+1997,Solomon Islands,
+1998,Solomon Islands,
+1999,Solomon Islands,
+2000,Solomon Islands,
+2001,Solomon Islands,
+2002,Solomon Islands,
+2003,Solomon Islands,
+2004,Solomon Islands,126
+2005,Solomon Islands,123
+2006,Solomon Islands,123
+2007,Solomon Islands,130
+1960,South Africa,
+1961,South Africa,
+1962,South Africa,
+1963,South Africa,
+1964,South Africa,
+1965,South Africa,
+1966,South Africa,
+1967,South Africa,
+1968,South Africa,
+1969,South Africa,
+1970,South Africa,
+1971,South Africa,2000
+1972,South Africa,1980
+1973,South Africa,2060
+1974,South Africa,2080
+1975,South Africa,2140
+1976,South Africa,2160
+1977,South Africa,2150
+1978,South Africa,2220
+1979,South Africa,2230
+1980,South Africa,2290
+1981,South Africa,2450
+1982,South Africa,2590
+1983,South Africa,2570
+1984,South Africa,2710
+1985,South Africa,2640
+1986,South Africa,2690
+1987,South Africa,2720
+1988,South Africa,2760
+1989,South Africa,2590
+1990,South Africa,2470
+1991,South Africa,2520
+1992,South Africa,2290
+1993,South Africa,2400
+1994,South Africa,2420
+1995,South Africa,2500
+1996,South Africa,2500
+1997,South Africa,2530
+1998,South Africa,2470
+1999,South Africa,2460
+2000,South Africa,2420
+2001,South Africa,2460
+2002,South Africa,2380
+2003,South Africa,2520
+2004,South Africa,2720
+2005,South Africa,2680
+2006,South Africa,2630
+2007,South Africa,2780
+2008,South Africa,2950
+2009,South Africa,2850
+2010,South Africa,2770
+2011,South Africa,2720
+2012,South Africa,2640
+2013,South Africa,2600
+2014,South Africa,2700
+1960,South Korea,
+1961,South Korea,
+1962,South Korea,
+1963,South Korea,
+1964,South Korea,
+1965,South Korea,
+1966,South Korea,
+1967,South Korea,
+1968,South Korea,
+1969,South Korea,
+1970,South Korea,
+1971,South Korea,516
+1972,South Korea,551
+1973,South Korea,632
+1974,South Korea,675
+1975,South Korea,693
+1976,South Korea,758
+1977,South Korea,866
+1978,South Korea,935
+1979,South Korea,1060
+1980,South Korea,1080
+1981,South Korea,1050
+1982,South Korea,1100
+1983,South Korea,1170
+1984,South Korea,1260
+1985,South Korea,1300
+1986,South Korea,1480
+1987,South Korea,1580
+1988,South Korea,1760
+1989,South Korea,1860
+1990,South Korea,2170
+1991,South Korea,2310
+1992,South Korea,2530
+1993,South Korea,2810
+1994,South Korea,2960
+1995,South Korea,3210
+1996,South Korea,3450
+1997,South Korea,3730
+1998,South Korea,3380
+1999,South Korea,3710
+2000,South Korea,4000
+2001,South Korea,4030
+2002,South Korea,4170
+2003,South Korea,4230
+2004,South Korea,4330
+2005,South Korea,4360
+2006,South Korea,4410
+2007,South Korea,4560
+2008,South Korea,4630
+2009,South Korea,4650
+2010,South Korea,5050
+2011,South Korea,5220
+2012,South Korea,5250
+2013,South Korea,5230
+2014,South Korea,5290
+2015,South Korea,5410
+1960,South Sudan,
+1961,South Sudan,
+1962,South Sudan,
+1963,South Sudan,
+1964,South Sudan,
+1965,South Sudan,
+1966,South Sudan,
+1967,South Sudan,
+1968,South Sudan,
+1969,South Sudan,
+1970,South Sudan,
+1971,South Sudan,
+1972,South Sudan,
+1973,South Sudan,
+1974,South Sudan,
+1975,South Sudan,
+1976,South Sudan,
+1977,South Sudan,
+1978,South Sudan,
+1979,South Sudan,
+1980,South Sudan,
+1981,South Sudan,
+1982,South Sudan,
+1983,South Sudan,
+1984,South Sudan,
+1985,South Sudan,
+1986,South Sudan,
+1987,South Sudan,
+1988,South Sudan,
+1989,South Sudan,
+1990,South Sudan,
+1991,South Sudan,
+1992,South Sudan,
+1993,South Sudan,
+1994,South Sudan,
+1995,South Sudan,
+1996,South Sudan,
+1997,South Sudan,
+1998,South Sudan,
+1999,South Sudan,
+2000,South Sudan,
+2001,South Sudan,
+2002,South Sudan,
+2003,South Sudan,
+2004,South Sudan,
+2005,South Sudan,
+2006,South Sudan,
+2007,South Sudan,
+2008,South Sudan,
+2009,South Sudan,
+2010,South Sudan,
+2011,South Sudan,
+2012,South Sudan,63.7
+2013,South Sudan,65.4
+2014,South Sudan,66.3
+1960,Spain,531
+1961,Spain,558
+1962,Spain,605
+1963,Spain,624
+1964,Spain,684
+1965,Spain,715
+1966,Spain,791
+1967,Spain,881
+1968,Spain,994
+1969,Spain,1050
+1970,Spain,1120
+1971,Spain,1240
+1972,Spain,1300
+1973,Spain,1470
+1974,Spain,1580
+1975,Spain,1610
+1976,Spain,1710
+1977,Spain,1660
+1978,Spain,1760
+1979,Spain,1770
+1980,Spain,1810
+1981,Spain,1820
+1982,Spain,1760
+1983,Spain,1780
+1984,Spain,1810
+1985,Spain,1840
+1986,Spain,1880
+1987,Spain,1920
+1988,Spain,2070
+1989,Spain,2270
+1990,Spain,2320
+1991,Spain,2400
+1992,Spain,2430
+1993,Spain,2320
+1994,Spain,2440
+1995,Spain,2540
+1996,Spain,2490
+1997,Spain,2630
+1998,Spain,2760
+1999,Spain,2880
+2000,Spain,3000
+2001,Spain,3060
+2002,Spain,3110
+2003,Spain,3160
+2004,Spain,3240
+2005,Spain,3250
+2006,Spain,3190
+2007,Spain,3180
+2008,Spain,3030
+2009,Spain,2760
+2010,Spain,2740
+2011,Spain,2690
+2012,Spain,2680
+2013,Spain,2510
+2014,Spain,2460
+2015,Spain,2570
+1960,Sri Lanka,
+1961,Sri Lanka,
+1962,Sri Lanka,
+1963,Sri Lanka,
+1964,Sri Lanka,
+1965,Sri Lanka,
+1966,Sri Lanka,
+1967,Sri Lanka,
+1968,Sri Lanka,
+1969,Sri Lanka,
+1970,Sri Lanka,
+1971,Sri Lanka,298
+1972,Sri Lanka,311
+1973,Sri Lanka,312
+1974,Sri Lanka,291
+1975,Sri Lanka,299
+1976,Sri Lanka,295
+1977,Sri Lanka,287
+1978,Sri Lanka,297
+1979,Sri Lanka,303
+1980,Sri Lanka,302
+1981,Sri Lanka,303
+1982,Sri Lanka,316
+1983,Sri Lanka,313
+1984,Sri Lanka,318
+1985,Sri Lanka,309
+1986,Sri Lanka,315
+1987,Sri Lanka,322
+1988,Sri Lanka,322
+1989,Sri Lanka,319
+1990,Sri Lanka,318
+1991,Sri Lanka,319
+1992,Sri Lanka,324
+1993,Sri Lanka,338
+1994,Sri Lanka,321
+1995,Sri Lanka,329
+1996,Sri Lanka,366
+1997,Sri Lanka,377
+1998,Sri Lanka,381
+1999,Sri Lanka,405
+2000,Sri Lanka,443
+2001,Sri Lanka,426
+2002,Sri Lanka,430
+2003,Sri Lanka,452
+2004,Sri Lanka,454
+2005,Sri Lanka,461
+2006,Sri Lanka,461
+2007,Sri Lanka,467
+2008,Sri Lanka,456
+2009,Sri Lanka,450
+2010,Sri Lanka,481
+2011,Sri Lanka,513
+2012,Sri Lanka,551
+2013,Sri Lanka,487
+2014,Sri Lanka,516
+1960,St. Kitts and Nevis,
+1961,St. Kitts and Nevis,
+1962,St. Kitts and Nevis,
+1963,St. Kitts and Nevis,
+1964,St. Kitts and Nevis,
+1965,St. Kitts and Nevis,
+1966,St. Kitts and Nevis,
+1967,St. Kitts and Nevis,
+1968,St. Kitts and Nevis,
+1969,St. Kitts and Nevis,
+1970,St. Kitts and Nevis,
+1971,St. Kitts and Nevis,
+1972,St. Kitts and Nevis,
+1973,St. Kitts and Nevis,
+1974,St. Kitts and Nevis,
+1975,St. Kitts and Nevis,
+1976,St. Kitts and Nevis,
+1977,St. Kitts and Nevis,
+1978,St. Kitts and Nevis,
+1979,St. Kitts and Nevis,
+1980,St. Kitts and Nevis,
+1981,St. Kitts and Nevis,
+1982,St. Kitts and Nevis,
+1983,St. Kitts and Nevis,
+1984,St. Kitts and Nevis,
+1985,St. Kitts and Nevis,
+1986,St. Kitts and Nevis,
+1987,St. Kitts and Nevis,
+1988,St. Kitts and Nevis,
+1989,St. Kitts and Nevis,
+1990,St. Kitts and Nevis,537
+1991,St. Kitts and Nevis,
+1992,St. Kitts and Nevis,
+1993,St. Kitts and Nevis,
+1994,St. Kitts and Nevis,
+1995,St. Kitts and Nevis,
+1996,St. Kitts and Nevis,
+1997,St. Kitts and Nevis,
+1998,St. Kitts and Nevis,
+1999,St. Kitts and Nevis,
+2000,St. Kitts and Nevis,
+2001,St. Kitts and Nevis,
+2002,St. Kitts and Nevis,
+2003,St. Kitts and Nevis,
+2004,St. Kitts and Nevis,1640
+2005,St. Kitts and Nevis,1690
+2006,St. Kitts and Nevis,1670
+2007,St. Kitts and Nevis,1740
+1960,St. Lucia,
+1961,St. Lucia,
+1962,St. Lucia,
+1963,St. Lucia,
+1964,St. Lucia,
+1965,St. Lucia,
+1966,St. Lucia,
+1967,St. Lucia,
+1968,St. Lucia,
+1969,St. Lucia,
+1970,St. Lucia,
+1971,St. Lucia,
+1972,St. Lucia,
+1973,St. Lucia,
+1974,St. Lucia,
+1975,St. Lucia,
+1976,St. Lucia,
+1977,St. Lucia,
+1978,St. Lucia,
+1979,St. Lucia,
+1980,St. Lucia,
+1981,St. Lucia,
+1982,St. Lucia,
+1983,St. Lucia,
+1984,St. Lucia,
+1985,St. Lucia,
+1986,St. Lucia,
+1987,St. Lucia,
+1988,St. Lucia,
+1989,St. Lucia,
+1990,St. Lucia,405
+1991,St. Lucia,
+1992,St. Lucia,
+1993,St. Lucia,
+1994,St. Lucia,
+1995,St. Lucia,
+1996,St. Lucia,
+1997,St. Lucia,
+1998,St. Lucia,
+1999,St. Lucia,
+2000,St. Lucia,
+2001,St. Lucia,
+2002,St. Lucia,
+2003,St. Lucia,
+2004,St. Lucia,742
+2005,St. Lucia,753
+2006,St. Lucia,720
+2007,St. Lucia,764
+1960,St. Vincent and the Grenadines,
+1961,St. Vincent and the Grenadines,
+1962,St. Vincent and the Grenadines,
+1963,St. Vincent and the Grenadines,
+1964,St. Vincent and the Grenadines,
+1965,St. Vincent and the Grenadines,
+1966,St. Vincent and the Grenadines,
+1967,St. Vincent and the Grenadines,
+1968,St. Vincent and the Grenadines,
+1969,St. Vincent and the Grenadines,
+1970,St. Vincent and the Grenadines,
+1971,St. Vincent and the Grenadines,
+1972,St. Vincent and the Grenadines,
+1973,St. Vincent and the Grenadines,
+1974,St. Vincent and the Grenadines,
+1975,St. Vincent and the Grenadines,
+1976,St. Vincent and the Grenadines,
+1977,St. Vincent and the Grenadines,
+1978,St. Vincent and the Grenadines,
+1979,St. Vincent and the Grenadines,
+1980,St. Vincent and the Grenadines,
+1981,St. Vincent and the Grenadines,
+1982,St. Vincent and the Grenadines,
+1983,St. Vincent and the Grenadines,
+1984,St. Vincent and the Grenadines,
+1985,St. Vincent and the Grenadines,
+1986,St. Vincent and the Grenadines,
+1987,St. Vincent and the Grenadines,
+1988,St. Vincent and the Grenadines,
+1989,St. Vincent and the Grenadines,
+1990,St. Vincent and the Grenadines,274
+1991,St. Vincent and the Grenadines,
+1992,St. Vincent and the Grenadines,
+1993,St. Vincent and the Grenadines,
+1994,St. Vincent and the Grenadines,
+1995,St. Vincent and the Grenadines,
+1996,St. Vincent and the Grenadines,
+1997,St. Vincent and the Grenadines,
+1998,St. Vincent and the Grenadines,
+1999,St. Vincent and the Grenadines,
+2000,St. Vincent and the Grenadines,
+2001,St. Vincent and the Grenadines,
+2002,St. Vincent and the Grenadines,
+2003,St. Vincent and the Grenadines,
+2004,St. Vincent and the Grenadines,608
+2005,St. Vincent and the Grenadines,617
+2006,St. Vincent and the Grenadines,645
+2007,St. Vincent and the Grenadines,645
+1960,Sudan,
+1961,Sudan,
+1962,Sudan,
+1963,Sudan,
+1964,Sudan,
+1965,Sudan,
+1966,Sudan,
+1967,Sudan,
+1968,Sudan,
+1969,Sudan,
+1970,Sudan,
+1971,Sudan,491
+1972,Sudan,485
+1973,Sudan,485
+1974,Sudan,475
+1975,Sudan,461
+1976,Sudan,447
+1977,Sudan,446
+1978,Sudan,438
+1979,Sudan,427
+1980,Sudan,438
+1981,Sudan,427
+1982,Sudan,431
+1983,Sudan,430
+1984,Sudan,415
+1985,Sudan,420
+1986,Sudan,414
+1987,Sudan,397
+1988,Sudan,412
+1989,Sudan,401
+1990,Sudan,412
+1991,Sudan,399
+1992,Sudan,387
+1993,Sudan,364
+1994,Sudan,408
+1995,Sudan,397
+1996,Sudan,395
+1997,Sudan,392
+1998,Sudan,386
+1999,Sudan,416
+2000,Sudan,383
+2001,Sudan,390
+2002,Sudan,411
+2003,Sudan,388
+2004,Sudan,377
+2005,Sudan,374
+2006,Sudan,390
+2007,Sudan,366
+2008,Sudan,362
+2009,Sudan,364
+2010,Sudan,362
+2011,Sudan,351
+2012,Sudan,380
+2013,Sudan,380
+2014,Sudan,381
+1960,Suriname,
+1961,Suriname,
+1962,Suriname,
+1963,Suriname,
+1964,Suriname,
+1965,Suriname,
+1966,Suriname,
+1967,Suriname,
+1968,Suriname,
+1969,Suriname,
+1970,Suriname,
+1971,Suriname,
+1972,Suriname,
+1973,Suriname,
+1974,Suriname,
+1975,Suriname,
+1976,Suriname,
+1977,Suriname,
+1978,Suriname,
+1979,Suriname,
+1980,Suriname,
+1981,Suriname,
+1982,Suriname,
+1983,Suriname,
+1984,Suriname,
+1985,Suriname,
+1986,Suriname,
+1987,Suriname,
+1988,Suriname,
+1989,Suriname,
+1990,Suriname,
+1991,Suriname,
+1992,Suriname,
+1993,Suriname,
+1994,Suriname,
+1995,Suriname,
+1996,Suriname,
+1997,Suriname,
+1998,Suriname,
+1999,Suriname,
+2000,Suriname,1340
+2001,Suriname,1420
+2002,Suriname,979
+2003,Suriname,1030
+2004,Suriname,1120
+2005,Suriname,1270
+2006,Suriname,1190
+2007,Suriname,1110
+2008,Suriname,1160
+2009,Suriname,1150
+2010,Suriname,1360
+2011,Suriname,1310
+2012,Suriname,1440
+2013,Suriname,1260
+2014,Suriname,1250
+1960,Sweden,2700
+1961,Sweden,2740
+1962,Sweden,2890
+1963,Sweden,3080
+1964,Sweden,3270
+1965,Sweden,3440
+1966,Sweden,3640
+1967,Sweden,3630
+1968,Sweden,4000
+1969,Sweden,4300
+1970,Sweden,4680
+1971,Sweden,4450
+1972,Sweden,4530
+1973,Sweden,4770
+1974,Sweden,4510
+1975,Sweden,4760
+1976,Sweden,5150
+1977,Sweden,5050
+1978,Sweden,5020
+1979,Sweden,5230
+1980,Sweden,4870
+1981,Sweden,5100
+1982,Sweden,4880
+1983,Sweden,4940
+1984,Sweden,5220
+1985,Sweden,5660
+1986,Sweden,5880
+1987,Sweden,5760
+1988,Sweden,5850
+1989,Sweden,5590
+1990,Sweden,5510
+1991,Sweden,5650
+1992,Sweden,5370
+1993,Sweden,5330
+1994,Sweden,5660
+1995,Sweden,5700
+1996,Sweden,5830
+1997,Sweden,5670
+1998,Sweden,5770
+1999,Sweden,5660
+2000,Sweden,5360
+2001,Sweden,5680
+2002,Sweden,5800
+2003,Sweden,5650
+2004,Sweden,5850
+2005,Sweden,5710
+2006,Sweden,5530
+2007,Sweden,5470
+2008,Sweden,5380
+2009,Sweden,4880
+2010,Sweden,5430
+2011,Sweden,5270
+2012,Sweden,5270
+2013,Sweden,5150
+2014,Sweden,4970
+2015,Sweden,5100
+1960,Switzerland,1400
+1961,Switzerland,1450
+1962,Switzerland,1570
+1963,Switzerland,1870
+1964,Switzerland,1820
+1965,Switzerland,1940
+1966,Switzerland,1970
+1967,Switzerland,2040
+1968,Switzerland,2170
+1969,Switzerland,2330
+1970,Switzerland,2560
+1971,Switzerland,2640
+1972,Switzerland,2730
+1973,Switzerland,3000
+1974,Switzerland,2780
+1975,Switzerland,2710
+1976,Switzerland,2820
+1977,Switzerland,2880
+1978,Switzerland,3000
+1979,Switzerland,3040
+1980,Switzerland,3170
+1981,Switzerland,3090
+1982,Switzerland,2980
+1983,Switzerland,3170
+1984,Switzerland,3240
+1985,Switzerland,3410
+1986,Switzerland,3540
+1987,Switzerland,3430
+1988,Switzerland,3440
+1989,Switzerland,3340
+1990,Switzerland,3630
+1991,Switzerland,3640
+1992,Switzerland,3610
+1993,Switzerland,3490
+1994,Switzerland,3490
+1995,Switzerland,3420
+1996,Switzerland,3470
+1997,Switzerland,3530
+1998,Switzerland,3560
+1999,Switzerland,3550
+2000,Switzerland,3480
+2001,Switzerland,3670
+2002,Switzerland,3550
+2003,Switzerland,3540
+2004,Switzerland,3530
+2005,Switzerland,3490
+2006,Switzerland,3620
+2007,Switzerland,3410
+2008,Switzerland,3500
+2009,Switzerland,3480
+2010,Switzerland,3350
+2011,Switzerland,3210
+2012,Switzerland,3200
+2013,Switzerland,3300
+2014,Switzerland,3060
+2015,Switzerland,2960
+1960,Syria,
+1961,Syria,
+1962,Syria,
+1963,Syria,
+1964,Syria,
+1965,Syria,
+1966,Syria,
+1967,Syria,
+1968,Syria,
+1969,Syria,
+1970,Syria,
+1971,Syria,362
+1972,Syria,291
+1973,Syria,292
+1974,Syria,363
+1975,Syria,405
+1976,Syria,444
+1977,Syria,477
+1978,Syria,504
+1979,Syria,632
+1980,Syria,500
+1981,Syria,576
+1982,Syria,667
+1983,Syria,738
+1984,Syria,820
+1985,Syria,735
+1986,Syria,731
+1987,Syria,787
+1988,Syria,791
+1989,Syria,770
+1990,Syria,841
+1991,Syria,890
+1992,Syria,827
+1993,Syria,808
+1994,Syria,820
+1995,Syria,843
+1996,Syria,866
+1997,Syria,914
+1998,Syria,991
+1999,Syria,961
+2000,Syria,941
+2001,Syria,945
+2002,Syria,963
+2003,Syria,950
+2004,Syria,970
+2005,Syria,1130
+2006,Syria,1130
+2007,Syria,1140
+2008,Syria,1120
+2009,Syria,1010
+2010,Syria,1010
+2011,Syria,944
+2012,Syria,726
+2013,Syria,594
+2014,Syria,577
+1960,Tajikistan,
+1961,Tajikistan,
+1962,Tajikistan,
+1963,Tajikistan,
+1964,Tajikistan,
+1965,Tajikistan,
+1966,Tajikistan,
+1967,Tajikistan,
+1968,Tajikistan,
+1969,Tajikistan,
+1970,Tajikistan,
+1971,Tajikistan,
+1972,Tajikistan,
+1973,Tajikistan,
+1974,Tajikistan,
+1975,Tajikistan,
+1976,Tajikistan,
+1977,Tajikistan,
+1978,Tajikistan,
+1979,Tajikistan,
+1980,Tajikistan,
+1981,Tajikistan,
+1982,Tajikistan,
+1983,Tajikistan,
+1984,Tajikistan,
+1985,Tajikistan,
+1986,Tajikistan,
+1987,Tajikistan,
+1988,Tajikistan,
+1989,Tajikistan,
+1990,Tajikistan,1000
+1991,Tajikistan,939
+1992,Tajikistan,753
+1993,Tajikistan,580
+1994,Tajikistan,438
+1995,Tajikistan,386
+1996,Tajikistan,367
+1997,Tajikistan,361
+1998,Tajikistan,373
+1999,Tajikistan,366
+2000,Tajikistan,346
+2001,Tajikistan,336
+2002,Tajikistan,331
+2003,Tajikistan,331
+2004,Tajikistan,352
+2005,Tajikistan,345
+2006,Tajikistan,349
+2007,Tajikistan,365
+2008,Tajikistan,340
+2009,Tajikistan,290
+2010,Tajikistan,289
+2011,Tajikistan,283
+2012,Tajikistan,298
+2013,Tajikistan,323
+2014,Tajikistan,340
+1960,Tanzania,
+1961,Tanzania,
+1962,Tanzania,
+1963,Tanzania,
+1964,Tanzania,
+1965,Tanzania,
+1966,Tanzania,
+1967,Tanzania,
+1968,Tanzania,
+1969,Tanzania,
+1970,Tanzania,
+1971,Tanzania,542
+1972,Tanzania,530
+1973,Tanzania,516
+1974,Tanzania,498
+1975,Tanzania,483
+1976,Tanzania,473
+1977,Tanzania,458
+1978,Tanzania,450
+1979,Tanzania,440
+1980,Tanzania,432
+1981,Tanzania,425
+1982,Tanzania,418
+1983,Tanzania,414
+1984,Tanzania,409
+1985,Tanzania,405
+1986,Tanzania,403
+1987,Tanzania,398
+1988,Tanzania,393
+1989,Tanzania,390
+1990,Tanzania,386
+1991,Tanzania,381
+1992,Tanzania,373
+1993,Tanzania,371
+1994,Tanzania,365
+1995,Tanzania,372
+1996,Tanzania,367
+1997,Tanzania,361
+1998,Tanzania,376
+1999,Tanzania,390
+2000,Tanzania,402
+2001,Tanzania,413
+2002,Tanzania,423
+2003,Tanzania,427
+2004,Tanzania,441
+2005,Tanzania,448
+2006,Tanzania,452
+2007,Tanzania,455
+2008,Tanzania,457
+2009,Tanzania,456
+2010,Tanzania,466
+2011,Tanzania,478
+2012,Tanzania,493
+2013,Tanzania,495
+2014,Tanzania,497
+1960,Thailand,
+1961,Thailand,
+1962,Thailand,
+1963,Thailand,
+1964,Thailand,
+1965,Thailand,
+1966,Thailand,
+1967,Thailand,
+1968,Thailand,
+1969,Thailand,
+1970,Thailand,
+1971,Thailand,361
+1972,Thailand,368
+1973,Thailand,389
+1974,Thailand,386
+1975,Thailand,410
+1976,Thailand,434
+1977,Thailand,452
+1978,Thailand,459
+1979,Thailand,474
+1980,Thailand,464
+1981,Thailand,460
+1982,Thailand,457
+1983,Thailand,412
+1984,Thailand,446
+1985,Thailand,475
+1986,Thailand,490
+1987,Thailand,532
+1988,Thailand,596
+1989,Thailand,657
+1990,Thailand,742
+1991,Thailand,796
+1992,Thailand,839
+1993,Thailand,878
+1994,Thailand,962
+1995,Thailand,1040
+1996,Thailand,1150
+1997,Thailand,1160
+1998,Thailand,1070
+1999,Thailand,1130
+2000,Thailand,1150
+2001,Thailand,1170
+2002,Thailand,1280
+2003,Thailand,1380
+2004,Thailand,1480
+2005,Thailand,1510
+2006,Thailand,1530
+2007,Thailand,1590
+2008,Thailand,1620
+2009,Thailand,1610
+2010,Thailand,1750
+2011,Thailand,1740
+2012,Thailand,1860
+2013,Thailand,1990
+2014,Thailand,1970
+1960,Timor-Leste,
+1961,Timor-Leste,
+1962,Timor-Leste,
+1963,Timor-Leste,
+1964,Timor-Leste,
+1965,Timor-Leste,
+1966,Timor-Leste,
+1967,Timor-Leste,
+1968,Timor-Leste,
+1969,Timor-Leste,
+1970,Timor-Leste,
+1971,Timor-Leste,
+1972,Timor-Leste,
+1973,Timor-Leste,
+1974,Timor-Leste,
+1975,Timor-Leste,
+1976,Timor-Leste,
+1977,Timor-Leste,
+1978,Timor-Leste,
+1979,Timor-Leste,
+1980,Timor-Leste,
+1981,Timor-Leste,
+1982,Timor-Leste,
+1983,Timor-Leste,
+1984,Timor-Leste,
+1985,Timor-Leste,
+1986,Timor-Leste,
+1987,Timor-Leste,
+1988,Timor-Leste,
+1989,Timor-Leste,
+1990,Timor-Leste,
+1991,Timor-Leste,
+1992,Timor-Leste,
+1993,Timor-Leste,
+1994,Timor-Leste,
+1995,Timor-Leste,
+1996,Timor-Leste,
+1997,Timor-Leste,
+1998,Timor-Leste,
+1999,Timor-Leste,
+2000,Timor-Leste,
+2001,Timor-Leste,
+2002,Timor-Leste,
+2003,Timor-Leste,
+2004,Timor-Leste,59.7
+2005,Timor-Leste,58.3
+2006,Timor-Leste,58
+2007,Timor-Leste,58.9
+1960,Togo,
+1961,Togo,
+1962,Togo,
+1963,Togo,
+1964,Togo,
+1965,Togo,
+1966,Togo,
+1967,Togo,
+1968,Togo,
+1969,Togo,
+1970,Togo,
+1971,Togo,333
+1972,Togo,332
+1973,Togo,324
+1974,Togo,317
+1975,Togo,323
+1976,Togo,316
+1977,Togo,328
+1978,Togo,330
+1979,Togo,335
+1980,Togo,326
+1981,Togo,322
+1982,Togo,327
+1983,Togo,308
+1984,Togo,308
+1985,Togo,303
+1986,Togo,320
+1987,Togo,328
+1988,Togo,325
+1989,Togo,326
+1990,Togo,335
+1991,Togo,335
+1992,Togo,332
+1993,Togo,327
+1994,Togo,361
+1995,Togo,371
+1996,Togo,404
+1997,Togo,386
+1998,Togo,399
+1999,Togo,442
+2000,Togo,429
+2001,Togo,416
+2002,Togo,420
+2003,Togo,432
+2004,Togo,426
+2005,Togo,423
+2006,Togo,411
+2007,Togo,415
+2008,Togo,421
+2009,Togo,498
+2010,Togo,485
+2011,Togo,475
+2012,Togo,461
+2013,Togo,461
+2014,Togo,462
+1960,Tonga,
+1961,Tonga,
+1962,Tonga,
+1963,Tonga,
+1964,Tonga,
+1965,Tonga,
+1966,Tonga,
+1967,Tonga,
+1968,Tonga,
+1969,Tonga,
+1970,Tonga,
+1971,Tonga,
+1972,Tonga,
+1973,Tonga,
+1974,Tonga,
+1975,Tonga,
+1976,Tonga,
+1977,Tonga,
+1978,Tonga,
+1979,Tonga,
+1980,Tonga,
+1981,Tonga,
+1982,Tonga,
+1983,Tonga,
+1984,Tonga,
+1985,Tonga,
+1986,Tonga,
+1987,Tonga,
+1988,Tonga,
+1989,Tonga,
+1990,Tonga,267
+1991,Tonga,
+1992,Tonga,
+1993,Tonga,
+1994,Tonga,
+1995,Tonga,
+1996,Tonga,
+1997,Tonga,
+1998,Tonga,
+1999,Tonga,
+2000,Tonga,
+2001,Tonga,
+2002,Tonga,
+2003,Tonga,
+2004,Tonga,569
+2005,Tonga,565
+2006,Tonga,560
+2007,Tonga,565
+1960,Trinidad and Tobago,
+1961,Trinidad and Tobago,
+1962,Trinidad and Tobago,
+1963,Trinidad and Tobago,
+1964,Trinidad and Tobago,
+1965,Trinidad and Tobago,
+1966,Trinidad and Tobago,
+1967,Trinidad and Tobago,
+1968,Trinidad and Tobago,
+1969,Trinidad and Tobago,
+1970,Trinidad and Tobago,
+1971,Trinidad and Tobago,2760
+1972,Trinidad and Tobago,2770
+1973,Trinidad and Tobago,2690
+1974,Trinidad and Tobago,2680
+1975,Trinidad and Tobago,2300
+1976,Trinidad and Tobago,2510
+1977,Trinidad and Tobago,2810
+1978,Trinidad and Tobago,3330
+1979,Trinidad and Tobago,3400
+1980,Trinidad and Tobago,3530
+1981,Trinidad and Tobago,3690
+1982,Trinidad and Tobago,3650
+1983,Trinidad and Tobago,3720
+1984,Trinidad and Tobago,4140
+1985,Trinidad and Tobago,4350
+1986,Trinidad and Tobago,4500
+1987,Trinidad and Tobago,4190
+1988,Trinidad and Tobago,4560
+1989,Trinidad and Tobago,4400
+1990,Trinidad and Tobago,4900
+1991,Trinidad and Tobago,4840
+1992,Trinidad and Tobago,5290
+1993,Trinidad and Tobago,5030
+1994,Trinidad and Tobago,5040
+1995,Trinidad and Tobago,4900
+1996,Trinidad and Tobago,5780
+1997,Trinidad and Tobago,5440
+1998,Trinidad and Tobago,6310
+1999,Trinidad and Tobago,7350
+2000,Trinidad and Tobago,7760
+2001,Trinidad and Tobago,8640
+2002,Trinidad and Tobago,9360
+2003,Trinidad and Tobago,10400
+2004,Trinidad and Tobago,10900
+2005,Trinidad and Tobago,12400
+2006,Trinidad and Tobago,13800
+2007,Trinidad and Tobago,14600
+2008,Trinidad and Tobago,14100
+2009,Trinidad and Tobago,14200
+2010,Trinidad and Tobago,15100
+2011,Trinidad and Tobago,14800
+2012,Trinidad and Tobago,14300
+2013,Trinidad and Tobago,14500
+2014,Trinidad and Tobago,14400
+1960,Tunisia,
+1961,Tunisia,
+1962,Tunisia,
+1963,Tunisia,
+1964,Tunisia,
+1965,Tunisia,
+1966,Tunisia,
+1967,Tunisia,
+1968,Tunisia,
+1969,Tunisia,
+1970,Tunisia,
+1971,Tunisia,320
+1972,Tunisia,342
+1973,Tunisia,349
+1974,Tunisia,380
+1975,Tunisia,384
+1976,Tunisia,401
+1977,Tunisia,425
+1978,Tunisia,456
+1979,Tunisia,483
+1980,Tunisia,513
+1981,Tunisia,515
+1982,Tunisia,492
+1983,Tunisia,544
+1984,Tunisia,560
+1985,Tunisia,568
+1986,Tunisia,546
+1987,Tunisia,542
+1988,Tunisia,556
+1989,Tunisia,541
+1990,Tunisia,600
+1991,Tunisia,581
+1992,Tunisia,632
+1993,Tunisia,603
+1994,Tunisia,639
+1995,Tunisia,636
+1996,Tunisia,655
+1997,Tunisia,666
+1998,Tunisia,717
+1999,Tunisia,733
+2000,Tunisia,753
+2001,Tunisia,787
+2002,Tunisia,792
+2003,Tunisia,807
+2004,Tunisia,844
+2005,Tunisia,823
+2006,Tunisia,858
+2007,Tunisia,877
+2008,Tunisia,905
+2009,Tunisia,870
+2010,Tunisia,967
+2011,Tunisia,914
+2012,Tunisia,944
+2013,Tunisia,951
+2014,Tunisia,950
+1960,Turkey,389
+1961,Turkey,385
+1962,Turkey,411
+1963,Turkey,422
+1964,Turkey,434
+1965,Turkey,446
+1966,Turkey,478
+1967,Turkey,484
+1968,Turkey,497
+1969,Turkey,512
+1970,Turkey,522
+1971,Turkey,547
+1972,Turkey,603
+1973,Turkey,650
+1974,Turkey,657
+1975,Turkey,681
+1976,Turkey,724
+1977,Turkey,777
+1978,Turkey,756
+1979,Turkey,704
+1980,Turkey,715
+1981,Turkey,705
+1982,Turkey,732
+1983,Turkey,758
+1984,Turkey,771
+1985,Turkey,800
+1986,Turkey,845
+1987,Turkey,919
+1988,Turkey,908
+1989,Turkey,927
+1990,Turkey,978
+1991,Turkey,948
+1992,Turkey,962
+1993,Turkey,1000
+1994,Turkey,976
+1995,Turkey,1050
+1996,Turkey,1130
+1997,Turkey,1170
+1998,Turkey,1170
+1999,Turkey,1130
+2000,Turkey,1200
+2001,Turkey,1090
+2002,Turkey,1140
+2003,Turkey,1180
+2004,Turkey,1200
+2005,Turkey,1240
+2006,Turkey,1350
+2007,Turkey,1440
+2008,Turkey,1400
+2009,Turkey,1370
+2010,Turkey,1470
+2011,Turkey,1550
+2012,Turkey,1580
+2013,Turkey,1540
+2014,Turkey,1570
+2015,Turkey,1650
+1960,Turkmenistan,
+1961,Turkmenistan,
+1962,Turkmenistan,
+1963,Turkmenistan,
+1964,Turkmenistan,
+1965,Turkmenistan,
+1966,Turkmenistan,
+1967,Turkmenistan,
+1968,Turkmenistan,
+1969,Turkmenistan,
+1970,Turkmenistan,
+1971,Turkmenistan,
+1972,Turkmenistan,
+1973,Turkmenistan,
+1974,Turkmenistan,
+1975,Turkmenistan,
+1976,Turkmenistan,
+1977,Turkmenistan,
+1978,Turkmenistan,
+1979,Turkmenistan,
+1980,Turkmenistan,
+1981,Turkmenistan,
+1982,Turkmenistan,
+1983,Turkmenistan,
+1984,Turkmenistan,
+1985,Turkmenistan,
+1986,Turkmenistan,
+1987,Turkmenistan,
+1988,Turkmenistan,
+1989,Turkmenistan,
+1990,Turkmenistan,4760
+1991,Turkmenistan,4010
+1992,Turkmenistan,2660
+1993,Turkmenistan,2620
+1994,Turkmenistan,3230
+1995,Turkmenistan,3250
+1996,Turkmenistan,2790
+1997,Turkmenistan,2750
+1998,Turkmenistan,2840
+1999,Turkmenistan,3320
+2000,Turkmenistan,3290
+2001,Turkmenistan,3320
+2002,Turkmenistan,3430
+2003,Turkmenistan,3790
+2004,Turkmenistan,3920
+2005,Turkmenistan,4030
+2006,Turkmenistan,4080
+2007,Turkmenistan,4590
+2008,Turkmenistan,4590
+2009,Turkmenistan,3970
+2010,Turkmenistan,4460
+2011,Turkmenistan,4770
+2012,Turkmenistan,4850
+2013,Turkmenistan,4880
+2014,Turkmenistan,4890
+1960,Ukraine,
+1961,Ukraine,
+1962,Ukraine,
+1963,Ukraine,
+1964,Ukraine,
+1965,Ukraine,
+1966,Ukraine,
+1967,Ukraine,
+1968,Ukraine,
+1969,Ukraine,
+1970,Ukraine,
+1971,Ukraine,
+1972,Ukraine,
+1973,Ukraine,
+1974,Ukraine,
+1975,Ukraine,
+1976,Ukraine,
+1977,Ukraine,
+1978,Ukraine,
+1979,Ukraine,
+1980,Ukraine,
+1981,Ukraine,
+1982,Ukraine,
+1983,Ukraine,
+1984,Ukraine,
+1985,Ukraine,
+1986,Ukraine,
+1987,Ukraine,
+1988,Ukraine,
+1989,Ukraine,
+1990,Ukraine,4860
+1991,Ukraine,4850
+1992,Ukraine,4210
+1993,Ukraine,3730
+1994,Ukraine,3190
+1995,Ukraine,3180
+1996,Ukraine,2940
+1997,Ukraine,2840
+1998,Ukraine,2710
+1999,Ukraine,2720
+2000,Ukraine,2720
+2001,Ukraine,2760
+2002,Ukraine,2810
+2003,Ukraine,3030
+2004,Ukraine,3030
+2005,Ukraine,3030
+2006,Ukraine,2940
+2007,Ukraine,3000
+2008,Ukraine,2910
+2009,Ukraine,2490
+2010,Ukraine,2890
+2011,Ukraine,2770
+2012,Ukraine,2690
+2013,Ukraine,2550
+2014,Ukraine,2330
+1960,United Arab Emirates,
+1961,United Arab Emirates,
+1962,United Arab Emirates,
+1963,United Arab Emirates,
+1964,United Arab Emirates,
+1965,United Arab Emirates,
+1966,United Arab Emirates,
+1967,United Arab Emirates,
+1968,United Arab Emirates,
+1969,United Arab Emirates,
+1970,United Arab Emirates,
+1971,United Arab Emirates,3650
+1972,United Arab Emirates,3180
+1973,United Arab Emirates,3310
+1974,United Arab Emirates,2870
+1975,United Arab Emirates,3530
+1976,United Arab Emirates,3860
+1977,United Arab Emirates,5590
+1978,United Arab Emirates,5710
+1979,United Arab Emirates,5980
+1980,United Arab Emirates,7090
+1981,United Arab Emirates,8090
+1982,United Arab Emirates,8300
+1983,United Arab Emirates,7580
+1984,United Arab Emirates,9330
+1985,United Arab Emirates,10000
+1986,United Arab Emirates,10800
+1987,United Arab Emirates,11300
+1988,United Arab Emirates,10900
+1989,United Arab Emirates,11900
+1990,United Arab Emirates,11200
+1991,United Arab Emirates,12100
+1992,United Arab Emirates,10900
+1993,United Arab Emirates,10800
+1994,United Arab Emirates,11400
+1995,United Arab Emirates,11500
+1996,United Arab Emirates,11500
+1997,United Arab Emirates,11600
+1998,United Arab Emirates,11200
+1999,United Arab Emirates,10900
+2000,United Arab Emirates,10100
+2001,United Arab Emirates,12200
+2002,United Arab Emirates,11500
+2003,United Arab Emirates,10600
+2004,United Arab Emirates,10300
+2005,United Arab Emirates,9700
+2006,United Arab Emirates,8720
+2007,United Arab Emirates,8130
+2008,United Arab Emirates,8370
+2009,United Arab Emirates,7570
+2010,United Arab Emirates,7220
+2011,United Arab Emirates,7190
+2012,United Arab Emirates,7480
+2013,United Arab Emirates,7600
+2014,United Arab Emirates,7650
+1960,United Kingdom,3030
+1961,United Kingdom,3010
+1962,United Kingdom,3090
+1963,United Kingdom,3200
+1964,United Kingdom,3210
+1965,United Kingdom,3330
+1966,United Kingdom,3310
+1967,United Kingdom,3350
+1968,United Kingdom,3410
+1969,United Kingdom,3560
+1970,United Kingdom,3680
+1971,United Kingdom,3730
+1972,United Kingdom,3750
+1973,United Kingdom,3880
+1974,United Kingdom,3730
+1975,United Kingdom,3550
+1976,United Kingdom,3620
+1977,United Kingdom,3700
+1978,United Kingdom,3680
+1979,United Kingdom,3860
+1980,United Kingdom,3520
+1981,United Kingdom,3420
+1982,United Kingdom,3400
+1983,United Kingdom,3380
+1984,United Kingdom,3370
+1985,United Kingdom,3550
+1986,United Kingdom,3600
+1987,United Kingdom,3620
+1988,United Kingdom,3640
+1989,United Kingdom,3630
+1990,United Kingdom,3600
+1991,United Kingdom,3710
+1992,United Kingdom,3680
+1993,United Kingdom,3710
+1994,United Kingdom,3730
+1995,United Kingdom,3730
+1996,United Kingdom,3880
+1997,United Kingdom,3760
+1998,United Kingdom,3790
+1999,United Kingdom,3780
+2000,United Kingdom,3790
+2001,United Kingdom,3780
+2002,United Kingdom,3690
+2003,United Kingdom,3730
+2004,United Kingdom,3690
+2005,United Kingdom,3690
+2006,United Kingdom,3600
+2007,United Kingdom,3440
+2008,United Kingdom,3360
+2009,United Kingdom,3150
+2010,United Kingdom,3230
+2011,United Kingdom,2970
+2012,United Kingdom,3040
+2013,United Kingdom,2990
+2014,United Kingdom,2780
+2015,United Kingdom,2760
+1960,United States,5640
+1961,United States,5610
+1962,United States,5770
+1963,United States,5990
+1964,United States,6140
+1965,United States,6310
+1966,United States,6590
+1967,United States,6810
+1968,United States,7070
+1969,United States,7330
+1970,United States,7570
+1971,United States,7640
+1972,United States,7940
+1973,United States,8160
+1974,United States,7910
+1975,United States,7660
+1976,United States,8100
+1977,United States,8290
+1978,United States,8440
+1979,United States,8330
+1980,United States,7940
+1981,United States,7650
+1982,United States,7260
+1983,United States,7200
+1984,United States,7440
+1985,United States,7460
+1986,United States,7380
+1987,United States,7620
+1988,United States,7850
+1989,United States,7890
+1990,United States,7670
+1991,United States,7630
+1992,United States,7680
+1993,United States,7710
+1994,United States,7760
+1995,United States,7760
+1996,United States,7840
+1997,United States,7830
+1998,United States,7800
+1999,United States,7920
+2000,United States,8060
+2001,United States,7830
+2002,United States,7840
+2003,United States,7790
+2004,United States,7880
+2005,United States,7850
+2006,United States,7700
+2007,United States,7760
+2008,United States,7490
+2009,United States,7060
+2010,United States,7160
+2011,United States,7030
+2012,United States,6870
+2013,United States,6910
+2014,United States,6960
+2015,United States,6810
+1960,Uruguay,
+1961,Uruguay,
+1962,Uruguay,
+1963,Uruguay,
+1964,Uruguay,
+1965,Uruguay,
+1966,Uruguay,
+1967,Uruguay,
+1968,Uruguay,
+1969,Uruguay,
+1970,Uruguay,
+1971,Uruguay,858
+1972,Uruguay,873
+1973,Uruguay,846
+1974,Uruguay,832
+1975,Uruguay,864
+1976,Uruguay,873
+1977,Uruguay,869
+1978,Uruguay,884
+1979,Uruguay,938
+1980,Uruguay,907
+1981,Uruguay,868
+1982,Uruguay,766
+1983,Uruguay,705
+1984,Uruguay,673
+1985,Uruguay,663
+1986,Uruguay,680
+1987,Uruguay,719
+1988,Uruguay,765
+1989,Uruguay,780
+1990,Uruguay,724
+1991,Uruguay,780
+1992,Uruguay,855
+1993,Uruguay,792
+1994,Uruguay,751
+1995,Uruguay,798
+1996,Uruguay,873
+1997,Uruguay,881
+1998,Uruguay,901
+1999,Uruguay,978
+2000,Uruguay,931
+2001,Uruguay,815
+2002,Uruguay,763
+2003,Uruguay,759
+2004,Uruguay,864
+2005,Uruguay,890
+2006,Uruguay,957
+2007,Uruguay,950
+2008,Uruguay,1240
+2009,Uruguay,1230
+2010,Uruguay,1220
+2011,Uruguay,1310
+2012,Uruguay,1370
+2013,Uruguay,1360
+2014,Uruguay,1390
+1960,Uzbekistan,
+1961,Uzbekistan,
+1962,Uzbekistan,
+1963,Uzbekistan,
+1964,Uzbekistan,
+1965,Uzbekistan,
+1966,Uzbekistan,
+1967,Uzbekistan,
+1968,Uzbekistan,
+1969,Uzbekistan,
+1970,Uzbekistan,
+1971,Uzbekistan,
+1972,Uzbekistan,
+1973,Uzbekistan,
+1974,Uzbekistan,
+1975,Uzbekistan,
+1976,Uzbekistan,
+1977,Uzbekistan,
+1978,Uzbekistan,
+1979,Uzbekistan,
+1980,Uzbekistan,
+1981,Uzbekistan,
+1982,Uzbekistan,
+1983,Uzbekistan,
+1984,Uzbekistan,
+1985,Uzbekistan,
+1986,Uzbekistan,
+1987,Uzbekistan,
+1988,Uzbekistan,
+1989,Uzbekistan,
+1990,Uzbekistan,2260
+1991,Uzbekistan,2290
+1992,Uzbekistan,2110
+1993,Uzbekistan,2150
+1994,Uzbekistan,2080
+1995,Uzbekistan,1880
+1996,Uzbekistan,1900
+1997,Uzbekistan,1900
+1998,Uzbekistan,2080
+1999,Uzbekistan,2110
+2000,Uzbekistan,2060
+2001,Uzbekistan,2050
+2002,Uzbekistan,2110
+2003,Uzbekistan,2020
+2004,Uzbekistan,1960
+2005,Uzbekistan,1800
+2006,Uzbekistan,1820
+2007,Uzbekistan,1780
+2008,Uzbekistan,1820
+2009,Uzbekistan,1590
+2010,Uzbekistan,1510
+2011,Uzbekistan,1610
+2012,Uzbekistan,1630
+2013,Uzbekistan,1420
+1960,Vanuatu,
+1961,Vanuatu,
+1962,Vanuatu,
+1963,Vanuatu,
+1964,Vanuatu,
+1965,Vanuatu,
+1966,Vanuatu,
+1967,Vanuatu,
+1968,Vanuatu,
+1969,Vanuatu,
+1970,Vanuatu,
+1971,Vanuatu,
+1972,Vanuatu,
+1973,Vanuatu,
+1974,Vanuatu,
+1975,Vanuatu,
+1976,Vanuatu,
+1977,Vanuatu,
+1978,Vanuatu,
+1979,Vanuatu,
+1980,Vanuatu,
+1981,Vanuatu,
+1982,Vanuatu,
+1983,Vanuatu,
+1984,Vanuatu,
+1985,Vanuatu,
+1986,Vanuatu,
+1987,Vanuatu,
+1988,Vanuatu,
+1989,Vanuatu,
+1990,Vanuatu,159
+1991,Vanuatu,
+1992,Vanuatu,
+1993,Vanuatu,
+1994,Vanuatu,
+1995,Vanuatu,
+1996,Vanuatu,
+1997,Vanuatu,
+1998,Vanuatu,
+1999,Vanuatu,
+2000,Vanuatu,
+2001,Vanuatu,
+2002,Vanuatu,
+2003,Vanuatu,
+2004,Vanuatu,147
+2005,Vanuatu,143
+2006,Vanuatu,145
+2007,Vanuatu,159
+1960,Venezuela,
+1961,Venezuela,
+1962,Venezuela,
+1963,Venezuela,
+1964,Venezuela,
+1965,Venezuela,
+1966,Venezuela,
+1967,Venezuela,
+1968,Venezuela,
+1969,Venezuela,
+1970,Venezuela,
+1971,Venezuela,1520
+1972,Venezuela,1430
+1973,Venezuela,1530
+1974,Venezuela,1760
+1975,Venezuela,1750
+1976,Venezuela,1760
+1977,Venezuela,1830
+1978,Venezuela,1920
+1979,Venezuela,1940
+1980,Venezuela,2150
+1981,Venezuela,2240
+1982,Venezuela,2180
+1983,Venezuela,2290
+1984,Venezuela,2170
+1985,Venezuela,2100
+1986,Venezuela,2140
+1987,Venezuela,2090
+1988,Venezuela,1970
+1989,Venezuela,1970
+1990,Venezuela,2020
+1991,Venezuela,2060
+1992,Venezuela,2250
+1993,Venezuela,2050
+1994,Venezuela,2320
+1995,Venezuela,2140
+1996,Venezuela,2230
+1997,Venezuela,2180
+1998,Venezuela,2250
+1999,Venezuela,2100
+2000,Venezuela,2120
+2001,Venezuela,2150
+2002,Venezuela,2290
+2003,Venezuela,2070
+2004,Venezuela,2170
+2005,Venezuela,2130
+2006,Venezuela,2340
+2007,Venezuela,2130
+2008,Venezuela,2350
+2009,Venezuela,2320
+2010,Venezuela,2550
+2011,Venezuela,2330
+2012,Venezuela,2490
+2013,Venezuela,2310
+1960,Vietnam,
+1961,Vietnam,
+1962,Vietnam,
+1963,Vietnam,
+1964,Vietnam,
+1965,Vietnam,
+1966,Vietnam,
+1967,Vietnam,
+1968,Vietnam,
+1969,Vietnam,
+1970,Vietnam,
+1971,Vietnam,297
+1972,Vietnam,293
+1973,Vietnam,299
+1974,Vietnam,275
+1975,Vietnam,285
+1976,Vietnam,251
+1977,Vietnam,255
+1978,Vietnam,256
+1979,Vietnam,259
+1980,Vietnam,265
+1981,Vietnam,262
+1982,Vietnam,266
+1983,Vietnam,268
+1984,Vietnam,265
+1985,Vietnam,262
+1986,Vietnam,269
+1987,Vietnam,278
+1988,Vietnam,274
+1989,Vietnam,262
+1990,Vietnam,263
+1991,Vietnam,261
+1992,Vietnam,267
+1993,Vietnam,284
+1994,Vietnam,279
+1995,Vietnam,292
+1996,Vietnam,304
+1997,Vietnam,323
+1998,Vietnam,340
+1999,Vietnam,346
+2000,Vietnam,360
+2001,Vietnam,380
+2002,Vietnam,410
+2003,Vietnam,427
+2004,Vietnam,469
+2005,Vietnam,492
+2006,Vietnam,500
+2007,Vietnam,532
+2008,Vietnam,564
+2009,Vietnam,609
+2010,Vietnam,670
+2011,Vietnam,663
+2012,Vietnam,667
+2013,Vietnam,660
+1960,Yemen,
+1961,Yemen,
+1962,Yemen,
+1963,Yemen,
+1964,Yemen,
+1965,Yemen,
+1966,Yemen,
+1967,Yemen,
+1968,Yemen,
+1969,Yemen,
+1970,Yemen,
+1971,Yemen,117
+1972,Yemen,90.2
+1973,Yemen,149
+1974,Yemen,121
+1975,Yemen,102
+1976,Yemen,121
+1977,Yemen,127
+1978,Yemen,130
+1979,Yemen,128
+1980,Yemen,160
+1981,Yemen,152
+1982,Yemen,173
+1983,Yemen,176
+1984,Yemen,178
+1985,Yemen,181
+1986,Yemen,189
+1987,Yemen,216
+1988,Yemen,221
+1989,Yemen,218
+1990,Yemen,215
+1991,Yemen,249
+1992,Yemen,258
+1993,Yemen,212
+1994,Yemen,211
+1995,Yemen,229
+1996,Yemen,226
+1997,Yemen,232
+1998,Yemen,241
+1999,Yemen,264
+2000,Yemen,273
+2001,Yemen,294
+2002,Yemen,277
+2003,Yemen,298
+2004,Yemen,317
+2005,Yemen,328
+2006,Yemen,341
+2007,Yemen,324
+2008,Yemen,332
+2009,Yemen,359
+2010,Yemen,338
+2011,Yemen,278
+2012,Yemen,244
+2013,Yemen,329
+1960,Zambia,
+1961,Zambia,
+1962,Zambia,
+1963,Zambia,
+1964,Zambia,
+1965,Zambia,
+1966,Zambia,
+1967,Zambia,
+1968,Zambia,
+1969,Zambia,
+1970,Zambia,
+1971,Zambia,836
+1972,Zambia,861
+1973,Zambia,880
+1974,Zambia,886
+1975,Zambia,810
+1976,Zambia,871
+1977,Zambia,828
+1978,Zambia,807
+1979,Zambia,785
+1980,Zambia,790
+1981,Zambia,775
+1982,Zambia,767
+1983,Zambia,754
+1984,Zambia,739
+1985,Zambia,728
+1986,Zambia,717
+1987,Zambia,709
+1988,Zambia,724
+1989,Zambia,703
+1990,Zambia,678
+1991,Zambia,679
+1992,Zambia,673
+1993,Zambia,657
+1994,Zambia,646
+1995,Zambia,641
+1996,Zambia,619
+1997,Zambia,628
+1998,Zambia,617
+1999,Zambia,601
+2000,Zambia,600
+2001,Zambia,603
+2002,Zambia,608
+2003,Zambia,612
+2004,Zambia,614
+2005,Zambia,618
+2006,Zambia,615
+2007,Zambia,599
+2008,Zambia,603
+2009,Zambia,601
+2010,Zambia,604
+2011,Zambia,619
+2012,Zambia,630
+2013,Zambia,645
+1960,Zimbabwe,
+1961,Zimbabwe,
+1962,Zimbabwe,
+1963,Zimbabwe,
+1964,Zimbabwe,
+1965,Zimbabwe,
+1966,Zimbabwe,
+1967,Zimbabwe,
+1968,Zimbabwe,
+1969,Zimbabwe,
+1970,Zimbabwe,
+1971,Zimbabwe,993
+1972,Zimbabwe,977
+1973,Zimbabwe,998
+1974,Zimbabwe,977
+1975,Zimbabwe,940
+1976,Zimbabwe,961
+1977,Zimbabwe,904
+1978,Zimbabwe,870
+1979,Zimbabwe,857
+1980,Zimbabwe,876
+1981,Zimbabwe,858
+1982,Zimbabwe,834
+1983,Zimbabwe,824
+1984,Zimbabwe,808
+1985,Zimbabwe,834
+1986,Zimbabwe,851
+1987,Zimbabwe,897
+1988,Zimbabwe,879
+1989,Zimbabwe,872
+1990,Zimbabwe,891
+1991,Zimbabwe,923
+1992,Zimbabwe,934
+1993,Zimbabwe,878
+1994,Zimbabwe,858
+1995,Zimbabwe,862
+1996,Zimbabwe,849
+1997,Zimbabwe,833
+1998,Zimbabwe,845
+1999,Zimbabwe,896
+2000,Zimbabwe,842
+2001,Zimbabwe,837
+2002,Zimbabwe,820
+2003,Zimbabwe,783
+2004,Zimbabwe,762
+2005,Zimbabwe,796
+2006,Zimbabwe,810
+2007,Zimbabwe,787
+2008,Zimbabwe,724
+2009,Zimbabwe,729
+2010,Zimbabwe,745
+2011,Zimbabwe,795
+2012,Zimbabwe,824
+2013,Zimbabwe,845

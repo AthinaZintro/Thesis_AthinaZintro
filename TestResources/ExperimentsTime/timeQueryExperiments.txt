@@ -1,0 +1,8 @@
+Filename | TimeOfCode | TimeOfSqlite
+loanEXPresults.txt | [6152900, 2659500]
+Loan1MEXPresults.txt | [2679169900, 2896469700]
+dateEXPresults.txt | [21128000, 16705700]
+payment_reasonEXPresults.txt | [1982200, 1722600]
+at_least_basic_water_source_urban_access_percentEXPresults.txt | [66516400, 186901400]
+accountEXPresults.txt | [11253400, 7117700]
+children_per_woman_total_fertilityEXPresults.txt | [27017700, 38625000]

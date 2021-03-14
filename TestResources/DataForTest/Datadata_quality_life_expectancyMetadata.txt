@@ -1,6 +1,0 @@
-Datadata_quality_life_expectancy.csv
-,
-3
-year
-country
-rate
